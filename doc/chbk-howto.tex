@@ -1,0 +1,98 @@
+\documentclass{article}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{times}
+\usepackage{url}
+\title{How to Create Conference Handbooks for ACL Conferences}
+\author{Ulrich Germann}
+
+\begin{document}
+\maketitle
+\section{Introductory remarks}
+This document explains how to produce conference handbooks for ACL
+conferences from information that can be obtained from the START
+conference management system. The process described here is very
+unpolished. It would benefit from a proper document class for
+conference handbooks (with options for half-letter and A5) instead of
+hacked-in changes to the standard book class and improved layout for
+chapters, sections etc. Moreover, some of the scripts have
+conference-specific info hard-coded (e.g., the day and time of the
+poster session). I'm releasing the code in the hope that over time it
+will grow into a neat little package that requires less manual work.
+
+\begin{flushright}
+Ulrich Germann
+\end{flushright}
+
+\section{What you need}
+{\bfseries For each conference part} (i.e., main session, workshops, co-located conferences, etc.)
+\begin{itemize}
+\item the files \verb$proceedings/final/*/*_metadata.txt$ from the ACLPUB tar ball.
+\item the file {\tt proceedings/order} from the ACLPUB tar ball.
+\item possibly some latex packages that you may not have
+  installed. They are included in the directory {\tt texmf}. Copy or
+  {\tt rsync} them to your local texmf directory (usually
+  \url{~/texmf}) if latex complains about missing packages or unknown
+  commands, and don't forget to run {\tt texconfig rehash} afterwards
+  to announce to latex that you've installed new packages.
+\end{itemize}
+
+The document {\tt aclpub-setup.pdf} explains
+how to get the aclpub tar ball out of START.
+
+\section{Scripts provided}
+The following scripts are provided with this package.
+\begin{description}
+\item[{\bfseries meta2bibtex.py}] reads the \verb$*_metadata.txt$
+  files and produces a rudimentary .bib file with author names and
+  paper titles, and .tex files with the paper abstract for inclusion
+  into latex via the \verb$\input$ command.
+\item[{\bfseries order2schedule.perl}] reads the {\tt order} files and
+  produces various files for inclusion into latex via the
+  \verb$\input$ command. This script was tailored to NAACL 2012 and
+  will probably need to be adapted to your specific order file. The
+  script is picky about the difference between '=' and '+' in the file
+  {\tt order}!
+\item[{\bfseries starsem.order2schedule.perl}] is a special version of
+  order2schedule.perl for parallel sessions with non-synchronized
+  paper slots.
+\item[{\bfseries singletrack.order2schedule.perl}] is version of
+  order2schedule.perl for single-track events such as workshops.
+
+\item[{\bfseries fix-index.perl}] is a script that fixes the .idx file
+  produced by running latex on the document. It removes accents for
+  proper sorting of the author index. It is called via the makefile.
+\end{description}
+
+\section{Handbook assembly}
+Most of the skeleton of the handbook is still hand-coded; you'll need
+to look at main.tex and included files and adapt them to your needs.
+
+Some parts, however, are automatically generated (basically everyhing
+in the directory {\tt auto}).
+
+For each conference part, run 
+
+\begin{verbatim}
+meta2bibtex.py <fdir> <tag>
+\end{verbatim}
+
+where {\tt fdir} is the directory {\tt final} in the aclpub tar ball
+for the respective conference part, and {\tt tag} a tag that you
+assign to the conference part (e.g., main, ws1, demos, etc.).
+
+Also run 
+
+\begin{verbatim}
+cat /wherever/it/is/order | order2schedule.perl <tag>
+\end{verbatim}
+
+to produce various files that can then be \verb$\input$ into the main
+latex document.
+
+
+For all the gory details beyond this, consult the file {\tt handbook.tex}
+and files included from there. 
+\end{document}
+
+

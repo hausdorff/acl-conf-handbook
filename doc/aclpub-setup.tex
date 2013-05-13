@@ -1,0 +1,60 @@
+\documentclass[letterpaper]{article}
+\usepackage[left=1in,right=1in,top=1in,bottom=1in]{geometry}
+\usepackage{url}
+\usepackage{hyperref}
+\usepackage{helvet}
+
+\author{Ulrich Germann}
+\title{How to Produce Your Proceedings Outside of the START System}
+
+\begin{document}
+\maketitle
+\section{Introduction}
+This document describes briefly how to produce conference or workshop
+proceedings for ACL conferences bypassing the START system for
+proceedings generation.
+\section{Instructions}
+I assume that you are in the directory that you have designated as the
+root directory for this project.
+
+\section{Required Data and Software}
+
+\begin{itemize}
+\item The tarball with everything init from the START system.
+\begin{enumerate}
+\item Log into the START conference manager console.
+\item Go to Conference Program --- ACLPUB.
+\item Go to the tab 'Generate'.
+\item Under ``Generate Buttons'', click on ``ALL''. 
+\item Wait till the page reloads. Generating the tar ball may take a moment.
+\item Click on ``Download the final tarball proceedings.tgz''.
+\item We're finished with START. Log out.
+\item Unpack the tar ball in your working directory: 
+{\tt tar xzf proceedings.tgz}
+\end{enumerate}
+
+\item The aclpub software. 
+\begin{itemize}
+\item Get it through cvs:
+{\tt cvs -d :pserver:anoncvs@ftp.clsp.jhu.edu:/aclpub checkout aclpub}
+\item {\tt export ACLPUB=`pwd`/aclpub.}
+\item {\tt cp \${ACLPUB}/make/Makefile\_bookchair proceedings Makefile}
+\end{itemize}
+
+\item Follow the instructions in {\tt aclpub/doc/bookchairs/index.html}. If you downloaded the tar ball from START as described above, you should be able to skip all the steps before {\tt make get-order}.
+
+\item Try {\tt make get-oder}. At this point, perl might complain about not finding the perl
+  module Text-PDF. You can get it here:
+  \url{http://search.cpan.org/~mhosken/Text-PDF-0.29a/}.
+\begin{itemize}
+\item Click on `Download' to get a tarball. 
+\item Unpack the tarball ({\tt tar xzf ...}) 
+\item {\tt ln -s ln -s Text-PDF-0.29/lib/Text .}\\
+(Obviously the module version number may be different.)
+\end{itemize}
+
+\item Edit the file 'order' to your needs. 
+\item Follow the rest of the instructions for producing the proceedings.
+\end{itemize}
+
+\end{document}
