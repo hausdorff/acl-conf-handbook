@@ -1,5 +1,7 @@
 ## CREATING A CONFERENCE HANDBOOK FROM ACLPUB DUMPS
 
+*Author history:*
+
 2013 Alex Clemmer <clemmer.alexander@gmail.com>
 
 2012 Ulrich Germann
@@ -27,10 +29,10 @@ The critical moving parts you will need to generate an ACL-style conference hand
     Makefile
     README.md
 
-###### doc/
+#### doc/
 Contains the `.tex` files that generate `.pdf` files that document how to make a handbook.
 
-###### scripts/
+#### scripts/
 Contains scripts for extracting information out of ACLPUB tarballs. Currently there are 4 scripts that would get heavy use:
 
 `metabibtex.py` preprocesses the meta-info in the 'final' directory of an aclpub proceedings tarball:
@@ -50,7 +52,7 @@ These `perl` files convert various flavors of 'order' file from the proceedings 
              conference (e.g. main, demos, worshops)
 
 
-###### texmf/
+#### texmf/
 Contains tex modules required to produce handbook. You probably want to either (1) copy this into your local tex directory (often `~/texmf/`) and run `texconfig rehash`, or (2) include this file in the appropriate env settings, so they get found by tex.
 
 
