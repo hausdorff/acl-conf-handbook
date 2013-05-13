@@ -1,7 +1,9 @@
-# CREATING A CONFERENCE HANDBOOK FROM ACLPUB DUMPS
+## CREATING A CONFERENCE HANDBOOK FROM ACLPUB DUMPS
 
 ### 2012 Ulrich Germann
 ### 2013 Alex Clemmer <clemmer.alexander@gmail.com>
+(Includes many many legacy scripts generously contributed from previous years!)
+
 
 
 # Directory structure
@@ -10,6 +12,12 @@
       aclpub-setup.tex
       chbk-howto.tex
     scripts/
+      extract-data.sh
+      fix-index.perl
+      insert_index.perl
+      meta2bibtex.py
+      order2schedule.perl
+      paper_info
     texmf/
     Makefile
     README.md
