@@ -2,11 +2,19 @@
 
 *Author history:*
 
-2013 Alex Clemmer <clemmer.alexander@gmail.com>
-
-2012 Ulrich Germann
+| Year      | Author         | Email                         |
+| --------- |:--------------:| :---------------------------- |
+| 2013      | Alex Clemmer   | <clemmer.alexander@gmail.com> |
+| 2012      | Ulrich Germann |                               
 
 (Includes many many legacy scripts generously contributed from previous years!)
+
+# Table of contents
+
+| Section                                                                                   |
+| :---------------------------------------------------------------------------------------- |
+| [Directory Structure](https://github.com/hausdorff/acl-conf-handbook#directory-structure) |
+| [How to build](https://github.com/hausdorff/acl-conf-handbook#directory-structure)        |
 
 # Directory structure
 *What do each of the files in this project do?*
