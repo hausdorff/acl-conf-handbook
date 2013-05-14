@@ -58,9 +58,9 @@ More will be said about how to use this data when we talk about assembling the h
 Again, more will be said about this as we talk about the build process.
 
 ### scripts/
-Contains scripts for extracting information out of ACLPUB tarballs. Currently there are 4 scripts that would get heavy use:
+Contains scripts for extracting information out of ACLPUB tarballs. Currently there are 5 scripts that would get heavy use:
 
-#### `scripts/metabibtex.py`
+#### 1 `scripts/metabibtex.py`
 Wrangles proceedings metadata (the `*_metadata.txt` files found in the `final/` directory of the ACLPUB proceedings tarball) to produce two things:
 
 1. A rudimentary `.bib`  file with author names and paper titles.
@@ -74,7 +74,7 @@ These `.tex` files are included in the main handbook via the `\input` command.
              where <tag> is a tag for the part of the
              conference (e.g. main, demos, worshops)
 
-#### `scripts/order2schedule.perl`
+#### 2 `scripts/order2schedule.perl`
 Wrangles the `order` files (which specify the day-to-day schedule of workshops, demos, *etc*.) that are found in the proceedings tarball to produce:
 
 1. Possibly many files that are designed to produce nice-looking `.pdf`-rendered schedules in the final handbook.
@@ -89,7 +89,7 @@ These schedules are included in the main handbook via the `\input` command.
              where <tag> is a tag for the part of the
              conference (e.g. main, demos, worshops)
 
-#### `scripts/starsem.order2schedule.perl`
+#### 3 `scripts/starsem.order2schedule.perl`
 A specialized version of `order2schedule.perl` which is used for parallel sessions with non-synchronized paper slots.
 
 	starsem.order2schedule.perl
@@ -97,7 +97,7 @@ A specialized version of `order2schedule.perl` which is used for parallel sessio
              where <tag> is a tag for the part of the
              conference (e.g. main, demos, worshops)
 
-#### `scripts/singletrack.order2schedule.perl`
+#### 4 `scripts/singletrack.order2schedule.perl`
 A specialized version of `order2schedule.perl` which is used for single-track events, like workshops.
 
 	singletrack.order2schedule.perl
@@ -105,7 +105,7 @@ A specialized version of `order2schedule.perl` which is used for single-track ev
              where <tag> is a tag for the part of the
              conference (e.g. main, demos, worshops)
 
-#### `scripts/fix-index.perl`
+#### 5 `scripts/fix-index.perl`
 A script that fixes the `.idx` file that is produced by running `latex` on the document. This does things like remove the accents from authors for proper sorting in the author index. This is called by the makefile.
 
     fix-index.perl
@@ -126,3 +126,44 @@ You are here. Your friendly neighborhood readme file.
 
 
 
+#separator 
+
+This document describes how to create conference handbooks from ACLPUB dumps (tar balls)
+from the START conference management system.
+
+In this directory:
+
+   Makefile: Makefile for automating the latex compilation process.
+             % make docu
+	     should create chbk-howto.pdf and aclpub-setup.pdf
+	     chbk-howto.pdf is the file you should look at first.
+
+   handbook.tex: the master document for the handbook
+   chbk-howto.tex: source file for instructions on how to create handbooks
+   aclpub-setup.tex: source file for instructions on how to get an aclpub tar
+                     ball out of the START system
+
+   texmf:   local texmf directory with latex packages required to produce the handbook
+            rsync this with your local texmf directory (typically $HOME/texmf) or set
+	    the proper environment variables (whose name depends on your local flavor of latex)
+	    to include this directory.
+
+   scripts: scripts and related modules for extracting information from the ACLPUB tarballs
+
+   	    meta2bibtex.py
+	    - preprocessor for the meta-info in the 'final' directory of an aclpub proceedings tarball
+	    - usage: meta2bibtex.py <'final' dir> <tag>
+              where <tag> is a tag for the part of the conference (e.g. main, demos, worshops)
+
+	    order2schedule.perl
+	    semstar.order2schedule.perl
+	    singletrack.order2schedule.perl
+	    - convert the 'order' file from the proceedings tarball into snippets for inclusion
+	      in the tex document
+	    - usage: cat order | order2schedule.perl <tag>
+              where <tag> is a tag for the part of the conference (e.g. main, demos, worshops)
+
+   content: manually edited content of the conference handbook
+      content/special: special files: preamble and macros
+      content/setup:   define commands to automate parts of the handbook creation
+      content/day{1|2|...} folders for individual conference days
