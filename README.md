@@ -47,20 +47,21 @@ The critical moving parts you will need to generate an ACL-style conference hand
     Makefile
     README.md
 
-#### doc/
+### doc/
 Contains the `.tex` files that generate `.pdf` files that document how to make a handbook.
 
-#### input/
+### input/
 Contains most of the data that we will use to generate `.pdf` renderings of the schedules for things like demos and workshops. Accordingly, this directory is partitioned between (*e.g.*) `workshops/` and `demo/` so that the data is kept neat and tidy.
 
 More will be said about how to use this data when we talk about assembling the handbook, but there are generally two types of file: `order` files and `*_metadata.txt` files. The former contains a formatted representation of the schedules we'll use to generate nice `.pdf` renderings of the schedules. The latter are used to generate `.bib` files and `.tex` files containing information about the papers.
 
 Again, more will be said about this as we talk about the build process.
 
-#### scripts/
+### scripts/
 Contains scripts for extracting information out of ACLPUB tarballs. Currently there are 4 scripts that would get heavy use:
 
-`metabibtex.py` wrangles proceedings metadata (the `*_metadata.txt` files found in the `final/` directory of the ACLPUB proceedings tarball) to produce two things:
+#### `scripts/metabibtex.py`
+Wrangles proceedings metadata (the `*_metadata.txt` files found in the `final/` directory of the ACLPUB proceedings tarball) to produce two things:
 
 1. A rudimentary `.bib`  file with author names and paper titles.
 2. `.tex` files with paper titles and abstracts.
@@ -73,7 +74,8 @@ These `.tex` files are included in the main handbook via the `\input` command.
              where <tag> is a tag for the part of the
              conference (e.g. main, demos, worshops)
 
-`order2schedule.perl` wrangles the `order` files (which specify the day-to-day schedule of workshops, demos, *etc*.) that are found in the proceedings tarball to produce:
+#### `scripts/order2schedule.perl`
+Wrangles the `order` files (which specify the day-to-day schedule of workshops, demos, *etc*.) that are found in the proceedings tarball to produce:
 
 1. Possibly many files that are designed to produce nice-looking `.pdf`-rendered schedules in the final handbook.
 2. (Currently, all of this will go into the `auto/` directory!)
@@ -87,32 +89,35 @@ These schedules are included in the main handbook via the `\input` command.
              where <tag> is a tag for the part of the
              conference (e.g. main, demos, worshops)
 
-`starsem.order2schedule.perl` is a specialized version of `order2schedule.perl` which is used for parallel sessions with non-synchronized paper slots.
+#### `scripts/starsem.order2schedule.perl`
+A specialized version of `order2schedule.perl` which is used for parallel sessions with non-synchronized paper slots.
 
 	starsem.order2schedule.perl
 	  usage: cat order | semstar.order2schedule.perl <tag>
              where <tag> is a tag for the part of the
              conference (e.g. main, demos, worshops)
 
-`singletrack.order2schedule.perl` is a specialized version of `order2schedule.perl` which is used for single-track events, like workshops.
+#### `scripts/singletrack.order2schedule.perl`
+A specialized version of `order2schedule.perl` which is used for single-track events, like workshops.
 
 	singletrack.order2schedule.perl
 	  usage: cat order | singletrack.order2schedule.perl <tag>
              where <tag> is a tag for the part of the
              conference (e.g. main, demos, worshops)
 
-`fix-index.perl` is a script that fixes the `.idx` file that is produced by running `latex` on the document. This does things like remove the accents from authors for proper sorting in the author index. This is called by the makefile.
+#### `scripts/fix-index.perl`
+A script that fixes the `.idx` file that is produced by running `latex` on the document. This does things like remove the accents from authors for proper sorting in the author index. This is called by the makefile.
 
     fix-index.perl
 	  usage: (please use the makefile)
 
-#### texmf/
+### texmf/
 Contains tex modules required to produce handbook. You probably want to either (1) copy this into your local tex directory (often `~/texmf/`) and run `texconfig rehash`, or (2) include this file in the appropriate env settings, so they get found by tex.
 
-#### Makefile
+### Makefile
 Used to control various build processes
 
-#### README.md
+### README.md
 You are here. Your friendly neighborhood readme file.
 
 
