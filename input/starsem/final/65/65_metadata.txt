@@ -1,0 +1,87 @@
+SubmissionNumber#=%=#65
+FinalPaperTitle#=%=#NTNU-CORE: Combining strong features for semantic similarity
+ShortPaperTitle#=%=#NTNU-CORE: Combining strong features for semantic similarity
+Author{1}{Lastname}#=%=#Marsi
+Author{1}{Firstname}#=%=#Erwin
+Author{1}{Email}#=%=#emarsi@idi.ntnu.no
+Author{1}{Affiliation}#=%=#Norwegian University of Science and Technology (NTNU)
+Author{2}{Lastname}#=%=#Moen
+Author{2}{Firstname}#=%=#Hans
+Author{2}{Email}#=%=#hansmoe@idi.ntnu.no
+Author{2}{Affiliation}#=%=#NTNU
+Author{3}{Lastname}#=%=#Bungum
+Author{3}{Firstname}#=%=#Lars
+Author{3}{Email}#=%=#larsbun@idi.ntnu.no
+Author{3}{Affiliation}#=%=#Norwegian University of Science and Technology
+Author{4}{Lastname}#=%=#Sizov
+Author{4}{Firstname}#=%=#Gleb
+Author{4}{Email}#=%=#sizov@idi.ntnu.no
+Author{4}{Affiliation}#=%=#Norwegian University of Science and Technology
+Author{5}{Lastname}#=%=#Gambäck
+Author{5}{Firstname}#=%=#Björn
+Author{5}{Email}#=%=#gamback@idi.ntnu.no
+Author{5}{Affiliation}#=%=#Norwegian University of Science and Technology
+Author{6}{Lastname}#=%=#Lynum
+Author{6}{Firstname}#=%=#André
+Author{6}{Email}#=%=#andrely@idi.ntnu.no
+Author{6}{Affiliation}#=%=#Norwegian University of Science and Technology
+Author{7}{Lastname}#=%=#
+Author{7}{Firstname}#=%=#
+Author{7}{Email}#=%=#
+Author{7}{Affiliation}#=%=#
+Author{8}{Lastname}#=%=#
+Author{8}{Firstname}#=%=#
+Author{8}{Email}#=%=#
+Author{8}{Affiliation}#=%=#
+Author{9}{Lastname}#=%=#
+Author{9}{Firstname}#=%=#
+Author{9}{Email}#=%=#
+Author{9}{Affiliation}#=%=#
+Author{10}{Lastname}#=%=#
+Author{10}{Firstname}#=%=#
+Author{10}{Email}#=%=#
+Author{10}{Affiliation}#=%=#
+Author{11}{Lastname}#=%=#
+Author{11}{Firstname}#=%=#
+Author{11}{Email}#=%=#
+Author{11}{Affiliation}#=%=#
+Author{12}{Lastname}#=%=#
+Author{12}{Firstname}#=%=#
+Author{12}{Email}#=%=#
+Author{12}{Affiliation}#=%=#
+Author{13}{Lastname}#=%=#
+Author{13}{Firstname}#=%=#
+Author{13}{Email}#=%=#
+Author{13}{Affiliation}#=%=#
+Author{14}{Lastname}#=%=#
+Author{14}{Firstname}#=%=#
+Author{14}{Email}#=%=#
+Author{14}{Affiliation}#=%=#
+Author{15}{Lastname}#=%=#
+Author{15}{Firstname}#=%=#
+Author{15}{Email}#=%=#
+Author{15}{Affiliation}#=%=#
+NumberOfPages#=%=#8
+CopyrightSigned#=%=#Erwin Marsi
+JobTitle#==#Research Scientist
+Organization#==#Norwegian University of Science and Technology
+Department of Computer and Information and Science
+Sem Sælands vei 7-9
+NO-7491 Trondheim, Norway
+Abstract#==#The paper outlines the work carried out at NTNU as part of the *SEM'13 shared
+task on Semantic Textual Similarity, using an approach which combines shallow
+textual, distributional and knowledge-based features by a support vector
+regression model. Feature sets include 
+(1) aggregated similarity based on named entity recognition with WordNet and
+Levenshtein distance through the calculation of maximum weighted bipartite
+graphs; 
+(2) higher order word co-occurrence similarity using a novel method called 
+``Multi-sense Random Indexing''; 
+(3) deeper semantic relations based on the RelEx semantic dependency
+relationship extraction system; 
+(4) graph edit-distance on dependency trees; 
+(5) reused features of the TakeLab and DKPro systems from the STS'12 shared
+task. 
+The NTNU systems obtained 9th place overall (5th best team) and 1st place on
+the SMT data set.
+==========

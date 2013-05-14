@@ -1,0 +1,80 @@
+SubmissionNumber#=%=#7
+FinalPaperTitle#=%=#Semantic Signatures for Example-Based Linguistic Metaphor Detection
+ShortPaperTitle#=%=#Semantic Signatures for Example-Based Linguistic Metaphor Detection
+Author{1}{Lastname}#=%=#Mohler
+Author{1}{Firstname}#=%=#Michael
+Author{1}{Email}#=%=#michael@languagecomputer.com
+Author{1}{Affiliation}#=%=#Language Computer Corp.
+Author{2}{Lastname}#=%=#Bracewell
+Author{2}{Firstname}#=%=#David
+Author{2}{Email}#=%=#david@languagecomputer.com
+Author{2}{Affiliation}#=%=#
+Author{3}{Lastname}#=%=#Tomlinson
+Author{3}{Firstname}#=%=#Marc
+Author{3}{Email}#=%=#marc@languagecomputer.com
+Author{3}{Affiliation}#=%=#Language Computer Corp.
+Author{4}{Lastname}#=%=#Hinote
+Author{4}{Firstname}#=%=#David
+Author{4}{Email}#=%=#dhinote@languagecomputer.com
+Author{4}{Affiliation}#=%=#Language Computer Corp.
+Author{5}{Lastname}#=%=#
+Author{5}{Firstname}#=%=#
+Author{5}{Email}#=%=#
+Author{5}{Affiliation}#=%=#
+Author{6}{Lastname}#=%=#
+Author{6}{Firstname}#=%=#
+Author{6}{Email}#=%=#
+Author{6}{Affiliation}#=%=#
+Author{7}{Lastname}#=%=#
+Author{7}{Firstname}#=%=#
+Author{7}{Email}#=%=#
+Author{7}{Affiliation}#=%=#
+Author{8}{Lastname}#=%=#
+Author{8}{Firstname}#=%=#
+Author{8}{Email}#=%=#
+Author{8}{Affiliation}#=%=#
+Author{9}{Lastname}#=%=#
+Author{9}{Firstname}#=%=#
+Author{9}{Email}#=%=#
+Author{9}{Affiliation}#=%=#
+Author{10}{Lastname}#=%=#
+Author{10}{Firstname}#=%=#
+Author{10}{Email}#=%=#
+Author{10}{Affiliation}#=%=#
+Author{11}{Lastname}#=%=#
+Author{11}{Firstname}#=%=#
+Author{11}{Email}#=%=#
+Author{11}{Affiliation}#=%=#
+Author{12}{Lastname}#=%=#
+Author{12}{Firstname}#=%=#
+Author{12}{Email}#=%=#
+Author{12}{Affiliation}#=%=#
+Author{13}{Lastname}#=%=#
+Author{13}{Firstname}#=%=#
+Author{13}{Email}#=%=#
+Author{13}{Affiliation}#=%=#
+Author{14}{Lastname}#=%=#
+Author{14}{Firstname}#=%=#
+Author{14}{Email}#=%=#
+Author{14}{Affiliation}#=%=#
+Author{15}{Lastname}#=%=#
+Author{15}{Firstname}#=%=#
+Author{15}{Email}#=%=#
+Author{15}{Affiliation}#=%=#
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#Michael Mohler
+JobTitle#==#
+Organization#==#Language Computer Corporation
+2435 N. Central Expressway, Suite 1200
+Richardson, Texas 75080
+Abstract#==#Metaphor is a pervasive feature of human language that enables us to
+conceptualize and communicate abstract concepts using more concrete
+terminology. Unfortunately, it is also a feature that serves to confound a
+computer’s ability to comprehend natural human language. We present a method
+to detect linguistic metaphors by inducing a domain-aware semantic signature
+for a given text and comparing this signature against a large index of known
+metaphors. By training a suite of binary classifiers using the results of
+several semantic signature-based rankings of the index, we are able to detect
+linguistic metaphors in unstructured text at a significantly higher precision
+as compared to several baseline approaches.
+==========

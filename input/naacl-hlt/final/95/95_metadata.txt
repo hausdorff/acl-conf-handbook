@@ -1,0 +1,78 @@
+SubmissionNumber#=%=#95
+FinalPaperTitle#=%=#Compound Embedding Features for Semi-supervised Learning
+ShortPaperTitle#=%=#Compound Embedding Features for Semi-supervised Learning
+Author{1}{Lastname}#=%=#Yu
+Author{1}{Firstname}#=%=#Mo
+Author{1}{Email}#=%=#gflfof@gmail.com
+Author{1}{Affiliation}#=%=#Harbin Institute of Technology
+Author{2}{Lastname}#=%=#Zhao
+Author{2}{Firstname}#=%=#Tiejun
+Author{2}{Email}#=%=#tjzhao@mtlab.hit.edu.cn
+Author{2}{Affiliation}#=%=#Harbin Institute of Technology
+Author{3}{Lastname}#=%=#Dong
+Author{3}{Firstname}#=%=#Daxiang
+Author{3}{Email}#=%=#dongdaxiang@baidu.com
+Author{3}{Affiliation}#=%=#Baidu
+Author{4}{Lastname}#=%=#Tian
+Author{4}{Firstname}#=%=#Hao
+Author{4}{Email}#=%=#tianhao@baidu.com
+Author{4}{Affiliation}#=%=#Baidu
+Author{5}{Lastname}#=%=#Yu
+Author{5}{Firstname}#=%=#Dianhai
+Author{5}{Email}#=%=#yudianhai@baidu.com
+Author{5}{Affiliation}#=%=#Baidu
+Author{6}{Lastname}#=%=#
+Author{6}{Firstname}#=%=#
+Author{6}{Email}#=%=#
+Author{6}{Affiliation}#=%=#
+Author{7}{Lastname}#=%=#
+Author{7}{Firstname}#=%=#
+Author{7}{Email}#=%=#
+Author{7}{Affiliation}#=%=#
+Author{8}{Lastname}#=%=#
+Author{8}{Firstname}#=%=#
+Author{8}{Email}#=%=#
+Author{8}{Affiliation}#=%=#
+Author{9}{Lastname}#=%=#
+Author{9}{Firstname}#=%=#
+Author{9}{Email}#=%=#
+Author{9}{Affiliation}#=%=#
+Author{10}{Lastname}#=%=#
+Author{10}{Firstname}#=%=#
+Author{10}{Email}#=%=#
+Author{10}{Affiliation}#=%=#
+Author{11}{Lastname}#=%=#
+Author{11}{Firstname}#=%=#
+Author{11}{Email}#=%=#
+Author{11}{Affiliation}#=%=#
+Author{12}{Lastname}#=%=#
+Author{12}{Firstname}#=%=#
+Author{12}{Email}#=%=#
+Author{12}{Affiliation}#=%=#
+Author{13}{Lastname}#=%=#
+Author{13}{Firstname}#=%=#
+Author{13}{Email}#=%=#
+Author{13}{Affiliation}#=%=#
+Author{14}{Lastname}#=%=#
+Author{14}{Firstname}#=%=#
+Author{14}{Email}#=%=#
+Author{14}{Affiliation}#=%=#
+Author{15}{Lastname}#=%=#
+Author{15}{Firstname}#=%=#
+Author{15}{Email}#=%=#
+Author{15}{Affiliation}#=%=#
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Mo Yu
+JobTitle#==#
+Organization#==#Harbin Institute of Technology, Harbin, China
+Abstract#==#To solve data sparsity problem, recently there has been a trend in
+discriminative methods of NLP to use representations of lexical items learned
+from unlabeled data as features. In this paper, we investigated the usage of
+word representations learned by neural language models, i.e. word embeddings.
+The direct usage has disadvantages such as large amount of computation,
+inadequacy with dealing word ambiguity and rare-words, and the problem of
+linear non-separability. To overcome these problems, we instead built compound
+features from continuous word embeddings based on clustering. Experiments
+showed that the compound features not only improved the performances on several
+NLP tasks, but also ran faster, suggesting the potential of embeddings.
+==========

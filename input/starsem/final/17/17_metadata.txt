@@ -1,0 +1,92 @@
+SubmissionNumber#=%=#17
+FinalPaperTitle#=%=#Using the text to evaluate short answers for reading comprehension exercises
+ShortPaperTitle#=%=#Using the text to evaluate short answers for reading comprehension exercises
+Author{1}{Lastname}#=%=#Horbach
+Author{1}{Firstname}#=%=#Andrea
+Author{1}{Email}#=%=#andrea@coli.uni-saarland.de
+Author{1}{Affiliation}#=%=#Saarland University
+Author{2}{Lastname}#=%=#Palmer
+Author{2}{Firstname}#=%=#Alexis
+Author{2}{Email}#=%=#apalmer@coli.uni-sb.de
+Author{2}{Affiliation}#=%=#Saarland University
+Author{3}{Lastname}#=%=#Pinkal
+Author{3}{Firstname}#=%=#Manfred
+Author{3}{Email}#=%=#pinkal@coli.uni-sb.de
+Author{3}{Affiliation}#=%=#Saarland University
+Author{4}{Lastname}#=%=#
+Author{4}{Firstname}#=%=#
+Author{4}{Email}#=%=#
+Author{4}{Affiliation}#=%=#
+Author{5}{Lastname}#=%=#
+Author{5}{Firstname}#=%=#
+Author{5}{Email}#=%=#
+Author{5}{Affiliation}#=%=#
+Author{6}{Lastname}#=%=#
+Author{6}{Firstname}#=%=#
+Author{6}{Email}#=%=#
+Author{6}{Affiliation}#=%=#
+Author{7}{Lastname}#=%=#
+Author{7}{Firstname}#=%=#
+Author{7}{Email}#=%=#
+Author{7}{Affiliation}#=%=#
+Author{8}{Lastname}#=%=#
+Author{8}{Firstname}#=%=#
+Author{8}{Email}#=%=#
+Author{8}{Affiliation}#=%=#
+Author{9}{Lastname}#=%=#
+Author{9}{Firstname}#=%=#
+Author{9}{Email}#=%=#
+Author{9}{Affiliation}#=%=#
+Author{10}{Lastname}#=%=#
+Author{10}{Firstname}#=%=#
+Author{10}{Email}#=%=#
+Author{10}{Affiliation}#=%=#
+Author{11}{Lastname}#=%=#
+Author{11}{Firstname}#=%=#
+Author{11}{Email}#=%=#
+Author{11}{Affiliation}#=%=#
+Author{12}{Lastname}#=%=#
+Author{12}{Firstname}#=%=#
+Author{12}{Email}#=%=#
+Author{12}{Affiliation}#=%=#
+Author{13}{Lastname}#=%=#
+Author{13}{Firstname}#=%=#
+Author{13}{Email}#=%=#
+Author{13}{Affiliation}#=%=#
+Author{14}{Lastname}#=%=#
+Author{14}{Firstname}#=%=#
+Author{14}{Email}#=%=#
+Author{14}{Affiliation}#=%=#
+Author{15}{Lastname}#=%=#
+Author{15}{Firstname}#=%=#
+Author{15}{Email}#=%=#
+Author{15}{Affiliation}#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Andrea Horbach
+JobTitle#==#
+Organization#==#Saarland University
+Fachrichtung 4.7 Allgemeine Linguistik
+Campus C 7.2
+66123 Saarbrücken
+Germany
+Abstract#==#Short answer questions for reading comprehension are a common task
+  in foreign language learning. Automatic short answer scoring is the
+  task of automatically assessing the semantic content of a student's
+  answer, marking it e.g. as correct or incorrect. While previous
+  approaches mainly focused on comparing a learner answer to some
+  reference answer provided by the teacher, we explore the use of the
+  underlying reading texts as additional evidence for the
+  classification. First, we conduct a corpus study targeting the
+  relation between answers and sentences in reading texts for learners
+  of German. Second, we use the reading text directly for
+  classification, considering three different models: an answer-based
+  classifier extended with textual features, a simple text-based
+  classifier, and a model that combines the two according to
+  confidence of the text-based classification. The most promising
+  approach is the first one, results for which show that textual
+  features improve classification accuracy. While the other two models
+  do not improve classification accuracy, they do investigate the role
+  of the text and suggest possibilities for developing automatic
+  answer scoring systems with less supervision needed from
+  instructors.
+==========

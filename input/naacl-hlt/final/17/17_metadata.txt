@@ -1,0 +1,83 @@
+SubmissionNumber#=%=#17
+FinalPaperTitle#=%=#Same Referent, Different Words: Unsupervised Mining of Opaque Coreferent Mentions
+ShortPaperTitle#=%=#Same Referent, Different Words: Unsupervised Mining of Opaque Coreferent Mentions
+Author{1}{Lastname}#=%=#Recasens
+Author{1}{Firstname}#=%=#Marta
+Author{1}{Email}#=%=#recasens@stanford.edu
+Author{1}{Affiliation}#=%=#Stanford University
+Author{2}{Lastname}#=%=#Can
+Author{2}{Firstname}#=%=#Matthew
+Author{2}{Email}#=%=#mattcan@stanford.edu
+Author{2}{Affiliation}#=%=#Stanford University
+Author{3}{Lastname}#=%=#Jurafsky
+Author{3}{Firstname}#=%=#Daniel
+Author{3}{Email}#=%=#jurafsky@stanford.edu
+Author{3}{Affiliation}#=%=#Stanford University
+Author{4}{Lastname}#=%=#
+Author{4}{Firstname}#=%=#
+Author{4}{Email}#=%=#
+Author{4}{Affiliation}#=%=#
+Author{5}{Lastname}#=%=#
+Author{5}{Firstname}#=%=#
+Author{5}{Email}#=%=#
+Author{5}{Affiliation}#=%=#
+Author{6}{Lastname}#=%=#
+Author{6}{Firstname}#=%=#
+Author{6}{Email}#=%=#
+Author{6}{Affiliation}#=%=#
+Author{7}{Lastname}#=%=#
+Author{7}{Firstname}#=%=#
+Author{7}{Email}#=%=#
+Author{7}{Affiliation}#=%=#
+Author{8}{Lastname}#=%=#
+Author{8}{Firstname}#=%=#
+Author{8}{Email}#=%=#
+Author{8}{Affiliation}#=%=#
+Author{9}{Lastname}#=%=#
+Author{9}{Firstname}#=%=#
+Author{9}{Email}#=%=#
+Author{9}{Affiliation}#=%=#
+Author{10}{Lastname}#=%=#
+Author{10}{Firstname}#=%=#
+Author{10}{Email}#=%=#
+Author{10}{Affiliation}#=%=#
+Author{11}{Lastname}#=%=#
+Author{11}{Firstname}#=%=#
+Author{11}{Email}#=%=#
+Author{11}{Affiliation}#=%=#
+Author{12}{Lastname}#=%=#
+Author{12}{Firstname}#=%=#
+Author{12}{Email}#=%=#
+Author{12}{Affiliation}#=%=#
+Author{13}{Lastname}#=%=#
+Author{13}{Firstname}#=%=#
+Author{13}{Email}#=%=#
+Author{13}{Affiliation}#=%=#
+Author{14}{Lastname}#=%=#
+Author{14}{Firstname}#=%=#
+Author{14}{Email}#=%=#
+Author{14}{Affiliation}#=%=#
+Author{15}{Lastname}#=%=#
+Author{15}{Firstname}#=%=#
+Author{15}{Email}#=%=#
+Author{15}{Affiliation}#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Marta Recasens
+JobTitle#==#
+Organization#==#Stanford University
+450 Serra Mall
+Stanford, CA 94305
+USA
+Abstract#==#Coreference resolution systems rely heavily on string overlap (e.g., "Google
+Inc." and "Google"), performing badly on mentions with very different words
+("opaque" mentions) like "Google" and "the search giant". Yet prior attempts to
+resolve opaque pairs using ontologies or distributional semantics hurt
+precision more than improved recall. We present a new unsupervised method for
+mining opaque pairs. Our intuition is to "restrict" distributional semantics to
+articles about the same event, thus promoting referential match. Using an
+English comparable corpus of tech news, we built a dictionary of opaque
+coreferent mentions (only 3% are in WordNet). Our dictionary can be integrated
+into any coreference system (it increases the performance of a state-of-the-art
+system by 1% F1 on all measures) and is easily extendable by using news
+aggregators.
+==========

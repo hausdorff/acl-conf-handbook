@@ -1,0 +1,134 @@
+X: * Thursday, June 13
+
+X: + 9:00--9:10 Opening remarks
+
+X: + 9:10--10:05 Invited talk: Srini Narayanan “From Metaphor to Action”
+
+P: 2
+M: -3 -4
+T: What metaphor identification systems can tell us about metaphor-in-language
+A: Dunn, Jonathan
+F: final/2/2_Paper.pdf
+L: 10
+H: 10:05--10:30
+
+X: + 10:30--11:00 Coffee break
+
+P: 3
+M: -3 -3
+T: Argumentation-Relevant Metaphors in Test-Taker Essays
+A: Beigman Klebanov, Beata
+A: Flor, Michael
+F: final/3/3_Paper.pdf
+L: 10
+H: 11:00--11:25
+
+P: 14
+M: -0 0
+T: Annotating a Russian corpus of conceptual metaphor: a bottom-up approach
+A: Badryzlova, Yulia
+A: Shekhtman, Natalia
+A: Isaeva, Yekaterina
+A: Kerimov, Ruslan
+F: final/14/14_Paper.pdf
+L: 10
+H: 11:25--11:50
+
+P: 12
+M: 0 3
+T: Relational words have high metaphoric potential
+A: Jamrozik, Anja
+A: Sagi, Eyal
+A: Goldwater, Micah
+A: Gentner, Dedre
+F: final/12/12_Paper.pdf
+L: 6
+H: 11:50--12:10
+
+X: + 12:10--13:40 Lunch
+
+X: + 13:40--14:20 Invited talk: John Barnden “Computational Approaches to Metaphor Interpretation: Some Considerations arising from a Deep Reasoning System''
+
+P: 1
+M: 0 3
+T: Automatic Metaphor Detection using Large-Scale Lexical Resources and Conventional Metaphor Extraction
+A: Wilks, Yorick
+A: Dalton, Adam
+A: Allen, James
+A: Galescu, Lucian
+F: final/1/1_Paper.pdf
+L: 9
+H: 14:20--14:45
+
+P: 7
+M: 0 3
+T: Semantic Signatures for Example-Based Linguistic Metaphor Detection
+A: Mohler, Michael
+A: Bracewell, David
+A: Tomlinson, Marc
+A: Hinote, David
+F: final/7/7_Paper.pdf
+L: 9
+H: 14:45--15:10
+
+P: 6
+M: 0 5,scale=0.99
+T: Identifying Metaphorical Word Use with Tree Kernels
+A: Hovy, Dirk
+A: Shrivastava, Shashank
+A: Jauhar, Sujay Kumar
+A: Sachan, Mrinmaya
+A: Goyal, Kartik
+A: Li, Huying
+A: Sanders, Whitney
+A: Hovy, Eduard
+F: final/6/6_Paper.pdf
+L: 6
+H: 15:10--15:30
+
+X: + 15:30--16:00 Coffee break
+
+P: 13
+M: 0 3, scale=0.97
+T: Automatic Extraction of Linguistic Metaphors with LDA Topic Modeling
+A: Heintz, Ilana
+A: Gabbard, Ryan
+A: Srivastava, Mahesh
+A: Barner, Dave
+A: Black, Donald
+A: Friedman, Majorie
+A: Weischedel, Ralph
+F: final/13/13_Paper.pdf
+L: 9
+H: 16:00--16:25
+
+P: 5
+M: 0 3
+T: Robust Extraction of Metaphor from Novel Data
+A: Strzalkowski, Tomek
+A: Broadwell, George Aaron
+A: Taylor, Sarah
+A: Feldman, Laurie
+A: Shaikh, Samira
+A: Liu, Ting
+A: Yamrom, Boris
+A: Cho, Kit
+A: Boz, Umit
+A: Cases, Ignacio
+A: Elliot, Kyle
+F: final/5/5_Paper.pdf
+L: 10
+H: 16:25--16:50
+
+P: 9
+M: 0 5
+T: Cross-Lingual Metaphor Detection Using Common Semantic Features
+A: Tsvetkov, Yulia
+A: Mukomel, Elena
+A: Gershman, Anatole
+F: final/9/9_Paper.pdf
+L: 7
+H: 16:50--17:15
+
+X: + 17:15--17:30 Closing remarks
+

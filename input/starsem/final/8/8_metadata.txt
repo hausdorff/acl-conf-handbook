@@ -1,0 +1,83 @@
+SubmissionNumber#=%=#8
+FinalPaperTitle#=%=#Towards a Formal Distributional Semantics: Simulating Logical Calculi with Tensors
+ShortPaperTitle#=%=#Towards a Formal Distributional Semantics: Simulating Logical Calculi with Tensors
+Author{1}{Lastname}#=%=#Grefenstette
+Author{1}{Firstname}#=%=#Edward
+Author{1}{Email}#=%=#edward.grefenstette@cs.ox.ac.uk
+Author{1}{Affiliation}#=%=#University of Oxford Department of Computer Science
+Author{2}{Lastname}#=%=#
+Author{2}{Firstname}#=%=#
+Author{2}{Email}#=%=#
+Author{2}{Affiliation}#=%=#
+Author{3}{Lastname}#=%=#
+Author{3}{Firstname}#=%=#
+Author{3}{Email}#=%=#
+Author{3}{Affiliation}#=%=#
+Author{4}{Lastname}#=%=#
+Author{4}{Firstname}#=%=#
+Author{4}{Email}#=%=#
+Author{4}{Affiliation}#=%=#
+Author{5}{Lastname}#=%=#
+Author{5}{Firstname}#=%=#
+Author{5}{Email}#=%=#
+Author{5}{Affiliation}#=%=#
+Author{6}{Lastname}#=%=#
+Author{6}{Firstname}#=%=#
+Author{6}{Email}#=%=#
+Author{6}{Affiliation}#=%=#
+Author{7}{Lastname}#=%=#
+Author{7}{Firstname}#=%=#
+Author{7}{Email}#=%=#
+Author{7}{Affiliation}#=%=#
+Author{8}{Lastname}#=%=#
+Author{8}{Firstname}#=%=#
+Author{8}{Email}#=%=#
+Author{8}{Affiliation}#=%=#
+Author{9}{Lastname}#=%=#
+Author{9}{Firstname}#=%=#
+Author{9}{Email}#=%=#
+Author{9}{Affiliation}#=%=#
+Author{10}{Lastname}#=%=#
+Author{10}{Firstname}#=%=#
+Author{10}{Email}#=%=#
+Author{10}{Affiliation}#=%=#
+Author{11}{Lastname}#=%=#
+Author{11}{Firstname}#=%=#
+Author{11}{Email}#=%=#
+Author{11}{Affiliation}#=%=#
+Author{12}{Lastname}#=%=#
+Author{12}{Firstname}#=%=#
+Author{12}{Email}#=%=#
+Author{12}{Affiliation}#=%=#
+Author{13}{Lastname}#=%=#
+Author{13}{Firstname}#=%=#
+Author{13}{Email}#=%=#
+Author{13}{Affiliation}#=%=#
+Author{14}{Lastname}#=%=#
+Author{14}{Firstname}#=%=#
+Author{14}{Email}#=%=#
+Author{14}{Affiliation}#=%=#
+Author{15}{Lastname}#=%=#
+Author{15}{Firstname}#=%=#
+Author{15}{Email}#=%=#
+Author{15}{Affiliation}#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Edward Grefenstette
+JobTitle#==#
+Organization#==#University of Oxford Department of Computer Science
+Abstract#==#The development of compositional distributional models of semantics reconciling
+the empirical aspects of distributional semantics with the compositional
+aspects of formal semantics is a popular topic in the contemporary literature.
+This paper seeks to bring this reconciliation one step further, by showing how
+the mathematical constructs commonly used in compositional distributional
+models, such as tensors and matrices, can be used to simulate different aspects
+of predicate logic. 
+
+  This paper discusses how the canonical isomorphism between tensors and
+multilinear maps can be exploited to simulate a full-blown quantifier free
+predicate calculus using tensors. It provides tensor interpretations of the set
+of logical connectives required to model propositional calculi. It suggests a
+variant of these tensor calculi capable of modelling quantifiers, using few
+non-linear operations. It finally discusses the relation between these
+variants, and how this relation should constitute the subject of future work.
+==========

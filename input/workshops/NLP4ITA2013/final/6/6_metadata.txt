@@ -1,0 +1,84 @@
+SubmissionNumber#=%=#6
+FinalPaperTitle#=%=#Tools for non-native readers: the case for translation and simplification
+ShortPaperTitle#=%=#Tools for non-native readers: the case for translation and simplification
+Author{1}{Lastname}#=%=#Eskenazi
+Author{1}{Firstname}#=%=#Maxine
+Author{1}{Email}#=%=#max@cs.cmu.edu
+Author{1}{Affiliation}#=%=#Carnegie Mellon University
+Author{2}{Lastname}#=%=#Lin
+Author{2}{Firstname}#=%=#Yibin
+Author{2}{Email}#=%=#yibinl@cs.cmu.edu
+Author{2}{Affiliation}#=%=#Carnegie Mellon University
+Author{3}{Lastname}#=%=#Saz
+Author{3}{Firstname}#=%=#Oscar
+Author{3}{Email}#=%=#osaz@cs.cmu.edu
+Author{3}{Affiliation}#=%=#Carnegie Mellon University
+Author{4}{Lastname}#=%=#
+Author{4}{Firstname}#=%=#
+Author{4}{Email}#=%=#
+Author{4}{Affiliation}#=%=#
+Author{5}{Lastname}#=%=#
+Author{5}{Firstname}#=%=#
+Author{5}{Email}#=%=#
+Author{5}{Affiliation}#=%=#
+Author{6}{Lastname}#=%=#
+Author{6}{Firstname}#=%=#
+Author{6}{Email}#=%=#
+Author{6}{Affiliation}#=%=#
+Author{7}{Lastname}#=%=#
+Author{7}{Firstname}#=%=#
+Author{7}{Email}#=%=#
+Author{7}{Affiliation}#=%=#
+Author{8}{Lastname}#=%=#
+Author{8}{Firstname}#=%=#
+Author{8}{Email}#=%=#
+Author{8}{Affiliation}#=%=#
+Author{9}{Lastname}#=%=#
+Author{9}{Firstname}#=%=#
+Author{9}{Email}#=%=#
+Author{9}{Affiliation}#=%=#
+Author{10}{Lastname}#=%=#
+Author{10}{Firstname}#=%=#
+Author{10}{Email}#=%=#
+Author{10}{Affiliation}#=%=#
+Author{11}{Lastname}#=%=#
+Author{11}{Firstname}#=%=#
+Author{11}{Email}#=%=#
+Author{11}{Affiliation}#=%=#
+Author{12}{Lastname}#=%=#
+Author{12}{Firstname}#=%=#
+Author{12}{Email}#=%=#
+Author{12}{Affiliation}#=%=#
+Author{13}{Lastname}#=%=#
+Author{13}{Firstname}#=%=#
+Author{13}{Email}#=%=#
+Author{13}{Affiliation}#=%=#
+Author{14}{Lastname}#=%=#
+Author{14}{Firstname}#=%=#
+Author{14}{Email}#=%=#
+Author{14}{Affiliation}#=%=#
+Author{15}{Lastname}#=%=#
+Author{15}{Firstname}#=%=#
+Author{15}{Email}#=%=#
+Author{15}{Affiliation}#=%=#
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#Maxine Eskenazi
+JobTitle#==#
+Organization#==#Carnegie Mellon University
+Abstract#==#One of the populations that often needs some
+form of help to read everyday documents is
+non-native speakers. This paper discusses aid
+at the word and word string levels and focuses
+on the possibility of using translation and
+simplification. Seen from the perspective of
+the non-native as an ever-learning reader, we
+show how translation may be of more harm
+than help in understanding and retaining the
+meaning of a word while simplification holds
+promise. We conclude that if reading everyday
+documents can be considered as a learning
+activity as well as a practical necessity,
+then our study reinforces the arguments that
+defend the use of simplification to make documents
+that non-natives need to read more accessible
+==========

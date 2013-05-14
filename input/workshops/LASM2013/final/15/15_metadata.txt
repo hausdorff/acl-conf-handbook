@@ -1,0 +1,80 @@
+SubmissionNumber#=%=#15
+FinalPaperTitle#=%=#A Preliminary Study of Tweet Summarization using Information Extraction
+ShortPaperTitle#=%=#A Preliminary Study of Tweet Summarization using Information Extraction
+Author{1}{Lastname}#=%=#Xu
+Author{1}{Firstname}#=%=#Wei
+Author{1}{Email}#=%=#xuwei@cs.nyu.edu
+Author{1}{Affiliation}#=%=#
+Author{2}{Lastname}#=%=#Grishman
+Author{2}{Firstname}#=%=#Ralph
+Author{2}{Email}#=%=#grishman@cs.nyu.edu
+Author{2}{Affiliation}#=%=#New York University
+Author{3}{Lastname}#=%=#Meyers
+Author{3}{Firstname}#=%=#Adam
+Author{3}{Email}#=%=#meyers@cs.nyu.edu
+Author{3}{Affiliation}#=%=#New York University
+Author{4}{Lastname}#=%=#Ritter
+Author{4}{Firstname}#=%=#Alan
+Author{4}{Email}#=%=#aritter@cs.washington.edu
+Author{4}{Affiliation}#=%=#University of Washington
+Author{5}{Lastname}#=%=#
+Author{5}{Firstname}#=%=#
+Author{5}{Email}#=%=#
+Author{5}{Affiliation}#=%=#
+Author{6}{Lastname}#=%=#
+Author{6}{Firstname}#=%=#
+Author{6}{Email}#=%=#
+Author{6}{Affiliation}#=%=#
+Author{7}{Lastname}#=%=#
+Author{7}{Firstname}#=%=#
+Author{7}{Email}#=%=#
+Author{7}{Affiliation}#=%=#
+Author{8}{Lastname}#=%=#
+Author{8}{Firstname}#=%=#
+Author{8}{Email}#=%=#
+Author{8}{Affiliation}#=%=#
+Author{9}{Lastname}#=%=#
+Author{9}{Firstname}#=%=#
+Author{9}{Email}#=%=#
+Author{9}{Affiliation}#=%=#
+Author{10}{Lastname}#=%=#
+Author{10}{Firstname}#=%=#
+Author{10}{Email}#=%=#
+Author{10}{Affiliation}#=%=#
+Author{11}{Lastname}#=%=#
+Author{11}{Firstname}#=%=#
+Author{11}{Email}#=%=#
+Author{11}{Affiliation}#=%=#
+Author{12}{Lastname}#=%=#
+Author{12}{Firstname}#=%=#
+Author{12}{Email}#=%=#
+Author{12}{Affiliation}#=%=#
+Author{13}{Lastname}#=%=#
+Author{13}{Firstname}#=%=#
+Author{13}{Email}#=%=#
+Author{13}{Affiliation}#=%=#
+Author{14}{Lastname}#=%=#
+Author{14}{Firstname}#=%=#
+Author{14}{Email}#=%=#
+Author{14}{Affiliation}#=%=#
+Author{15}{Lastname}#=%=#
+Author{15}{Firstname}#=%=#
+Author{15}{Email}#=%=#
+Author{15}{Affiliation}#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Alan Ritter
+JobTitle#==#
+Organization#==#Department of Computer Science, University of Washington, Seattle WA 98195
+Abstract#==#Although the ideal length of summaries differs greatly from topic to topic on
+Twitter, previous work have only generated summaries of a fixed length. In this
+paper, we propose an event-graph based method that is able to detect
+fine-grained real-world events and create summaries of variable length
+accordingly for different topics. Our method takes advantage of the redundant
+and self-contained nature of tweets to not only rank but also partition the
+events by PageRank-like algorithm. Our preliminary results show that by
+utilizing information extraction techniques which are judged by human
+annotators to be more relevant and consise than SumBasic. We also provide a
+brief survey of datasets and evaluation design
+for previous work to highlight the need of developing a standard evaluation for
+the field.
+==========

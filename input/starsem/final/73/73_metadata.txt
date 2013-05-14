@@ -1,0 +1,80 @@
+SubmissionNumber#=%=#73
+FinalPaperTitle#=%=#CPN-CORE: A Text Semantic Similarity System Infused with Opinion Knowledge
+ShortPaperTitle#=%=#CPN-CORE: A Text Semantic Similarity System Infused with Opinion Knowledge
+Author{1}{Lastname}#=%=#Banea
+Author{1}{Firstname}#=%=#Carmen
+Author{1}{Email}#=%=#carmen.banea@gmail.com
+Author{1}{Affiliation}#=%=#University of North Texas
+Author{2}{Lastname}#=%=#Choi
+Author{2}{Firstname}#=%=#Yoonjung
+Author{2}{Email}#=%=#choiyj35@gmail.com
+Author{2}{Affiliation}#=%=#University of Pittsburgh
+Author{3}{Lastname}#=%=#Deng
+Author{3}{Firstname}#=%=#Lingjia
+Author{3}{Email}#=%=#lid29@pitt.edu
+Author{3}{Affiliation}#=%=#University of Pittsburgh
+Author{4}{Lastname}#=%=#Hassan
+Author{4}{Firstname}#=%=#Samer
+Author{4}{Email}#=%=#samer@google.com
+Author{4}{Affiliation}#=%=#Google Inc.
+Author{5}{Lastname}#=%=#Mohler
+Author{5}{Firstname}#=%=#Michael
+Author{5}{Email}#=%=#elmiguel409@gmail.com
+Author{5}{Affiliation}#=%=#Language Computer Corp.
+Author{6}{Lastname}#=%=#Yang
+Author{6}{Firstname}#=%=#Bishan
+Author{6}{Email}#=%=#bishan@cs.cornell.edu
+Author{6}{Affiliation}#=%=#Cornell University
+Author{7}{Lastname}#=%=#Cardie
+Author{7}{Firstname}#=%=#Claire
+Author{7}{Email}#=%=#cardie@cs.cornell.edu
+Author{7}{Affiliation}#=%=#Cornell University
+Author{8}{Lastname}#=%=#Mihalcea
+Author{8}{Firstname}#=%=#Rada
+Author{8}{Email}#=%=#rada@cs.unt.edu
+Author{8}{Affiliation}#=%=#University of North Texas
+Author{9}{Lastname}#=%=#Wiebe
+Author{9}{Firstname}#=%=#Jan
+Author{9}{Email}#=%=#wiebe@cs.pitt.edu
+Author{9}{Affiliation}#=%=#University of Pittsburgh
+Author{10}{Lastname}#=%=#
+Author{10}{Firstname}#=%=#
+Author{10}{Email}#=%=#
+Author{10}{Affiliation}#=%=#
+Author{11}{Lastname}#=%=#
+Author{11}{Firstname}#=%=#
+Author{11}{Email}#=%=#
+Author{11}{Affiliation}#=%=#
+Author{12}{Lastname}#=%=#
+Author{12}{Firstname}#=%=#
+Author{12}{Email}#=%=#
+Author{12}{Affiliation}#=%=#
+Author{13}{Lastname}#=%=#
+Author{13}{Firstname}#=%=#
+Author{13}{Email}#=%=#
+Author{13}{Affiliation}#=%=#
+Author{14}{Lastname}#=%=#
+Author{14}{Firstname}#=%=#
+Author{14}{Email}#=%=#
+Author{14}{Affiliation}#=%=#
+Author{15}{Lastname}#=%=#
+Author{15}{Firstname}#=%=#
+Author{15}{Email}#=%=#
+Author{15}{Affiliation}#=%=#
+NumberOfPages#=%=#8
+CopyrightSigned#=%=#Carmen Banea
+JobTitle#==#
+Organization#==#Department of Computer Science & Engineering
+University of North Texas
+1155 Union Circle #311366
+Denton, TX 76203-5017
+Abstract#==#This article provides a detailed overview of the CPN text-to-text similarity
+system that we participated with in the Semantic Textual Similarity task
+evaluations hosted at *Sem 2013. In addition to more traditional components,
+such as knowledge-based and corpus-based metrics leveraged in a machine
+learning framework, we also use opinion analysis features to achieve a stronger
+semantic representation of textual units. While the evaluation datasets are not
+designed to test the similarity of opinions, as a component of textual
+similarity, nonetheless, our system variations ranked number 38, 39 and 45
+among the 88 participating systems.
+==========

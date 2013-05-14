@@ -1,0 +1,85 @@
+SubmissionNumber#=%=#12
+FinalPaperTitle#=%=#An Analysis of Annotation of Verb-Noun Idiomatic Combinations in a Parallel Dependency Corpus
+ShortPaperTitle#=%=#Verb-Noun Idiomatic Combinations in a Parallel Dependency Corpus
+Author{1}{Lastname}#=%=#Uresova
+Author{1}{Firstname}#=%=#Zdenka
+Author{1}{Email}#=%=#uresova@ufal.mff.cuni.cz
+Author{1}{Affiliation}#=%=#Charles University in Prague
+Author{2}{Lastname}#=%=#Hajic
+Author{2}{Firstname}#=%=#Jan
+Author{2}{Email}#=%=#hajic@ufal.mff.cuni.cz
+Author{2}{Affiliation}#=%=#Charles University in Prague
+Author{3}{Lastname}#=%=#Fucikova
+Author{3}{Firstname}#=%=#Eva
+Author{3}{Email}#=%=#fucikova@ufal.mff.cuni.cz
+Author{3}{Affiliation}#=%=#Charles University in Prague
+Author{4}{Lastname}#=%=#Sindlerova
+Author{4}{Firstname}#=%=#Jana
+Author{4}{Email}#=%=#sindlerova@ufal.mff.cuni.cz
+Author{4}{Affiliation}#=%=#Charles University in Prague
+Author{5}{Lastname}#=%=#
+Author{5}{Firstname}#=%=#
+Author{5}{Email}#=%=#
+Author{5}{Affiliation}#=%=#
+Author{6}{Lastname}#=%=#
+Author{6}{Firstname}#=%=#
+Author{6}{Email}#=%=#
+Author{6}{Affiliation}#=%=#
+Author{7}{Lastname}#=%=#
+Author{7}{Firstname}#=%=#
+Author{7}{Email}#=%=#
+Author{7}{Affiliation}#=%=#
+Author{8}{Lastname}#=%=#
+Author{8}{Firstname}#=%=#
+Author{8}{Email}#=%=#
+Author{8}{Affiliation}#=%=#
+Author{9}{Lastname}#=%=#
+Author{9}{Firstname}#=%=#
+Author{9}{Email}#=%=#
+Author{9}{Affiliation}#=%=#
+Author{10}{Lastname}#=%=#
+Author{10}{Firstname}#=%=#
+Author{10}{Email}#=%=#
+Author{10}{Affiliation}#=%=#
+Author{11}{Lastname}#=%=#
+Author{11}{Firstname}#=%=#
+Author{11}{Email}#=%=#
+Author{11}{Affiliation}#=%=#
+Author{12}{Lastname}#=%=#
+Author{12}{Firstname}#=%=#
+Author{12}{Email}#=%=#
+Author{12}{Affiliation}#=%=#
+Author{13}{Lastname}#=%=#
+Author{13}{Firstname}#=%=#
+Author{13}{Email}#=%=#
+Author{13}{Affiliation}#=%=#
+Author{14}{Lastname}#=%=#
+Author{14}{Firstname}#=%=#
+Author{14}{Email}#=%=#
+Author{14}{Affiliation}#=%=#
+Author{15}{Lastname}#=%=#
+Author{15}{Firstname}#=%=#
+Author{15}{Email}#=%=#
+Author{15}{Affiliation}#=%=#
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Zdenka Uresova
+JobTitle#==#
+Organization#==#Charles University in Prague
+Abstract#==#While working on valency lexicons for Czech and English, it was necessary to
+define treatment of multiword entities (MWEs) with the verb as the central
+lexical unit. Morphological, syntactic and semantic properties of such MWEs had
+to be formally specified in order to create lexicon entries and use them in
+treebank annotation. Such a formal specification has also been used for
+automated quality control of the annotation vs. the lexicon entries. We present
+a corpus-based study, concentrating on multilayer specification of verbal MWEs,
+their properties in Czech and English, and a comparison between the two
+languages using the parallel Czech-English Dependency Treebank (PCEDT). This
+comparison revealed interesting differences in the use of verbal MWEs in
+translation (discovering that such MWEs are actually rarely translated as MWEs,
+at least between Czech and English) as well as some inconsistencies in their
+annotation. Adding MWE-based checks should thus result in better quality
+control of future treebank/lexicon annotation. Since Czech and English are
+typologically different languages, we believe that our findings will also
+contribute to a better understanding of verbal MWEs and possibly their more
+unified treatment across languages.
+==========

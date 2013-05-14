@@ -1,0 +1,88 @@
+SubmissionNumber#=%=#89
+FinalPaperTitle#=%=#Improving reordering performance using higher order and structural features
+ShortPaperTitle#=%=#Improving reordering performance using higher order and structural features
+Author{1}{Lastname}#=%=#Khapra
+Author{1}{Firstname}#=%=#Mitesh M.
+Author{1}{Email}#=%=#khapra.mitesh@gmail.com
+Author{1}{Affiliation}#=%=#IBM Research India
+Author{2}{Lastname}#=%=#Ramanathan
+Author{2}{Firstname}#=%=#Ananthakrishnan
+Author{2}{Email}#=%=#aramana5@in.ibm.com
+Author{2}{Affiliation}#=%=#IBM Research India
+Author{3}{Lastname}#=%=#Visweswariah
+Author{3}{Firstname}#=%=#Karthik
+Author{3}{Email}#=%=#v-karthik@in.ibm.com
+Author{3}{Affiliation}#=%=#IBM Research India
+Author{4}{Lastname}#=%=#
+Author{4}{Firstname}#=%=#
+Author{4}{Email}#=%=#
+Author{4}{Affiliation}#=%=#
+Author{5}{Lastname}#=%=#
+Author{5}{Firstname}#=%=#
+Author{5}{Email}#=%=#
+Author{5}{Affiliation}#=%=#
+Author{6}{Lastname}#=%=#
+Author{6}{Firstname}#=%=#
+Author{6}{Email}#=%=#
+Author{6}{Affiliation}#=%=#
+Author{7}{Lastname}#=%=#
+Author{7}{Firstname}#=%=#
+Author{7}{Email}#=%=#
+Author{7}{Affiliation}#=%=#
+Author{8}{Lastname}#=%=#
+Author{8}{Firstname}#=%=#
+Author{8}{Email}#=%=#
+Author{8}{Affiliation}#=%=#
+Author{9}{Lastname}#=%=#
+Author{9}{Firstname}#=%=#
+Author{9}{Email}#=%=#
+Author{9}{Affiliation}#=%=#
+Author{10}{Lastname}#=%=#
+Author{10}{Firstname}#=%=#
+Author{10}{Email}#=%=#
+Author{10}{Affiliation}#=%=#
+Author{11}{Lastname}#=%=#
+Author{11}{Firstname}#=%=#
+Author{11}{Email}#=%=#
+Author{11}{Affiliation}#=%=#
+Author{12}{Lastname}#=%=#
+Author{12}{Firstname}#=%=#
+Author{12}{Email}#=%=#
+Author{12}{Affiliation}#=%=#
+Author{13}{Lastname}#=%=#
+Author{13}{Firstname}#=%=#
+Author{13}{Email}#=%=#
+Author{13}{Affiliation}#=%=#
+Author{14}{Lastname}#=%=#
+Author{14}{Firstname}#=%=#
+Author{14}{Email}#=%=#
+Author{14}{Affiliation}#=%=#
+Author{15}{Lastname}#=%=#
+Author{15}{Firstname}#=%=#
+Author{15}{Email}#=%=#
+Author{15}{Affiliation}#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Mitesh
+JobTitle#==#
+Organization#==#IBM Research India,
+IBM Research - India
+Block G2, 8th floor
+Manyata Embassy Business Park,
+Outer Ring Road, Nagawara,
+Bangalore - 560045, India
+Abstract#==#Recent work has shown that word aligned data can be used to learn a model for
+reordering source sentences to match the target order. This model learns the
+cost of putting a word immediately before another word and finds the best
+reordering by solving an instance of the Traveling Salesman Problem (TSP).
+However, for efficiently solving the TSP, the model is restricted to pairwise
+features which examine only a pair of words and their neighborhood. In this
+work, we go beyond these pairwise features and learn a model to rerank the
+$n$-best reorderings produced by the TSP model using higher order and
+structural features which help in capturing longer range dependencies. In
+addition to using a more informative set of source side features, we also
+capture target side features indirectly by using the translation score assigned
+to a reordering. Our experiments, involving Urdu-English, show that the
+proposed approach outperforms a state-of-the-art PBSMT system which uses the
+TSP model for reordering by 1.3 BLEU points, and a publicly available
+state-of-the-art MT system, Hiero, by 3 BLEU points.
+==========

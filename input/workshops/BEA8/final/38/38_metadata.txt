@@ -1,0 +1,75 @@
+SubmissionNumber#=%=#38
+FinalPaperTitle#=%=#Native Language Identification using large scale lexical features
+ShortPaperTitle#=%=#Native Language Identification using large scale lexical features
+Author{1}{Lastname}#=%=#Lynum
+Author{1}{Firstname}#=%=#André
+Author{1}{Email}#=%=#andrely@idi.ntnu.no
+Author{1}{Affiliation}#=%=#Norwegian University of Science and Technology
+Author{2}{Lastname}#=%=#
+Author{2}{Firstname}#=%=#
+Author{2}{Email}#=%=#
+Author{2}{Affiliation}#=%=#
+Author{3}{Lastname}#=%=#
+Author{3}{Firstname}#=%=#
+Author{3}{Email}#=%=#
+Author{3}{Affiliation}#=%=#
+Author{4}{Lastname}#=%=#
+Author{4}{Firstname}#=%=#
+Author{4}{Email}#=%=#
+Author{4}{Affiliation}#=%=#
+Author{5}{Lastname}#=%=#
+Author{5}{Firstname}#=%=#
+Author{5}{Email}#=%=#
+Author{5}{Affiliation}#=%=#
+Author{6}{Lastname}#=%=#
+Author{6}{Firstname}#=%=#
+Author{6}{Email}#=%=#
+Author{6}{Affiliation}#=%=#
+Author{7}{Lastname}#=%=#
+Author{7}{Firstname}#=%=#
+Author{7}{Email}#=%=#
+Author{7}{Affiliation}#=%=#
+Author{8}{Lastname}#=%=#
+Author{8}{Firstname}#=%=#
+Author{8}{Email}#=%=#
+Author{8}{Affiliation}#=%=#
+Author{9}{Lastname}#=%=#
+Author{9}{Firstname}#=%=#
+Author{9}{Email}#=%=#
+Author{9}{Affiliation}#=%=#
+Author{10}{Lastname}#=%=#
+Author{10}{Firstname}#=%=#
+Author{10}{Email}#=%=#
+Author{10}{Affiliation}#=%=#
+Author{11}{Lastname}#=%=#
+Author{11}{Firstname}#=%=#
+Author{11}{Email}#=%=#
+Author{11}{Affiliation}#=%=#
+Author{12}{Lastname}#=%=#
+Author{12}{Firstname}#=%=#
+Author{12}{Email}#=%=#
+Author{12}{Affiliation}#=%=#
+Author{13}{Lastname}#=%=#
+Author{13}{Firstname}#=%=#
+Author{13}{Email}#=%=#
+Author{13}{Affiliation}#=%=#
+Author{14}{Lastname}#=%=#
+Author{14}{Firstname}#=%=#
+Author{14}{Email}#=%=#
+Author{14}{Affiliation}#=%=#
+Author{15}{Lastname}#=%=#
+Author{15}{Firstname}#=%=#
+Author{15}{Email}#=%=#
+Author{15}{Affiliation}#=%=#
+NumberOfPages#=%=#4
+CopyrightSigned#=%=#andre lynum
+JobTitle#==#phd student
+Organization#==#Norwegian University of Science and Technology, Department of Computer and Information and Science, Sem Sælands vei 7-9,
+NO-7491 Trondheim, Norway
+Abstract#==#This paper describes an effort to perform Na- tive Language Identification
+(NLI) using ma- chine learning on a large amount of lexical features. The
+features were collected from se- quences and collocations of bare word forms,
+suffixes and character n-grams amounting to a feature set of several hundred
+thousand fea- tures. These features were used to train a lin- ear Support
+Vector Machine (SVM) classifier for predicting the native language category.
+==========

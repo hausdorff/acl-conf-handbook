@@ -1,0 +1,92 @@
+SubmissionNumber#=%=#11
+FinalPaperTitle#=%=#Automatic Detection of Stable Grammatical Features in N-Grams
+ShortPaperTitle#=%=#Automatic Detection of Stable Grammatical Features in N-Grams
+Author{1}{Lastname}#=%=#Kopotev
+Author{1}{Firstname}#=%=#Mikhail
+Author{1}{Email}#=%=#mihail.kopotev@helsinki.fi
+Author{1}{Affiliation}#=%=#University of Helsinki
+Author{2}{Lastname}#=%=#Pivovarova
+Author{2}{Firstname}#=%=#Lidia
+Author{2}{Email}#=%=#lidia.pivovarova@gmail.com
+Author{2}{Affiliation}#=%=#University of Helsinki, St.Petersburg State University
+Author{3}{Lastname}#=%=#Kochetkova
+Author{3}{Firstname}#=%=#Natalia
+Author{3}{Email}#=%=#natalia_k_11@mail.ru
+Author{3}{Affiliation}#=%=#Moscow Institute of Electronics and Mathematics NRU HSE
+Author{4}{Lastname}#=%=#Yangarber
+Author{4}{Firstname}#=%=#Roman
+Author{4}{Email}#=%=#roman.yangarber@cs.helsinki.fi
+Author{4}{Affiliation}#=%=#University of Helsinki
+Author{5}{Lastname}#=%=#
+Author{5}{Firstname}#=%=#
+Author{5}{Email}#=%=#
+Author{5}{Affiliation}#=%=#
+Author{6}{Lastname}#=%=#
+Author{6}{Firstname}#=%=#
+Author{6}{Email}#=%=#
+Author{6}{Affiliation}#=%=#
+Author{7}{Lastname}#=%=#
+Author{7}{Firstname}#=%=#
+Author{7}{Email}#=%=#
+Author{7}{Affiliation}#=%=#
+Author{8}{Lastname}#=%=#
+Author{8}{Firstname}#=%=#
+Author{8}{Email}#=%=#
+Author{8}{Affiliation}#=%=#
+Author{9}{Lastname}#=%=#
+Author{9}{Firstname}#=%=#
+Author{9}{Email}#=%=#
+Author{9}{Affiliation}#=%=#
+Author{10}{Lastname}#=%=#
+Author{10}{Firstname}#=%=#
+Author{10}{Email}#=%=#
+Author{10}{Affiliation}#=%=#
+Author{11}{Lastname}#=%=#
+Author{11}{Firstname}#=%=#
+Author{11}{Email}#=%=#
+Author{11}{Affiliation}#=%=#
+Author{12}{Lastname}#=%=#
+Author{12}{Firstname}#=%=#
+Author{12}{Email}#=%=#
+Author{12}{Affiliation}#=%=#
+Author{13}{Lastname}#=%=#
+Author{13}{Firstname}#=%=#
+Author{13}{Email}#=%=#
+Author{13}{Affiliation}#=%=#
+Author{14}{Lastname}#=%=#
+Author{14}{Firstname}#=%=#
+Author{14}{Email}#=%=#
+Author{14}{Affiliation}#=%=#
+Author{15}{Lastname}#=%=#
+Author{15}{Firstname}#=%=#
+Author{15}{Email}#=%=#
+Author{15}{Affiliation}#=%=#
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#Lidia Pivovarova
+JobTitle#==#
+Organization#==#University of Helsinki
+PO Box 68 University of Helsinki     
+FIN-00014 Finland
+Abstract#==#This paper presents an algorithm that allows
+the user to issue a query pattern, collects
+multi-word expressions (MWEs) that match
+the pattern, and then ranks them in a uniform
+fashion. This is achieved by quantifying the
+strength of all possible relations between the
+tokens and their features in the MWEs. The algorithm
+collects the frequency of morphological
+categories of the given pattern on a unified
+scale in order to choose the stable categories
+and their values. For every part of speech, and
+for all of its categories, we calculate a normalized
+Kullback-Leibler divergence between the
+category’s distribution in the pattern and its
+distribution in the corpus overall. Categories
+with the largest divergence are considered to
+be the most significant. The particular values
+of the categories are sorted according to
+a frequency ratio. As a result, we obtain morphosyntactic
+profiles of a given pattern, which
+includes the most stable category of the pattern,
+and their values.
+==========

@@ -1,0 +1,79 @@
+SubmissionNumber#=%=#65
+FinalPaperTitle#=%=#Improved Information Structure Analysis of Scientific Documents Through Discourse and Lexical Constraints
+ShortPaperTitle#=%=#Improved Information Structure Analysis of Scientific Documents Through Discourse and Lexical Constraints
+Author{1}{Lastname}#=%=#Guo
+Author{1}{Firstname}#=%=#Yufan
+Author{1}{Email}#=%=#yg244@cam.ac.uk
+Author{1}{Affiliation}#=%=#University of Cambridge
+Author{2}{Lastname}#=%=#Reichart
+Author{2}{Firstname}#=%=#Roi
+Author{2}{Email}#=%=#Roi.Reichart@cl.cam.ac.uk
+Author{2}{Affiliation}#=%=#University of Cambridge
+Author{3}{Lastname}#=%=#Korhonen
+Author{3}{Firstname}#=%=#Anna
+Author{3}{Email}#=%=#anna.korhonen@cl.cam.ac.uk
+Author{3}{Affiliation}#=%=#University of Cambridge
+Author{4}{Lastname}#=%=#
+Author{4}{Firstname}#=%=#
+Author{4}{Email}#=%=#
+Author{4}{Affiliation}#=%=#
+Author{5}{Lastname}#=%=#
+Author{5}{Firstname}#=%=#
+Author{5}{Email}#=%=#
+Author{5}{Affiliation}#=%=#
+Author{6}{Lastname}#=%=#
+Author{6}{Firstname}#=%=#
+Author{6}{Email}#=%=#
+Author{6}{Affiliation}#=%=#
+Author{7}{Lastname}#=%=#
+Author{7}{Firstname}#=%=#
+Author{7}{Email}#=%=#
+Author{7}{Affiliation}#=%=#
+Author{8}{Lastname}#=%=#
+Author{8}{Firstname}#=%=#
+Author{8}{Email}#=%=#
+Author{8}{Affiliation}#=%=#
+Author{9}{Lastname}#=%=#
+Author{9}{Firstname}#=%=#
+Author{9}{Email}#=%=#
+Author{9}{Affiliation}#=%=#
+Author{10}{Lastname}#=%=#
+Author{10}{Firstname}#=%=#
+Author{10}{Email}#=%=#
+Author{10}{Affiliation}#=%=#
+Author{11}{Lastname}#=%=#
+Author{11}{Firstname}#=%=#
+Author{11}{Email}#=%=#
+Author{11}{Affiliation}#=%=#
+Author{12}{Lastname}#=%=#
+Author{12}{Firstname}#=%=#
+Author{12}{Email}#=%=#
+Author{12}{Affiliation}#=%=#
+Author{13}{Lastname}#=%=#
+Author{13}{Firstname}#=%=#
+Author{13}{Email}#=%=#
+Author{13}{Affiliation}#=%=#
+Author{14}{Lastname}#=%=#
+Author{14}{Firstname}#=%=#
+Author{14}{Email}#=%=#
+Author{14}{Affiliation}#=%=#
+Author{15}{Lastname}#=%=#
+Author{15}{Firstname}#=%=#
+Author{15}{Email}#=%=#
+Author{15}{Affiliation}#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Yufan Guo
+JobTitle#==#
+Organization#==#Computer Laboratory, University of Cambridge, 15 JJ Thomson Avenue, Cambridge CB3 0FD
+Abstract#==#Inferring the information structure of scientific documents is useful for many
+down-stream applications. Existing feature-based machine learning approaches to
+this task require substantial training data and suffer from limited
+performance. Our idea is to guide feature-based models with declarative domain
+knowledge encoded as posterior distribution constraints. We explore a rich set
+of discourse and lexical  constraints which we incorporate through the
+Generalized Expectation (GE) criterion. Our constrained model improves the
+performance of existing fully and lightly supervised models. Even a fully
+unsupervised version of this model outperforms lightly supervised feature-based
+models, showing that our approach can be useful even when no labeled data is
+available.
+==========

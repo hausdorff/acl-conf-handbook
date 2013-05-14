@@ -1,0 +1,83 @@
+SubmissionNumber#=%=#340
+FinalPaperTitle#=%=#Supervised Bilingual Lexicon Induction with Multiple Monolingual Signals
+ShortPaperTitle#=%=#Supervised Bilingual Lexicon Induction with Multiple Monolingual Signals
+Author{1}{Lastname}#=%=#Irvine
+Author{1}{Firstname}#=%=#Ann
+Author{1}{Email}#=%=#annirvine@gmail.com
+Author{1}{Affiliation}#=%=#Johns Hopkins University
+Author{2}{Lastname}#=%=#Callison-Burch
+Author{2}{Firstname}#=%=#Chris
+Author{2}{Email}#=%=#ccb@cs.jhu.edu
+Author{2}{Affiliation}#=%=#Johns Hopkins University
+Author{3}{Lastname}#=%=#
+Author{3}{Firstname}#=%=#
+Author{3}{Email}#=%=#
+Author{3}{Affiliation}#=%=#
+Author{4}{Lastname}#=%=#
+Author{4}{Firstname}#=%=#
+Author{4}{Email}#=%=#
+Author{4}{Affiliation}#=%=#
+Author{5}{Lastname}#=%=#
+Author{5}{Firstname}#=%=#
+Author{5}{Email}#=%=#
+Author{5}{Affiliation}#=%=#
+Author{6}{Lastname}#=%=#
+Author{6}{Firstname}#=%=#
+Author{6}{Email}#=%=#
+Author{6}{Affiliation}#=%=#
+Author{7}{Lastname}#=%=#
+Author{7}{Firstname}#=%=#
+Author{7}{Email}#=%=#
+Author{7}{Affiliation}#=%=#
+Author{8}{Lastname}#=%=#
+Author{8}{Firstname}#=%=#
+Author{8}{Email}#=%=#
+Author{8}{Affiliation}#=%=#
+Author{9}{Lastname}#=%=#
+Author{9}{Firstname}#=%=#
+Author{9}{Email}#=%=#
+Author{9}{Affiliation}#=%=#
+Author{10}{Lastname}#=%=#
+Author{10}{Firstname}#=%=#
+Author{10}{Email}#=%=#
+Author{10}{Affiliation}#=%=#
+Author{11}{Lastname}#=%=#
+Author{11}{Firstname}#=%=#
+Author{11}{Email}#=%=#
+Author{11}{Affiliation}#=%=#
+Author{12}{Lastname}#=%=#
+Author{12}{Firstname}#=%=#
+Author{12}{Email}#=%=#
+Author{12}{Affiliation}#=%=#
+Author{13}{Lastname}#=%=#
+Author{13}{Firstname}#=%=#
+Author{13}{Email}#=%=#
+Author{13}{Affiliation}#=%=#
+Author{14}{Lastname}#=%=#
+Author{14}{Firstname}#=%=#
+Author{14}{Email}#=%=#
+Author{14}{Affiliation}#=%=#
+Author{15}{Lastname}#=%=#
+Author{15}{Firstname}#=%=#
+Author{15}{Email}#=%=#
+Author{15}{Affiliation}#=%=#
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Ann K. Irvine
+JobTitle#==#
+Organization#==#Johns Hopkins University
+3400 N. Charles St.
+Baltimore, MD 21218
+Abstract#==#Prior research into learning translations from source and target language
+monolingual texts has treated the task as an unsupervised learning problem.
+Although many techniques take advantage of a seed bilingual lexicon, this work
+is the first to use that data for supervised learning to combine a diverse set
+of signals derived from a pair of monolingual corpora into a single
+discriminative model. Even in a low resource machine translation setting, where
+induced translations have the potential to improve performance substantially,
+it is reasonable to assume access to some amount of data to perform this kind
+of optimization. Our work shows that only a few hundred translation pairs are
+needed to achieve strong performance on the bilingual lexicon induction task,
+and our approach yields an average relative gain in accuracy of nearly 50% over
+an unsupervised baseline. Large gains in accuracy hold for all 22 languages
+(low and high resource) that we investigate.
+==========

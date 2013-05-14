@@ -1,0 +1,84 @@
+SubmissionNumber#=%=#325
+FinalPaperTitle#=%=#Supervised All-Words Lexical Substitution using Delexicalized Features
+ShortPaperTitle#=%=#Supervised All-Words Lexical Substitution using Delexicalized Features
+Author{1}{Lastname}#=%=#Szarvas
+Author{1}{Firstname}#=%=#György
+Author{1}{Email}#=%=#gyorgy.szarvas@gmail.com
+Author{1}{Affiliation}#=%=#Nuance Communications AG
+Author{2}{Lastname}#=%=#Biemann
+Author{2}{Firstname}#=%=#Chris
+Author{2}{Email}#=%=#biemann@ukp.informatik.tu-darmstadt.de
+Author{2}{Affiliation}#=%=#Technische Universität Darmstadt
+Author{3}{Lastname}#=%=#Gurevych
+Author{3}{Firstname}#=%=#Iryna
+Author{3}{Email}#=%=#gurevych@ukp.informatik.tu-darmstadt.de
+Author{3}{Affiliation}#=%=#Ubiquitous Knowledge Processing (UKP) Lab
+Author{4}{Lastname}#=%=#
+Author{4}{Firstname}#=%=#
+Author{4}{Email}#=%=#
+Author{4}{Affiliation}#=%=#
+Author{5}{Lastname}#=%=#
+Author{5}{Firstname}#=%=#
+Author{5}{Email}#=%=#
+Author{5}{Affiliation}#=%=#
+Author{6}{Lastname}#=%=#
+Author{6}{Firstname}#=%=#
+Author{6}{Email}#=%=#
+Author{6}{Affiliation}#=%=#
+Author{7}{Lastname}#=%=#
+Author{7}{Firstname}#=%=#
+Author{7}{Email}#=%=#
+Author{7}{Affiliation}#=%=#
+Author{8}{Lastname}#=%=#
+Author{8}{Firstname}#=%=#
+Author{8}{Email}#=%=#
+Author{8}{Affiliation}#=%=#
+Author{9}{Lastname}#=%=#
+Author{9}{Firstname}#=%=#
+Author{9}{Email}#=%=#
+Author{9}{Affiliation}#=%=#
+Author{10}{Lastname}#=%=#
+Author{10}{Firstname}#=%=#
+Author{10}{Email}#=%=#
+Author{10}{Affiliation}#=%=#
+Author{11}{Lastname}#=%=#
+Author{11}{Firstname}#=%=#
+Author{11}{Email}#=%=#
+Author{11}{Affiliation}#=%=#
+Author{12}{Lastname}#=%=#
+Author{12}{Firstname}#=%=#
+Author{12}{Email}#=%=#
+Author{12}{Affiliation}#=%=#
+Author{13}{Lastname}#=%=#
+Author{13}{Firstname}#=%=#
+Author{13}{Email}#=%=#
+Author{13}{Affiliation}#=%=#
+Author{14}{Lastname}#=%=#
+Author{14}{Firstname}#=%=#
+Author{14}{Email}#=%=#
+Author{14}{Affiliation}#=%=#
+Author{15}{Lastname}#=%=#
+Author{15}{Firstname}#=%=#
+Author{15}{Email}#=%=#
+Author{15}{Affiliation}#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#GYÖRGY SZARVAS
+JobTitle#==#
+Organization#==#Nuance Communications Deutschland GmbH
+Kackertstrasse 10, D-52072 Aachen, Germany
+Abstract#==#We propose a supervised lexical substitution system that does not use separate
+classifiers per word and is therefore applicable to any word in the vocabulary.
+Instead of learning word-specific substitution patterns, a global model for
+lexical substitution is trained on delexicalized (i.e., non lexical) features,
+which allows to exploit the power of supervised methods while being able to
+generalize beyond target words in the training set.
+This way, our approach remains technically straightforward, provides better
+performance and similar coverage in comparison to unsupervised approaches.
+Using features from lexical resources, as well as a variety of features
+computed from large corpora (n-gram counts, distributional similarity) and a
+ranking method based on the posterior probabilities obtained from a Maximum
+Entropy classifier, we improve over the state of the art in the LexSub
+Best-Precision metric and the Generalized Average Precision measure. Robustness
+of our approach is demonstrated by evaluating it successfully on two different
+datasets.
+==========

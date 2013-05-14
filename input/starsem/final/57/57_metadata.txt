@@ -1,0 +1,77 @@
+SubmissionNumber#=%=#57
+FinalPaperTitle#=%=#ECNUCS: Measuring Short Text Semantic Equivalence Using Multiple Similarity Measurements
+ShortPaperTitle#=%=#ECNUCS: Measuring Short Text Semantic Equivalence Using Multiple Similarity Measurements
+Author{1}{Lastname}#=%=#Tiantian
+Author{1}{Firstname}#=%=#Zhu
+Author{1}{Email}#=%=#tiantianzhu7@gmail.com
+Author{1}{Affiliation}#=%=#East China Normal University
+Author{2}{Lastname}#=%=#Lan
+Author{2}{Firstname}#=%=#Man
+Author{2}{Email}#=%=#lanman.sg@gmail.com
+Author{2}{Affiliation}#=%=#ECNU
+Author{3}{Lastname}#=%=#
+Author{3}{Firstname}#=%=#
+Author{3}{Email}#=%=#
+Author{3}{Affiliation}#=%=#
+Author{4}{Lastname}#=%=#
+Author{4}{Firstname}#=%=#
+Author{4}{Email}#=%=#
+Author{4}{Affiliation}#=%=#
+Author{5}{Lastname}#=%=#
+Author{5}{Firstname}#=%=#
+Author{5}{Email}#=%=#
+Author{5}{Affiliation}#=%=#
+Author{6}{Lastname}#=%=#
+Author{6}{Firstname}#=%=#
+Author{6}{Email}#=%=#
+Author{6}{Affiliation}#=%=#
+Author{7}{Lastname}#=%=#
+Author{7}{Firstname}#=%=#
+Author{7}{Email}#=%=#
+Author{7}{Affiliation}#=%=#
+Author{8}{Lastname}#=%=#
+Author{8}{Firstname}#=%=#
+Author{8}{Email}#=%=#
+Author{8}{Affiliation}#=%=#
+Author{9}{Lastname}#=%=#
+Author{9}{Firstname}#=%=#
+Author{9}{Email}#=%=#
+Author{9}{Affiliation}#=%=#
+Author{10}{Lastname}#=%=#
+Author{10}{Firstname}#=%=#
+Author{10}{Email}#=%=#
+Author{10}{Affiliation}#=%=#
+Author{11}{Lastname}#=%=#
+Author{11}{Firstname}#=%=#
+Author{11}{Email}#=%=#
+Author{11}{Affiliation}#=%=#
+Author{12}{Lastname}#=%=#
+Author{12}{Firstname}#=%=#
+Author{12}{Email}#=%=#
+Author{12}{Affiliation}#=%=#
+Author{13}{Lastname}#=%=#
+Author{13}{Firstname}#=%=#
+Author{13}{Email}#=%=#
+Author{13}{Affiliation}#=%=#
+Author{14}{Lastname}#=%=#
+Author{14}{Firstname}#=%=#
+Author{14}{Email}#=%=#
+Author{14}{Affiliation}#=%=#
+Author{15}{Lastname}#=%=#
+Author{15}{Firstname}#=%=#
+Author{15}{Email}#=%=#
+Author{15}{Affiliation}#=%=#
+NumberOfPages#=%=#8
+CopyrightSigned#=%=#Lan Man
+JobTitle#==#
+Organization#==#
+Abstract#==#This paper reports our submissions to the Semantic Textual Similarity (STS)
+task in SemEval 2013 (Task 6). We submitted three Support Vector Regression
+(SVR) systems in core task, using 6 types of similarity measures, i.e., string
+similarity, number similarity, knowledge-based similarity, corpus-based
+similarity, syntactic dependency similarity and machine translation similarity.
+Our third system with different training data and different feature sets for
+each test data set performs the best and ranks 35 out of 90 runs. We also
+submitted two systems in typed task using string based measure and Named Entity
+based measure. Our best system ranks 5 out of 15 runs.
+==========

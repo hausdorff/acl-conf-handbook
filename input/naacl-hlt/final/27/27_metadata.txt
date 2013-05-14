@@ -1,0 +1,80 @@
+SubmissionNumber#=%=#27
+FinalPaperTitle#=%=#The Life and Death of Discourse Entities: Identifying Singleton Mentions
+ShortPaperTitle#=%=#The Life and Death of Discourse Entities: Identifying Singleton Mentions
+Author{1}{Lastname}#=%=#Recasens
+Author{1}{Firstname}#=%=#Marta
+Author{1}{Email}#=%=#recasens@stanford.edu
+Author{1}{Affiliation}#=%=#Stanford University
+Author{2}{Lastname}#=%=#de Marneffe
+Author{2}{Firstname}#=%=#Marie-Catherine
+Author{2}{Email}#=%=#mcdm@stanford.edu
+Author{2}{Affiliation}#=%=#Stanford University
+Author{3}{Lastname}#=%=#Potts
+Author{3}{Firstname}#=%=#Christopher
+Author{3}{Email}#=%=#cgpotts@stanford.edu
+Author{3}{Affiliation}#=%=#Stanford University
+Author{4}{Lastname}#=%=#
+Author{4}{Firstname}#=%=#
+Author{4}{Email}#=%=#
+Author{4}{Affiliation}#=%=#
+Author{5}{Lastname}#=%=#
+Author{5}{Firstname}#=%=#
+Author{5}{Email}#=%=#
+Author{5}{Affiliation}#=%=#
+Author{6}{Lastname}#=%=#
+Author{6}{Firstname}#=%=#
+Author{6}{Email}#=%=#
+Author{6}{Affiliation}#=%=#
+Author{7}{Lastname}#=%=#
+Author{7}{Firstname}#=%=#
+Author{7}{Email}#=%=#
+Author{7}{Affiliation}#=%=#
+Author{8}{Lastname}#=%=#
+Author{8}{Firstname}#=%=#
+Author{8}{Email}#=%=#
+Author{8}{Affiliation}#=%=#
+Author{9}{Lastname}#=%=#
+Author{9}{Firstname}#=%=#
+Author{9}{Email}#=%=#
+Author{9}{Affiliation}#=%=#
+Author{10}{Lastname}#=%=#
+Author{10}{Firstname}#=%=#
+Author{10}{Email}#=%=#
+Author{10}{Affiliation}#=%=#
+Author{11}{Lastname}#=%=#
+Author{11}{Firstname}#=%=#
+Author{11}{Email}#=%=#
+Author{11}{Affiliation}#=%=#
+Author{12}{Lastname}#=%=#
+Author{12}{Firstname}#=%=#
+Author{12}{Email}#=%=#
+Author{12}{Affiliation}#=%=#
+Author{13}{Lastname}#=%=#
+Author{13}{Firstname}#=%=#
+Author{13}{Email}#=%=#
+Author{13}{Affiliation}#=%=#
+Author{14}{Lastname}#=%=#
+Author{14}{Firstname}#=%=#
+Author{14}{Email}#=%=#
+Author{14}{Affiliation}#=%=#
+Author{15}{Lastname}#=%=#
+Author{15}{Firstname}#=%=#
+Author{15}{Email}#=%=#
+Author{15}{Affiliation}#=%=#
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Marta Recasens
+JobTitle#==#
+Organization#==#Stanford University
+450 Serra Mall
+Stanford, CA 94305
+Abstract#==#A discourse typically involves numerous entities, but few are mentioned more
+than once. Distinguishing discourse entities that die out after just one
+mention (singletons) from those that lead longer lives (coreferent) would
+benefit NLP applications such as coreference resolution, protagonist
+identification, topic modeling, and discourse coherence. We build a logistic
+regression model for predicting the singleton/coreferent distinction, drawing
+on linguistic insights about how discourse entity lifespans
+are affected by syntactic and semantic features. The model is effective in its
+own right (78% accuracy), and incorporating it into a state-of-the-art
+coreference resolution system yields a significant improvement.
+==========

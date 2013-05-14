@@ -1,0 +1,80 @@
+SubmissionNumber#=%=#17
+FinalPaperTitle#=%=#Developing and testing a self-assessment and tutoring system
+ShortPaperTitle#=%=#Developing and testing a self-assessment and tutoring system
+Author{1}{Lastname}#=%=#Andersen
+Author{1}{Firstname}#=%=#Øistein E.
+Author{1}{Email}#=%=#and@ilexir.co.uk
+Author{1}{Affiliation}#=%=#iLexIR
+Author{2}{Lastname}#=%=#Yannakoudakis
+Author{2}{Firstname}#=%=#Helen
+Author{2}{Email}#=%=#yannakoudakis.h@cambridgeenglish.org
+Author{2}{Affiliation}#=%=#Cambridge English
+Author{3}{Lastname}#=%=#Barker
+Author{3}{Firstname}#=%=#Fiona
+Author{3}{Email}#=%=#barker.f@cambridgeenglish.org
+Author{3}{Affiliation}#=%=#Cambridge English
+Author{4}{Lastname}#=%=#Parish
+Author{4}{Firstname}#=%=#Tim
+Author{4}{Email}#=%=#tim@ilexir.co.uk
+Author{4}{Affiliation}#=%=#iLexIR
+Author{5}{Lastname}#=%=#
+Author{5}{Firstname}#=%=#
+Author{5}{Email}#=%=#
+Author{5}{Affiliation}#=%=#
+Author{6}{Lastname}#=%=#
+Author{6}{Firstname}#=%=#
+Author{6}{Email}#=%=#
+Author{6}{Affiliation}#=%=#
+Author{7}{Lastname}#=%=#
+Author{7}{Firstname}#=%=#
+Author{7}{Email}#=%=#
+Author{7}{Affiliation}#=%=#
+Author{8}{Lastname}#=%=#
+Author{8}{Firstname}#=%=#
+Author{8}{Email}#=%=#
+Author{8}{Affiliation}#=%=#
+Author{9}{Lastname}#=%=#
+Author{9}{Firstname}#=%=#
+Author{9}{Email}#=%=#
+Author{9}{Affiliation}#=%=#
+Author{10}{Lastname}#=%=#
+Author{10}{Firstname}#=%=#
+Author{10}{Email}#=%=#
+Author{10}{Affiliation}#=%=#
+Author{11}{Lastname}#=%=#
+Author{11}{Firstname}#=%=#
+Author{11}{Email}#=%=#
+Author{11}{Affiliation}#=%=#
+Author{12}{Lastname}#=%=#
+Author{12}{Firstname}#=%=#
+Author{12}{Email}#=%=#
+Author{12}{Affiliation}#=%=#
+Author{13}{Lastname}#=%=#
+Author{13}{Firstname}#=%=#
+Author{13}{Email}#=%=#
+Author{13}{Affiliation}#=%=#
+Author{14}{Lastname}#=%=#
+Author{14}{Firstname}#=%=#
+Author{14}{Email}#=%=#
+Author{14}{Affiliation}#=%=#
+Author{15}{Lastname}#=%=#
+Author{15}{Firstname}#=%=#
+Author{15}{Email}#=%=#
+Author{15}{Affiliation}#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Øistein E. Andersen
+JobTitle#==#
+Organization#==#iLexIR
+Streets, 62 Hills Road
+Cambridge
+CB2 1LA
+UK
+Abstract#==#Automated feedback on writing may be a useful complement to teacher comments in
+the process of learning a foreign language. This paper presents a
+self-assessment and tutoring system which combines an holistic score with
+detection and correction of frequent errors and furthermore provides a
+qualitative assessment of each individual sentence, thus making the language
+learner aware of potentially problematic areas rather than providing a panacea.
+The system has been tested by learners in a range of educational institutions,
+and their feedback has guided its development.
+==========

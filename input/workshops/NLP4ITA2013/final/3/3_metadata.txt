@@ -1,0 +1,76 @@
+SubmissionNumber#=%=#3
+FinalPaperTitle#=%=#A System for the Simplification of Numerical Expressions at Different Levels of Understandability
+ShortPaperTitle#=%=#A System for the Simplification of Numerical Expressions
+Author{1}{Lastname}#=%=#Bautista
+Author{1}{Firstname}#=%=#Susana
+Author{1}{Email}#=%=#subautis@fdi.ucm.es
+Author{1}{Affiliation}#=%=#Universidad Complutense de Madrid
+Author{2}{Lastname}#=%=#Hervás
+Author{2}{Firstname}#=%=#Raquel
+Author{2}{Email}#=%=#raquelhb@fdi.ucm.es
+Author{2}{Affiliation}#=%=#Universidad Complutense de Madrid, Spain
+Author{3}{Lastname}#=%=#Gervás
+Author{3}{Firstname}#=%=#Pablo
+Author{3}{Email}#=%=#pgervas@sip.ucm.es
+Author{3}{Affiliation}#=%=#Universidad Complutense de Madrid, Spain
+Author{4}{Lastname}#=%=#Power
+Author{4}{Firstname}#=%=#Richard
+Author{4}{Email}#=%=#r.power@open.ac.uk
+Author{4}{Affiliation}#=%=#Department of Computing, The Open University, Milton Keynes, UK
+Author{5}{Lastname}#=%=#Williams
+Author{5}{Firstname}#=%=#Sandra
+Author{5}{Email}#=%=#s.h.williams@open.ac.uk
+Author{5}{Affiliation}#=%=#Department of Computing, The Open University, Milton Keynes, UK
+Author{6}{Lastname}#=%=#
+Author{6}{Firstname}#=%=#
+Author{6}{Email}#=%=#
+Author{6}{Affiliation}#=%=#
+Author{7}{Lastname}#=%=#
+Author{7}{Firstname}#=%=#
+Author{7}{Email}#=%=#
+Author{7}{Affiliation}#=%=#
+Author{8}{Lastname}#=%=#
+Author{8}{Firstname}#=%=#
+Author{8}{Email}#=%=#
+Author{8}{Affiliation}#=%=#
+Author{9}{Lastname}#=%=#
+Author{9}{Firstname}#=%=#
+Author{9}{Email}#=%=#
+Author{9}{Affiliation}#=%=#
+Author{10}{Lastname}#=%=#
+Author{10}{Firstname}#=%=#
+Author{10}{Email}#=%=#
+Author{10}{Affiliation}#=%=#
+Author{11}{Lastname}#=%=#
+Author{11}{Firstname}#=%=#
+Author{11}{Email}#=%=#
+Author{11}{Affiliation}#=%=#
+Author{12}{Lastname}#=%=#
+Author{12}{Firstname}#=%=#
+Author{12}{Email}#=%=#
+Author{12}{Affiliation}#=%=#
+Author{13}{Lastname}#=%=#
+Author{13}{Firstname}#=%=#
+Author{13}{Email}#=%=#
+Author{13}{Affiliation}#=%=#
+Author{14}{Lastname}#=%=#
+Author{14}{Firstname}#=%=#
+Author{14}{Email}#=%=#
+Author{14}{Affiliation}#=%=#
+Author{15}{Lastname}#=%=#
+Author{15}{Firstname}#=%=#
+Author{15}{Email}#=%=#
+Author{15}{Affiliation}#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Susana Bautista
+JobTitle#==#A System for the Simplification of Numerical Expressions at Different Levels of Understandability
+Organization#==#Universidad Complutense de Madrid
+Prof. Jose Garcia Santesmases s/n
+28040 Madrid, Spain
+Abstract#==#The purpose of this paper is to motivate and describe a system that simplifies
+numerical expression in texts, along with an evaluation study in which experts
+in numeracy and literacy assessed the outputs of this system. We have worked
+with a collection of newspaper articles with a significant number of numerical
+expressions. The results are discussed in comparison to conclusions obtained
+from a prior empirical survey.
+==========

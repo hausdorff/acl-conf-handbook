@@ -1,0 +1,85 @@
+SubmissionNumber#=%=#410
+FinalPaperTitle#=%=#Improving Syntax-Augmented Machine Translation by Coarsening the Label Set
+ShortPaperTitle#=%=#Improving Syntax-Augmented Machine Translation by Coarsening the Label Set
+Author{1}{Lastname}#=%=#Hanneman
+Author{1}{Firstname}#=%=#Greg
+Author{1}{Email}#=%=#ghannema@cs.cmu.edu
+Author{1}{Affiliation}#=%=#Carnegie Mellon University
+Author{2}{Lastname}#=%=#Lavie
+Author{2}{Firstname}#=%=#Alon
+Author{2}{Email}#=%=#alavie@cs.cmu.edu
+Author{2}{Affiliation}#=%=#Carnegie Mellon University
+Author{3}{Lastname}#=%=#
+Author{3}{Firstname}#=%=#
+Author{3}{Email}#=%=#
+Author{3}{Affiliation}#=%=#
+Author{4}{Lastname}#=%=#
+Author{4}{Firstname}#=%=#
+Author{4}{Email}#=%=#
+Author{4}{Affiliation}#=%=#
+Author{5}{Lastname}#=%=#
+Author{5}{Firstname}#=%=#
+Author{5}{Email}#=%=#
+Author{5}{Affiliation}#=%=#
+Author{6}{Lastname}#=%=#
+Author{6}{Firstname}#=%=#
+Author{6}{Email}#=%=#
+Author{6}{Affiliation}#=%=#
+Author{7}{Lastname}#=%=#
+Author{7}{Firstname}#=%=#
+Author{7}{Email}#=%=#
+Author{7}{Affiliation}#=%=#
+Author{8}{Lastname}#=%=#
+Author{8}{Firstname}#=%=#
+Author{8}{Email}#=%=#
+Author{8}{Affiliation}#=%=#
+Author{9}{Lastname}#=%=#
+Author{9}{Firstname}#=%=#
+Author{9}{Email}#=%=#
+Author{9}{Affiliation}#=%=#
+Author{10}{Lastname}#=%=#
+Author{10}{Firstname}#=%=#
+Author{10}{Email}#=%=#
+Author{10}{Affiliation}#=%=#
+Author{11}{Lastname}#=%=#
+Author{11}{Firstname}#=%=#
+Author{11}{Email}#=%=#
+Author{11}{Affiliation}#=%=#
+Author{12}{Lastname}#=%=#
+Author{12}{Firstname}#=%=#
+Author{12}{Email}#=%=#
+Author{12}{Affiliation}#=%=#
+Author{13}{Lastname}#=%=#
+Author{13}{Firstname}#=%=#
+Author{13}{Email}#=%=#
+Author{13}{Affiliation}#=%=#
+Author{14}{Lastname}#=%=#
+Author{14}{Firstname}#=%=#
+Author{14}{Email}#=%=#
+Author{14}{Affiliation}#=%=#
+Author{15}{Lastname}#=%=#
+Author{15}{Firstname}#=%=#
+Author{15}{Email}#=%=#
+Author{15}{Affiliation}#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Gregory A. Hanneman
+JobTitle#==#
+Organization#==#Language Technologies Institute
+Carnegie Mellon University
+5000 Forbes Ave., GHC 5404
+Pittsburgh, PA 15213
+Abstract#==#We present a new variant of the Syntax-Augmented Machine Translation (SAMT)
+formalism with a category-coarsening algorithm originally developed for
+tree-to-tree grammars.                          We induce bilingual labels into the
+SAMT
+grammar,
+use
+them for category coarsening, then project back to monolingual labeling as in
+standard SAMT.                          The result is a "collapsed" grammar with the
+same
+expressive
+power and format as the original, but many fewer nonterminal labels.  We show
+that the smaller label set provides improved translation scores by 1.14 BLEU on
+two Chinese--English test sets while reducing the occurrence of sparsity and
+ambiguity problems common to large label sets.
+==========

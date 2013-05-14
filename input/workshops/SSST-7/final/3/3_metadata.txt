@@ -1,0 +1,80 @@
+SubmissionNumber#=%=#3
+FinalPaperTitle#=%=#A Performance Study of Cube Pruning for Large-Scale Hierarchical Machine Translation
+ShortPaperTitle#=%=#A Performance Study of Cube Pruning for Large-Scale Hierarchical Machine Translation
+Author{1}{Lastname}#=%=#Huck
+Author{1}{Firstname}#=%=#Matthias
+Author{1}{Email}#=%=#huck@i6.informatik.rwth-aachen.de
+Author{1}{Affiliation}#=%=#RWTH Aachen University
+Author{2}{Lastname}#=%=#Vilar
+Author{2}{Firstname}#=%=#David
+Author{2}{Email}#=%=#david.vilar@dfki.de
+Author{2}{Affiliation}#=%=#DFKI GmbH
+Author{3}{Lastname}#=%=#Freitag
+Author{3}{Firstname}#=%=#Markus
+Author{3}{Email}#=%=#freitag@i6.informatik.rwth-aachen.de
+Author{3}{Affiliation}#=%=#RWTH Aachen University
+Author{4}{Lastname}#=%=#Ney
+Author{4}{Firstname}#=%=#Hermann
+Author{4}{Email}#=%=#ney@i6.informatik.rwth-aachen.de
+Author{4}{Affiliation}#=%=#RWTH Aachen University
+Author{5}{Lastname}#=%=#
+Author{5}{Firstname}#=%=#
+Author{5}{Email}#=%=#
+Author{5}{Affiliation}#=%=#
+Author{6}{Lastname}#=%=#
+Author{6}{Firstname}#=%=#
+Author{6}{Email}#=%=#
+Author{6}{Affiliation}#=%=#
+Author{7}{Lastname}#=%=#
+Author{7}{Firstname}#=%=#
+Author{7}{Email}#=%=#
+Author{7}{Affiliation}#=%=#
+Author{8}{Lastname}#=%=#
+Author{8}{Firstname}#=%=#
+Author{8}{Email}#=%=#
+Author{8}{Affiliation}#=%=#
+Author{9}{Lastname}#=%=#
+Author{9}{Firstname}#=%=#
+Author{9}{Email}#=%=#
+Author{9}{Affiliation}#=%=#
+Author{10}{Lastname}#=%=#
+Author{10}{Firstname}#=%=#
+Author{10}{Email}#=%=#
+Author{10}{Affiliation}#=%=#
+Author{11}{Lastname}#=%=#
+Author{11}{Firstname}#=%=#
+Author{11}{Email}#=%=#
+Author{11}{Affiliation}#=%=#
+Author{12}{Lastname}#=%=#
+Author{12}{Firstname}#=%=#
+Author{12}{Email}#=%=#
+Author{12}{Affiliation}#=%=#
+Author{13}{Lastname}#=%=#
+Author{13}{Firstname}#=%=#
+Author{13}{Email}#=%=#
+Author{13}{Affiliation}#=%=#
+Author{14}{Lastname}#=%=#
+Author{14}{Firstname}#=%=#
+Author{14}{Email}#=%=#
+Author{14}{Affiliation}#=%=#
+Author{15}{Lastname}#=%=#
+Author{15}{Firstname}#=%=#
+Author{15}{Email}#=%=#
+Author{15}{Affiliation}#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Contrary to the above text, I do neither grant permission to record my presentation, nor to disseminate it under a Creative Commons attribution license. -- Matthias Huck
+JobTitle#==#
+Organization#==#Human Language Technology and Pattern Recognition Group
+RWTH Aachen University
+D-52056 Aachen
+Germany
+Abstract#==#In this paper, we empirically investigate the impact of critical configuration
+parameters in the popular cube pruning algorithm for decoding in hierarchical
+statistical machine translation. Specifically, we study how the choice of the
+k-best generation size affects translation quality and resource requirements
+in hierarchical search. We furthermore examine the influence of two different
+granularities of hypothesis recombination. Our experiments are conducted on the
+large-scale Chinese-to-English and Arabic-to-English NIST translation
+tasks. Besides standard hierarchical grammars, we also explore search with
+restricted recursion depth of hierarchical rules based on shallow-1 grammars.
+==========

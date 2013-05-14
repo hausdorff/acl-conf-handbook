@@ -1,0 +1,79 @@
+SubmissionNumber#=%=#30
+FinalPaperTitle#=%=#Using PU-Learning to Detect Deceptive Opinion Spam
+ShortPaperTitle#=%=#Using PU-Learning to Detect Deceptive Opinion Spam
+Author{1}{Lastname}#=%=#Hernández
+Author{1}{Firstname}#=%=#Donato
+Author{1}{Email}#=%=#donato@ugto.mx
+Author{1}{Affiliation}#=%=#University of Guanajuato
+Author{2}{Lastname}#=%=#Guzmán
+Author{2}{Firstname}#=%=#Rafael
+Author{2}{Email}#=%=#guzmanc81@hotmail.com
+Author{2}{Affiliation}#=%=#University of Guanajuato
+Author{3}{Lastname}#=%=#Móntes y Gomez
+Author{3}{Firstname}#=%=#Manuel
+Author{3}{Email}#=%=#mmontesg@ccc.inaoep.mx
+Author{3}{Affiliation}#=%=#INAOE
+Author{4}{Lastname}#=%=#Rosso
+Author{4}{Firstname}#=%=#Paolo
+Author{4}{Email}#=%=#prosso@dsic.upv.es
+Author{4}{Affiliation}#=%=#Polytechnic University of Valencia
+Author{5}{Lastname}#=%=#
+Author{5}{Firstname}#=%=#
+Author{5}{Email}#=%=#
+Author{5}{Affiliation}#=%=#
+Author{6}{Lastname}#=%=#
+Author{6}{Firstname}#=%=#
+Author{6}{Email}#=%=#
+Author{6}{Affiliation}#=%=#
+Author{7}{Lastname}#=%=#
+Author{7}{Firstname}#=%=#
+Author{7}{Email}#=%=#
+Author{7}{Affiliation}#=%=#
+Author{8}{Lastname}#=%=#
+Author{8}{Firstname}#=%=#
+Author{8}{Email}#=%=#
+Author{8}{Affiliation}#=%=#
+Author{9}{Lastname}#=%=#
+Author{9}{Firstname}#=%=#
+Author{9}{Email}#=%=#
+Author{9}{Affiliation}#=%=#
+Author{10}{Lastname}#=%=#
+Author{10}{Firstname}#=%=#
+Author{10}{Email}#=%=#
+Author{10}{Affiliation}#=%=#
+Author{11}{Lastname}#=%=#
+Author{11}{Firstname}#=%=#
+Author{11}{Email}#=%=#
+Author{11}{Affiliation}#=%=#
+Author{12}{Lastname}#=%=#
+Author{12}{Firstname}#=%=#
+Author{12}{Email}#=%=#
+Author{12}{Affiliation}#=%=#
+Author{13}{Lastname}#=%=#
+Author{13}{Firstname}#=%=#
+Author{13}{Email}#=%=#
+Author{13}{Affiliation}#=%=#
+Author{14}{Lastname}#=%=#
+Author{14}{Firstname}#=%=#
+Author{14}{Email}#=%=#
+Author{14}{Affiliation}#=%=#
+Author{15}{Lastname}#=%=#
+Author{15}{Firstname}#=%=#
+Author{15}{Email}#=%=#
+Author{15}{Affiliation}#=%=#
+NumberOfPages#=%=#8
+CopyrightSigned#=%=#donato
+JobTitle#==#
+Organization#==#Universitat Politècnica de
+Valencia
+Camino de Vera s/n 46022
+Valencia, Spain.
+Abstract#==#In this paper we focus on the detection
+of deceptive opinion spam, which consists
+of fictitious opinions that have been deliberately
+written to sound authentic, in order
+to deceive the consumers. In particular we
+propose a method based on the PU-Learning
+approach which learns only from a few positive
+examples and a set of unlabeled data.
+==========

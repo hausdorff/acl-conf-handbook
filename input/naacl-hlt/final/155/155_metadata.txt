@@ -1,0 +1,77 @@
+SubmissionNumber#=%=#155
+FinalPaperTitle#=%=#Topic Segmentation with a Structured Topic Model
+ShortPaperTitle#=%=#Topic Segmentation with a Structured Topic Model
+Author{1}{Lastname}#=%=#Du
+Author{1}{Firstname}#=%=#Lan
+Author{1}{Email}#=%=#dulan520@gmail.com
+Author{1}{Affiliation}#=%=#Macquarie University
+Author{2}{Lastname}#=%=#Buntine
+Author{2}{Firstname}#=%=#Wray
+Author{2}{Email}#=%=#wray.buntine@nicta.com.au
+Author{2}{Affiliation}#=%=#National ICT Australia
+Author{3}{Lastname}#=%=#Johnson
+Author{3}{Firstname}#=%=#Mark
+Author{3}{Email}#=%=#Mark.Johnson@MQ.edu.au
+Author{3}{Affiliation}#=%=#Macquarie University
+Author{4}{Lastname}#=%=#
+Author{4}{Firstname}#=%=#
+Author{4}{Email}#=%=#
+Author{4}{Affiliation}#=%=#
+Author{5}{Lastname}#=%=#
+Author{5}{Firstname}#=%=#
+Author{5}{Email}#=%=#
+Author{5}{Affiliation}#=%=#
+Author{6}{Lastname}#=%=#
+Author{6}{Firstname}#=%=#
+Author{6}{Email}#=%=#
+Author{6}{Affiliation}#=%=#
+Author{7}{Lastname}#=%=#
+Author{7}{Firstname}#=%=#
+Author{7}{Email}#=%=#
+Author{7}{Affiliation}#=%=#
+Author{8}{Lastname}#=%=#
+Author{8}{Firstname}#=%=#
+Author{8}{Email}#=%=#
+Author{8}{Affiliation}#=%=#
+Author{9}{Lastname}#=%=#
+Author{9}{Firstname}#=%=#
+Author{9}{Email}#=%=#
+Author{9}{Affiliation}#=%=#
+Author{10}{Lastname}#=%=#
+Author{10}{Firstname}#=%=#
+Author{10}{Email}#=%=#
+Author{10}{Affiliation}#=%=#
+Author{11}{Lastname}#=%=#
+Author{11}{Firstname}#=%=#
+Author{11}{Email}#=%=#
+Author{11}{Affiliation}#=%=#
+Author{12}{Lastname}#=%=#
+Author{12}{Firstname}#=%=#
+Author{12}{Email}#=%=#
+Author{12}{Affiliation}#=%=#
+Author{13}{Lastname}#=%=#
+Author{13}{Firstname}#=%=#
+Author{13}{Email}#=%=#
+Author{13}{Affiliation}#=%=#
+Author{14}{Lastname}#=%=#
+Author{14}{Firstname}#=%=#
+Author{14}{Email}#=%=#
+Author{14}{Affiliation}#=%=#
+Author{15}{Lastname}#=%=#
+Author{15}{Firstname}#=%=#
+Author{15}{Email}#=%=#
+Author{15}{Affiliation}#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Lan Du
+JobTitle#==#
+Organization#==#Department of Computing, Macquarie University, 2019, Sydney, Australia
+Abstract#==#We present a new hierarchical Bayesian model for unsupervised topic
+segmentation. This new model integrates a point-wise boundary sampling
+algorithm used in Bayesian segmentation into a structured topic model that can
+capture a simple hierarchical topic structure latent in documents. We develop
+an MCMC inference algorithm to split/merge segment(s). Experimental results
+show  that our model outperforms previous unsupervised segmentation methods
+using only lexical information on Choi's datasets and two meeting transcripts
+and has performance comparable to those  previous methods on two written
+datasets.
+==========

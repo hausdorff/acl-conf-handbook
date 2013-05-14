@@ -1,0 +1,87 @@
+SubmissionNumber#=%=#3
+FinalPaperTitle#=%=#Learning Hierarchical Linguistic Descriptions of Visual Datasets
+ShortPaperTitle#=%=#Learning Hierarchical Linguistic Descriptions of Visual Datasets
+Author{1}{Lastname}#=%=#Mittelman
+Author{1}{Firstname}#=%=#Roni
+Author{1}{Email}#=%=#rmittelm@umich.edu
+Author{1}{Affiliation}#=%=#University of Michigan
+Author{2}{Lastname}#=%=#Sun
+Author{2}{Firstname}#=%=#Min
+Author{2}{Email}#=%=#aliensunmin@gmail.com
+Author{2}{Affiliation}#=%=#University of Washington
+Author{3}{Lastname}#=%=#Kuipers
+Author{3}{Firstname}#=%=#Benjamin
+Author{3}{Email}#=%=#kuipers@umich.edu
+Author{3}{Affiliation}#=%=#University of Michigan
+Author{4}{Lastname}#=%=#Savarese
+Author{4}{Firstname}#=%=#Silvio
+Author{4}{Email}#=%=#silvio@umich.edu
+Author{4}{Affiliation}#=%=#University of Michigan
+Author{5}{Lastname}#=%=#
+Author{5}{Firstname}#=%=#
+Author{5}{Email}#=%=#
+Author{5}{Affiliation}#=%=#
+Author{6}{Lastname}#=%=#
+Author{6}{Firstname}#=%=#
+Author{6}{Email}#=%=#
+Author{6}{Affiliation}#=%=#
+Author{7}{Lastname}#=%=#
+Author{7}{Firstname}#=%=#
+Author{7}{Email}#=%=#
+Author{7}{Affiliation}#=%=#
+Author{8}{Lastname}#=%=#
+Author{8}{Firstname}#=%=#
+Author{8}{Email}#=%=#
+Author{8}{Affiliation}#=%=#
+Author{9}{Lastname}#=%=#
+Author{9}{Firstname}#=%=#
+Author{9}{Email}#=%=#
+Author{9}{Affiliation}#=%=#
+Author{10}{Lastname}#=%=#
+Author{10}{Firstname}#=%=#
+Author{10}{Email}#=%=#
+Author{10}{Affiliation}#=%=#
+Author{11}{Lastname}#=%=#
+Author{11}{Firstname}#=%=#
+Author{11}{Email}#=%=#
+Author{11}{Affiliation}#=%=#
+Author{12}{Lastname}#=%=#
+Author{12}{Firstname}#=%=#
+Author{12}{Email}#=%=#
+Author{12}{Affiliation}#=%=#
+Author{13}{Lastname}#=%=#
+Author{13}{Firstname}#=%=#
+Author{13}{Email}#=%=#
+Author{13}{Affiliation}#=%=#
+Author{14}{Lastname}#=%=#
+Author{14}{Firstname}#=%=#
+Author{14}{Email}#=%=#
+Author{14}{Affiliation}#=%=#
+Author{15}{Lastname}#=%=#
+Author{15}{Firstname}#=%=#
+Author{15}{Email}#=%=#
+Author{15}{Affiliation}#=%=#
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#Roni Mittelman
+JobTitle#==#
+Organization#==#Computer Science and Engineering
+Bob and Betty Beyster Building
+2260 Hayward Street
+Ann Arbor, MI  48109-2121
+Abstract#==#We propose a method to learn succinct hierarchical linguistic descriptions of
+visual datasets, which allow for improved navigation efficiency in image
+collections. Classic exploratory data analysis methods, such as agglomerative
+hierarchical clustering, only provide a means of obtaining a tree-structured
+partitioning of the data. This requires the user to go through the images
+first, in order to reveal the semantic relationship between the different
+nodes. On the other hand, in this work we propose to learn a hierarchy of
+linguistic descriptions, referred to as attributes, which allows for a textual
+description of the semantic content that is captured by the hierarchy. Our
+approach is based on a generative model, which relates the attribute
+descriptions associated with each node, and the node assignments of the data
+instances, in a probabilistic fashion. We furthermore use a nonparametric
+Bayesian prior, known as the tree-structured stick breaking process, which
+allows for the structure of the tree to be learned in an unsupervised fashion.
+We also propose appropriate performance measures, and demonstrate superior
+performance compared to other hierarchical clustering algorithms.
+==========

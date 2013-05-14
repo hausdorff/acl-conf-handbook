@@ -1,0 +1,80 @@
+SubmissionNumber#=%=#12
+FinalPaperTitle#=%=#Relational words have high metaphoric potential
+ShortPaperTitle#=%=#Relational words have high metaphoric potential
+Author{1}{Lastname}#=%=#Jamrozik
+Author{1}{Firstname}#=%=#Anja
+Author{1}{Email}#=%=#a.jamrozik@u.northwestern.edu
+Author{1}{Affiliation}#=%=#Northwestern University
+Author{2}{Lastname}#=%=#Sagi
+Author{2}{Firstname}#=%=#Eyal
+Author{2}{Email}#=%=#eyal@u.northwestern.edu
+Author{2}{Affiliation}#=%=#Northwestern University
+Author{3}{Lastname}#=%=#Goldwater
+Author{3}{Firstname}#=%=#Micah
+Author{3}{Email}#=%=#micahbg@gmail.com
+Author{3}{Affiliation}#=%=#Northwestern University
+Author{4}{Lastname}#=%=#Gentner
+Author{4}{Firstname}#=%=#Dedre
+Author{4}{Email}#=%=#gentner@northwestern.edu
+Author{4}{Affiliation}#=%=#Northwestern University
+Author{5}{Lastname}#=%=#
+Author{5}{Firstname}#=%=#
+Author{5}{Email}#=%=#
+Author{5}{Affiliation}#=%=#
+Author{6}{Lastname}#=%=#
+Author{6}{Firstname}#=%=#
+Author{6}{Email}#=%=#
+Author{6}{Affiliation}#=%=#
+Author{7}{Lastname}#=%=#
+Author{7}{Firstname}#=%=#
+Author{7}{Email}#=%=#
+Author{7}{Affiliation}#=%=#
+Author{8}{Lastname}#=%=#
+Author{8}{Firstname}#=%=#
+Author{8}{Email}#=%=#
+Author{8}{Affiliation}#=%=#
+Author{9}{Lastname}#=%=#
+Author{9}{Firstname}#=%=#
+Author{9}{Email}#=%=#
+Author{9}{Affiliation}#=%=#
+Author{10}{Lastname}#=%=#
+Author{10}{Firstname}#=%=#
+Author{10}{Email}#=%=#
+Author{10}{Affiliation}#=%=#
+Author{11}{Lastname}#=%=#
+Author{11}{Firstname}#=%=#
+Author{11}{Email}#=%=#
+Author{11}{Affiliation}#=%=#
+Author{12}{Lastname}#=%=#
+Author{12}{Firstname}#=%=#
+Author{12}{Email}#=%=#
+Author{12}{Affiliation}#=%=#
+Author{13}{Lastname}#=%=#
+Author{13}{Firstname}#=%=#
+Author{13}{Email}#=%=#
+Author{13}{Affiliation}#=%=#
+Author{14}{Lastname}#=%=#
+Author{14}{Firstname}#=%=#
+Author{14}{Email}#=%=#
+Author{14}{Affiliation}#=%=#
+Author{15}{Lastname}#=%=#
+Author{15}{Firstname}#=%=#
+Author{15}{Email}#=%=#
+Author{15}{Affiliation}#=%=#
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Anja Jamrozik
+JobTitle#==#
+Organization#==#Northwestern University
+Department of Psychology - 2029 Sheridan Road
+Evanston, IL 60208-2710, USA
+Abstract#==#What influences the likelihood that a word will be used metaphorically? We
+tested whether the likelihood of metaphorical use is related to the
+relationality of a word’s mean-ing. Relational words name relations between
+entities. We predicted that relational words, such as verbs (e.g., speak) and
+relational nouns (e.g., marriage) would be more likely to be used
+metaphorically than words that name entities (e.g., item). In two experiments,
+we collected expert ratings of metaphoricity for uses of verbs, relational
+nouns, and entity nouns collected from a corpus search. As pre-dicted, uses of
+relational words were rated as more metaphorical than uses of entity words. We
+discuss how these findings could inform NLP models of metaphor.
+==========

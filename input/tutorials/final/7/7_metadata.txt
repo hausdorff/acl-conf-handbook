@@ -1,0 +1,82 @@
+SubmissionNumber#=%=#7
+FinalPaperTitle#=%=#Discourse Processing
+ShortPaperTitle#=%=#Discourse Processing
+Author{1}{Lastname}#=%=#Stede
+Author{1}{Firstname}#=%=#Manfred
+Author{1}{Email}#=%=#stede@uni-potsdam.de
+Author{1}{Affiliation}#=%=#Potsdam University
+Author{2}{Lastname}#=%=#
+Author{2}{Firstname}#=%=#
+Author{2}{Email}#=%=#
+Author{2}{Affiliation}#=%=#
+Author{3}{Lastname}#=%=#
+Author{3}{Firstname}#=%=#
+Author{3}{Email}#=%=#
+Author{3}{Affiliation}#=%=#
+Author{4}{Lastname}#=%=#
+Author{4}{Firstname}#=%=#
+Author{4}{Email}#=%=#
+Author{4}{Affiliation}#=%=#
+Author{5}{Lastname}#=%=#
+Author{5}{Firstname}#=%=#
+Author{5}{Email}#=%=#
+Author{5}{Affiliation}#=%=#
+Author{6}{Lastname}#=%=#
+Author{6}{Firstname}#=%=#
+Author{6}{Email}#=%=#
+Author{6}{Affiliation}#=%=#
+Author{7}{Lastname}#=%=#
+Author{7}{Firstname}#=%=#
+Author{7}{Email}#=%=#
+Author{7}{Affiliation}#=%=#
+Author{8}{Lastname}#=%=#
+Author{8}{Firstname}#=%=#
+Author{8}{Email}#=%=#
+Author{8}{Affiliation}#=%=#
+Author{9}{Lastname}#=%=#
+Author{9}{Firstname}#=%=#
+Author{9}{Email}#=%=#
+Author{9}{Affiliation}#=%=#
+Author{10}{Lastname}#=%=#
+Author{10}{Firstname}#=%=#
+Author{10}{Email}#=%=#
+Author{10}{Affiliation}#=%=#
+Author{11}{Lastname}#=%=#
+Author{11}{Firstname}#=%=#
+Author{11}{Email}#=%=#
+Author{11}{Affiliation}#=%=#
+Author{12}{Lastname}#=%=#
+Author{12}{Firstname}#=%=#
+Author{12}{Email}#=%=#
+Author{12}{Affiliation}#=%=#
+Author{13}{Lastname}#=%=#
+Author{13}{Firstname}#=%=#
+Author{13}{Email}#=%=#
+Author{13}{Affiliation}#=%=#
+Author{14}{Lastname}#=%=#
+Author{14}{Firstname}#=%=#
+Author{14}{Email}#=%=#
+Author{14}{Affiliation}#=%=#
+Author{15}{Lastname}#=%=#
+Author{15}{Firstname}#=%=#
+Author{15}{Email}#=%=#
+Author{15}{Affiliation}#=%=#
+NumberOfPages#=%=#3
+CopyrightSigned#=%=#Katrin Erk
+JobTitle#==#tutorials chair
+Organization#==#
+Abstract#==#The observation that discourse is more than a mere sequence of utterances or
+sentences amounts to a truism. But what follows from this? In what way does the
+"value added" arise when segments of discourse are juxtaposed - how does
+hierarchical structure originate from a linearized discourse?
+
+While many discourse phenomena apply to dialogue and monologue alike, this
+tutorial will center its attention on monologue written text. The perspective
+taken is that of practical language processing: We study methods for
+automatically deriving discourse information from text, and point to aspects of
+their implementation. The emphasis is on breadth rather than depth, so that the
+attendees will get an overview of the central tasks of discourse processing,
+with pointers to the literature for studying the individual problems in more
+depth. Much of the tutorial will follow the line of the recent book M. Stede:
+Discourse Processing. Morgan & Claypool 2011.
+==========

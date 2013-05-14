@@ -1,0 +1,84 @@
+SubmissionNumber#=%=#82
+FinalPaperTitle#=%=#Cross-Lingual Semantic Similarity of Words as the Similarity of Their Semantic Word Responses
+ShortPaperTitle#=%=#Cross-Lingual Semantic Similarity of Words as the Similarity of Their Semantic Word Responses
+Author{1}{Lastname}#=%=#Vulić
+Author{1}{Firstname}#=%=#Ivan
+Author{1}{Email}#=%=#ivan.vulic@cs.kuleuven.be
+Author{1}{Affiliation}#=%=#Department of Computer Science, KU Leuven
+Author{2}{Lastname}#=%=#Moens
+Author{2}{Firstname}#=%=#Marie-Francine
+Author{2}{Email}#=%=#sien.moens@cs.kuleuven.be
+Author{2}{Affiliation}#=%=#Department of Computer Science, KU Leuven
+Author{3}{Lastname}#=%=#
+Author{3}{Firstname}#=%=#
+Author{3}{Email}#=%=#
+Author{3}{Affiliation}#=%=#
+Author{4}{Lastname}#=%=#
+Author{4}{Firstname}#=%=#
+Author{4}{Email}#=%=#
+Author{4}{Affiliation}#=%=#
+Author{5}{Lastname}#=%=#
+Author{5}{Firstname}#=%=#
+Author{5}{Email}#=%=#
+Author{5}{Affiliation}#=%=#
+Author{6}{Lastname}#=%=#
+Author{6}{Firstname}#=%=#
+Author{6}{Email}#=%=#
+Author{6}{Affiliation}#=%=#
+Author{7}{Lastname}#=%=#
+Author{7}{Firstname}#=%=#
+Author{7}{Email}#=%=#
+Author{7}{Affiliation}#=%=#
+Author{8}{Lastname}#=%=#
+Author{8}{Firstname}#=%=#
+Author{8}{Email}#=%=#
+Author{8}{Affiliation}#=%=#
+Author{9}{Lastname}#=%=#
+Author{9}{Firstname}#=%=#
+Author{9}{Email}#=%=#
+Author{9}{Affiliation}#=%=#
+Author{10}{Lastname}#=%=#
+Author{10}{Firstname}#=%=#
+Author{10}{Email}#=%=#
+Author{10}{Affiliation}#=%=#
+Author{11}{Lastname}#=%=#
+Author{11}{Firstname}#=%=#
+Author{11}{Email}#=%=#
+Author{11}{Affiliation}#=%=#
+Author{12}{Lastname}#=%=#
+Author{12}{Firstname}#=%=#
+Author{12}{Email}#=%=#
+Author{12}{Affiliation}#=%=#
+Author{13}{Lastname}#=%=#
+Author{13}{Firstname}#=%=#
+Author{13}{Email}#=%=#
+Author{13}{Affiliation}#=%=#
+Author{14}{Lastname}#=%=#
+Author{14}{Firstname}#=%=#
+Author{14}{Email}#=%=#
+Author{14}{Affiliation}#=%=#
+Author{15}{Lastname}#=%=#
+Author{15}{Firstname}#=%=#
+Author{15}{Email}#=%=#
+Author{15}{Affiliation}#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Ivan Vulic
+JobTitle#==#
+Organization#==#Department of Computer Science, KU Leuven, Celestijnenlaan 200A, 3001 Heverlee, Belgium
+Abstract#==#We propose a new approach to identifying semantically similar words across
+languages. The approach is based on an idea that two words in different
+languages are similar if they are likely to generate similar words (which
+includes both source and target language words) as their top semantic word
+responses. Semantic word responding is a concept from cognitive science which
+addresses detecting most likely words that humans output as free word
+associations given some cue word. The method consists of two main steps: (1) it
+utilizes a probabilistic multilingual topic model trained on comparable data to
+learn and quantify the semantic word responses, (2) it provides ranked lists of
+similar words according to the similarity of their semantic word response
+vectors. We evaluate our approach in the task of bilingual lexicon extraction
+(BLE) for a variety of language pairs. We show that in the cross-lingual
+settings without any language pair dependent knowledge the response-based
+method of similarity is more robust and outperforms current state-of-the art
+methods that directly operate in the semantic space of latent cross-lingual
+concepts/topics.
+==========

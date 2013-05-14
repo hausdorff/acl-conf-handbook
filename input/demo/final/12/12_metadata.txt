@@ -1,0 +1,74 @@
+SubmissionNumber#=%=#12
+FinalPaperTitle#=%=#UMLS::Similarity: Measuring the Relatedness and Similarity of Biomedical Concepts
+ShortPaperTitle#=%=#UMLS::Similarity: Measuring the Relatedness and Similarity of Biomedical Concepts
+Author{1}{Lastname}#=%=#McInnes
+Author{1}{Firstname}#=%=#Bridget
+Author{1}{Email}#=%=#btmcinnes@gmail.com
+Author{1}{Affiliation}#=%=#Securboration, Inc.
+Author{2}{Lastname}#=%=#Pedersen
+Author{2}{Firstname}#=%=#Ted
+Author{2}{Email}#=%=#tpederse@d.umn.edu
+Author{2}{Affiliation}#=%=#University of Minnesota Duluth
+Author{3}{Lastname}#=%=#Pakhomov
+Author{3}{Firstname}#=%=#Serguei
+Author{3}{Email}#=%=#pakh0002@umn.edu
+Author{3}{Affiliation}#=%=#University of Minnesota
+Author{4}{Lastname}#=%=#Liu
+Author{4}{Firstname}#=%=#Ying
+Author{4}{Email}#=%=#yingyingliu@gmail.com
+Author{4}{Affiliation}#=%=#City of Hope Cancer Research Hospital
+Author{5}{Lastname}#=%=#Melton-Meaux
+Author{5}{Firstname}#=%=#Genevieve
+Author{5}{Email}#=%=#gmelton@umn.edu
+Author{5}{Affiliation}#=%=#University of Minnesota
+Author{6}{Lastname}#=%=#
+Author{6}{Firstname}#=%=#
+Author{6}{Email}#=%=#
+Author{6}{Affiliation}#=%=#
+Author{7}{Lastname}#=%=#
+Author{7}{Firstname}#=%=#
+Author{7}{Email}#=%=#
+Author{7}{Affiliation}#=%=#
+Author{8}{Lastname}#=%=#
+Author{8}{Firstname}#=%=#
+Author{8}{Email}#=%=#
+Author{8}{Affiliation}#=%=#
+Author{9}{Lastname}#=%=#
+Author{9}{Firstname}#=%=#
+Author{9}{Email}#=%=#
+Author{9}{Affiliation}#=%=#
+Author{10}{Lastname}#=%=#
+Author{10}{Firstname}#=%=#
+Author{10}{Email}#=%=#
+Author{10}{Affiliation}#=%=#
+Author{11}{Lastname}#=%=#
+Author{11}{Firstname}#=%=#
+Author{11}{Email}#=%=#
+Author{11}{Affiliation}#=%=#
+Author{12}{Lastname}#=%=#
+Author{12}{Firstname}#=%=#
+Author{12}{Email}#=%=#
+Author{12}{Affiliation}#=%=#
+Author{13}{Lastname}#=%=#
+Author{13}{Firstname}#=%=#
+Author{13}{Email}#=%=#
+Author{13}{Affiliation}#=%=#
+Author{14}{Lastname}#=%=#
+Author{14}{Firstname}#=%=#
+Author{14}{Email}#=%=#
+Author{14}{Affiliation}#=%=#
+Author{15}{Lastname}#=%=#
+Author{15}{Firstname}#=%=#
+Author{15}{Email}#=%=#
+Author{15}{Affiliation}#=%=#
+NumberOfPages#=%=#4
+CopyrightSigned#=%=#Bridget McInnes
+JobTitle#==#
+Organization#==#Securboration
+117 Edinburgh South Drive Suite 205
+Cary, NC 27511
+Abstract#==#UMLS::Similarity is freely available open source software that allows a user to
+measure the semantic similarity or relatedness of biomedical terms found in the
+Unified Medical Language System (UMLS). It is written in Perl and can be used
+via a command line interface, an API, or a Web interface.
+==========

@@ -1,0 +1,82 @@
+SubmissionNumber#=%=#20
+FinalPaperTitle#=%=#From newspaper to microblogging: What does it take to find opinions?
+ShortPaperTitle#=%=#From newspaper to microblogging
+Author{1}{Lastname}#=%=#Sidorenko
+Author{1}{Firstname}#=%=#Wladimir
+Author{1}{Email}#=%=#wlsidorenko@gmail.com
+Author{1}{Affiliation}#=%=#University of Potsdam
+Author{2}{Lastname}#=%=#Sonntag
+Author{2}{Firstname}#=%=#Jonathan
+Author{2}{Email}#=%=#jonathan.sonntag@yahoo.de
+Author{2}{Affiliation}#=%=#University of Potsdam
+Author{3}{Lastname}#=%=#Krüger
+Author{3}{Firstname}#=%=#Nina
+Author{3}{Email}#=%=#nina.krueger@wi.uni-muenster.de
+Author{3}{Affiliation}#=%=#University of Münster
+Author{4}{Lastname}#=%=#Stieglitz
+Author{4}{Firstname}#=%=#Stefan
+Author{4}{Email}#=%=#stefan.stieglitz@uni-muenster.de
+Author{4}{Affiliation}#=%=#University of Münster
+Author{5}{Lastname}#=%=#Stede
+Author{5}{Firstname}#=%=#Manfred
+Author{5}{Email}#=%=#stede@uni-potsdam.de
+Author{5}{Affiliation}#=%=#University of Potsdam
+Author{6}{Lastname}#=%=#
+Author{6}{Firstname}#=%=#
+Author{6}{Email}#=%=#
+Author{6}{Affiliation}#=%=#
+Author{7}{Lastname}#=%=#
+Author{7}{Firstname}#=%=#
+Author{7}{Email}#=%=#
+Author{7}{Affiliation}#=%=#
+Author{8}{Lastname}#=%=#
+Author{8}{Firstname}#=%=#
+Author{8}{Email}#=%=#
+Author{8}{Affiliation}#=%=#
+Author{9}{Lastname}#=%=#
+Author{9}{Firstname}#=%=#
+Author{9}{Email}#=%=#
+Author{9}{Affiliation}#=%=#
+Author{10}{Lastname}#=%=#
+Author{10}{Firstname}#=%=#
+Author{10}{Email}#=%=#
+Author{10}{Affiliation}#=%=#
+Author{11}{Lastname}#=%=#
+Author{11}{Firstname}#=%=#
+Author{11}{Email}#=%=#
+Author{11}{Affiliation}#=%=#
+Author{12}{Lastname}#=%=#
+Author{12}{Firstname}#=%=#
+Author{12}{Email}#=%=#
+Author{12}{Affiliation}#=%=#
+Author{13}{Lastname}#=%=#
+Author{13}{Firstname}#=%=#
+Author{13}{Email}#=%=#
+Author{13}{Affiliation}#=%=#
+Author{14}{Lastname}#=%=#
+Author{14}{Firstname}#=%=#
+Author{14}{Email}#=%=#
+Author{14}{Affiliation}#=%=#
+Author{15}{Lastname}#=%=#
+Author{15}{Firstname}#=%=#
+Author{15}{Email}#=%=#
+Author{15}{Affiliation}#=%=#
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Manfred Stede
+JobTitle#==#
+Organization#==#University of Potsdam
+EB Cognitive Science
+Karl-Liebknecht-Str 24-25
+14476 Potsdam
+Germany
+Abstract#==#We compare the performance of two lexicon-based sentiment systems -
+  SentiStrength (Thelwall et al. 12) and SO-CAL
+  (Taboada et al. 11} on the two genres of newspaper text and
+  tweets. While SentiStrength has been geared specifically toward
+  short social-media text, SO-CAL was built for general, longer
+  text. After the initial comparison, we successively enrich the
+  SO-CAL-based analysis with tweet-specific mechanisms and observe
+  that in some cases, this improves the performance. A qualitative
+  error analysis then identifies classes of typical problems the two
+  systems have with tweets.
+==========

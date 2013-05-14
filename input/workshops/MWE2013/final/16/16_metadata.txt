@@ -1,0 +1,76 @@
+SubmissionNumber#=%=#16
+FinalPaperTitle#=%=#Construction of {E}nglish {MWE} Dictionary and its Application to {POS} Tagging
+ShortPaperTitle#=%=#Construction of {E}nglish {MWE} Dictionary and its Application to {POS} Tagging
+Author{1}{Lastname}#=%=#Shigeto
+Author{1}{Firstname}#=%=#Yutaro
+Author{1}{Email}#=%=#yutaro-s@is.naist.jp
+Author{1}{Affiliation}#=%=#Nara Institute of Science and Technology
+Author{2}{Lastname}#=%=#Azuma
+Author{2}{Firstname}#=%=#Ai
+Author{2}{Email}#=%=#ai-a@is.naist.jp
+Author{2}{Affiliation}#=%=#Nara Institute of Science and Technology
+Author{3}{Lastname}#=%=#Hisamoto
+Author{3}{Firstname}#=%=#Sorami
+Author{3}{Email}#=%=#sorami-h@is.naist.jp
+Author{3}{Affiliation}#=%=#Nara Institute of Science and Technology
+Author{4}{Lastname}#=%=#Kondo
+Author{4}{Firstname}#=%=#Shuhei
+Author{4}{Email}#=%=#shuhei-k@is.naist.jp
+Author{4}{Affiliation}#=%=#Nara Institute of Science and Technology
+Author{5}{Lastname}#=%=#Kouse
+Author{5}{Firstname}#=%=#Tomoya
+Author{5}{Email}#=%=#tomoya-kos@is.naist.jp
+Author{5}{Affiliation}#=%=#Nara Institute of Science and Technology
+Author{6}{Lastname}#=%=#Sakaguchi
+Author{6}{Firstname}#=%=#Keisuke
+Author{6}{Email}#=%=#keisuke-sa@is.naist.jp
+Author{6}{Affiliation}#=%=#Nara Institute of Science and Technology
+Author{7}{Lastname}#=%=#Yoshimoto
+Author{7}{Firstname}#=%=#Akifumi
+Author{7}{Email}#=%=#akifumi-y@is.naist.jp
+Author{7}{Affiliation}#=%=#Nara Institute of Science and Technology
+Author{8}{Lastname}#=%=#Yung
+Author{8}{Firstname}#=%=#Frances
+Author{8}{Email}#=%=#pikyufrances-y@is.naist.jp
+Author{8}{Affiliation}#=%=#Nara Institute of Science and Technology
+Author{9}{Lastname}#=%=#Matsumoto
+Author{9}{Firstname}#=%=#Yuji
+Author{9}{Email}#=%=#matsu@is.naist.jp
+Author{9}{Affiliation}#=%=#Nara Institute of Science and Technology
+Author{10}{Lastname}#=%=#
+Author{10}{Firstname}#=%=#
+Author{10}{Email}#=%=#
+Author{10}{Affiliation}#=%=#
+Author{11}{Lastname}#=%=#
+Author{11}{Firstname}#=%=#
+Author{11}{Email}#=%=#
+Author{11}{Affiliation}#=%=#
+Author{12}{Lastname}#=%=#
+Author{12}{Firstname}#=%=#
+Author{12}{Email}#=%=#
+Author{12}{Affiliation}#=%=#
+Author{13}{Lastname}#=%=#
+Author{13}{Firstname}#=%=#
+Author{13}{Email}#=%=#
+Author{13}{Affiliation}#=%=#
+Author{14}{Lastname}#=%=#
+Author{14}{Firstname}#=%=#
+Author{14}{Email}#=%=#
+Author{14}{Affiliation}#=%=#
+Author{15}{Lastname}#=%=#
+Author{15}{Firstname}#=%=#
+Author{15}{Email}#=%=#
+Author{15}{Affiliation}#=%=#
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Yutaro Shigeto
+JobTitle#==#
+Organization#==#Graduate School of Information Science
+Nara Institute of Science and Technology
+8916-5 Takayama, Ikoma, Nara 630-0192, Japan
+Abstract#==#This paper presents our ongoing project for construction of an English MWE
+dictionary, and its application to MWE-aware POS tagging.
+The experimental results show that the MWE-aware tagger achieved
+better performance on POS tagging and MWE recognition. Currently we only deal
+with fixed MWEs, including adverbs, conjunctions, determiners, prepositions,
+prepositional phrases and pronouns.
+==========

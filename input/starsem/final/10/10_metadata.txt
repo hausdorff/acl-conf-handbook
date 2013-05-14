@@ -1,0 +1,77 @@
+SubmissionNumber#=%=#10
+FinalPaperTitle#=%=#Distinguishing Common and Proper Nouns
+ShortPaperTitle#=%=#Distinguishing Common and Proper Nouns
+Author{1}{Lastname}#=%=#Preiss
+Author{1}{Firstname}#=%=#Judita
+Author{1}{Email}#=%=#j.preiss@sheffield.ac.uk
+Author{1}{Affiliation}#=%=#University of Sheffield
+Author{2}{Lastname}#=%=#Stevenson
+Author{2}{Firstname}#=%=#Mark
+Author{2}{Email}#=%=#m.stevenson@dcs.shef.ac.uk
+Author{2}{Affiliation}#=%=#University of Sheffield
+Author{3}{Lastname}#=%=#
+Author{3}{Firstname}#=%=#
+Author{3}{Email}#=%=#
+Author{3}{Affiliation}#=%=#
+Author{4}{Lastname}#=%=#
+Author{4}{Firstname}#=%=#
+Author{4}{Email}#=%=#
+Author{4}{Affiliation}#=%=#
+Author{5}{Lastname}#=%=#
+Author{5}{Firstname}#=%=#
+Author{5}{Email}#=%=#
+Author{5}{Affiliation}#=%=#
+Author{6}{Lastname}#=%=#
+Author{6}{Firstname}#=%=#
+Author{6}{Email}#=%=#
+Author{6}{Affiliation}#=%=#
+Author{7}{Lastname}#=%=#
+Author{7}{Firstname}#=%=#
+Author{7}{Email}#=%=#
+Author{7}{Affiliation}#=%=#
+Author{8}{Lastname}#=%=#
+Author{8}{Firstname}#=%=#
+Author{8}{Email}#=%=#
+Author{8}{Affiliation}#=%=#
+Author{9}{Lastname}#=%=#
+Author{9}{Firstname}#=%=#
+Author{9}{Email}#=%=#
+Author{9}{Affiliation}#=%=#
+Author{10}{Lastname}#=%=#
+Author{10}{Firstname}#=%=#
+Author{10}{Email}#=%=#
+Author{10}{Affiliation}#=%=#
+Author{11}{Lastname}#=%=#
+Author{11}{Firstname}#=%=#
+Author{11}{Email}#=%=#
+Author{11}{Affiliation}#=%=#
+Author{12}{Lastname}#=%=#
+Author{12}{Firstname}#=%=#
+Author{12}{Email}#=%=#
+Author{12}{Affiliation}#=%=#
+Author{13}{Lastname}#=%=#
+Author{13}{Firstname}#=%=#
+Author{13}{Email}#=%=#
+Author{13}{Affiliation}#=%=#
+Author{14}{Lastname}#=%=#
+Author{14}{Firstname}#=%=#
+Author{14}{Email}#=%=#
+Author{14}{Affiliation}#=%=#
+Author{15}{Lastname}#=%=#
+Author{15}{Firstname}#=%=#
+Author{15}{Email}#=%=#
+Author{15}{Affiliation}#=%=#
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Mark Stevenson
+JobTitle#==#
+Organization#==#University of Sheffield
+Western Bank
+Sheffield S10 2TN
+UK
+Abstract#==#We describe a number of techniques for automatically deriving lists of common
+and proper nouns, and show that the distinction between the two can be made
+automatically using a vector space model learning algorithm. We present a
+direct evaluation on the British National Corpus, and application based
+evaluations on Twitter messages and on automatic speech recognition (where the
+system could be employed to restore case).
+==========

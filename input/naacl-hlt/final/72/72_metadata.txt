@@ -1,0 +1,80 @@
+SubmissionNumber#=%=#72
+FinalPaperTitle#=%=#Down-stream effects of tree-to-dependency conversions
+ShortPaperTitle#=%=#Down-stream effects of tree-to-dependency conversions
+Author{1}{Lastname}#=%=#Elming
+Author{1}{Firstname}#=%=#Jakob
+Author{1}{Email}#=%=#jel.isv@cbs.dk
+Author{1}{Affiliation}#=%=#Copenhagen Business School
+Author{2}{Lastname}#=%=#Johannsen
+Author{2}{Firstname}#=%=#Anders
+Author{2}{Email}#=%=#ajohannsen@hum.ku.dk
+Author{2}{Affiliation}#=%=#University of Copenhagen
+Author{3}{Lastname}#=%=#Klerke
+Author{3}{Firstname}#=%=#Sigrid
+Author{3}{Email}#=%=#sigridklerke@gmail.com
+Author{3}{Affiliation}#=%=#University of Copenhagen
+Author{4}{Lastname}#=%=#Lapponi
+Author{4}{Firstname}#=%=#Emanuele
+Author{4}{Email}#=%=#emanuel@ifi.uio.no
+Author{4}{Affiliation}#=%=#University of Oslo
+Author{5}{Lastname}#=%=#Martinez Alonso
+Author{5}{Firstname}#=%=#Hector
+Author{5}{Email}#=%=#alonso@hum.ku.dk
+Author{5}{Affiliation}#=%=#University of Copenhagen
+Author{6}{Lastname}#=%=#Søgaard
+Author{6}{Firstname}#=%=#Anders
+Author{6}{Email}#=%=#soegaard@hum.ku.dk
+Author{6}{Affiliation}#=%=#University of Copenhagen
+Author{7}{Lastname}#=%=#
+Author{7}{Firstname}#=%=#
+Author{7}{Email}#=%=#
+Author{7}{Affiliation}#=%=#
+Author{8}{Lastname}#=%=#
+Author{8}{Firstname}#=%=#
+Author{8}{Email}#=%=#
+Author{8}{Affiliation}#=%=#
+Author{9}{Lastname}#=%=#
+Author{9}{Firstname}#=%=#
+Author{9}{Email}#=%=#
+Author{9}{Affiliation}#=%=#
+Author{10}{Lastname}#=%=#
+Author{10}{Firstname}#=%=#
+Author{10}{Email}#=%=#
+Author{10}{Affiliation}#=%=#
+Author{11}{Lastname}#=%=#
+Author{11}{Firstname}#=%=#
+Author{11}{Email}#=%=#
+Author{11}{Affiliation}#=%=#
+Author{12}{Lastname}#=%=#
+Author{12}{Firstname}#=%=#
+Author{12}{Email}#=%=#
+Author{12}{Affiliation}#=%=#
+Author{13}{Lastname}#=%=#
+Author{13}{Firstname}#=%=#
+Author{13}{Email}#=%=#
+Author{13}{Affiliation}#=%=#
+Author{14}{Lastname}#=%=#
+Author{14}{Firstname}#=%=#
+Author{14}{Email}#=%=#
+Author{14}{Affiliation}#=%=#
+Author{15}{Lastname}#=%=#
+Author{15}{Firstname}#=%=#
+Author{15}{Email}#=%=#
+Author{15}{Affiliation}#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Anders Søgaard
+JobTitle#==#
+Organization#==#University of Copenhagen
+Njalsgade 142
+DK-2300 Copenhagen S
+Abstract#==#Dependency analysis relies on morphosyntactic evidence, as well as semantic
+evidence. In some cases, however, morphosyntactic evidence seems to be in
+conflict with semantic evidence. For this reason dependency grammar theories,
+annotation guidelines and tree-to-dependency conversion schemes often differ in
+how they analyze various syntactic constructions. Most experiments for which
+constituent-based treebanks such as the Penn Treebank are converted into
+dependency treebanks rely blindly on one of four-five widely used
+tree-to-dependency conversion schemes. This paper evaluates the down-stream
+effect of choice of conversion scheme, showing that it has dramatic impact on
+end results.
+==========

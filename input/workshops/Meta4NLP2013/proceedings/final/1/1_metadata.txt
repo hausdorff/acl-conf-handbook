@@ -1,0 +1,83 @@
+SubmissionNumber#=%=#1
+FinalPaperTitle#=%=#Automatic Metaphor Detection using Large-Scale Lexical Resources and Conventional Metaphor Extraction
+ShortPaperTitle#=%=#Automatic Metaphor Detection using Large-Scale Lexical Resources and Conventional Metaphor Extraction
+Author{1}{Lastname}#=%=#Wilks
+Author{1}{Firstname}#=%=#Yorick
+Author{1}{Email}#=%=#y.wilks@dcs.shef.ac.uk
+Author{1}{Affiliation}#=%=#Florida Institute of Human and Machine Cognition
+Author{2}{Lastname}#=%=#Dalton
+Author{2}{Firstname}#=%=#Adam
+Author{2}{Email}#=%=#adalton@ihmc.us
+Author{2}{Affiliation}#=%=#Florida Institute of Human and Machine Cognition
+Author{3}{Lastname}#=%=#Allen
+Author{3}{Firstname}#=%=#James
+Author{3}{Email}#=%=#jallen@ihmc.us
+Author{3}{Affiliation}#=%=#Florida Institute of Human and Machine Cognition
+Author{4}{Lastname}#=%=#Galescu
+Author{4}{Firstname}#=%=#Lucian
+Author{4}{Email}#=%=#lgalescu@ihmc.us
+Author{4}{Affiliation}#=%=#Florida Institute of Human and Machine Cognition
+Author{5}{Lastname}#=%=#
+Author{5}{Firstname}#=%=#
+Author{5}{Email}#=%=#
+Author{5}{Affiliation}#=%=#
+Author{6}{Lastname}#=%=#
+Author{6}{Firstname}#=%=#
+Author{6}{Email}#=%=#
+Author{6}{Affiliation}#=%=#
+Author{7}{Lastname}#=%=#
+Author{7}{Firstname}#=%=#
+Author{7}{Email}#=%=#
+Author{7}{Affiliation}#=%=#
+Author{8}{Lastname}#=%=#
+Author{8}{Firstname}#=%=#
+Author{8}{Email}#=%=#
+Author{8}{Affiliation}#=%=#
+Author{9}{Lastname}#=%=#
+Author{9}{Firstname}#=%=#
+Author{9}{Email}#=%=#
+Author{9}{Affiliation}#=%=#
+Author{10}{Lastname}#=%=#
+Author{10}{Firstname}#=%=#
+Author{10}{Email}#=%=#
+Author{10}{Affiliation}#=%=#
+Author{11}{Lastname}#=%=#
+Author{11}{Firstname}#=%=#
+Author{11}{Email}#=%=#
+Author{11}{Affiliation}#=%=#
+Author{12}{Lastname}#=%=#
+Author{12}{Firstname}#=%=#
+Author{12}{Email}#=%=#
+Author{12}{Affiliation}#=%=#
+Author{13}{Lastname}#=%=#
+Author{13}{Firstname}#=%=#
+Author{13}{Email}#=%=#
+Author{13}{Affiliation}#=%=#
+Author{14}{Lastname}#=%=#
+Author{14}{Firstname}#=%=#
+Author{14}{Email}#=%=#
+Author{14}{Affiliation}#=%=#
+Author{15}{Lastname}#=%=#
+Author{15}{Firstname}#=%=#
+Author{15}{Email}#=%=#
+Author{15}{Affiliation}#=%=#
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#Yorick Wilks
+JobTitle#==#
+Organization#==#15 SE Osceola
+Ocala, FL 34471, USA.
+Abstract#==#The paper presents an experimental algorithm to detect conventionalized
+metaphors implicit in the lexical data in a resource like WordNet, where
+metaphors are coded into the senses and so would never be detected by any
+algorithm based on the violation of preferences, since there would always be a
+constraint satisfied by such senses. We report an implementation of this
+algorithm, which was implemented first the preference constraints in VerbNet.
+We then derived in a systematic way a far more extensive set of constraints
+based on WordNet glosses, and with this data we reimplemented the detec- tion
+algorithm and got a substantial improvement in recall. We suggest that this
+technique could contribute to improve the performance of existing metaphor
+detec- tion strategies that do not attempt to detect convention- alized
+metaphors. The new WordNet-derived data is of wider significance because it
+also contains adjective constraints, unlike any existing lexical resource, and
+can be applied to any language with a semantic parser (and WN) for it.
+==========

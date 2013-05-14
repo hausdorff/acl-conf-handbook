@@ -1,0 +1,44 @@
+8  # Towards a Formal Distributional Semantics: Simulating Logical Calculi with Tensors
+9  # Unsupervised Word Usage Similarity in Social Media Texts
+10  # Distinguishing Common and Proper Nouns
+11  # A Dataset of Syntactic-Ngrams over Time from a Very Large Corpus of English Books
+13  # Semantic Parsing Freebase: Towards Open-domain Semantic Parsing
+14  # Automatically Identifying Implicit Arguments to Improve Argument Linking and Coherence Modeling
+17  # Using the text to evaluate short answers for reading comprehension exercises
+20  # Montague Meets Markov: Deep Semantics with Probabilistic Logical Form
+25  # Exploring Vector Space Models to Predict the Compositionality of German Noun-Noun Compounds
+32  # Bootstrapping Semantic Role Labelers from Parallel Data
+33  # Choosing the Right Words: Characterizing and Reducing Error of the Word Count Approach
+34  # Coarse to Fine Grained Sense Disambiguation in Wikipedia
+39  # Predicting the Compositionality of Multiword Expressions Using Translations in Multiple Languages
+40  # Metaphor Identification as Interpretation
+47  # SXUCFN-Core: STS Models Integrating FrameNet Parsing Information
+48  # UCAM-CORE: Incorporating structured distributional similarity into STS
+49  # PolyUCOMP-CORE\_TYPED: Computing Semantic Textual Similarity using Overlapped Senses
+50  # iKernels-Core: Tree Kernel Learning for Textual Similarity
+51  # HENRY-CORE: Domain Adaptation and Stacking for Text Similarity
+52  # DeepPurple: Lexical, String and Affective Feature Fusion for Sentence-Level Semantic Similarity Estimation
+53  # UMCC\_DLSI: Textual Similarity based on Lexical-Semantic features
+54  # UNITOR-CORE\_TYPED: Combining Text Similarity and Semantic Filters through SV Regression
+55  # UMBC\_EBIQUITY-CORE: Semantic Textual Similarity Systems
+56  # BUT-TYPED: Using domain knowledge for computing typed similarity
+57  # ECNUCS: Measuring Short Text Semantic Equivalence Using Multiple Similarity Measurements
+58  # UBC\_UOS-TYPED: Regression for typed-similarity
+59  # KnCe2013-CORE:Semantic Text Similarity by use of Knowledge Bases
+60  # UPC-CORE: What Can Machine Translation Evaluation Metrics and Wikipedia Do for Estimating Semantic Textual Similarity?
+61  # MayoClinicNLP--CORE: Semantic representations for textual similarity
+62  # SRIUBC-Core: Multiword Soft Similarity Models for Textual Similarity
+63  # LIPN-CORE: Semantic Text Similarity using n-grams, WordNet, Syntactic Analysis, ESA and Information Retrieval based Features
+64  # UNIBA-CORE: Combining Strategies for Semantic Textual Similarity
+65  # NTNU-CORE: Combining strong features for semantic similarity
+66  # DLS\@CU-CORE: A Simple Machine Learning Model of Semantic Textual Similarity
+67  # KLUE-CORE: A regression model of semantic textual similarity
+68  # IBM\_EG-CORE: Comparing multiple Lexical and NE matching features in measuring Semantic Textual similarity
+69  # SOFTCARDINALIRY-CORE: Improving Text Overlap with Distributional Measures for Semantic Textual Similarity
+70  # CLaC-CORE: Exhaustive Feature Combination for Measuring Textual Similarity
+71  # UniMelb\_NLP-CORE: Integrating predictions from multiple domains and feature sets for estimating semantic textual similarity
+72  # CFILT-CORE: Semantic Textual Similarity using Universal Networking Language
+73  # CPN-CORE: A Text Semantic Similarity System Infused with Opinion Knowledge
+74  # *SEM 2013 shared task: Semantic Textual Similarity
+75  # INAOE\_UPV-CORE: Extracting Word Associations from Document Corpora to estimate Semantic Textual Similarity
+76  # CNGL-CORE: Referential Translation Machines for Measuring Semantic Similarity

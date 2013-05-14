@@ -1,0 +1,81 @@
+SubmissionNumber#=%=#33
+FinalPaperTitle#=%=#Choosing the Right Words: Characterizing and Reducing Error of the Word Count Approach
+ShortPaperTitle#=%=#Choosing the Right Words: Characterizing and Reducing Error of the Word Count Approach
+Author{1}{Lastname}#=%=#Schwartz
+Author{1}{Firstname}#=%=#Hansen Andrew
+Author{1}{Email}#=%=#hansens@seas.upenn.edu
+Author{1}{Affiliation}#=%=#University of Pennsylvania
+Author{2}{Lastname}#=%=#Eichstaedt
+Author{2}{Firstname}#=%=#Johannes
+Author{2}{Email}#=%=#johannes.eichstaedt@gmail.com
+Author{2}{Affiliation}#=%=#University of Pennsylvania
+Author{3}{Lastname}#=%=#Blanco
+Author{3}{Firstname}#=%=#Eduardo
+Author{3}{Email}#=%=#eduardo@lymba.com
+Author{3}{Affiliation}#=%=#Lymba Corporation
+Author{4}{Lastname}#=%=#Dziurzyński
+Author{4}{Firstname}#=%=#Lukasz
+Author{4}{Email}#=%=#lukaszdz@sas.upenn.edu
+Author{4}{Affiliation}#=%=#University of Pennsylvania
+Author{5}{Lastname}#=%=#Kern
+Author{5}{Firstname}#=%=#Margaret L.
+Author{5}{Email}#=%=#mkern@sas.upenn.edu
+Author{5}{Affiliation}#=%=#University of Pennsylvania
+Author{6}{Lastname}#=%=#Ramones
+Author{6}{Firstname}#=%=#Stephanie
+Author{6}{Email}#=%=#sramones@sas.upenn.edu
+Author{6}{Affiliation}#=%=#University of Pennsylvania
+Author{7}{Lastname}#=%=#Seligman
+Author{7}{Firstname}#=%=#Martin
+Author{7}{Email}#=%=#SeligmanInfo@psych.upenn.edu
+Author{7}{Affiliation}#=%=#University of Pennsylvania
+Author{8}{Lastname}#=%=#Ungar
+Author{8}{Firstname}#=%=#Lyle
+Author{8}{Email}#=%=#ungar@cis.upenn.edu
+Author{8}{Affiliation}#=%=#University of Pennsylvania
+Author{9}{Lastname}#=%=#
+Author{9}{Firstname}#=%=#
+Author{9}{Email}#=%=#
+Author{9}{Affiliation}#=%=#
+Author{10}{Lastname}#=%=#
+Author{10}{Firstname}#=%=#
+Author{10}{Email}#=%=#
+Author{10}{Affiliation}#=%=#
+Author{11}{Lastname}#=%=#
+Author{11}{Firstname}#=%=#
+Author{11}{Email}#=%=#
+Author{11}{Affiliation}#=%=#
+Author{12}{Lastname}#=%=#
+Author{12}{Firstname}#=%=#
+Author{12}{Email}#=%=#
+Author{12}{Affiliation}#=%=#
+Author{13}{Lastname}#=%=#
+Author{13}{Firstname}#=%=#
+Author{13}{Email}#=%=#
+Author{13}{Affiliation}#=%=#
+Author{14}{Lastname}#=%=#
+Author{14}{Firstname}#=%=#
+Author{14}{Email}#=%=#
+Author{14}{Affiliation}#=%=#
+Author{15}{Lastname}#=%=#
+Author{15}{Firstname}#=%=#
+Author{15}{Email}#=%=#
+Author{15}{Affiliation}#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#H. Andrew Schwartz
+JobTitle#==#
+Organization#==#University of Pennsylvania
+3701 Market St. Suite 200
+Philadelphia, PA 19104
+Abstract#==#Social scientists are increasingly using the vast amount of text available on
+social media to measure variation in happiness and other psychological states.
+Such studies count words deemed to be indicators of happiness and track how the
+word frequencies change across locations or time. This ``word count'' approach
+is simple and scalable, yet often picks up false signals, as words can appear
+in different contexts and take on different meanings. We characterize the types
+of errors that occur using the word count approach, and find lexical ambiguity
+to be the most prevalent. We then show that one can reduce error with a simple
+refinement to such lexica by automatically eliminating highly ambiguous words.
+The resulting refined lexica improve precision as measured by human judgments
+of word occurrences in Facebook posts.
+==========

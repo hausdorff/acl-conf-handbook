@@ -1,0 +1,80 @@
+SubmissionNumber#=%=#4
+FinalPaperTitle#=%=#TMTprime: A Recommender System for MT and TM Integration
+ShortPaperTitle#=%=#TMTprime: A Recommender System for MT and TM Integration
+Author{1}{Lastname}#=%=#Dara
+Author{1}{Firstname}#=%=#Aswarth Abhilash
+Author{1}{Email}#=%=#adara@computing.dcu.ie
+Author{1}{Affiliation}#=%=#CNGL Dublin City University
+Author{2}{Lastname}#=%=#Dandapat
+Author{2}{Firstname}#=%=#Sandipan
+Author{2}{Email}#=%=#sdandapat@iitg.ernet.in
+Author{2}{Affiliation}#=%=#IIT-Guwahati, Assam, India
+Author{3}{Lastname}#=%=#Groves
+Author{3}{Firstname}#=%=#Declan
+Author{3}{Email}#=%=#dgroves@computing.dcu.ie
+Author{3}{Affiliation}#=%=#CNGL, Dublin City University
+Author{4}{Lastname}#=%=#van Genabith
+Author{4}{Firstname}#=%=#Josef
+Author{4}{Email}#=%=#josef@computing.dcu.ie
+Author{4}{Affiliation}#=%=#CNGL, Dublin City University
+Author{5}{Lastname}#=%=#
+Author{5}{Firstname}#=%=#
+Author{5}{Email}#=%=#
+Author{5}{Affiliation}#=%=#
+Author{6}{Lastname}#=%=#
+Author{6}{Firstname}#=%=#
+Author{6}{Email}#=%=#
+Author{6}{Affiliation}#=%=#
+Author{7}{Lastname}#=%=#
+Author{7}{Firstname}#=%=#
+Author{7}{Email}#=%=#
+Author{7}{Affiliation}#=%=#
+Author{8}{Lastname}#=%=#
+Author{8}{Firstname}#=%=#
+Author{8}{Email}#=%=#
+Author{8}{Affiliation}#=%=#
+Author{9}{Lastname}#=%=#
+Author{9}{Firstname}#=%=#
+Author{9}{Email}#=%=#
+Author{9}{Affiliation}#=%=#
+Author{10}{Lastname}#=%=#
+Author{10}{Firstname}#=%=#
+Author{10}{Email}#=%=#
+Author{10}{Affiliation}#=%=#
+Author{11}{Lastname}#=%=#
+Author{11}{Firstname}#=%=#
+Author{11}{Email}#=%=#
+Author{11}{Affiliation}#=%=#
+Author{12}{Lastname}#=%=#
+Author{12}{Firstname}#=%=#
+Author{12}{Email}#=%=#
+Author{12}{Affiliation}#=%=#
+Author{13}{Lastname}#=%=#
+Author{13}{Firstname}#=%=#
+Author{13}{Email}#=%=#
+Author{13}{Affiliation}#=%=#
+Author{14}{Lastname}#=%=#
+Author{14}{Firstname}#=%=#
+Author{14}{Email}#=%=#
+Author{14}{Affiliation}#=%=#
+Author{15}{Lastname}#=%=#
+Author{15}{Firstname}#=%=#
+Author{15}{Email}#=%=#
+Author{15}{Affiliation}#=%=#
+NumberOfPages#=%=#4
+CopyrightSigned#=%=#Aswarth Abhilash Dara
+JobTitle#==#
+Organization#==#
+Abstract#==#TMTprime is a recommender system that facilitates the effective use of both
+translation memory (TM) and machine translation (MT) technology within
+industrial language service providers (LSPs) localization workflows. LSPs have
+long used Translation Memory (TM) technology to assist the translation process.
+Recent research shows how MT systems can be combined with TMs in Computer Aided
+Translation (CAT) systems, selecting either TM or MT output based on
+sophisticated translation quality estimation without access to a reference.
+However, to date there are no commercially available frameworks for this.
+TMTprime takes confidence estimation out of the lab and provides a commercially
+viable platform that allows for the seamless integration of MT with legacy TM
+systems to provide the most effective (least effort/cost) translation options
+to human translators, based on the TMTprime confidence score.
+==========

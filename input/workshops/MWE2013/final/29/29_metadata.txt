@@ -1,0 +1,79 @@
+SubmissionNumber#=%=#29
+FinalPaperTitle#=%=#Modelling the Internal Variability of {MWE}s
+ShortPaperTitle#=%=#Modelling the Internal Variability of {MWE}s
+Author{1}{Lastname}#=%=#Nissim
+Author{1}{Firstname}#=%=#Malvina
+Author{1}{Email}#=%=#malvina.nissim@unibo.it
+Author{1}{Affiliation}#=%=#University of Bologna
+Author{2}{Lastname}#=%=#
+Author{2}{Firstname}#=%=#
+Author{2}{Email}#=%=#
+Author{2}{Affiliation}#=%=#
+Author{3}{Lastname}#=%=#
+Author{3}{Firstname}#=%=#
+Author{3}{Email}#=%=#
+Author{3}{Affiliation}#=%=#
+Author{4}{Lastname}#=%=#
+Author{4}{Firstname}#=%=#
+Author{4}{Email}#=%=#
+Author{4}{Affiliation}#=%=#
+Author{5}{Lastname}#=%=#
+Author{5}{Firstname}#=%=#
+Author{5}{Email}#=%=#
+Author{5}{Affiliation}#=%=#
+Author{6}{Lastname}#=%=#
+Author{6}{Firstname}#=%=#
+Author{6}{Email}#=%=#
+Author{6}{Affiliation}#=%=#
+Author{7}{Lastname}#=%=#
+Author{7}{Firstname}#=%=#
+Author{7}{Email}#=%=#
+Author{7}{Affiliation}#=%=#
+Author{8}{Lastname}#=%=#
+Author{8}{Firstname}#=%=#
+Author{8}{Email}#=%=#
+Author{8}{Affiliation}#=%=#
+Author{9}{Lastname}#=%=#
+Author{9}{Firstname}#=%=#
+Author{9}{Email}#=%=#
+Author{9}{Affiliation}#=%=#
+Author{10}{Lastname}#=%=#
+Author{10}{Firstname}#=%=#
+Author{10}{Email}#=%=#
+Author{10}{Affiliation}#=%=#
+Author{11}{Lastname}#=%=#
+Author{11}{Firstname}#=%=#
+Author{11}{Email}#=%=#
+Author{11}{Affiliation}#=%=#
+Author{12}{Lastname}#=%=#
+Author{12}{Firstname}#=%=#
+Author{12}{Email}#=%=#
+Author{12}{Affiliation}#=%=#
+Author{13}{Lastname}#=%=#
+Author{13}{Firstname}#=%=#
+Author{13}{Email}#=%=#
+Author{13}{Affiliation}#=%=#
+Author{14}{Lastname}#=%=#
+Author{14}{Firstname}#=%=#
+Author{14}{Email}#=%=#
+Author{14}{Affiliation}#=%=#
+Author{15}{Lastname}#=%=#
+Author{15}{Firstname}#=%=#
+Author{15}{Email}#=%=#
+Author{15}{Affiliation}#=%=#
+NumberOfPages#=%=#1
+CopyrightSigned#=%=#Malvina Nissim
+JobTitle#==#
+Organization#==#University of Bologna
+Abstract#==#The issue of flexibility of multiword expressions (MWEs) is crucial towards
+their identification and extraction in running text, as well as their better
+understanding from a linguistic perspective. If we project a large MWE lexicon
+onto a corpus, projecting fixed forms suffers from low recall, while an
+unconstrained flexible search for lemmas yields a loss in precision. In this
+talk, I will describe a method aimed at maximising precision in the
+identification of MWEs in flexible mode, building on the idea that internal
+variability can be modelled via so-called variation patterns. I will discuss
+the advantages and limitations of using variation patterns, compare their
+performance to that of association measures, and explore their usability in MWE
+extraction, too.
+==========

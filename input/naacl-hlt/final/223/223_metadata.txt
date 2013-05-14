@@ -1,0 +1,83 @@
+SubmissionNumber#=%=#223
+FinalPaperTitle#=%=#Learning Whom to Trust with MACE
+ShortPaperTitle#=%=#Learning Whom to Trust with MACE
+Author{1}{Lastname}#=%=#Hovy
+Author{1}{Firstname}#=%=#Dirk
+Author{1}{Email}#=%=#dirkh@isi.edu
+Author{1}{Affiliation}#=%=#USC
+Author{2}{Lastname}#=%=#Berg-Kirkpatrick
+Author{2}{Firstname}#=%=#Taylor
+Author{2}{Email}#=%=#tberg@cs.berkeley.edu
+Author{2}{Affiliation}#=%=#Computer Science Division, University of California at Berkeley
+Author{3}{Lastname}#=%=#Vaswani
+Author{3}{Firstname}#=%=#Ashish
+Author{3}{Email}#=%=#avaswani@isi.edu
+Author{3}{Affiliation}#=%=#USC
+Author{4}{Lastname}#=%=#Hovy
+Author{4}{Firstname}#=%=#Eduard
+Author{4}{Email}#=%=#hovy@cmu.edu
+Author{4}{Affiliation}#=%=#Carnegie Mellon University
+Author{5}{Lastname}#=%=#
+Author{5}{Firstname}#=%=#
+Author{5}{Email}#=%=#
+Author{5}{Affiliation}#=%=#
+Author{6}{Lastname}#=%=#
+Author{6}{Firstname}#=%=#
+Author{6}{Email}#=%=#
+Author{6}{Affiliation}#=%=#
+Author{7}{Lastname}#=%=#
+Author{7}{Firstname}#=%=#
+Author{7}{Email}#=%=#
+Author{7}{Affiliation}#=%=#
+Author{8}{Lastname}#=%=#
+Author{8}{Firstname}#=%=#
+Author{8}{Email}#=%=#
+Author{8}{Affiliation}#=%=#
+Author{9}{Lastname}#=%=#
+Author{9}{Firstname}#=%=#
+Author{9}{Email}#=%=#
+Author{9}{Affiliation}#=%=#
+Author{10}{Lastname}#=%=#
+Author{10}{Firstname}#=%=#
+Author{10}{Email}#=%=#
+Author{10}{Affiliation}#=%=#
+Author{11}{Lastname}#=%=#
+Author{11}{Firstname}#=%=#
+Author{11}{Email}#=%=#
+Author{11}{Affiliation}#=%=#
+Author{12}{Lastname}#=%=#
+Author{12}{Firstname}#=%=#
+Author{12}{Email}#=%=#
+Author{12}{Affiliation}#=%=#
+Author{13}{Lastname}#=%=#
+Author{13}{Firstname}#=%=#
+Author{13}{Email}#=%=#
+Author{13}{Affiliation}#=%=#
+Author{14}{Lastname}#=%=#
+Author{14}{Firstname}#=%=#
+Author{14}{Email}#=%=#
+Author{14}{Affiliation}#=%=#
+Author{15}{Lastname}#=%=#
+Author{15}{Firstname}#=%=#
+Author{15}{Email}#=%=#
+Author{15}{Affiliation}#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Dirk Hovy
+JobTitle#==#
+Organization#==#
+Abstract#==#Non-expert annotation services like Amazon’s Mechanical Turk (AMT) are cheap
+and fast ways to evaluate systems and provide categorical annotations for
+training data. Unfortunately, some annotators choose bad labels in order to
+maximize their pay. Manual identification is tedious, so we experiment with an
+item-response model. It learns in an unsupervised fashion to a) identify which
+annotators are trustworthy and b) predict the correct underlying labels. We
+match performance of more complex state-of-the-art systems and perform well
+even under adversarial conditions. We show considerable improvements over
+standard baselines, both for predicted label accuracy and trustworthiness
+estimates. The latter can be further improved by introducing a prior on model
+parameters and using Variational Bayes inference. Additionally, we can achieve
+even higher accuracy by focusing on the instances our model is most confident
+in (trading in some recall), and by incorporating annotated control instances.
+Our system, MACE (Multi-Annotator Competence Estimation), is available for
+download.
+==========

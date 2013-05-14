@@ -1,0 +1,85 @@
+SubmissionNumber#=%=#195
+FinalPaperTitle#=%=#Classification of South African languages using text and acoustic based methods: A case of six selected languages
+ShortPaperTitle#=%=#Classification of South African languages using text and acoustic based methods: A case of six selected languages
+Author{1}{Lastname}#=%=#Zulu
+Author{1}{Firstname}#=%=#Peleira Nicholas
+Author{1}{Email}#=%=#zulup1@ukzn.ac.za
+Author{1}{Affiliation}#=%=#University of KwaZulu-Natal
+Author{2}{Lastname}#=%=#
+Author{2}{Firstname}#=%=#
+Author{2}{Email}#=%=#
+Author{2}{Affiliation}#=%=#
+Author{3}{Lastname}#=%=#
+Author{3}{Firstname}#=%=#
+Author{3}{Email}#=%=#
+Author{3}{Affiliation}#=%=#
+Author{4}{Lastname}#=%=#
+Author{4}{Firstname}#=%=#
+Author{4}{Email}#=%=#
+Author{4}{Affiliation}#=%=#
+Author{5}{Lastname}#=%=#
+Author{5}{Firstname}#=%=#
+Author{5}{Email}#=%=#
+Author{5}{Affiliation}#=%=#
+Author{6}{Lastname}#=%=#
+Author{6}{Firstname}#=%=#
+Author{6}{Email}#=%=#
+Author{6}{Affiliation}#=%=#
+Author{7}{Lastname}#=%=#
+Author{7}{Firstname}#=%=#
+Author{7}{Email}#=%=#
+Author{7}{Affiliation}#=%=#
+Author{8}{Lastname}#=%=#
+Author{8}{Firstname}#=%=#
+Author{8}{Email}#=%=#
+Author{8}{Affiliation}#=%=#
+Author{9}{Lastname}#=%=#
+Author{9}{Firstname}#=%=#
+Author{9}{Email}#=%=#
+Author{9}{Affiliation}#=%=#
+Author{10}{Lastname}#=%=#
+Author{10}{Firstname}#=%=#
+Author{10}{Email}#=%=#
+Author{10}{Affiliation}#=%=#
+Author{11}{Lastname}#=%=#
+Author{11}{Firstname}#=%=#
+Author{11}{Email}#=%=#
+Author{11}{Affiliation}#=%=#
+Author{12}{Lastname}#=%=#
+Author{12}{Firstname}#=%=#
+Author{12}{Email}#=%=#
+Author{12}{Affiliation}#=%=#
+Author{13}{Lastname}#=%=#
+Author{13}{Firstname}#=%=#
+Author{13}{Email}#=%=#
+Author{13}{Affiliation}#=%=#
+Author{14}{Lastname}#=%=#
+Author{14}{Firstname}#=%=#
+Author{14}{Email}#=%=#
+Author{14}{Affiliation}#=%=#
+Author{15}{Lastname}#=%=#
+Author{15}{Firstname}#=%=#
+Author{15}{Email}#=%=#
+Author{15}{Affiliation}#=%=#
+NumberOfPages#=%=#8
+CopyrightSigned#=%=#Peleira Nicholas Zulu
+JobTitle#==#
+Organization#==#University of KwaZulu-Natal,
+Electrical, Electronic and Computer Engineering,
+Durban, 4041, South Africa.
+Abstract#==#Language variations are generally known to have a severe impact on the
+performance of Human Language Technology Systems. In order to predict or
+improve system performance, a thorough investigation into these variations,
+similarities and dissimilarities, is required. Distance measures have been used
+in several applications of speech processing to analyze different varying
+speech attributes. However, not much work has been done on language distance
+measures, and even less work has been done involving South African languages.
+This study explores two methods for measuring the linguistic distance of six
+South African languages. It concerns a text based method, (the Levenshtein
+Distance), and an acoustic approach using extracted mean pitch values. The
+Levenshtein distance uses parallel word transcriptions from all six languages
+with as little as 144 words, whereas the pitch method is text-independent and
+compares mean language pitch differences. Cluster analysis resulting from the
+distance matrices from both methods correlates closely with human perceptual
+distances and existing literature about the six languages.
+==========

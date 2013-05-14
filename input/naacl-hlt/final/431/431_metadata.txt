@@ -1,0 +1,87 @@
+SubmissionNumber#=%=#431
+FinalPaperTitle#=%=#Improved Part-of-Speech Tagging for Online Conversational Text with Word Clusters
+ShortPaperTitle#=%=#Improved Part-of-Speech Tagging for Online Conversational Text with Word Clusters
+Author{1}{Lastname}#=%=#Owoputi
+Author{1}{Firstname}#=%=#Olutobi
+Author{1}{Email}#=%=#ooo@andrew.cmu.edu
+Author{1}{Affiliation}#=%=#Carnegie Mellon University
+Author{2}{Lastname}#=%=#O'Connor
+Author{2}{Firstname}#=%=#Brendan
+Author{2}{Email}#=%=#brenocon@cs.cmu.edu
+Author{2}{Affiliation}#=%=#Carnegie Mellon University
+Author{3}{Lastname}#=%=#Dyer
+Author{3}{Firstname}#=%=#Chris
+Author{3}{Email}#=%=#cdyer@cs.cmu.edu
+Author{3}{Affiliation}#=%=#Carnegie Mellon University
+Author{4}{Lastname}#=%=#Gimpel
+Author{4}{Firstname}#=%=#Kevin
+Author{4}{Email}#=%=#kgimpel@ttic.edu
+Author{4}{Affiliation}#=%=#Toyota Technological Institute at Chicago
+Author{5}{Lastname}#=%=#Schneider
+Author{5}{Firstname}#=%=#Nathan
+Author{5}{Email}#=%=#nschneid@cs.cmu.edu
+Author{5}{Affiliation}#=%=#Carnegie Mellon University
+Author{6}{Lastname}#=%=#Smith
+Author{6}{Firstname}#=%=#Noah A.
+Author{6}{Email}#=%=#nasmith@cs.cmu.edu
+Author{6}{Affiliation}#=%=#Carnegie Mellon University
+Author{7}{Lastname}#=%=#
+Author{7}{Firstname}#=%=#
+Author{7}{Email}#=%=#
+Author{7}{Affiliation}#=%=#
+Author{8}{Lastname}#=%=#
+Author{8}{Firstname}#=%=#
+Author{8}{Email}#=%=#
+Author{8}{Affiliation}#=%=#
+Author{9}{Lastname}#=%=#
+Author{9}{Firstname}#=%=#
+Author{9}{Email}#=%=#
+Author{9}{Affiliation}#=%=#
+Author{10}{Lastname}#=%=#
+Author{10}{Firstname}#=%=#
+Author{10}{Email}#=%=#
+Author{10}{Affiliation}#=%=#
+Author{11}{Lastname}#=%=#
+Author{11}{Firstname}#=%=#
+Author{11}{Email}#=%=#
+Author{11}{Affiliation}#=%=#
+Author{12}{Lastname}#=%=#
+Author{12}{Firstname}#=%=#
+Author{12}{Email}#=%=#
+Author{12}{Affiliation}#=%=#
+Author{13}{Lastname}#=%=#
+Author{13}{Firstname}#=%=#
+Author{13}{Email}#=%=#
+Author{13}{Affiliation}#=%=#
+Author{14}{Lastname}#=%=#
+Author{14}{Firstname}#=%=#
+Author{14}{Email}#=%=#
+Author{14}{Affiliation}#=%=#
+Author{15}{Lastname}#=%=#
+Author{15}{Firstname}#=%=#
+Author{15}{Email}#=%=#
+Author{15}{Affiliation}#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Brendan O'Connor
+JobTitle#==#
+Organization#==#School of Computer Science
+Carnegie Mellon University
+5000 Forbes Ave, Pittsburgh PA
+Abstract#==#We consider the problem of part-of-speech tagging for informal, online
+conversational text.  We systematically evaluate the use of large-scale
+unsupervised word clustering and new lexical features to improve tagging
+accuracy. With these features, our system achieves state-of-the-art tagging
+results on both Twitter and IRC POS tagging tasks; Twitter tagging is improved
+from 90% to 93% accuracy (more than 3% absolute).  Qualitative analysis of
+these word clusters yields insights about NLP and linguistic phenomena in this
+genre.                                Additionally, we contribute the first POS
+annotation
+guidelines
+for
+such text and release a new dataset of English language tweets annotated using
+these guidelines.  
+Tagging software, annotation guidelines, and large-scale word clusters are
+available at: http://www.ark.cs.cmu.edu/TweetNLP
+This paper describes release 0.3 of the "CMU Twitter Part-of-Speech Tagger" and
+annotated data.
+==========

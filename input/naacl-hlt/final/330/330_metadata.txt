@@ -1,0 +1,80 @@
+SubmissionNumber#=%=#330
+FinalPaperTitle#=%=#A Participant-based Approach for Event Summarization Using Twitter Streams
+ShortPaperTitle#=%=#A Participant-based Approach for Event Summarization Using Twitter Streams
+Author{1}{Lastname}#=%=#Shen
+Author{1}{Firstname}#=%=#Chao
+Author{1}{Email}#=%=#cshen001@cs.fiu.edu
+Author{1}{Affiliation}#=%=#Florida International University
+Author{2}{Lastname}#=%=#Liu
+Author{2}{Firstname}#=%=#Fei
+Author{2}{Email}#=%=#fei.liu@us.bosch.com
+Author{2}{Affiliation}#=%=#Bosch Research
+Author{3}{Lastname}#=%=#Weng
+Author{3}{Firstname}#=%=#Fuliang
+Author{3}{Email}#=%=#fuliang.weng@us.bosch.com
+Author{3}{Affiliation}#=%=#Bosch Research
+Author{4}{Lastname}#=%=#Li
+Author{4}{Firstname}#=%=#Tao
+Author{4}{Email}#=%=#taoli@cs.fiu.edu
+Author{4}{Affiliation}#=%=#Florida International University
+Author{5}{Lastname}#=%=#
+Author{5}{Firstname}#=%=#
+Author{5}{Email}#=%=#
+Author{5}{Affiliation}#=%=#
+Author{6}{Lastname}#=%=#
+Author{6}{Firstname}#=%=#
+Author{6}{Email}#=%=#
+Author{6}{Affiliation}#=%=#
+Author{7}{Lastname}#=%=#
+Author{7}{Firstname}#=%=#
+Author{7}{Email}#=%=#
+Author{7}{Affiliation}#=%=#
+Author{8}{Lastname}#=%=#
+Author{8}{Firstname}#=%=#
+Author{8}{Email}#=%=#
+Author{8}{Affiliation}#=%=#
+Author{9}{Lastname}#=%=#
+Author{9}{Firstname}#=%=#
+Author{9}{Email}#=%=#
+Author{9}{Affiliation}#=%=#
+Author{10}{Lastname}#=%=#
+Author{10}{Firstname}#=%=#
+Author{10}{Email}#=%=#
+Author{10}{Affiliation}#=%=#
+Author{11}{Lastname}#=%=#
+Author{11}{Firstname}#=%=#
+Author{11}{Email}#=%=#
+Author{11}{Affiliation}#=%=#
+Author{12}{Lastname}#=%=#
+Author{12}{Firstname}#=%=#
+Author{12}{Email}#=%=#
+Author{12}{Affiliation}#=%=#
+Author{13}{Lastname}#=%=#
+Author{13}{Firstname}#=%=#
+Author{13}{Email}#=%=#
+Author{13}{Affiliation}#=%=#
+Author{14}{Lastname}#=%=#
+Author{14}{Firstname}#=%=#
+Author{14}{Email}#=%=#
+Author{14}{Affiliation}#=%=#
+Author{15}{Lastname}#=%=#
+Author{15}{Firstname}#=%=#
+Author{15}{Email}#=%=#
+Author{15}{Affiliation}#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#FEI LIU
+JobTitle#==#
+Organization#==#
+Abstract#==#Twitter offers an unprecedented advantage on live reporting of the events
+happening around the world. However, summarizing the Twitter event has been a
+challenging task that was not fully explored in the past. In this paper, we
+propose a participant-based event summarization approach that "zooms-in" the
+Twitter event streams to the participant level, detects the important
+sub-events associated with each participant using a novel mixture model that
+combines the "burstiness" and "cohesiveness" properties of the event tweets,
+and generates the event summaries progressively. We evaluate the proposed
+approach on different event types. Results show that the participant-based
+approach can effectively capture the sub-events that have otherwise been
+shadowed by the long-tail of other dominant sub-events, yielding summaries with
+considerably better coverage than the state-of-the-art.
+==========

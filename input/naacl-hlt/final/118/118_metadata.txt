@@ -1,0 +1,89 @@
+SubmissionNumber#=%=#118
+FinalPaperTitle#=%=#Open Information Extraction with Tree Kernels
+ShortPaperTitle#=%=#Open Information Extraction with Tree Kernels
+Author{1}{Lastname}#=%=#Xu
+Author{1}{Firstname}#=%=#Ying
+Author{1}{Email}#=%=#yx2@ualberta.ca
+Author{1}{Affiliation}#=%=#University of Alberta
+Author{2}{Lastname}#=%=#Kim
+Author{2}{Firstname}#=%=#Mi-Young
+Author{2}{Email}#=%=#miyoung2@ualberta.ca
+Author{2}{Affiliation}#=%=#University of Alberta
+Author{3}{Lastname}#=%=#Quinn
+Author{3}{Firstname}#=%=#Kevin
+Author{3}{Email}#=%=#kfquinn@ualberta.ca
+Author{3}{Affiliation}#=%=#University of Alberta
+Author{4}{Lastname}#=%=#Goebel
+Author{4}{Firstname}#=%=#Randy
+Author{4}{Email}#=%=#rgoebel@ualberta.ca
+Author{4}{Affiliation}#=%=#University of Alberta
+Author{5}{Lastname}#=%=#Barbosa
+Author{5}{Firstname}#=%=#Denilson
+Author{5}{Email}#=%=#denilson@ualberta.ca
+Author{5}{Affiliation}#=%=#University of Alberta
+Author{6}{Lastname}#=%=#
+Author{6}{Firstname}#=%=#
+Author{6}{Email}#=%=#
+Author{6}{Affiliation}#=%=#
+Author{7}{Lastname}#=%=#
+Author{7}{Firstname}#=%=#
+Author{7}{Email}#=%=#
+Author{7}{Affiliation}#=%=#
+Author{8}{Lastname}#=%=#
+Author{8}{Firstname}#=%=#
+Author{8}{Email}#=%=#
+Author{8}{Affiliation}#=%=#
+Author{9}{Lastname}#=%=#
+Author{9}{Firstname}#=%=#
+Author{9}{Email}#=%=#
+Author{9}{Affiliation}#=%=#
+Author{10}{Lastname}#=%=#
+Author{10}{Firstname}#=%=#
+Author{10}{Email}#=%=#
+Author{10}{Affiliation}#=%=#
+Author{11}{Lastname}#=%=#
+Author{11}{Firstname}#=%=#
+Author{11}{Email}#=%=#
+Author{11}{Affiliation}#=%=#
+Author{12}{Lastname}#=%=#
+Author{12}{Firstname}#=%=#
+Author{12}{Email}#=%=#
+Author{12}{Affiliation}#=%=#
+Author{13}{Lastname}#=%=#
+Author{13}{Firstname}#=%=#
+Author{13}{Email}#=%=#
+Author{13}{Affiliation}#=%=#
+Author{14}{Lastname}#=%=#
+Author{14}{Firstname}#=%=#
+Author{14}{Email}#=%=#
+Author{14}{Affiliation}#=%=#
+Author{15}{Lastname}#=%=#
+Author{15}{Firstname}#=%=#
+Author{15}{Email}#=%=#
+Author{15}{Affiliation}#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Ying Xu
+JobTitle#==#
+Organization#==#Department of Computing Science,
+2-21 Athabasca Hall,
+University of Alberta,
+Edmonton, Alberta,
+Canada  T6G 2E8
+Abstract#==#Traditional relation extraction seeks to identify pre-specified semantic
+relations within natural language text, while open Information Extraction (Open
+IE) takes a more general approach, and looks for a variety of relations without
+restriction to a fixed relation set. With this generalization comes the
+question, what is a relation? For example, should the more general task be
+restricted to relations mediated by verbs, nouns, or both? To help answer this
+question, we propose two levels of subtasks for Open IE. One task determines if
+a sentence potentially contains a relation between two entities. The other task
+looks to confirm explicit relation words for two entities. We propose multiple
+SVM models with dependency tree kernels for both tasks. For explicit relation
+extraction, our system can extract both noun and verb relations. Our results on
+three datasets show that our system is superior when compared to
+state-of-the-art
+systems like REVERB and OLLIE for both tasks. For example, in some experiments
+our system achieves 33% improvement on nominal relation extraction over OLLIE.
+In addition we propose an unsupervised rule-based approach which can serve as a
+strong baseline for Open IE systems.
+==========

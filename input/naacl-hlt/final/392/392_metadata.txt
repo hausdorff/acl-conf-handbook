@@ -1,0 +1,78 @@
+SubmissionNumber#=%=#392
+FinalPaperTitle#=%=#Supersense Tagging for Arabic: the MT-in-the-Middle Attack
+ShortPaperTitle#=%=#Supersense Tagging for Arabic: the MT-in-the-Middle Attack
+Author{1}{Lastname}#=%=#Schneider
+Author{1}{Firstname}#=%=#Nathan
+Author{1}{Email}#=%=#nschneid@cs.cmu.edu
+Author{1}{Affiliation}#=%=#Carnegie Mellon University
+Author{2}{Lastname}#=%=#Mohit
+Author{2}{Firstname}#=%=#Behrang
+Author{2}{Email}#=%=#behrang@cmu.edu
+Author{2}{Affiliation}#=%=#Carnegie Mellon University
+Author{3}{Lastname}#=%=#Dyer
+Author{3}{Firstname}#=%=#Chris
+Author{3}{Email}#=%=#cdyer@cs.cmu.edu
+Author{3}{Affiliation}#=%=#Carnegie Mellon University
+Author{4}{Lastname}#=%=#Oflazer
+Author{4}{Firstname}#=%=#Kemal
+Author{4}{Email}#=%=#ko@cs.cmu.edu
+Author{4}{Affiliation}#=%=#Carnegie Mellon University
+Author{5}{Lastname}#=%=#Smith
+Author{5}{Firstname}#=%=#Noah A.
+Author{5}{Email}#=%=#nasmith@cs.cmu.edu
+Author{5}{Affiliation}#=%=#Carnegie Mellon University
+Author{6}{Lastname}#=%=#
+Author{6}{Firstname}#=%=#
+Author{6}{Email}#=%=#
+Author{6}{Affiliation}#=%=#
+Author{7}{Lastname}#=%=#
+Author{7}{Firstname}#=%=#
+Author{7}{Email}#=%=#
+Author{7}{Affiliation}#=%=#
+Author{8}{Lastname}#=%=#
+Author{8}{Firstname}#=%=#
+Author{8}{Email}#=%=#
+Author{8}{Affiliation}#=%=#
+Author{9}{Lastname}#=%=#
+Author{9}{Firstname}#=%=#
+Author{9}{Email}#=%=#
+Author{9}{Affiliation}#=%=#
+Author{10}{Lastname}#=%=#
+Author{10}{Firstname}#=%=#
+Author{10}{Email}#=%=#
+Author{10}{Affiliation}#=%=#
+Author{11}{Lastname}#=%=#
+Author{11}{Firstname}#=%=#
+Author{11}{Email}#=%=#
+Author{11}{Affiliation}#=%=#
+Author{12}{Lastname}#=%=#
+Author{12}{Firstname}#=%=#
+Author{12}{Email}#=%=#
+Author{12}{Affiliation}#=%=#
+Author{13}{Lastname}#=%=#
+Author{13}{Firstname}#=%=#
+Author{13}{Email}#=%=#
+Author{13}{Affiliation}#=%=#
+Author{14}{Lastname}#=%=#
+Author{14}{Firstname}#=%=#
+Author{14}{Email}#=%=#
+Author{14}{Affiliation}#=%=#
+Author{15}{Lastname}#=%=#
+Author{15}{Firstname}#=%=#
+Author{15}{Email}#=%=#
+Author{15}{Affiliation}#=%=#
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Nathan Schneider
+JobTitle#==#
+Organization#==#CMU LTI
+5000 Forbes Ave.
+Pittsburgh, PA 15213
+USA
+Abstract#==#We consider the task of tagging Arabic nouns with WordNet supersenses. Three
+approaches are evaluated. The first uses an expert-crafted but limited-coverage
+lexicon, Arabic WordNet, and heuristics. The second uses unsupervised sequence
+modeling. The third and most successful approach uses machine translation to
+translate the Arabic into English, which is automatically tagged with English
+supersenses, the results of which are then projected back into Arabic. Analysis
+shows gains and remaining obstacles in four Wikipedia topical domains.
+==========

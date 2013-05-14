@@ -1,0 +1,82 @@
+SubmissionNumber#=%=#4
+FinalPaperTitle#=%=#Sexual predator detection in chats with chained classifiers
+ShortPaperTitle#=%=#Sexual predator detection with chain classifiers
+Author{1}{Lastname}#=%=#Escalante
+Author{1}{Firstname}#=%=#Hugo Jair
+Author{1}{Email}#=%=#hugo.jair@gmail.com
+Author{1}{Affiliation}#=%=#INAOE
+Author{2}{Lastname}#=%=#Villatoro-Tello
+Author{2}{Firstname}#=%=#Esaú
+Author{2}{Email}#=%=#villatoroe@gmail.com
+Author{2}{Affiliation}#=%=#UAM-Cuajimalpa
+Author{3}{Lastname}#=%=#Juárez
+Author{3}{Firstname}#=%=#Antonio
+Author{3}{Email}#=%=#antjug@gmail.com
+Author{3}{Affiliation}#=%=#UPT
+Author{4}{Lastname}#=%=#Montes-y-Gómez
+Author{4}{Firstname}#=%=#Manuel
+Author{4}{Email}#=%=#mmontesg@inaoep.mx
+Author{4}{Affiliation}#=%=#INAOE
+Author{5}{Lastname}#=%=#Villaseñor
+Author{5}{Firstname}#=%=#Luis
+Author{5}{Email}#=%=#villasen@inaoep.mx
+Author{5}{Affiliation}#=%=#INAOE
+Author{6}{Lastname}#=%=#
+Author{6}{Firstname}#=%=#
+Author{6}{Email}#=%=#
+Author{6}{Affiliation}#=%=#
+Author{7}{Lastname}#=%=#
+Author{7}{Firstname}#=%=#
+Author{7}{Email}#=%=#
+Author{7}{Affiliation}#=%=#
+Author{8}{Lastname}#=%=#
+Author{8}{Firstname}#=%=#
+Author{8}{Email}#=%=#
+Author{8}{Affiliation}#=%=#
+Author{9}{Lastname}#=%=#
+Author{9}{Firstname}#=%=#
+Author{9}{Email}#=%=#
+Author{9}{Affiliation}#=%=#
+Author{10}{Lastname}#=%=#
+Author{10}{Firstname}#=%=#
+Author{10}{Email}#=%=#
+Author{10}{Affiliation}#=%=#
+Author{11}{Lastname}#=%=#
+Author{11}{Firstname}#=%=#
+Author{11}{Email}#=%=#
+Author{11}{Affiliation}#=%=#
+Author{12}{Lastname}#=%=#
+Author{12}{Firstname}#=%=#
+Author{12}{Email}#=%=#
+Author{12}{Affiliation}#=%=#
+Author{13}{Lastname}#=%=#
+Author{13}{Firstname}#=%=#
+Author{13}{Email}#=%=#
+Author{13}{Affiliation}#=%=#
+Author{14}{Lastname}#=%=#
+Author{14}{Firstname}#=%=#
+Author{14}{Email}#=%=#
+Author{14}{Affiliation}#=%=#
+Author{15}{Lastname}#=%=#
+Author{15}{Firstname}#=%=#
+Author{15}{Email}#=%=#
+Author{15}{Affiliation}#=%=#
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#Hugo Jair Escalante
+JobTitle#==#
+Organization#==#LabTL, INAOE,  Luis Enrique Erro No. 1, 	    72840, Puebla, Mexico
+Abstract#==#This paper describes a novel approach for sexual predator detection in chat
+conversations based on sequences of classifiers. The proposed approach divides
+documents into three parts, which, we hypothesize, correspond to the different
+stages that a predator employs when approaching a child. Local classifiers are
+trained for each part of the documents and their outputs are combined by a
+chain  strategy: predictions of a local classifier are used as extra inputs for
+the next local classifier. Additionally, we propose a ring-based strategy, in
+which the chaining process is iterated several times, with the goal of further
+improving the performance of our method.  We report experimental results on the
+corpus used in the first international competition on sexual predator
+identification (PAN'12). Experimental results show that the proposed method
+outperforms a standard (global) classification technique for the different
+settings we consider; besides the proposed method compares favorably with most
+methods evaluated in the PAN'12 competition.
+==========

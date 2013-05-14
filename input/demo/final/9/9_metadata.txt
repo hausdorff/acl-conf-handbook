@@ -1,0 +1,79 @@
+SubmissionNumber#=%=#9
+FinalPaperTitle#=%=#KooSHO: Japanese Text Input Environment based on Aerial Hand Writing
+ShortPaperTitle#=%=#KooSHO: Japanese Text Input Environment based on Aerial Hand Writing
+Author{1}{Lastname}#=%=#Hagiwara
+Author{1}{Firstname}#=%=#Masato
+Author{1}{Email}#=%=#masato.hagiwara@mail.rakuten.com
+Author{1}{Affiliation}#=%=#Rakuten Institute of Technology, New York
+Author{2}{Lastname}#=%=#Masuko
+Author{2}{Firstname}#=%=#Soh
+Author{2}{Email}#=%=#so.masuko@mail.rakuten.com
+Author{2}{Affiliation}#=%=#Rakuten Institute of Technology
+Author{3}{Lastname}#=%=#
+Author{3}{Firstname}#=%=#
+Author{3}{Email}#=%=#
+Author{3}{Affiliation}#=%=#
+Author{4}{Lastname}#=%=#
+Author{4}{Firstname}#=%=#
+Author{4}{Email}#=%=#
+Author{4}{Affiliation}#=%=#
+Author{5}{Lastname}#=%=#
+Author{5}{Firstname}#=%=#
+Author{5}{Email}#=%=#
+Author{5}{Affiliation}#=%=#
+Author{6}{Lastname}#=%=#
+Author{6}{Firstname}#=%=#
+Author{6}{Email}#=%=#
+Author{6}{Affiliation}#=%=#
+Author{7}{Lastname}#=%=#
+Author{7}{Firstname}#=%=#
+Author{7}{Email}#=%=#
+Author{7}{Affiliation}#=%=#
+Author{8}{Lastname}#=%=#
+Author{8}{Firstname}#=%=#
+Author{8}{Email}#=%=#
+Author{8}{Affiliation}#=%=#
+Author{9}{Lastname}#=%=#
+Author{9}{Firstname}#=%=#
+Author{9}{Email}#=%=#
+Author{9}{Affiliation}#=%=#
+Author{10}{Lastname}#=%=#
+Author{10}{Firstname}#=%=#
+Author{10}{Email}#=%=#
+Author{10}{Affiliation}#=%=#
+Author{11}{Lastname}#=%=#
+Author{11}{Firstname}#=%=#
+Author{11}{Email}#=%=#
+Author{11}{Affiliation}#=%=#
+Author{12}{Lastname}#=%=#
+Author{12}{Firstname}#=%=#
+Author{12}{Email}#=%=#
+Author{12}{Affiliation}#=%=#
+Author{13}{Lastname}#=%=#
+Author{13}{Firstname}#=%=#
+Author{13}{Email}#=%=#
+Author{13}{Affiliation}#=%=#
+Author{14}{Lastname}#=%=#
+Author{14}{Firstname}#=%=#
+Author{14}{Email}#=%=#
+Author{14}{Affiliation}#=%=#
+Author{15}{Lastname}#=%=#
+Author{15}{Firstname}#=%=#
+Author{15}{Email}#=%=#
+Author{15}{Affiliation}#=%=#
+NumberOfPages#=%=#4
+CopyrightSigned#=%=#Masato Hagiwara
+JobTitle#==#
+Organization#==#Rakuten Institute of Technology, New York,
+215 Park Avenue South, New York, NY, 10003 USA
+Abstract#==#Hand gesture-based input systems have been in active research, yet most of them
+focus only on single character recognition. We propose KooSHO: an environment
+for Japanese text input based on aerial hand gestures. The system provides an
+integrated experience of character input, Kana-Kanji conversion, and search
+result visualization. To achieve faster input, users only have to input
+consonant, which is then converted directly to Kanji sequences by direct
+consonant decoding. The system also shows suggestions to complete the user
+input. The comparison with a voice recognition system and a screen keyboard
+showed that KooSHO can be a more practical solution compared to the existing
+system.
+==========

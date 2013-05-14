@@ -1,0 +1,81 @@
+SubmissionNumber#=%=#16
+FinalPaperTitle#=%=#Inter-annotator Agreement for Dependency Annotation of Learner Language
+ShortPaperTitle#=%=#Inter-annotator Agreement for Dependency Annotation of Learner Language
+Author{1}{Lastname}#=%=#Ragheb
+Author{1}{Firstname}#=%=#Marwa
+Author{1}{Email}#=%=#mragheb@indiana.edu
+Author{1}{Affiliation}#=%=#Indiana University
+Author{2}{Lastname}#=%=#Dickinson
+Author{2}{Firstname}#=%=#Markus
+Author{2}{Email}#=%=#md7@indiana.edu
+Author{2}{Affiliation}#=%=#Indiana University
+Author{3}{Lastname}#=%=#
+Author{3}{Firstname}#=%=#
+Author{3}{Email}#=%=#
+Author{3}{Affiliation}#=%=#
+Author{4}{Lastname}#=%=#
+Author{4}{Firstname}#=%=#
+Author{4}{Email}#=%=#
+Author{4}{Affiliation}#=%=#
+Author{5}{Lastname}#=%=#
+Author{5}{Firstname}#=%=#
+Author{5}{Email}#=%=#
+Author{5}{Affiliation}#=%=#
+Author{6}{Lastname}#=%=#
+Author{6}{Firstname}#=%=#
+Author{6}{Email}#=%=#
+Author{6}{Affiliation}#=%=#
+Author{7}{Lastname}#=%=#
+Author{7}{Firstname}#=%=#
+Author{7}{Email}#=%=#
+Author{7}{Affiliation}#=%=#
+Author{8}{Lastname}#=%=#
+Author{8}{Firstname}#=%=#
+Author{8}{Email}#=%=#
+Author{8}{Affiliation}#=%=#
+Author{9}{Lastname}#=%=#
+Author{9}{Firstname}#=%=#
+Author{9}{Email}#=%=#
+Author{9}{Affiliation}#=%=#
+Author{10}{Lastname}#=%=#
+Author{10}{Firstname}#=%=#
+Author{10}{Email}#=%=#
+Author{10}{Affiliation}#=%=#
+Author{11}{Lastname}#=%=#
+Author{11}{Firstname}#=%=#
+Author{11}{Email}#=%=#
+Author{11}{Affiliation}#=%=#
+Author{12}{Lastname}#=%=#
+Author{12}{Firstname}#=%=#
+Author{12}{Email}#=%=#
+Author{12}{Affiliation}#=%=#
+Author{13}{Lastname}#=%=#
+Author{13}{Firstname}#=%=#
+Author{13}{Email}#=%=#
+Author{13}{Affiliation}#=%=#
+Author{14}{Lastname}#=%=#
+Author{14}{Firstname}#=%=#
+Author{14}{Email}#=%=#
+Author{14}{Affiliation}#=%=#
+Author{15}{Lastname}#=%=#
+Author{15}{Firstname}#=%=#
+Author{15}{Email}#=%=#
+Author{15}{Affiliation}#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Marwa Ragheb
+JobTitle#==#
+Organization#==#Indiana University
+Bloomington, IN USA
+Abstract#==#This paper reports on a study of inter-annotator agreement (IAA) for a
+dependency annotation scheme designed for learner English. Reliably annotated
+learner corpora are a necessary step for the development of POS tagging and
+parsing of learner language. In our study, three  annotators marked
+several layers of annotation over different levels of learner texts, and they
+are able to obtain generally high agreement, especially after discussing the
+disagreements among themselves, without researcher intervention, illustrating
+the feasibility of the scheme. We pinpoint some of the problems in obtaining
+full agreement, including annotation scheme vagueness for certain learner
+innovations, interface design issues, and difficult syntactic constructions. In
+the process, we also develop ways to calculate agreements for sets of
+dependencies.
+==========

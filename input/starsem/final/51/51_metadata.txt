@@ -1,0 +1,84 @@
+SubmissionNumber#=%=#51
+FinalPaperTitle#=%=#HENRY-CORE: Domain Adaptation and Stacking for Text Similarity
+ShortPaperTitle#=%=#HENRY-CORE: Domain Adaptation and Stacking for Text Similarity
+Author{1}{Lastname}#=%=#Heilman
+Author{1}{Firstname}#=%=#Michael
+Author{1}{Email}#=%=#mheilman@ets.org
+Author{1}{Affiliation}#=%=#Educational Testing Service
+Author{2}{Lastname}#=%=#Madnani
+Author{2}{Firstname}#=%=#Nitin
+Author{2}{Email}#=%=#nmadnani@ets.org
+Author{2}{Affiliation}#=%=#Educational Testing Service
+Author{3}{Lastname}#=%=#
+Author{3}{Firstname}#=%=#
+Author{3}{Email}#=%=#
+Author{3}{Affiliation}#=%=#
+Author{4}{Lastname}#=%=#
+Author{4}{Firstname}#=%=#
+Author{4}{Email}#=%=#
+Author{4}{Affiliation}#=%=#
+Author{5}{Lastname}#=%=#
+Author{5}{Firstname}#=%=#
+Author{5}{Email}#=%=#
+Author{5}{Affiliation}#=%=#
+Author{6}{Lastname}#=%=#
+Author{6}{Firstname}#=%=#
+Author{6}{Email}#=%=#
+Author{6}{Affiliation}#=%=#
+Author{7}{Lastname}#=%=#
+Author{7}{Firstname}#=%=#
+Author{7}{Email}#=%=#
+Author{7}{Affiliation}#=%=#
+Author{8}{Lastname}#=%=#
+Author{8}{Firstname}#=%=#
+Author{8}{Email}#=%=#
+Author{8}{Affiliation}#=%=#
+Author{9}{Lastname}#=%=#
+Author{9}{Firstname}#=%=#
+Author{9}{Email}#=%=#
+Author{9}{Affiliation}#=%=#
+Author{10}{Lastname}#=%=#
+Author{10}{Firstname}#=%=#
+Author{10}{Email}#=%=#
+Author{10}{Affiliation}#=%=#
+Author{11}{Lastname}#=%=#
+Author{11}{Firstname}#=%=#
+Author{11}{Email}#=%=#
+Author{11}{Affiliation}#=%=#
+Author{12}{Lastname}#=%=#
+Author{12}{Firstname}#=%=#
+Author{12}{Email}#=%=#
+Author{12}{Affiliation}#=%=#
+Author{13}{Lastname}#=%=#
+Author{13}{Firstname}#=%=#
+Author{13}{Email}#=%=#
+Author{13}{Affiliation}#=%=#
+Author{14}{Lastname}#=%=#
+Author{14}{Firstname}#=%=#
+Author{14}{Email}#=%=#
+Author{14}{Affiliation}#=%=#
+Author{15}{Lastname}#=%=#
+Author{15}{Firstname}#=%=#
+Author{15}{Email}#=%=#
+Author{15}{Affiliation}#=%=#
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Michael Heilman
+JobTitle#==#
+Organization#==#Educational Testing Service
+660 Rosedale Rd
+Princeton, NJ 08541
+Abstract#==#This paper describes a system for automatically measuring the semantic
+similarity between two texts, which was the aim of the 2013 Semantic Textual
+Similarity (STS) task (Agirre et al., 2013). For the 2012 STS task, Heilman and
+Madnani (2012) submitted the PERP system, which performed competitively in
+relation to other submissions. However, approaches including word and n-gram
+features also performed well (Baer et al., 2012; Saric et al., 2012), and the
+2013 STS task focused more on predicting similarity for text pairs from new
+domains. Therefore, for the three variations of our system that we were allowed
+to submit, we used stacking (Wolpert, 1992) to combine PERP with word and
+n-gram features and applied the domain adaptation approach outlined by Daume
+III (2007) to facilitate generalization to new domains. Our submissions
+performed well at most subtasks, particularly at measuring the similarity of
+news headlines, where one of our submissions ranked 2nd among 90 from 36 teams,
+but there is still room for improvement.
+==========

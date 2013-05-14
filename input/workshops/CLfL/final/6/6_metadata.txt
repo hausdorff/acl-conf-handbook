@@ -1,0 +1,93 @@
+SubmissionNumber#=%=#6
+FinalPaperTitle#=%=#From high heels to weed attics: a syntactic investigation of chick lit and literature
+ShortPaperTitle#=%=#A syntactic investigation of chick lit and literature
+Author{1}{Lastname}#=%=#Jautze
+Author{1}{Firstname}#=%=#Kim
+Author{1}{Email}#=%=#kim.jautze@huygens.knaw.nl
+Author{1}{Affiliation}#=%=#Huygens ING
+Author{2}{Lastname}#=%=#Koolen
+Author{2}{Firstname}#=%=#Corina
+Author{2}{Email}#=%=#C.W.Koolen@uva.nl
+Author{2}{Affiliation}#=%=#University of Amsterdam
+Author{3}{Lastname}#=%=#van Cranenburgh
+Author{3}{Firstname}#=%=#Andreas
+Author{3}{Email}#=%=#andreas.van.cranenburgh@huygens.knaw.nl
+Author{3}{Affiliation}#=%=#University of Amsterdam
+Author{4}{Lastname}#=%=#de Jong
+Author{4}{Firstname}#=%=#Hayco
+Author{4}{Email}#=%=#hayco.de.jong@huygens.knaw.nl
+Author{4}{Affiliation}#=%=#Huygens ING
+Author{5}{Lastname}#=%=#
+Author{5}{Firstname}#=%=#
+Author{5}{Email}#=%=#
+Author{5}{Affiliation}#=%=#
+Author{6}{Lastname}#=%=#
+Author{6}{Firstname}#=%=#
+Author{6}{Email}#=%=#
+Author{6}{Affiliation}#=%=#
+Author{7}{Lastname}#=%=#
+Author{7}{Firstname}#=%=#
+Author{7}{Email}#=%=#
+Author{7}{Affiliation}#=%=#
+Author{8}{Lastname}#=%=#
+Author{8}{Firstname}#=%=#
+Author{8}{Email}#=%=#
+Author{8}{Affiliation}#=%=#
+Author{9}{Lastname}#=%=#
+Author{9}{Firstname}#=%=#
+Author{9}{Email}#=%=#
+Author{9}{Affiliation}#=%=#
+Author{10}{Lastname}#=%=#
+Author{10}{Firstname}#=%=#
+Author{10}{Email}#=%=#
+Author{10}{Affiliation}#=%=#
+Author{11}{Lastname}#=%=#
+Author{11}{Firstname}#=%=#
+Author{11}{Email}#=%=#
+Author{11}{Affiliation}#=%=#
+Author{12}{Lastname}#=%=#
+Author{12}{Firstname}#=%=#
+Author{12}{Email}#=%=#
+Author{12}{Affiliation}#=%=#
+Author{13}{Lastname}#=%=#
+Author{13}{Firstname}#=%=#
+Author{13}{Email}#=%=#
+Author{13}{Affiliation}#=%=#
+Author{14}{Lastname}#=%=#
+Author{14}{Firstname}#=%=#
+Author{14}{Email}#=%=#
+Author{14}{Affiliation}#=%=#
+Author{15}{Lastname}#=%=#
+Author{15}{Firstname}#=%=#
+Author{15}{Email}#=%=#
+Author{15}{Affiliation}#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Andreas van Cranenburgh
+JobTitle#==#
+Organization#==#
+Abstract#==#Stylometric analysis of prose is typically limited
+to classification tasks such as authorship
+attribution. Since the models used are typically
+black boxes, they give little insight into
+the stylistic differences they detect. In this
+paper, we characterize two prose genres syntactically:
+chick lit (humorous novels on the
+challenges of being a modern-day urban female)
+and high literature. First, we develop
+a top-down computational method based on
+existing literary-linguistic theory. Using an
+off-the-shelf parser we obtain syntactic structures
+for a Dutch corpus of novels and measure
+the distribution of sentence types in chick-lit
+and literary novels. The results show that literature
+contains more complex (subordinating)
+sentences than chick lit. Secondly, a bottom-up
+analysis is made of specific morphological and
+syntactic features in both genres, based on the
+parser’s output. This shows that the two genres
+can be distinguished along certain features.
+Our results indicate that detailed insight into
+stylistic differences can be obtained by combining
+computational linguistic analysis with
+literary theory.
+==========

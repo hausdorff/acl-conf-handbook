@@ -1,0 +1,78 @@
+SubmissionNumber#=%=#21
+FinalPaperTitle#=%=#Tagging Opinion Phrases and their Targets in User Generated Textual Reviews
+ShortPaperTitle#=%=#Tagging Opinion Phrases and their Targets in User Generated Textual Reviews
+Author{1}{Lastname}#=%=#Gupta
+Author{1}{Firstname}#=%=#Narendra
+Author{1}{Email}#=%=#ngupta@att.com
+Author{1}{Affiliation}#=%=#AT&T Labs Research
+Author{2}{Lastname}#=%=#
+Author{2}{Firstname}#=%=#
+Author{2}{Email}#=%=#
+Author{2}{Affiliation}#=%=#
+Author{3}{Lastname}#=%=#
+Author{3}{Firstname}#=%=#
+Author{3}{Email}#=%=#
+Author{3}{Affiliation}#=%=#
+Author{4}{Lastname}#=%=#
+Author{4}{Firstname}#=%=#
+Author{4}{Email}#=%=#
+Author{4}{Affiliation}#=%=#
+Author{5}{Lastname}#=%=#
+Author{5}{Firstname}#=%=#
+Author{5}{Email}#=%=#
+Author{5}{Affiliation}#=%=#
+Author{6}{Lastname}#=%=#
+Author{6}{Firstname}#=%=#
+Author{6}{Email}#=%=#
+Author{6}{Affiliation}#=%=#
+Author{7}{Lastname}#=%=#
+Author{7}{Firstname}#=%=#
+Author{7}{Email}#=%=#
+Author{7}{Affiliation}#=%=#
+Author{8}{Lastname}#=%=#
+Author{8}{Firstname}#=%=#
+Author{8}{Email}#=%=#
+Author{8}{Affiliation}#=%=#
+Author{9}{Lastname}#=%=#
+Author{9}{Firstname}#=%=#
+Author{9}{Email}#=%=#
+Author{9}{Affiliation}#=%=#
+Author{10}{Lastname}#=%=#
+Author{10}{Firstname}#=%=#
+Author{10}{Email}#=%=#
+Author{10}{Affiliation}#=%=#
+Author{11}{Lastname}#=%=#
+Author{11}{Firstname}#=%=#
+Author{11}{Email}#=%=#
+Author{11}{Affiliation}#=%=#
+Author{12}{Lastname}#=%=#
+Author{12}{Firstname}#=%=#
+Author{12}{Email}#=%=#
+Author{12}{Affiliation}#=%=#
+Author{13}{Lastname}#=%=#
+Author{13}{Firstname}#=%=#
+Author{13}{Email}#=%=#
+Author{13}{Affiliation}#=%=#
+Author{14}{Lastname}#=%=#
+Author{14}{Firstname}#=%=#
+Author{14}{Email}#=%=#
+Author{14}{Affiliation}#=%=#
+Author{15}{Lastname}#=%=#
+Author{15}{Firstname}#=%=#
+Author{15}{Email}#=%=#
+Author{15}{Affiliation}#=%=#
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Narendra Gupta
+JobTitle#==#
+Organization#==#Narendra K. Gupta
+AT&T Labs
+180 Florham Park, NJ 08810
+Abstract#==#We discuss a tagging scheme to tag data for training information extraction
+models which can extract the features of a product/service and opinions about
+them from textual reviews, and which can be used across different domains with
+minimal adaptation. A simple tagging scheme results in a large number of domain
+dependent opinion phrases and impedes the usefulness of the trained models
+across domains. We show that by using minor modifications to this simple
+tagging scheme the number of domain dependent opinion phrases are reduced from
+36% to 17%, which leads to models more useful across domains.
+==========

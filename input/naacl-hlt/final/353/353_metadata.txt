@@ -1,0 +1,81 @@
+SubmissionNumber#=%=#353
+FinalPaperTitle#=%=#Semi-Supervised Discriminative Language Modeling with Out-of-Domain Text Data
+ShortPaperTitle#=%=#Semi-Supervised Discriminative Language Modeling with Out-of-Domain Text Data
+Author{1}{Lastname}#=%=#Çelebi
+Author{1}{Firstname}#=%=#Arda
+Author{1}{Email}#=%=#ardax.celebi@gmail.com
+Author{1}{Affiliation}#=%=#Boğaziçi University
+Author{2}{Lastname}#=%=#Saraçlar
+Author{2}{Firstname}#=%=#Murat
+Author{2}{Email}#=%=#murat.saraclar@boun.edu.tr
+Author{2}{Affiliation}#=%=#Bogazici University
+Author{3}{Lastname}#=%=#
+Author{3}{Firstname}#=%=#
+Author{3}{Email}#=%=#
+Author{3}{Affiliation}#=%=#
+Author{4}{Lastname}#=%=#
+Author{4}{Firstname}#=%=#
+Author{4}{Email}#=%=#
+Author{4}{Affiliation}#=%=#
+Author{5}{Lastname}#=%=#
+Author{5}{Firstname}#=%=#
+Author{5}{Email}#=%=#
+Author{5}{Affiliation}#=%=#
+Author{6}{Lastname}#=%=#
+Author{6}{Firstname}#=%=#
+Author{6}{Email}#=%=#
+Author{6}{Affiliation}#=%=#
+Author{7}{Lastname}#=%=#
+Author{7}{Firstname}#=%=#
+Author{7}{Email}#=%=#
+Author{7}{Affiliation}#=%=#
+Author{8}{Lastname}#=%=#
+Author{8}{Firstname}#=%=#
+Author{8}{Email}#=%=#
+Author{8}{Affiliation}#=%=#
+Author{9}{Lastname}#=%=#
+Author{9}{Firstname}#=%=#
+Author{9}{Email}#=%=#
+Author{9}{Affiliation}#=%=#
+Author{10}{Lastname}#=%=#
+Author{10}{Firstname}#=%=#
+Author{10}{Email}#=%=#
+Author{10}{Affiliation}#=%=#
+Author{11}{Lastname}#=%=#
+Author{11}{Firstname}#=%=#
+Author{11}{Email}#=%=#
+Author{11}{Affiliation}#=%=#
+Author{12}{Lastname}#=%=#
+Author{12}{Firstname}#=%=#
+Author{12}{Email}#=%=#
+Author{12}{Affiliation}#=%=#
+Author{13}{Lastname}#=%=#
+Author{13}{Firstname}#=%=#
+Author{13}{Email}#=%=#
+Author{13}{Affiliation}#=%=#
+Author{14}{Lastname}#=%=#
+Author{14}{Firstname}#=%=#
+Author{14}{Email}#=%=#
+Author{14}{Affiliation}#=%=#
+Author{15}{Lastname}#=%=#
+Author{15}{Firstname}#=%=#
+Author{15}{Email}#=%=#
+Author{15}{Affiliation}#=%=#
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Murat Saraçlar
+JobTitle#==#
+Organization#==#Bogazici University
+Bebek 34342 Istanbul
+TURKEY
+Abstract#==#One way to improve the accuracy of automatic speech recognition (ASR) is to use
+discriminative language modeling (DLM), which enhances discrimination by
+learning where the ASR hypotheses deviate from the uttered sentences. However,
+DLM requires large amounts of ASR output to train. Instead, we can simulate the
+output of an ASR system, in which case the training becomes semi-supervised.
+The advantage of using simulated hypotheses is that we can generate as many
+hypotheses as we want provided that we have enough text material. In typical
+scenarios, transcribed in-domain data is limited but large amounts of
+out-of-domain (OOD) data is available. In this study, we investigate how
+semi-supervised training performs with OOD data. We find out that OOD data can
+yield improvements comparable to in-domain data.
+==========

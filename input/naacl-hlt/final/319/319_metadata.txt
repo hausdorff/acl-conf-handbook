@@ -1,0 +1,83 @@
+SubmissionNumber#=%=#319
+FinalPaperTitle#=%=#Beyond Left-to-Right: Multiple Decomposition Structures for SMT
+ShortPaperTitle#=%=#Beyond Left-to-Right: Multiple Decomposition Structures for SMT
+Author{1}{Lastname}#=%=#Zhang
+Author{1}{Firstname}#=%=#Hui
+Author{1}{Email}#=%=#huizhang.fuan@gmail.com
+Author{1}{Affiliation}#=%=#USC/ISI
+Author{2}{Lastname}#=%=#Toutanova
+Author{2}{Firstname}#=%=#Kristina
+Author{2}{Email}#=%=#kristout@microsoft.com
+Author{2}{Affiliation}#=%=#Microsoft
+Author{3}{Lastname}#=%=#Quirk
+Author{3}{Firstname}#=%=#Chris
+Author{3}{Email}#=%=#chrisq@microsoft.com
+Author{3}{Affiliation}#=%=#Microsoft Research
+Author{4}{Lastname}#=%=#Gao
+Author{4}{Firstname}#=%=#Jianfeng
+Author{4}{Email}#=%=#jfgao@microsoft.com
+Author{4}{Affiliation}#=%=#Microsoft
+Author{5}{Lastname}#=%=#
+Author{5}{Firstname}#=%=#
+Author{5}{Email}#=%=#
+Author{5}{Affiliation}#=%=#
+Author{6}{Lastname}#=%=#
+Author{6}{Firstname}#=%=#
+Author{6}{Email}#=%=#
+Author{6}{Affiliation}#=%=#
+Author{7}{Lastname}#=%=#
+Author{7}{Firstname}#=%=#
+Author{7}{Email}#=%=#
+Author{7}{Affiliation}#=%=#
+Author{8}{Lastname}#=%=#
+Author{8}{Firstname}#=%=#
+Author{8}{Email}#=%=#
+Author{8}{Affiliation}#=%=#
+Author{9}{Lastname}#=%=#
+Author{9}{Firstname}#=%=#
+Author{9}{Email}#=%=#
+Author{9}{Affiliation}#=%=#
+Author{10}{Lastname}#=%=#
+Author{10}{Firstname}#=%=#
+Author{10}{Email}#=%=#
+Author{10}{Affiliation}#=%=#
+Author{11}{Lastname}#=%=#
+Author{11}{Firstname}#=%=#
+Author{11}{Email}#=%=#
+Author{11}{Affiliation}#=%=#
+Author{12}{Lastname}#=%=#
+Author{12}{Firstname}#=%=#
+Author{12}{Email}#=%=#
+Author{12}{Affiliation}#=%=#
+Author{13}{Lastname}#=%=#
+Author{13}{Firstname}#=%=#
+Author{13}{Email}#=%=#
+Author{13}{Affiliation}#=%=#
+Author{14}{Lastname}#=%=#
+Author{14}{Firstname}#=%=#
+Author{14}{Email}#=%=#
+Author{14}{Affiliation}#=%=#
+Author{15}{Lastname}#=%=#
+Author{15}{Firstname}#=%=#
+Author{15}{Email}#=%=#
+Author{15}{Affiliation}#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Hui Zhang
+JobTitle#==#
+Organization#==#USC/ISI
+(This research was conducted during the author's internship at Microsoft Research)
+Abstract#==#Standard phrase-based translation models do not explicitly model context
+dependence between translation units. As a result, they rely on large phrase
+pairs and target language models to recover contextual effects in translation.
+In this work, we explore n-gram models over Minimal Translation Units (MTUs) to
+explicitly capture contextual dependencies across phrase boundaries in the
+channel model. As there is no single best direction in which contextual
+information should flow, we explore multiple decomposition structures as well
+as  dynamic bidirectional decomposition. The resulting models are evaluated in
+an intrinsic task of lexical selection for MT as well as a full MT system,
+through n-best reranking. These experiments demonstrate that additional
+contextual modeling does indeed benefit a phrase-based system and that the
+direction of conditioning is important. Integrating multiple conditioning
+orders provides consistent benefit, and the most important directions differ by
+language pair.
+==========

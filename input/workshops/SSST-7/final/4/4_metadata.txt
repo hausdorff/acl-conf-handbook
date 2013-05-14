@@ -1,0 +1,81 @@
+SubmissionNumber#=%=#4
+FinalPaperTitle#=%=#Combining Word Reordering Methods on different Linguistic Abstraction Levels for Statistical Machine Translation
+ShortPaperTitle#=%=#Combining Word Reordering Methods on different Linguistic Abstraction Levels for Statistical Machine Translation
+Author{1}{Lastname}#=%=#Herrmann
+Author{1}{Firstname}#=%=#Teresa
+Author{1}{Email}#=%=#teresa.herrmann@kit.edu
+Author{1}{Affiliation}#=%=#Karlsruhe Institute of Technology
+Author{2}{Lastname}#=%=#Niehues
+Author{2}{Firstname}#=%=#Jan
+Author{2}{Email}#=%=#jan.niehues@kit.edu
+Author{2}{Affiliation}#=%=#Karlsruhe Institute of Technology
+Author{3}{Lastname}#=%=#Waibel
+Author{3}{Firstname}#=%=#Alex
+Author{3}{Email}#=%=#alexander.waibel@kit.edu
+Author{3}{Affiliation}#=%=#Karlsruhe Institute of Technology
+Author{4}{Lastname}#=%=#
+Author{4}{Firstname}#=%=#
+Author{4}{Email}#=%=#
+Author{4}{Affiliation}#=%=#
+Author{5}{Lastname}#=%=#
+Author{5}{Firstname}#=%=#
+Author{5}{Email}#=%=#
+Author{5}{Affiliation}#=%=#
+Author{6}{Lastname}#=%=#
+Author{6}{Firstname}#=%=#
+Author{6}{Email}#=%=#
+Author{6}{Affiliation}#=%=#
+Author{7}{Lastname}#=%=#
+Author{7}{Firstname}#=%=#
+Author{7}{Email}#=%=#
+Author{7}{Affiliation}#=%=#
+Author{8}{Lastname}#=%=#
+Author{8}{Firstname}#=%=#
+Author{8}{Email}#=%=#
+Author{8}{Affiliation}#=%=#
+Author{9}{Lastname}#=%=#
+Author{9}{Firstname}#=%=#
+Author{9}{Email}#=%=#
+Author{9}{Affiliation}#=%=#
+Author{10}{Lastname}#=%=#
+Author{10}{Firstname}#=%=#
+Author{10}{Email}#=%=#
+Author{10}{Affiliation}#=%=#
+Author{11}{Lastname}#=%=#
+Author{11}{Firstname}#=%=#
+Author{11}{Email}#=%=#
+Author{11}{Affiliation}#=%=#
+Author{12}{Lastname}#=%=#
+Author{12}{Firstname}#=%=#
+Author{12}{Email}#=%=#
+Author{12}{Affiliation}#=%=#
+Author{13}{Lastname}#=%=#
+Author{13}{Firstname}#=%=#
+Author{13}{Email}#=%=#
+Author{13}{Affiliation}#=%=#
+Author{14}{Lastname}#=%=#
+Author{14}{Firstname}#=%=#
+Author{14}{Email}#=%=#
+Author{14}{Affiliation}#=%=#
+Author{15}{Lastname}#=%=#
+Author{15}{Firstname}#=%=#
+Author{15}{Email}#=%=#
+Author{15}{Affiliation}#=%=#
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#Teresa Herrmann
+JobTitle#==#
+Organization#==#Institute for Anthropomatics, Karlsruhe Institute of Technology
+Abstract#==#We describe a novel approach to combining lexicalized, POS-based and syntactic
+tree-based word reordering in a phrase-based machine translation system.
+Our results show that each of the presented reordering methods leads to
+improved translation quality on its own. The strengths however can be combined
+to achieve further improvements.
+We present experiments on German-English and German-French translation. We
+report improvements of 0.7 BLEU points by adding tree-based and lexicalized
+reordering. Up to 1.1 BLEU points can be gained by rule-based reordering over a
+baseline with lexicalized reordering.
+A human analysis, comparing subjective translation quality as well as a
+detailed error analysis show the impact of our presented tree-based rules in
+terms of improved sentence quality and reduction of errors related to missing
+verbs and verb positions.
+==========

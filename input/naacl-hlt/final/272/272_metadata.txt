@@ -1,0 +1,89 @@
+SubmissionNumber#=%=#272
+FinalPaperTitle#=%=#Grouping Language Model Boundary Words to Speed K–Best Extraction from Hypergraphs
+ShortPaperTitle#=%=#Grouping Language Model Boundary Words to Speed K–Best Extraction from Hypergraphs
+Author{1}{Lastname}#=%=#Heafield
+Author{1}{Firstname}#=%=#Kenneth
+Author{1}{Email}#=%=#heafield@cs.cmu.edu
+Author{1}{Affiliation}#=%=#Carnegie Mellon University, University of Edinburgh
+Author{2}{Lastname}#=%=#Koehn
+Author{2}{Firstname}#=%=#Philipp
+Author{2}{Email}#=%=#pkoehn@inf.ed.ac.uk
+Author{2}{Affiliation}#=%=#University of Edinburgh
+Author{3}{Lastname}#=%=#Lavie
+Author{3}{Firstname}#=%=#Alon
+Author{3}{Email}#=%=#alavie@cs.cmu.edu
+Author{3}{Affiliation}#=%=#Carnegie Mellon University
+Author{4}{Lastname}#=%=#
+Author{4}{Firstname}#=%=#
+Author{4}{Email}#=%=#
+Author{4}{Affiliation}#=%=#
+Author{5}{Lastname}#=%=#
+Author{5}{Firstname}#=%=#
+Author{5}{Email}#=%=#
+Author{5}{Affiliation}#=%=#
+Author{6}{Lastname}#=%=#
+Author{6}{Firstname}#=%=#
+Author{6}{Email}#=%=#
+Author{6}{Affiliation}#=%=#
+Author{7}{Lastname}#=%=#
+Author{7}{Firstname}#=%=#
+Author{7}{Email}#=%=#
+Author{7}{Affiliation}#=%=#
+Author{8}{Lastname}#=%=#
+Author{8}{Firstname}#=%=#
+Author{8}{Email}#=%=#
+Author{8}{Affiliation}#=%=#
+Author{9}{Lastname}#=%=#
+Author{9}{Firstname}#=%=#
+Author{9}{Email}#=%=#
+Author{9}{Affiliation}#=%=#
+Author{10}{Lastname}#=%=#
+Author{10}{Firstname}#=%=#
+Author{10}{Email}#=%=#
+Author{10}{Affiliation}#=%=#
+Author{11}{Lastname}#=%=#
+Author{11}{Firstname}#=%=#
+Author{11}{Email}#=%=#
+Author{11}{Affiliation}#=%=#
+Author{12}{Lastname}#=%=#
+Author{12}{Firstname}#=%=#
+Author{12}{Email}#=%=#
+Author{12}{Affiliation}#=%=#
+Author{13}{Lastname}#=%=#
+Author{13}{Firstname}#=%=#
+Author{13}{Email}#=%=#
+Author{13}{Affiliation}#=%=#
+Author{14}{Lastname}#=%=#
+Author{14}{Firstname}#=%=#
+Author{14}{Email}#=%=#
+Author{14}{Affiliation}#=%=#
+Author{15}{Lastname}#=%=#
+Author{15}{Firstname}#=%=#
+Author{15}{Email}#=%=#
+Author{15}{Affiliation}#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Kenneth Heafield
+JobTitle#==#Research Associate
+Organization#==#University of Edinburgh
+10 Crichton Street
+Edinburgh EH8 9AB
+Abstract#==#We propose a new algorithm to approximately extract top-scoring hypotheses from
+a hypergraph when the score includes an N-gram language model.                       
+     
+
+  In
+the
+popular
+cube pruning algorithm, every hypothesis is annotated with boundary words and
+permitted to recombine only if all boundary words are equal.  However, many
+hypotheses share some, but not all, boundary words.  We use these common
+boundary words to group hypotheses and do so recursively, resulting in a tree
+of hypotheses.                                      This tree forms the basis for our
+new
+search
+algorithm
+that
+iteratively refines groups of boundary words on demand. Machine translation
+experiments show our algorithm makes translation 1.50 to 3.51 times as fast as
+with cube pruning in common cases.
+==========

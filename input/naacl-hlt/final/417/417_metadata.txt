@@ -1,0 +1,79 @@
+SubmissionNumber#=%=#417
+FinalPaperTitle#=%=#Measuring the Structural Importance through Rhetorical Structure Index
+ShortPaperTitle#=%=#Measuring the Structural Importance through Rhetorical Structure Index
+Author{1}{Lastname}#=%=#Kokhlikyan
+Author{1}{Firstname}#=%=#Narine
+Author{1}{Email}#=%=#narine.kokhlikyan@student.kit.edu
+Author{1}{Affiliation}#=%=#Karlsruhe Institute of Technology
+Author{2}{Lastname}#=%=#Waibel
+Author{2}{Firstname}#=%=#Alex
+Author{2}{Email}#=%=#waibel@cs.cmu.edu
+Author{2}{Affiliation}#=%=#Carnegie Mellon University
+Author{3}{Lastname}#=%=#Zhang
+Author{3}{Firstname}#=%=#Yuqi
+Author{3}{Email}#=%=#yuqi.zhang@kit.edu
+Author{3}{Affiliation}#=%=#Karlsruhe Institute of Technology
+Author{4}{Lastname}#=%=#Zhang
+Author{4}{Firstname}#=%=#Joy Ying
+Author{4}{Email}#=%=#joy.zhang@sv.cmu.edu
+Author{4}{Affiliation}#=%=#Carnegie Mellon University
+Author{5}{Lastname}#=%=#
+Author{5}{Firstname}#=%=#
+Author{5}{Email}#=%=#
+Author{5}{Affiliation}#=%=#
+Author{6}{Lastname}#=%=#
+Author{6}{Firstname}#=%=#
+Author{6}{Email}#=%=#
+Author{6}{Affiliation}#=%=#
+Author{7}{Lastname}#=%=#
+Author{7}{Firstname}#=%=#
+Author{7}{Email}#=%=#
+Author{7}{Affiliation}#=%=#
+Author{8}{Lastname}#=%=#
+Author{8}{Firstname}#=%=#
+Author{8}{Email}#=%=#
+Author{8}{Affiliation}#=%=#
+Author{9}{Lastname}#=%=#
+Author{9}{Firstname}#=%=#
+Author{9}{Email}#=%=#
+Author{9}{Affiliation}#=%=#
+Author{10}{Lastname}#=%=#
+Author{10}{Firstname}#=%=#
+Author{10}{Email}#=%=#
+Author{10}{Affiliation}#=%=#
+Author{11}{Lastname}#=%=#
+Author{11}{Firstname}#=%=#
+Author{11}{Email}#=%=#
+Author{11}{Affiliation}#=%=#
+Author{12}{Lastname}#=%=#
+Author{12}{Firstname}#=%=#
+Author{12}{Email}#=%=#
+Author{12}{Affiliation}#=%=#
+Author{13}{Lastname}#=%=#
+Author{13}{Firstname}#=%=#
+Author{13}{Email}#=%=#
+Author{13}{Affiliation}#=%=#
+Author{14}{Lastname}#=%=#
+Author{14}{Firstname}#=%=#
+Author{14}{Email}#=%=#
+Author{14}{Affiliation}#=%=#
+Author{15}{Lastname}#=%=#
+Author{15}{Firstname}#=%=#
+Author{15}{Email}#=%=#
+Author{15}{Affiliation}#=%=#
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Joy Zhang
+JobTitle#==#
+Organization#==#Joy Zhang, 23 S. Akron Rd. Moffett Field, CA 94035
+Carnegie Mellon University
+Abstract#==#In this paper, we propose a novel Rhetorical
+Structure Index (RSI) to measure  the structural importance of a word or a
+phrase.
+Unlike TF-IDF and other content-driven measurements, RSI  identifies words or
+phrases that are structural cues in an unstructured document.
+We show  structurally motivated features with high RSI values are more useful
+than content-driven features for applications such as segmenting the
+unstructured lecture transcription into meaningful segments. Experiments show
+that using RSI significantly improves the segmentation accuracy  compared to
+the traditional content-based feature weighting scheme such as TF-IDF.
+==========

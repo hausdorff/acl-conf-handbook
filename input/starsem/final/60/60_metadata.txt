@@ -1,0 +1,81 @@
+SubmissionNumber#=%=#60
+FinalPaperTitle#=%=#UPC-CORE: What Can Machine Translation Evaluation Metrics and Wikipedia Do for Estimating Semantic Textual Similarity?
+ShortPaperTitle#=%=#UPC-CORE: What Can Machine Translation Evaluation Metrics and Wikipedia Do for Estimating Semantic Textual Similarity?
+Author{1}{Lastname}#=%=#Barrón-Cedeño
+Author{1}{Firstname}#=%=#Alberto
+Author{1}{Email}#=%=#albarron@lsi.upc.edu
+Author{1}{Affiliation}#=%=#Universitat Politècnica de Catalunya
+Author{2}{Lastname}#=%=#Màrquez
+Author{2}{Firstname}#=%=#Lluís
+Author{2}{Email}#=%=#lluism@lsi.upc.edu
+Author{2}{Affiliation}#=%=#Universitat Politècnica de Catalunya
+Author{3}{Lastname}#=%=#Fuentes
+Author{3}{Firstname}#=%=#Maria
+Author{3}{Email}#=%=#mfuentes@lsi.upc.edu
+Author{3}{Affiliation}#=%=#Universitat Politècnica de Catalunya
+Author{4}{Lastname}#=%=#Rodriguez
+Author{4}{Firstname}#=%=#Horacio
+Author{4}{Email}#=%=#horacio@lsi.upc.edu
+Author{4}{Affiliation}#=%=#Universitat Politècnica de Catalunya
+Author{5}{Lastname}#=%=#Turmo
+Author{5}{Firstname}#=%=#Jordi
+Author{5}{Email}#=%=#turmo@lsi.upc.edu
+Author{5}{Affiliation}#=%=#Universitat Politècnica de Catalunya
+Author{6}{Lastname}#=%=#
+Author{6}{Firstname}#=%=#
+Author{6}{Email}#=%=#
+Author{6}{Affiliation}#=%=#
+Author{7}{Lastname}#=%=#
+Author{7}{Firstname}#=%=#
+Author{7}{Email}#=%=#
+Author{7}{Affiliation}#=%=#
+Author{8}{Lastname}#=%=#
+Author{8}{Firstname}#=%=#
+Author{8}{Email}#=%=#
+Author{8}{Affiliation}#=%=#
+Author{9}{Lastname}#=%=#
+Author{9}{Firstname}#=%=#
+Author{9}{Email}#=%=#
+Author{9}{Affiliation}#=%=#
+Author{10}{Lastname}#=%=#
+Author{10}{Firstname}#=%=#
+Author{10}{Email}#=%=#
+Author{10}{Affiliation}#=%=#
+Author{11}{Lastname}#=%=#
+Author{11}{Firstname}#=%=#
+Author{11}{Email}#=%=#
+Author{11}{Affiliation}#=%=#
+Author{12}{Lastname}#=%=#
+Author{12}{Firstname}#=%=#
+Author{12}{Email}#=%=#
+Author{12}{Affiliation}#=%=#
+Author{13}{Lastname}#=%=#
+Author{13}{Firstname}#=%=#
+Author{13}{Email}#=%=#
+Author{13}{Affiliation}#=%=#
+Author{14}{Lastname}#=%=#
+Author{14}{Firstname}#=%=#
+Author{14}{Email}#=%=#
+Author{14}{Affiliation}#=%=#
+Author{15}{Lastname}#=%=#
+Author{15}{Firstname}#=%=#
+Author{15}{Email}#=%=#
+Author{15}{Affiliation}#=%=#
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Alberto Barrón-Cedeño
+JobTitle#==#
+Organization#==#Talp Research Center; Universitat Politècnica de Catalunya.
+Jordi Girona Salgado 1–3, 08034, Barcelona, Spain
+Abstract#==#In this paper we discuss our participation to the 2013 Semeval Semantic Textual
+Similarity task. Our core features include (i) a set of metrics borrowed from
+automatic machine translation, originally intended to evaluate automatic
+against reference translations and (ii) an instance of explicit semantic
+analysis, built
+upon opening paragraphs of Wikipedia 2010 articles. Our similarity estimator
+relies on a support vector regressor with RBF kernel. Our best approach
+required 13 machine translation metrics + explicit semantic analysis and ranked
+65 in the competition. Our post-competition analysis shows that the features
+have a good expression level, but overfitting and —mainly— normalization
+issues caused
+our correlation values to decrease.
+==========

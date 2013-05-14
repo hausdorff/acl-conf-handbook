@@ -1,0 +1,77 @@
+SubmissionNumber#=%=#75
+FinalPaperTitle#=%=#INAOE\_UPV-CORE: Extracting Word Associations from Document Corpora to estimate Semantic Textual Similarity
+ShortPaperTitle#=%=#INAOE\_UPV-CORE: Extracting Word Associations from Document Corpora to estimate Semantic Textual Similarity
+Author{1}{Lastname}#=%=#Sánchez-Vega
+Author{1}{Firstname}#=%=#Fernando
+Author{1}{Email}#=%=#fer.callotl@inaoep.mx
+Author{1}{Affiliation}#=%=#Laboratorio de Tecnologías del Lenguaje, Instituto Nacional de Astrofísica, Óptica y Electrónica, Puebla, Estado de México
+Author{2}{Lastname}#=%=#Montes-y-Gómez
+Author{2}{Firstname}#=%=#Manuel
+Author{2}{Email}#=%=#mmontesg@inaoep.mx
+Author{2}{Affiliation}#=%=#Laboratorio de Tecnologías del Lenguaje, Instituto Nacional de Astrofísica, Óptica y Electrónica, Puebla, Estado de México
+Author{3}{Lastname}#=%=#Rosso
+Author{3}{Firstname}#=%=#Paolo
+Author{3}{Email}#=%=#prosso@dsic.upv.es
+Author{3}{Affiliation}#=%=#Universitat Politècnica de València
+Author{4}{Lastname}#=%=#Villaseñor-Pineda
+Author{4}{Firstname}#=%=#Luis
+Author{4}{Email}#=%=#villasen@inaoep.mx
+Author{4}{Affiliation}#=%=#Laboratorio de Tecnologías del Lenguaje, Instituto Nacional de Astrofísica, Óptica y Electrónica, Puebla, Estado de México
+Author{5}{Lastname}#=%=#
+Author{5}{Firstname}#=%=#
+Author{5}{Email}#=%=#
+Author{5}{Affiliation}#=%=#
+Author{6}{Lastname}#=%=#
+Author{6}{Firstname}#=%=#
+Author{6}{Email}#=%=#
+Author{6}{Affiliation}#=%=#
+Author{7}{Lastname}#=%=#
+Author{7}{Firstname}#=%=#
+Author{7}{Email}#=%=#
+Author{7}{Affiliation}#=%=#
+Author{8}{Lastname}#=%=#
+Author{8}{Firstname}#=%=#
+Author{8}{Email}#=%=#
+Author{8}{Affiliation}#=%=#
+Author{9}{Lastname}#=%=#
+Author{9}{Firstname}#=%=#
+Author{9}{Email}#=%=#
+Author{9}{Affiliation}#=%=#
+Author{10}{Lastname}#=%=#
+Author{10}{Firstname}#=%=#
+Author{10}{Email}#=%=#
+Author{10}{Affiliation}#=%=#
+Author{11}{Lastname}#=%=#
+Author{11}{Firstname}#=%=#
+Author{11}{Email}#=%=#
+Author{11}{Affiliation}#=%=#
+Author{12}{Lastname}#=%=#
+Author{12}{Firstname}#=%=#
+Author{12}{Email}#=%=#
+Author{12}{Affiliation}#=%=#
+Author{13}{Lastname}#=%=#
+Author{13}{Firstname}#=%=#
+Author{13}{Email}#=%=#
+Author{13}{Affiliation}#=%=#
+Author{14}{Lastname}#=%=#
+Author{14}{Firstname}#=%=#
+Author{14}{Email}#=%=#
+Author{14}{Affiliation}#=%=#
+Author{15}{Lastname}#=%=#
+Author{15}{Firstname}#=%=#
+Author{15}{Email}#=%=#
+Author{15}{Affiliation}#=%=#
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Ferando Sánchez Vega
+JobTitle#==#PhD. Student
+Organization#==#Instituto Nacional de Astrofísica, Óptica y Electrónica.
+Luis Enrique Erro # 1, Tonantzintla, Puebla, México C.P. 72840
+Abstract#==#This paper presents three methods to evaluate the Semantic Textual Similarity
+(STS). The first two methods do not require labeled training data; instead,
+they automatically extract semantic knowledge in the form of word associations
+from a given reference corpus. Two kinds of word associations are considered:
+cooccurrence statistics and the similarity of word contexts. The third method
+was done in collaboration with LIPN and UMCC_DLSI. It uses several word
+similarity measures as features in order to construct an accurate prediction
+model for the STS.
+==========

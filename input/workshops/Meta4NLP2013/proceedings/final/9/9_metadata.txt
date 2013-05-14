@@ -1,0 +1,80 @@
+SubmissionNumber#=%=#9
+FinalPaperTitle#=%=#Cross-Lingual Metaphor Detection Using Common Semantic Features
+ShortPaperTitle#=%=#Cross-Lingual Metaphor Detection Using Common Semantic Features
+Author{1}{Lastname}#=%=#Tsvetkov
+Author{1}{Firstname}#=%=#Yulia
+Author{1}{Email}#=%=#yulia.tsvetkov@gmail.com
+Author{1}{Affiliation}#=%=#CMU
+Author{2}{Lastname}#=%=#Mukomel
+Author{2}{Firstname}#=%=#Elena
+Author{2}{Email}#=%=#elenamukomel@gmail.com
+Author{2}{Affiliation}#=%=#CMU
+Author{3}{Lastname}#=%=#Gershman
+Author{3}{Firstname}#=%=#Anatole
+Author{3}{Email}#=%=#anatoleg@cs.cmu.edu
+Author{3}{Affiliation}#=%=#CMU
+Author{4}{Lastname}#=%=#
+Author{4}{Firstname}#=%=#
+Author{4}{Email}#=%=#
+Author{4}{Affiliation}#=%=#
+Author{5}{Lastname}#=%=#
+Author{5}{Firstname}#=%=#
+Author{5}{Email}#=%=#
+Author{5}{Affiliation}#=%=#
+Author{6}{Lastname}#=%=#
+Author{6}{Firstname}#=%=#
+Author{6}{Email}#=%=#
+Author{6}{Affiliation}#=%=#
+Author{7}{Lastname}#=%=#
+Author{7}{Firstname}#=%=#
+Author{7}{Email}#=%=#
+Author{7}{Affiliation}#=%=#
+Author{8}{Lastname}#=%=#
+Author{8}{Firstname}#=%=#
+Author{8}{Email}#=%=#
+Author{8}{Affiliation}#=%=#
+Author{9}{Lastname}#=%=#
+Author{9}{Firstname}#=%=#
+Author{9}{Email}#=%=#
+Author{9}{Affiliation}#=%=#
+Author{10}{Lastname}#=%=#
+Author{10}{Firstname}#=%=#
+Author{10}{Email}#=%=#
+Author{10}{Affiliation}#=%=#
+Author{11}{Lastname}#=%=#
+Author{11}{Firstname}#=%=#
+Author{11}{Email}#=%=#
+Author{11}{Affiliation}#=%=#
+Author{12}{Lastname}#=%=#
+Author{12}{Firstname}#=%=#
+Author{12}{Email}#=%=#
+Author{12}{Affiliation}#=%=#
+Author{13}{Lastname}#=%=#
+Author{13}{Firstname}#=%=#
+Author{13}{Email}#=%=#
+Author{13}{Affiliation}#=%=#
+Author{14}{Lastname}#=%=#
+Author{14}{Firstname}#=%=#
+Author{14}{Email}#=%=#
+Author{14}{Affiliation}#=%=#
+Author{15}{Lastname}#=%=#
+Author{15}{Firstname}#=%=#
+Author{15}{Email}#=%=#
+Author{15}{Affiliation}#=%=#
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Yulia Tsvetkov
+JobTitle#==#
+Organization#==#Language Technologies Institute
+Carnegie Mellon University
+Pittsburgh, PA, 15213, USA
+Abstract#==#We present the CSF - Common Semantic Features method for metaphor detection.
+This method has two distinguishing characteristics: it is cross-lingual and it
+does not rely on the availability of extensive manually-compiled lexical
+resources in target languages other than English. A metaphor detecting
+classifier is trained on English samples and then applied to the target
+language. The method includes procedures for obtaining semantic features from
+sentences in the target language. Our experiments with Russian and English
+sentences show comparable results, supporting our hypothesis that a CSF-based
+classifier can be applied across languages. We obtain state-of-the-art
+performance in both languages.
+==========

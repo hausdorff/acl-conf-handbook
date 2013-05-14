@@ -1,0 +1,102 @@
+SubmissionNumber#=%=#5
+FinalPaperTitle#=%=#Deep Learning for NLP (without Magic)
+ShortPaperTitle#=%=#Deep Learning for NLP (without Magic)
+Author{1}{Lastname}#=%=#Socher
+Author{1}{Firstname}#=%=#Richard
+Author{1}{Email}#=%=#richard@socher.org
+Author{1}{Affiliation}#=%=#Stanford University
+Author{2}{Lastname}#=%=#Manning
+Author{2}{Firstname}#=%=#Chris
+Author{2}{Email}#=%=#manning@stanford.edu
+Author{2}{Affiliation}#=%=#Stanford University
+Author{3}{Lastname}#=%=#
+Author{3}{Firstname}#=%=#
+Author{3}{Email}#=%=#
+Author{3}{Affiliation}#=%=#
+Author{4}{Lastname}#=%=#
+Author{4}{Firstname}#=%=#
+Author{4}{Email}#=%=#
+Author{4}{Affiliation}#=%=#
+Author{5}{Lastname}#=%=#
+Author{5}{Firstname}#=%=#
+Author{5}{Email}#=%=#
+Author{5}{Affiliation}#=%=#
+Author{6}{Lastname}#=%=#
+Author{6}{Firstname}#=%=#
+Author{6}{Email}#=%=#
+Author{6}{Affiliation}#=%=#
+Author{7}{Lastname}#=%=#
+Author{7}{Firstname}#=%=#
+Author{7}{Email}#=%=#
+Author{7}{Affiliation}#=%=#
+Author{8}{Lastname}#=%=#
+Author{8}{Firstname}#=%=#
+Author{8}{Email}#=%=#
+Author{8}{Affiliation}#=%=#
+Author{9}{Lastname}#=%=#
+Author{9}{Firstname}#=%=#
+Author{9}{Email}#=%=#
+Author{9}{Affiliation}#=%=#
+Author{10}{Lastname}#=%=#
+Author{10}{Firstname}#=%=#
+Author{10}{Email}#=%=#
+Author{10}{Affiliation}#=%=#
+Author{11}{Lastname}#=%=#
+Author{11}{Firstname}#=%=#
+Author{11}{Email}#=%=#
+Author{11}{Affiliation}#=%=#
+Author{12}{Lastname}#=%=#
+Author{12}{Firstname}#=%=#
+Author{12}{Email}#=%=#
+Author{12}{Affiliation}#=%=#
+Author{13}{Lastname}#=%=#
+Author{13}{Firstname}#=%=#
+Author{13}{Email}#=%=#
+Author{13}{Affiliation}#=%=#
+Author{14}{Lastname}#=%=#
+Author{14}{Firstname}#=%=#
+Author{14}{Email}#=%=#
+Author{14}{Affiliation}#=%=#
+Author{15}{Lastname}#=%=#
+Author{15}{Firstname}#=%=#
+Author{15}{Email}#=%=#
+Author{15}{Affiliation}#=%=#
+NumberOfPages#=%=#3
+CopyrightSigned#=%=#Katrin Erk
+JobTitle#==#tutorials chair
+Organization#==#
+Abstract#==#Machine learning is everywhere in today's NLP, but by and large machine
+learning amounts to numerical optimization of weights for human designed
+representations and features. The goal of deep learning is to explore how
+computers can take advantage of data to develop features and representations
+appropriate for complex interpretation tasks. This tutorial aims to cover the
+basic motivation, ideas, models and learning algorithms in deep learning for
+natural language processing. Recently, these methods have been shown to perform
+very well on various NLP tasks such as language modeling, POS tagging, named
+entity recognition, sentiment analysis and paraphrase detection, among others.
+The most attractive quality of these techniques is that they can perform well
+without any external hand-designed resources or time-intensive feature
+engineering. Despite these advantages, many researchers in NLP are not familiar
+with these methods. Our focus is on insight and understanding, using graphical
+illustrations and simple, intuitive derivations. The goal of the tutorial is to
+make the inner workings of these techniques transparent, intuitive and their
+results interpretable, rather than black boxes labeled "magic here". The first
+part of the tutorial presents the basics of neural networks, neural word
+vectors, several simple models based on local windows and the math and
+algorithms of training via backpropagation. In this section applications
+include language modeling and POS tagging. In the second section we present
+recursive neural networks which can learn structured tree outputs as well as
+vector representations for phrases and sentences. We cover both equations as
+well as applications. We show how training can be achieved by a modified
+version of the backpropagation algorithm introduced before. These modifications
+allow the algorithm to work on tree structures. Applications include sentiment
+analysis and paraphrase detection. We also draw connections to recent work in
+semantic compositionality in vector spaces. The principle goal, again, is to
+make these methods appear intuitive and interpretable rather than
+mathematically confusing. By this point in the tutorial, the audience members
+should have a clear understanding of how to build a deep learning system for
+word-, sentence- and document-level tasks. The last part of the tutorial gives
+a general overview of the different applications of deep learning in NLP,
+including bag of words models. We will provide a discussion of NLP-oriented
+issues in modeling, interpretation, representational power, and optimization.
+==========

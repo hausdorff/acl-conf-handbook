@@ -1,0 +1,80 @@
+SubmissionNumber#=%=#1
+FinalPaperTitle#=%=#Does Size Matter? Text and Grammar Revision for Parsing Social Media Data
+ShortPaperTitle#=%=#Does Size Matter? Text and Grammar Revision for Parsing Social Media Data
+Author{1}{Lastname}#=%=#Khan
+Author{1}{Firstname}#=%=#Mohammad
+Author{1}{Email}#=%=#khanms@umail.iu.edu
+Author{1}{Affiliation}#=%=#Indiana University
+Author{2}{Lastname}#=%=#Dickinson
+Author{2}{Firstname}#=%=#Markus
+Author{2}{Email}#=%=#md7@indiana.edu
+Author{2}{Affiliation}#=%=#Indiana University
+Author{3}{Lastname}#=%=#Kuebler
+Author{3}{Firstname}#=%=#Sandra
+Author{3}{Email}#=%=#skuebler@indiana.edu
+Author{3}{Affiliation}#=%=#Indiana University
+Author{4}{Lastname}#=%=#
+Author{4}{Firstname}#=%=#
+Author{4}{Email}#=%=#
+Author{4}{Affiliation}#=%=#
+Author{5}{Lastname}#=%=#
+Author{5}{Firstname}#=%=#
+Author{5}{Email}#=%=#
+Author{5}{Affiliation}#=%=#
+Author{6}{Lastname}#=%=#
+Author{6}{Firstname}#=%=#
+Author{6}{Email}#=%=#
+Author{6}{Affiliation}#=%=#
+Author{7}{Lastname}#=%=#
+Author{7}{Firstname}#=%=#
+Author{7}{Email}#=%=#
+Author{7}{Affiliation}#=%=#
+Author{8}{Lastname}#=%=#
+Author{8}{Firstname}#=%=#
+Author{8}{Email}#=%=#
+Author{8}{Affiliation}#=%=#
+Author{9}{Lastname}#=%=#
+Author{9}{Firstname}#=%=#
+Author{9}{Email}#=%=#
+Author{9}{Affiliation}#=%=#
+Author{10}{Lastname}#=%=#
+Author{10}{Firstname}#=%=#
+Author{10}{Email}#=%=#
+Author{10}{Affiliation}#=%=#
+Author{11}{Lastname}#=%=#
+Author{11}{Firstname}#=%=#
+Author{11}{Email}#=%=#
+Author{11}{Affiliation}#=%=#
+Author{12}{Lastname}#=%=#
+Author{12}{Firstname}#=%=#
+Author{12}{Email}#=%=#
+Author{12}{Affiliation}#=%=#
+Author{13}{Lastname}#=%=#
+Author{13}{Firstname}#=%=#
+Author{13}{Email}#=%=#
+Author{13}{Affiliation}#=%=#
+Author{14}{Lastname}#=%=#
+Author{14}{Firstname}#=%=#
+Author{14}{Email}#=%=#
+Author{14}{Affiliation}#=%=#
+Author{15}{Lastname}#=%=#
+Author{15}{Firstname}#=%=#
+Author{15}{Email}#=%=#
+Author{15}{Affiliation}#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Sandra Kuebler
+JobTitle#==#
+Organization#==#Indiana University
+1021 E 3rd St.
+Bloomington, IN 47405
+USA
+Abstract#==#We explore improving parsing social media and other web data by altering the
+input data, namely by normalizing web text, and by revising output parses.  We
+find that text normalization improves performance, though spell checking has
+more of a mixed impact.  We also find that a very simple tree reviser based on
+grammar comparisons performs slightly but significantly better than the
+baseline and well outperforms a machine learning model.  The results also
+demonstrate that, more              than the size of the training data, the goodness
+of fit
+of the data has a great impact on the parser.
+==========

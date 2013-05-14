@@ -1,0 +1,80 @@
+SubmissionNumber#=%=#12
+FinalPaperTitle#=%=#Sentence-Level Subjectivity Detection Using Neuro-Fuzzy Models
+ShortPaperTitle#=%=#Sentence-Level Subjectivity Detection Using Neuro-Fuzzy Models
+Author{1}{Lastname}#=%=#Rustamov
+Author{1}{Firstname}#=%=#Samir
+Author{1}{Email}#=%=#samir.rustamov@gmail.com
+Author{1}{Affiliation}#=%=#Georgia Institute of Technology
+Author{2}{Lastname}#=%=#Mustafayev
+Author{2}{Firstname}#=%=#Elshan
+Author{2}{Email}#=%=#elshan.mustafayev@gmail.com
+Author{2}{Affiliation}#=%=#Institute of Cybernetics of Azerbaijan National Academy of Sciences
+Author{3}{Lastname}#=%=#Clements
+Author{3}{Firstname}#=%=#Mark
+Author{3}{Email}#=%=#clements@ece.gatech.edu
+Author{3}{Affiliation}#=%=#Georgia Institute of Technology
+Author{4}{Lastname}#=%=#
+Author{4}{Firstname}#=%=#
+Author{4}{Email}#=%=#
+Author{4}{Affiliation}#=%=#
+Author{5}{Lastname}#=%=#
+Author{5}{Firstname}#=%=#
+Author{5}{Email}#=%=#
+Author{5}{Affiliation}#=%=#
+Author{6}{Lastname}#=%=#
+Author{6}{Firstname}#=%=#
+Author{6}{Email}#=%=#
+Author{6}{Affiliation}#=%=#
+Author{7}{Lastname}#=%=#
+Author{7}{Firstname}#=%=#
+Author{7}{Email}#=%=#
+Author{7}{Affiliation}#=%=#
+Author{8}{Lastname}#=%=#
+Author{8}{Firstname}#=%=#
+Author{8}{Email}#=%=#
+Author{8}{Affiliation}#=%=#
+Author{9}{Lastname}#=%=#
+Author{9}{Firstname}#=%=#
+Author{9}{Email}#=%=#
+Author{9}{Affiliation}#=%=#
+Author{10}{Lastname}#=%=#
+Author{10}{Firstname}#=%=#
+Author{10}{Email}#=%=#
+Author{10}{Affiliation}#=%=#
+Author{11}{Lastname}#=%=#
+Author{11}{Firstname}#=%=#
+Author{11}{Email}#=%=#
+Author{11}{Affiliation}#=%=#
+Author{12}{Lastname}#=%=#
+Author{12}{Firstname}#=%=#
+Author{12}{Email}#=%=#
+Author{12}{Affiliation}#=%=#
+Author{13}{Lastname}#=%=#
+Author{13}{Firstname}#=%=#
+Author{13}{Email}#=%=#
+Author{13}{Affiliation}#=%=#
+Author{14}{Lastname}#=%=#
+Author{14}{Firstname}#=%=#
+Author{14}{Email}#=%=#
+Author{14}{Affiliation}#=%=#
+Author{15}{Lastname}#=%=#
+Author{15}{Firstname}#=%=#
+Author{15}{Email}#=%=#
+Author{15}{Affiliation}#=%=#
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Samir
+JobTitle#==#
+Organization#==#Georgia Institute of Technology
+225 North Avenue NW
+Atlanta, GA 30332, USA
+Abstract#==#In this work, we attempt to detect sentence-level subjectivity by means of two
+supervised machine learning approaches: a Fuzzy Control System and Adaptive
+Neuro-Fuzzy Inference System. Even though these methods are popular in pattern
+recognition, they have not been thoroughly investigated for subjectivity
+analysis. We present a novel “Pruned ICF Weighting Coefficient,” which
+improves the accuracy for subjectivity detection. Our feature extraction
+algorithm calculates a feature vector based on the statistical occurrences of
+words in a corpus without any lexical knowledge. For this reason, these machine
+learning models can be applied to any language; i.e., there is no lexical,
+grammatical, syntactical analysis used in the classification process.
+==========

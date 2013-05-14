@@ -1,0 +1,85 @@
+SubmissionNumber#=%=#6
+FinalPaperTitle#=%=#Taste of Two Different Flavours: Which Manipuri Script works better for English-Manipuri Language pair SMT Systems?
+ShortPaperTitle#=%=#Taste of Two Different Flavours: Which Manipuri Script works better for English-Manipuri Language pair SMT Systems?
+Author{1}{Lastname}#=%=#Singh
+Author{1}{Firstname}#=%=#Thoudam Doren
+Author{1}{Email}#=%=#thoudam.doren@gmail.com
+Author{1}{Affiliation}#=%=#CDAC Mumbai
+Author{2}{Lastname}#=%=#
+Author{2}{Firstname}#=%=#
+Author{2}{Email}#=%=#
+Author{2}{Affiliation}#=%=#
+Author{3}{Lastname}#=%=#
+Author{3}{Firstname}#=%=#
+Author{3}{Email}#=%=#
+Author{3}{Affiliation}#=%=#
+Author{4}{Lastname}#=%=#
+Author{4}{Firstname}#=%=#
+Author{4}{Email}#=%=#
+Author{4}{Affiliation}#=%=#
+Author{5}{Lastname}#=%=#
+Author{5}{Firstname}#=%=#
+Author{5}{Email}#=%=#
+Author{5}{Affiliation}#=%=#
+Author{6}{Lastname}#=%=#
+Author{6}{Firstname}#=%=#
+Author{6}{Email}#=%=#
+Author{6}{Affiliation}#=%=#
+Author{7}{Lastname}#=%=#
+Author{7}{Firstname}#=%=#
+Author{7}{Email}#=%=#
+Author{7}{Affiliation}#=%=#
+Author{8}{Lastname}#=%=#
+Author{8}{Firstname}#=%=#
+Author{8}{Email}#=%=#
+Author{8}{Affiliation}#=%=#
+Author{9}{Lastname}#=%=#
+Author{9}{Firstname}#=%=#
+Author{9}{Email}#=%=#
+Author{9}{Affiliation}#=%=#
+Author{10}{Lastname}#=%=#
+Author{10}{Firstname}#=%=#
+Author{10}{Email}#=%=#
+Author{10}{Affiliation}#=%=#
+Author{11}{Lastname}#=%=#
+Author{11}{Firstname}#=%=#
+Author{11}{Email}#=%=#
+Author{11}{Affiliation}#=%=#
+Author{12}{Lastname}#=%=#
+Author{12}{Firstname}#=%=#
+Author{12}{Email}#=%=#
+Author{12}{Affiliation}#=%=#
+Author{13}{Lastname}#=%=#
+Author{13}{Firstname}#=%=#
+Author{13}{Email}#=%=#
+Author{13}{Affiliation}#=%=#
+Author{14}{Lastname}#=%=#
+Author{14}{Firstname}#=%=#
+Author{14}{Email}#=%=#
+Author{14}{Affiliation}#=%=#
+Author{15}{Lastname}#=%=#
+Author{15}{Firstname}#=%=#
+Author{15}{Email}#=%=#
+Author{15}{Affiliation}#=%=#
+NumberOfPages#=%=#8
+CopyrightSigned#=%=#Thoudam Doren Singh
+JobTitle#==#Senior Technical Officer
+Organization#==#Centre for Development of Advanced Computing (CDAC), Mumbai
+Gulmohor Cross Road No 9, Juhu
+Mumbai-400049, INDIA
+Abstract#==#The statistical machine translation (SMT) system heavily depends on the
+sentence aligned parallel corpus and the target language model. This paper
+points out some of the core issues on switching a language script and its
+repercussion in the phrase based statistical machine translation system
+development. The present
+task reports on the outcome of English-Manipuri language pair phrase based SMT
+task on two aspects – a) Manipuri using Bengali script, b) Manipuri using
+transliterated Meetei Mayek script. Two independent views on Bengali script
+based SMT and transliterated Meitei Mayek based SMT systems of the training
+data and language models are presented and compared. The impact of various
+language models is commendable in such scenario. The BLEU and NIST score shows
+that Bengali script based phrase based SMT(PBSMT) outperforms over the Meetei
+Mayek based English to Manipuri SMT system. However, subjective evaluation
+shows slight
+variation against the automatic scores.
+==========

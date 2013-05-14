@@ -1,0 +1,82 @@
+SubmissionNumber#=%=#22
+FinalPaperTitle#=%=#Identifying Pronominal Verbs: Towards Automatic Disambiguation of the Clitic 'se' in {P}ortuguese
+ShortPaperTitle#=%=#Identifying Pronominal Verbs in {P}ortuguese
+Author{1}{Lastname}#=%=#Sanches Duran
+Author{1}{Firstname}#=%=#Magali
+Author{1}{Email}#=%=#magali.duran@uol.com.br
+Author{1}{Affiliation}#=%=#Universidade de São Paulo
+Author{2}{Lastname}#=%=#Scarton
+Author{2}{Firstname}#=%=#Carolina Evaristo
+Author{2}{Email}#=%=#carol.scarton@gmail.com
+Author{2}{Affiliation}#=%=#Universidade de São Paulo
+Author{3}{Lastname}#=%=#Aluísio
+Author{3}{Firstname}#=%=#Sandra Maria
+Author{3}{Email}#=%=#sandra@icmc.usp.br
+Author{3}{Affiliation}#=%=#Universidade de São Paulo
+Author{4}{Lastname}#=%=#Ramisch
+Author{4}{Firstname}#=%=#Carlos
+Author{4}{Email}#=%=#carlinhosramisch@gmail.com
+Author{4}{Affiliation}#=%=#University of Grenoble
+Author{5}{Lastname}#=%=#
+Author{5}{Firstname}#=%=#
+Author{5}{Email}#=%=#
+Author{5}{Affiliation}#=%=#
+Author{6}{Lastname}#=%=#
+Author{6}{Firstname}#=%=#
+Author{6}{Email}#=%=#
+Author{6}{Affiliation}#=%=#
+Author{7}{Lastname}#=%=#
+Author{7}{Firstname}#=%=#
+Author{7}{Email}#=%=#
+Author{7}{Affiliation}#=%=#
+Author{8}{Lastname}#=%=#
+Author{8}{Firstname}#=%=#
+Author{8}{Email}#=%=#
+Author{8}{Affiliation}#=%=#
+Author{9}{Lastname}#=%=#
+Author{9}{Firstname}#=%=#
+Author{9}{Email}#=%=#
+Author{9}{Affiliation}#=%=#
+Author{10}{Lastname}#=%=#
+Author{10}{Firstname}#=%=#
+Author{10}{Email}#=%=#
+Author{10}{Affiliation}#=%=#
+Author{11}{Lastname}#=%=#
+Author{11}{Firstname}#=%=#
+Author{11}{Email}#=%=#
+Author{11}{Affiliation}#=%=#
+Author{12}{Lastname}#=%=#
+Author{12}{Firstname}#=%=#
+Author{12}{Email}#=%=#
+Author{12}{Affiliation}#=%=#
+Author{13}{Lastname}#=%=#
+Author{13}{Firstname}#=%=#
+Author{13}{Email}#=%=#
+Author{13}{Affiliation}#=%=#
+Author{14}{Lastname}#=%=#
+Author{14}{Firstname}#=%=#
+Author{14}{Email}#=%=#
+Author{14}{Affiliation}#=%=#
+Author{15}{Lastname}#=%=#
+Author{15}{Firstname}#=%=#
+Author{15}{Email}#=%=#
+Author{15}{Affiliation}#=%=#
+NumberOfPages#=%=#8
+CopyrightSigned#=%=#Magali Sanches Duran
+JobTitle#==#
+Organization#==#Universidade de São Paulo
+Abstract#==#A challenging topic of Portuguese language processing is the multifunctional
+and ambiguous use of the clitic pronoun 'se', which impacts NLP tasks such as
+syntactic parsing, semantic role labeling and machine translation. Aiming to
+give a step  forward towards the automatic disambiguation of 'se', our study
+focuses on the identification of pronominal verbs, which correspond to one of
+the six uses of 'se' as a clitic pronoun, when 'se' is considered a
+constitutive particle of the verb lemma to which is bound, as a multiword unit.
+Our strategy to  identify such verbs is to analyze the results of a corpus
+search to rule out all the other possible uses of 'se'. This process evidenced
+the features needed in a computational lexicon to automatically perform the
+disambiguation task. The availability of the resulting lexicon of pronominal
+verbs on the web enables their inclusion in broader lexical resources, such as
+the Portuguese versions of Wordnet, Propbank and VerbNet. Moreover, it will
+allow the revision of parsers and dictionaries already in use.
+==========

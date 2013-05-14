@@ -1,0 +1,80 @@
+SubmissionNumber#=%=#7
+FinalPaperTitle#=%=#Automatic Identification of {B}engali Noun-Noun Compounds Using Random Forest
+ShortPaperTitle#=%=#Automatic Identification of {B}engali Noun-Noun Compounds Using Random Forest
+Author{1}{Lastname}#=%=#Gayen
+Author{1}{Firstname}#=%=#Vivekananda
+Author{1}{Email}#=%=#Vivek3gayen@gmail.com
+Author{1}{Affiliation}#=%=#Central Calcutta Polytechnic
+Author{2}{Lastname}#=%=#Sarkar
+Author{2}{Firstname}#=%=#Kamal
+Author{2}{Email}#=%=#jukamal2001@yahoo.com
+Author{2}{Affiliation}#=%=#Computer Science and Engineering Department, Jadavpur University
+Author{3}{Lastname}#=%=#
+Author{3}{Firstname}#=%=#
+Author{3}{Email}#=%=#
+Author{3}{Affiliation}#=%=#
+Author{4}{Lastname}#=%=#
+Author{4}{Firstname}#=%=#
+Author{4}{Email}#=%=#
+Author{4}{Affiliation}#=%=#
+Author{5}{Lastname}#=%=#
+Author{5}{Firstname}#=%=#
+Author{5}{Email}#=%=#
+Author{5}{Affiliation}#=%=#
+Author{6}{Lastname}#=%=#
+Author{6}{Firstname}#=%=#
+Author{6}{Email}#=%=#
+Author{6}{Affiliation}#=%=#
+Author{7}{Lastname}#=%=#
+Author{7}{Firstname}#=%=#
+Author{7}{Email}#=%=#
+Author{7}{Affiliation}#=%=#
+Author{8}{Lastname}#=%=#
+Author{8}{Firstname}#=%=#
+Author{8}{Email}#=%=#
+Author{8}{Affiliation}#=%=#
+Author{9}{Lastname}#=%=#
+Author{9}{Firstname}#=%=#
+Author{9}{Email}#=%=#
+Author{9}{Affiliation}#=%=#
+Author{10}{Lastname}#=%=#
+Author{10}{Firstname}#=%=#
+Author{10}{Email}#=%=#
+Author{10}{Affiliation}#=%=#
+Author{11}{Lastname}#=%=#
+Author{11}{Firstname}#=%=#
+Author{11}{Email}#=%=#
+Author{11}{Affiliation}#=%=#
+Author{12}{Lastname}#=%=#
+Author{12}{Firstname}#=%=#
+Author{12}{Email}#=%=#
+Author{12}{Affiliation}#=%=#
+Author{13}{Lastname}#=%=#
+Author{13}{Firstname}#=%=#
+Author{13}{Email}#=%=#
+Author{13}{Affiliation}#=%=#
+Author{14}{Lastname}#=%=#
+Author{14}{Firstname}#=%=#
+Author{14}{Email}#=%=#
+Author{14}{Affiliation}#=%=#
+Author{15}{Lastname}#=%=#
+Author{15}{Firstname}#=%=#
+Author{15}{Email}#=%=#
+Author{15}{Affiliation}#=%=#
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#Kamal Sarkar
+JobTitle#==#
+Organization#==#Jadavpur University
+Kolkata-700032
+India
+Abstract#==#This paper presents a supervised machine learning approach that uses a machine
+learn-ing algorithm called Random Forest for recognition of Bengali noun-noun
+compounds as multiword expression (MWE) from Bengali corpus. Our proposed
+approach to MWE rec-ognition has two steps: (1) extraction of can-didate
+multi-word expressions using Chunk information and various heuristic rules and
+(2) training the machine learning algorithm to recognize a candidate multi-word
+expression as Multi-word expression or not. A variety of association measures,
+syntactic and linguistic clues are used as features for identifying MWEs. The
+proposed system is tested on a Bengali corpus for identifying noun-noun
+compound MWEs from the corpus.
+==========

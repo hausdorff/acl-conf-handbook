@@ -1,0 +1,83 @@
+SubmissionNumber#=%=#180
+FinalPaperTitle#=%=#Enforcing Subcategorization Constraints in a Parser Using Sub-parses Recombining
+ShortPaperTitle#=%=#Enforcing Subcategorization Constraints in a Parser Using Sub-parses Recombining
+Author{1}{Lastname}#=%=#Mirroshandel
+Author{1}{Firstname}#=%=#Seyed Abolghasem
+Author{1}{Email}#=%=#asedghasem@yahoo.com
+Author{1}{Affiliation}#=%=#‎Universite Aix-Marseille‎, ‎Marseille‎, ‎France
+Author{2}{Lastname}#=%=#Nasr
+Author{2}{Firstname}#=%=#Alexis
+Author{2}{Email}#=%=#alexis.nasr@lif.univ-mrs.fr
+Author{2}{Affiliation}#=%=#‎Universite Aix-Marseille‎, ‎Marseille‎, ‎France
+Author{3}{Lastname}#=%=#Sagot
+Author{3}{Firstname}#=%=#Benoît
+Author{3}{Email}#=%=#benoit.sagot@inria.fr
+Author{3}{Affiliation}#=%=#INRIA‎ - ‎ALPAGE
+Author{4}{Lastname}#=%=#
+Author{4}{Firstname}#=%=#
+Author{4}{Email}#=%=#
+Author{4}{Affiliation}#=%=#
+Author{5}{Lastname}#=%=#
+Author{5}{Firstname}#=%=#
+Author{5}{Email}#=%=#
+Author{5}{Affiliation}#=%=#
+Author{6}{Lastname}#=%=#
+Author{6}{Firstname}#=%=#
+Author{6}{Email}#=%=#
+Author{6}{Affiliation}#=%=#
+Author{7}{Lastname}#=%=#
+Author{7}{Firstname}#=%=#
+Author{7}{Email}#=%=#
+Author{7}{Affiliation}#=%=#
+Author{8}{Lastname}#=%=#
+Author{8}{Firstname}#=%=#
+Author{8}{Email}#=%=#
+Author{8}{Affiliation}#=%=#
+Author{9}{Lastname}#=%=#
+Author{9}{Firstname}#=%=#
+Author{9}{Email}#=%=#
+Author{9}{Affiliation}#=%=#
+Author{10}{Lastname}#=%=#
+Author{10}{Firstname}#=%=#
+Author{10}{Email}#=%=#
+Author{10}{Affiliation}#=%=#
+Author{11}{Lastname}#=%=#
+Author{11}{Firstname}#=%=#
+Author{11}{Email}#=%=#
+Author{11}{Affiliation}#=%=#
+Author{12}{Lastname}#=%=#
+Author{12}{Firstname}#=%=#
+Author{12}{Email}#=%=#
+Author{12}{Affiliation}#=%=#
+Author{13}{Lastname}#=%=#
+Author{13}{Firstname}#=%=#
+Author{13}{Email}#=%=#
+Author{13}{Affiliation}#=%=#
+Author{14}{Lastname}#=%=#
+Author{14}{Firstname}#=%=#
+Author{14}{Email}#=%=#
+Author{14}{Affiliation}#=%=#
+Author{15}{Lastname}#=%=#
+Author{15}{Firstname}#=%=#
+Author{15}{Email}#=%=#
+Author{15}{Affiliation}#=%=#
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#Seyed Abolghasem Mirroshandel
+JobTitle#==#
+Organization#==#Laboratoire d'Informatique Fondamentale de Marseille-CNRS- UMR 7279,  Universite Aix-Marseille, Marseille, France
+Abstract#==#Treebanks are not large enough to adequately model
+  subcategorization frames of predicative lexemes, which is an
+  important source of lexico-syntactic constraints for parsing. As a
+  consequence, parsers trained on such treebanks usually make mistakes
+  when selecting the arguments of predicative lexemes. In this paper,
+  we propose an original way to correct subcategorization errors by
+  combining sub-parses of a sentence S that appear in the list of
+  the n-best parses of S. The subcategorization information comes
+  from three different resources, the first one is extracted from a
+  treebank, the second one is computed on a large corpora and the
+  third one is an existing syntactic lexicon. Experiments on the
+  French Treebank showed a 15.24% reduction of erroneous subcategorization
+  frames (SF) selections for verbs as well as a relative decrease of the error
+  rate of 4% Labeled Accuracy Score on the state of the art parser on
+  this treebank.
+==========

@@ -1,0 +1,81 @@
+SubmissionNumber#=%=#23
+FinalPaperTitle#=%=#Shallow Semantic Analysis of Interactive Learner Sentences
+ShortPaperTitle#=%=#Shallow Semantic Analysis of Interactive Learner Sentences
+Author{1}{Lastname}#=%=#King
+Author{1}{Firstname}#=%=#Levi
+Author{1}{Email}#=%=#leviking@indiana.edu
+Author{1}{Affiliation}#=%=#Indiana University
+Author{2}{Lastname}#=%=#Dickinson
+Author{2}{Firstname}#=%=#Markus
+Author{2}{Email}#=%=#md7@indiana.edu
+Author{2}{Affiliation}#=%=#Indiana University
+Author{3}{Lastname}#=%=#
+Author{3}{Firstname}#=%=#
+Author{3}{Email}#=%=#
+Author{3}{Affiliation}#=%=#
+Author{4}{Lastname}#=%=#
+Author{4}{Firstname}#=%=#
+Author{4}{Email}#=%=#
+Author{4}{Affiliation}#=%=#
+Author{5}{Lastname}#=%=#
+Author{5}{Firstname}#=%=#
+Author{5}{Email}#=%=#
+Author{5}{Affiliation}#=%=#
+Author{6}{Lastname}#=%=#
+Author{6}{Firstname}#=%=#
+Author{6}{Email}#=%=#
+Author{6}{Affiliation}#=%=#
+Author{7}{Lastname}#=%=#
+Author{7}{Firstname}#=%=#
+Author{7}{Email}#=%=#
+Author{7}{Affiliation}#=%=#
+Author{8}{Lastname}#=%=#
+Author{8}{Firstname}#=%=#
+Author{8}{Email}#=%=#
+Author{8}{Affiliation}#=%=#
+Author{9}{Lastname}#=%=#
+Author{9}{Firstname}#=%=#
+Author{9}{Email}#=%=#
+Author{9}{Affiliation}#=%=#
+Author{10}{Lastname}#=%=#
+Author{10}{Firstname}#=%=#
+Author{10}{Email}#=%=#
+Author{10}{Affiliation}#=%=#
+Author{11}{Lastname}#=%=#
+Author{11}{Firstname}#=%=#
+Author{11}{Email}#=%=#
+Author{11}{Affiliation}#=%=#
+Author{12}{Lastname}#=%=#
+Author{12}{Firstname}#=%=#
+Author{12}{Email}#=%=#
+Author{12}{Affiliation}#=%=#
+Author{13}{Lastname}#=%=#
+Author{13}{Firstname}#=%=#
+Author{13}{Email}#=%=#
+Author{13}{Affiliation}#=%=#
+Author{14}{Lastname}#=%=#
+Author{14}{Firstname}#=%=#
+Author{14}{Email}#=%=#
+Author{14}{Affiliation}#=%=#
+Author{15}{Lastname}#=%=#
+Author{15}{Firstname}#=%=#
+Author{15}{Email}#=%=#
+Author{15}{Affiliation}#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Levi King
+JobTitle#==#
+Organization#==#Indiana University
+Department of Linguistics
+Memorial Hall 322
+Bloomington, IN
+47405
+Abstract#==#Focusing on applications for analyzing leaner language which evaluate semantic
+appropriateness and accuracy, we collect data from a task which models some
+aspects of interaction, namely a picture description task (PDT).  We parse
+responses to the PDT into dependency graphs with an an off-the-shelf parser,
+then use a decision tree to classify sentences into syntactic types and extract
+the logical subject, verb, and object, finding 92\% accuracy in such
+extraction. The specific goal in this paper is to examine the challenges
+involved in extracting these simple semantic representations from interactive
+learner sentences.
+==========

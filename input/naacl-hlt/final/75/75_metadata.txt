@@ -1,0 +1,76 @@
+SubmissionNumber#=%=#75
+FinalPaperTitle#=%=#Morphological Analysis and Disambiguation for Dialectal Arabic
+ShortPaperTitle#=%=#Morphological Analysis and Disambiguation for Dialectal Arabic
+Author{1}{Lastname}#=%=#Habash
+Author{1}{Firstname}#=%=#Nizar
+Author{1}{Email}#=%=#habash@ccls.columbia.edu
+Author{1}{Affiliation}#=%=#Columbia University
+Author{2}{Lastname}#=%=#Roth
+Author{2}{Firstname}#=%=#Ryan
+Author{2}{Email}#=%=#ryanr@ccls.columbia.edu
+Author{2}{Affiliation}#=%=#Columbia University
+Author{3}{Lastname}#=%=#Rambow
+Author{3}{Firstname}#=%=#Owen
+Author{3}{Email}#=%=#rambow@ccls.columbia.edu
+Author{3}{Affiliation}#=%=#Columbia University
+Author{4}{Lastname}#=%=#Eskander
+Author{4}{Firstname}#=%=#Ramy
+Author{4}{Email}#=%=#ramy84@gmail.com
+Author{4}{Affiliation}#=%=#Columbia University
+Author{5}{Lastname}#=%=#Tomeh
+Author{5}{Firstname}#=%=#Nadi
+Author{5}{Email}#=%=#nadi.tomeh@gmail.com
+Author{5}{Affiliation}#=%=#Columbia University
+Author{6}{Lastname}#=%=#
+Author{6}{Firstname}#=%=#
+Author{6}{Email}#=%=#
+Author{6}{Affiliation}#=%=#
+Author{7}{Lastname}#=%=#
+Author{7}{Firstname}#=%=#
+Author{7}{Email}#=%=#
+Author{7}{Affiliation}#=%=#
+Author{8}{Lastname}#=%=#
+Author{8}{Firstname}#=%=#
+Author{8}{Email}#=%=#
+Author{8}{Affiliation}#=%=#
+Author{9}{Lastname}#=%=#
+Author{9}{Firstname}#=%=#
+Author{9}{Email}#=%=#
+Author{9}{Affiliation}#=%=#
+Author{10}{Lastname}#=%=#
+Author{10}{Firstname}#=%=#
+Author{10}{Email}#=%=#
+Author{10}{Affiliation}#=%=#
+Author{11}{Lastname}#=%=#
+Author{11}{Firstname}#=%=#
+Author{11}{Email}#=%=#
+Author{11}{Affiliation}#=%=#
+Author{12}{Lastname}#=%=#
+Author{12}{Firstname}#=%=#
+Author{12}{Email}#=%=#
+Author{12}{Affiliation}#=%=#
+Author{13}{Lastname}#=%=#
+Author{13}{Firstname}#=%=#
+Author{13}{Email}#=%=#
+Author{13}{Affiliation}#=%=#
+Author{14}{Lastname}#=%=#
+Author{14}{Firstname}#=%=#
+Author{14}{Email}#=%=#
+Author{14}{Affiliation}#=%=#
+Author{15}{Lastname}#=%=#
+Author{15}{Firstname}#=%=#
+Author{15}{Email}#=%=#
+Author{15}{Affiliation}#=%=#
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Nizar Habash
+JobTitle#==#
+Organization#==#Columbia University
+Abstract#==#The many differences between Dialectal Arabic and Modern Standard Arabic (MSA)
+pose a challenge to the majority of Arabic natural language processing tools,
+which are designed for MSA. In this paper, we retarget an existing
+state-of-the-art MSA morphological tagger to Egyptian Arabic (ARZ). Our
+evaluation demonstrates that our ARZ morphology tagger outperforms its MSA
+variant on ARZ input in terms of accuracy in part-of-speech tagging,
+diacritization, lemmatization and tokenization; and in terms of utility for
+ARZ-to-English statistical machine translation.
+==========

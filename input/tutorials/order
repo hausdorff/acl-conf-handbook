@@ -1,0 +1,16 @@
+# Edit this file: 
+# reorder the lines that correspond to papers 
+#   and modify time slot, e.g. 9:00--9:30 
+# add lines for 
+#   start of new day, format: * DAY
+#   session headline, format: = HEADLINE 
+#   additional items, format: + TIME DESCRIPTION
+* Sunday, June 9, 2013
+= Morning Session
+5 9:00--12:30 # Socher: Deep Learning for NLP (without...
+7 9:00--12:30 # Stede: Discourse Processing
+3 9:00--12:30 # Mehta: NLP for uncertain data at scal...
+= Afternoon Session
+6 2:00--5:30 # Palmer: Semantic Role Labeling
+4 2:00--5:30 # Cohen: Spectral Learning Algorithms f...
+2 2:00--5:30 # Ruiz Costa-juss\`{a}: Morphological, Syntactical and...

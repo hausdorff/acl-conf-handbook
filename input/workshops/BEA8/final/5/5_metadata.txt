@@ -1,0 +1,80 @@
+SubmissionNumber#=%=#5
+FinalPaperTitle#=%=#Prompt-based Content Scoring for Automated Spoken Language Assessment
+ShortPaperTitle#=%=#Prompt-based Content Scoring for Automated Spoken Language Assessment
+Author{1}{Lastname}#=%=#Evanini
+Author{1}{Firstname}#=%=#Keelan
+Author{1}{Email}#=%=#kevanini@ets.org
+Author{1}{Affiliation}#=%=#Educational Testing Service
+Author{2}{Lastname}#=%=#Xie
+Author{2}{Firstname}#=%=#Shasha
+Author{2}{Email}#=%=#shxie@microsoft.com
+Author{2}{Affiliation}#=%=#Microsoft
+Author{3}{Lastname}#=%=#Zechner
+Author{3}{Firstname}#=%=#Klaus
+Author{3}{Email}#=%=#kzechner@ets.org
+Author{3}{Affiliation}#=%=#ETS
+Author{4}{Lastname}#=%=#
+Author{4}{Firstname}#=%=#
+Author{4}{Email}#=%=#
+Author{4}{Affiliation}#=%=#
+Author{5}{Lastname}#=%=#
+Author{5}{Firstname}#=%=#
+Author{5}{Email}#=%=#
+Author{5}{Affiliation}#=%=#
+Author{6}{Lastname}#=%=#
+Author{6}{Firstname}#=%=#
+Author{6}{Email}#=%=#
+Author{6}{Affiliation}#=%=#
+Author{7}{Lastname}#=%=#
+Author{7}{Firstname}#=%=#
+Author{7}{Email}#=%=#
+Author{7}{Affiliation}#=%=#
+Author{8}{Lastname}#=%=#
+Author{8}{Firstname}#=%=#
+Author{8}{Email}#=%=#
+Author{8}{Affiliation}#=%=#
+Author{9}{Lastname}#=%=#
+Author{9}{Firstname}#=%=#
+Author{9}{Email}#=%=#
+Author{9}{Affiliation}#=%=#
+Author{10}{Lastname}#=%=#
+Author{10}{Firstname}#=%=#
+Author{10}{Email}#=%=#
+Author{10}{Affiliation}#=%=#
+Author{11}{Lastname}#=%=#
+Author{11}{Firstname}#=%=#
+Author{11}{Email}#=%=#
+Author{11}{Affiliation}#=%=#
+Author{12}{Lastname}#=%=#
+Author{12}{Firstname}#=%=#
+Author{12}{Email}#=%=#
+Author{12}{Affiliation}#=%=#
+Author{13}{Lastname}#=%=#
+Author{13}{Firstname}#=%=#
+Author{13}{Email}#=%=#
+Author{13}{Affiliation}#=%=#
+Author{14}{Lastname}#=%=#
+Author{14}{Firstname}#=%=#
+Author{14}{Email}#=%=#
+Author{14}{Affiliation}#=%=#
+Author{15}{Lastname}#=%=#
+Author{15}{Firstname}#=%=#
+Author{15}{Email}#=%=#
+Author{15}{Affiliation}#=%=#
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Keelan Evanini
+JobTitle#==#
+Organization#==#Educational Testing Service
+660 Rosedale Rd.
+Princeton, NJ 08541
+Abstract#==#This paper investigates the use of prompt-based content features for the
+automated assessment of spontaneous speech in a spoken language proficiency
+assessment. The results show that single highest performing prompt-based
+content feature measures the number of unique lexical types that overlap with
+the listening materials and are not contained in either the reading materials
+or a sample response, with a correlation of r = 0.450 with holistic proficiency
+scores provided by humans. Furthermore, linear regression scoring models that
+combine the proposed prompt-based content features with additional spoken
+language proficiency features are shown to achieve competitive performance with
+scoring models using content features based on pre-scored responses.
+==========

@@ -1,0 +1,82 @@
+SubmissionNumber#=%=#289
+FinalPaperTitle#=%=#Discriminative Training of 150 Million Translation Parameters and Its Application to Pruning
+ShortPaperTitle#=%=#Discriminative Training of 150 Million Translation Parameters and Its Application to Pruning
+Author{1}{Lastname}#=%=#Setiawan
+Author{1}{Firstname}#=%=#Hendra
+Author{1}{Email}#=%=#hendra.setiawan@gmail.com
+Author{1}{Affiliation}#=%=#IBM T.J. Watson Research Center
+Author{2}{Lastname}#=%=#Zhou
+Author{2}{Firstname}#=%=#Bowen
+Author{2}{Email}#=%=#zhou@us.ibm.com
+Author{2}{Affiliation}#=%=#IBM T.J. Watson Research Center
+Author{3}{Lastname}#=%=#
+Author{3}{Firstname}#=%=#
+Author{3}{Email}#=%=#
+Author{3}{Affiliation}#=%=#
+Author{4}{Lastname}#=%=#
+Author{4}{Firstname}#=%=#
+Author{4}{Email}#=%=#
+Author{4}{Affiliation}#=%=#
+Author{5}{Lastname}#=%=#
+Author{5}{Firstname}#=%=#
+Author{5}{Email}#=%=#
+Author{5}{Affiliation}#=%=#
+Author{6}{Lastname}#=%=#
+Author{6}{Firstname}#=%=#
+Author{6}{Email}#=%=#
+Author{6}{Affiliation}#=%=#
+Author{7}{Lastname}#=%=#
+Author{7}{Firstname}#=%=#
+Author{7}{Email}#=%=#
+Author{7}{Affiliation}#=%=#
+Author{8}{Lastname}#=%=#
+Author{8}{Firstname}#=%=#
+Author{8}{Email}#=%=#
+Author{8}{Affiliation}#=%=#
+Author{9}{Lastname}#=%=#
+Author{9}{Firstname}#=%=#
+Author{9}{Email}#=%=#
+Author{9}{Affiliation}#=%=#
+Author{10}{Lastname}#=%=#
+Author{10}{Firstname}#=%=#
+Author{10}{Email}#=%=#
+Author{10}{Affiliation}#=%=#
+Author{11}{Lastname}#=%=#
+Author{11}{Firstname}#=%=#
+Author{11}{Email}#=%=#
+Author{11}{Affiliation}#=%=#
+Author{12}{Lastname}#=%=#
+Author{12}{Firstname}#=%=#
+Author{12}{Email}#=%=#
+Author{12}{Affiliation}#=%=#
+Author{13}{Lastname}#=%=#
+Author{13}{Firstname}#=%=#
+Author{13}{Email}#=%=#
+Author{13}{Affiliation}#=%=#
+Author{14}{Lastname}#=%=#
+Author{14}{Firstname}#=%=#
+Author{14}{Email}#=%=#
+Author{14}{Affiliation}#=%=#
+Author{15}{Lastname}#=%=#
+Author{15}{Firstname}#=%=#
+Author{15}{Email}#=%=#
+Author{15}{Affiliation}#=%=#
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Hendra Setiawan
+JobTitle#==#Postdoctoral Researcher
+Organization#==#IBM T.J.Watson Research Center
+1101 Kitchawan Road
+Yorktown Heights 10598, NY
+Abstract#==#Until recently, the application of discriminative training to log linear-based 
+statistical machine translation has been limited to tuning the weights of a
+handful of features 
+or training features with a limited number of parameters.
+In this paper, we propose to scale up discriminative training to train features
+with 150 million parameters, 
+which is one order of magnitude higher than previously published system, and to
+apply discriminative training to redistribute probability mass that 
+is lost due to model pruning. The
+experimental results confirm the effectiveness of our proposals on NIST MT06
+test set
+over a strong hierarchical phrase-based baseline.
+==========

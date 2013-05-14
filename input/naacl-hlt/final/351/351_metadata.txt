@@ -1,0 +1,75 @@
+SubmissionNumber#=%=#351
+FinalPaperTitle#=%=#Improving speech synthesis quality by reducing pitch peaks in the source recordings
+ShortPaperTitle#=%=#Improving speech synthesis quality by reducing pitch peaks in the source recordings
+Author{1}{Lastname}#=%=#Violante
+Author{1}{Firstname}#=%=#Luisina
+Author{1}{Email}#=%=#luisina.lv@gmail.com
+Author{1}{Affiliation}#=%=#Universidad de Buenos Aires
+Author{2}{Lastname}#=%=#Rodríguez Zivic
+Author{2}{Firstname}#=%=#Pablo
+Author{2}{Email}#=%=#prodriguez@dc.uba.ar
+Author{2}{Affiliation}#=%=#Universidad de Buenos Aires
+Author{3}{Lastname}#=%=#Gravano
+Author{3}{Firstname}#=%=#Agustín
+Author{3}{Email}#=%=#gravano@dc.uba.ar
+Author{3}{Affiliation}#=%=#Universidad de Buenos Aires
+Author{4}{Lastname}#=%=#
+Author{4}{Firstname}#=%=#
+Author{4}{Email}#=%=#
+Author{4}{Affiliation}#=%=#
+Author{5}{Lastname}#=%=#
+Author{5}{Firstname}#=%=#
+Author{5}{Email}#=%=#
+Author{5}{Affiliation}#=%=#
+Author{6}{Lastname}#=%=#
+Author{6}{Firstname}#=%=#
+Author{6}{Email}#=%=#
+Author{6}{Affiliation}#=%=#
+Author{7}{Lastname}#=%=#
+Author{7}{Firstname}#=%=#
+Author{7}{Email}#=%=#
+Author{7}{Affiliation}#=%=#
+Author{8}{Lastname}#=%=#
+Author{8}{Firstname}#=%=#
+Author{8}{Email}#=%=#
+Author{8}{Affiliation}#=%=#
+Author{9}{Lastname}#=%=#
+Author{9}{Firstname}#=%=#
+Author{9}{Email}#=%=#
+Author{9}{Affiliation}#=%=#
+Author{10}{Lastname}#=%=#
+Author{10}{Firstname}#=%=#
+Author{10}{Email}#=%=#
+Author{10}{Affiliation}#=%=#
+Author{11}{Lastname}#=%=#
+Author{11}{Firstname}#=%=#
+Author{11}{Email}#=%=#
+Author{11}{Affiliation}#=%=#
+Author{12}{Lastname}#=%=#
+Author{12}{Firstname}#=%=#
+Author{12}{Email}#=%=#
+Author{12}{Affiliation}#=%=#
+Author{13}{Lastname}#=%=#
+Author{13}{Firstname}#=%=#
+Author{13}{Email}#=%=#
+Author{13}{Affiliation}#=%=#
+Author{14}{Lastname}#=%=#
+Author{14}{Firstname}#=%=#
+Author{14}{Email}#=%=#
+Author{14}{Affiliation}#=%=#
+Author{15}{Lastname}#=%=#
+Author{15}{Firstname}#=%=#
+Author{15}{Email}#=%=#
+Author{15}{Affiliation}#=%=#
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Agustín Gravano
+JobTitle#==#
+Organization#==#Universidad de Buenos Aires, Argentina
+Abstract#==#We present a method for improving the perceived naturalness of corpus-based
+speech synthesizers. It consists in removing pronounced pitch peaks in the
+original recordings, which typically lead to noticeable discontinuities in the
+synthesized speech. We perceptually evaluated this method using two
+concatenative and two HMM-based synthesis systems, and found that using it on
+the source recordings managed to improve the naturalness of the synthesizers
+and had no effect on their intelligibility.
+==========

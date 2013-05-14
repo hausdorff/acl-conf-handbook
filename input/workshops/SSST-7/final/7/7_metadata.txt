@@ -1,0 +1,85 @@
+SubmissionNumber#=%=#7
+FinalPaperTitle#=%=#Hierarchical Alignment Decomposition Labels for Hiero Grammar Rules
+ShortPaperTitle#=%=#Hierarchical Alignment Decomposition Labels for Hiero Grammar Rules
+Author{1}{Lastname}#=%=#Maillette de Buy Wenniger
+Author{1}{Firstname}#=%=#Gideon
+Author{1}{Email}#=%=#gemdbw@gmail.com
+Author{1}{Affiliation}#=%=#Institute for Logic Language and Computation - University of Amsterdam
+Author{2}{Lastname}#=%=#Sima'an
+Author{2}{Firstname}#=%=#Khalil
+Author{2}{Email}#=%=#k.simaan@uva.nl
+Author{2}{Affiliation}#=%=#ILLC, University of Amsterdam
+Author{3}{Lastname}#=%=#
+Author{3}{Firstname}#=%=#
+Author{3}{Email}#=%=#
+Author{3}{Affiliation}#=%=#
+Author{4}{Lastname}#=%=#
+Author{4}{Firstname}#=%=#
+Author{4}{Email}#=%=#
+Author{4}{Affiliation}#=%=#
+Author{5}{Lastname}#=%=#
+Author{5}{Firstname}#=%=#
+Author{5}{Email}#=%=#
+Author{5}{Affiliation}#=%=#
+Author{6}{Lastname}#=%=#
+Author{6}{Firstname}#=%=#
+Author{6}{Email}#=%=#
+Author{6}{Affiliation}#=%=#
+Author{7}{Lastname}#=%=#
+Author{7}{Firstname}#=%=#
+Author{7}{Email}#=%=#
+Author{7}{Affiliation}#=%=#
+Author{8}{Lastname}#=%=#
+Author{8}{Firstname}#=%=#
+Author{8}{Email}#=%=#
+Author{8}{Affiliation}#=%=#
+Author{9}{Lastname}#=%=#
+Author{9}{Firstname}#=%=#
+Author{9}{Email}#=%=#
+Author{9}{Affiliation}#=%=#
+Author{10}{Lastname}#=%=#
+Author{10}{Firstname}#=%=#
+Author{10}{Email}#=%=#
+Author{10}{Affiliation}#=%=#
+Author{11}{Lastname}#=%=#
+Author{11}{Firstname}#=%=#
+Author{11}{Email}#=%=#
+Author{11}{Affiliation}#=%=#
+Author{12}{Lastname}#=%=#
+Author{12}{Firstname}#=%=#
+Author{12}{Email}#=%=#
+Author{12}{Affiliation}#=%=#
+Author{13}{Lastname}#=%=#
+Author{13}{Firstname}#=%=#
+Author{13}{Email}#=%=#
+Author{13}{Affiliation}#=%=#
+Author{14}{Lastname}#=%=#
+Author{14}{Firstname}#=%=#
+Author{14}{Email}#=%=#
+Author{14}{Affiliation}#=%=#
+Author{15}{Lastname}#=%=#
+Author{15}{Firstname}#=%=#
+Author{15}{Email}#=%=#
+Author{15}{Affiliation}#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Gideon Maillette de Buy Wenniger
+JobTitle#==#
+Organization#==#Institute for Logic, Language and Computation (ILLC)
+Faculty of Science
+University of Amsterdam
+Science Park 107
+1098 XG Amsterdam
+Abstract#==#Selecting a set of nonterminals for the synchronous CFGs underlying the
+hierarchical phrase-based models is usually done on the basis of a monolingual
+resource (like a syntactic parser). However, a standard bilingual resource like
+word alignments is itself rich with reordering patterns that, if clustered
+somehow, might provide labels of different (possibly complementary) nature to
+monolingual labels. In this paper we explore a first version of this idea based
+on a hierarchical decomposition of word alignments into recursive tree
+representations. We identify five clusters of alignment patterns in which the
+children of a node in a decomposition tree are found and employ these five as
+nonterminal labels for the Hiero productions. Although this is our first
+non-optimized instantiation of the idea, our experiments show competitive
+performance with the Hiero baseline, exemplifying certain merits of this novel
+approach.
+==========

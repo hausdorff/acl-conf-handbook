@@ -1,0 +1,79 @@
+SubmissionNumber#=%=#432
+FinalPaperTitle#=%=#Knowledge-Rich Morphological Priors for Bayesian Language Models
+ShortPaperTitle#=%=#Knowledge-Rich Morphological Priors for Bayesian Language Models
+Author{1}{Lastname}#=%=#Chahuneau
+Author{1}{Firstname}#=%=#Victor
+Author{1}{Email}#=%=#vchahune@cs.cmu.edu
+Author{1}{Affiliation}#=%=#Carnegie Mellon University
+Author{2}{Lastname}#=%=#Smith
+Author{2}{Firstname}#=%=#Noah A.
+Author{2}{Email}#=%=#nasmith@cs.cmu.edu
+Author{2}{Affiliation}#=%=#Carnegie Mellon University
+Author{3}{Lastname}#=%=#Dyer
+Author{3}{Firstname}#=%=#Chris
+Author{3}{Email}#=%=#cdyer@cs.cmu.edu
+Author{3}{Affiliation}#=%=#Carnegie Mellon University
+Author{4}{Lastname}#=%=#
+Author{4}{Firstname}#=%=#
+Author{4}{Email}#=%=#
+Author{4}{Affiliation}#=%=#
+Author{5}{Lastname}#=%=#
+Author{5}{Firstname}#=%=#
+Author{5}{Email}#=%=#
+Author{5}{Affiliation}#=%=#
+Author{6}{Lastname}#=%=#
+Author{6}{Firstname}#=%=#
+Author{6}{Email}#=%=#
+Author{6}{Affiliation}#=%=#
+Author{7}{Lastname}#=%=#
+Author{7}{Firstname}#=%=#
+Author{7}{Email}#=%=#
+Author{7}{Affiliation}#=%=#
+Author{8}{Lastname}#=%=#
+Author{8}{Firstname}#=%=#
+Author{8}{Email}#=%=#
+Author{8}{Affiliation}#=%=#
+Author{9}{Lastname}#=%=#
+Author{9}{Firstname}#=%=#
+Author{9}{Email}#=%=#
+Author{9}{Affiliation}#=%=#
+Author{10}{Lastname}#=%=#
+Author{10}{Firstname}#=%=#
+Author{10}{Email}#=%=#
+Author{10}{Affiliation}#=%=#
+Author{11}{Lastname}#=%=#
+Author{11}{Firstname}#=%=#
+Author{11}{Email}#=%=#
+Author{11}{Affiliation}#=%=#
+Author{12}{Lastname}#=%=#
+Author{12}{Firstname}#=%=#
+Author{12}{Email}#=%=#
+Author{12}{Affiliation}#=%=#
+Author{13}{Lastname}#=%=#
+Author{13}{Firstname}#=%=#
+Author{13}{Email}#=%=#
+Author{13}{Affiliation}#=%=#
+Author{14}{Lastname}#=%=#
+Author{14}{Firstname}#=%=#
+Author{14}{Email}#=%=#
+Author{14}{Affiliation}#=%=#
+Author{15}{Lastname}#=%=#
+Author{15}{Firstname}#=%=#
+Author{15}{Email}#=%=#
+Author{15}{Affiliation}#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Victor Chahuneau
+JobTitle#==#Research assistant
+Organization#==#Language Technologies Institute
+Carnegie Mellon University
+Pittsburgh, PA 15213, USA
+Abstract#==#We present a morphology-aware nonparametric Bayesian model of language whose
+prior distribution uses manually constructed finite-state transducers to
+capture the word formation processes of particular languages. This relaxes the
+word independence assumption and enables sharing of statistical strength
+across, for example, stems or inflectional paradigms in different contexts. Our
+model can be used in virtually any generative model of text where multinomial
+distributions over words would be used. We obtain state-of-the-art results in
+language modeling, word alignment, and unsupervised morphological
+disambiguation in a variety of morphologically rich languages.
+==========

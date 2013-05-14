@@ -1,0 +1,82 @@
+SubmissionNumber#=%=#62
+FinalPaperTitle#=%=#SRIUBC-Core: Multiword Soft Similarity Models for Textual Similarity
+ShortPaperTitle#=%=#SRIUBC-Core: Multiword Soft Similarity Models for Textual Similarity
+Author{1}{Lastname}#=%=#Yeh
+Author{1}{Firstname}#=%=#Eric
+Author{1}{Email}#=%=#yeh@ai.sri.com
+Author{1}{Affiliation}#=%=#SRI International
+Author{2}{Lastname}#=%=#
+Author{2}{Firstname}#=%=#
+Author{2}{Email}#=%=#
+Author{2}{Affiliation}#=%=#
+Author{3}{Lastname}#=%=#
+Author{3}{Firstname}#=%=#
+Author{3}{Email}#=%=#
+Author{3}{Affiliation}#=%=#
+Author{4}{Lastname}#=%=#
+Author{4}{Firstname}#=%=#
+Author{4}{Email}#=%=#
+Author{4}{Affiliation}#=%=#
+Author{5}{Lastname}#=%=#
+Author{5}{Firstname}#=%=#
+Author{5}{Email}#=%=#
+Author{5}{Affiliation}#=%=#
+Author{6}{Lastname}#=%=#
+Author{6}{Firstname}#=%=#
+Author{6}{Email}#=%=#
+Author{6}{Affiliation}#=%=#
+Author{7}{Lastname}#=%=#
+Author{7}{Firstname}#=%=#
+Author{7}{Email}#=%=#
+Author{7}{Affiliation}#=%=#
+Author{8}{Lastname}#=%=#
+Author{8}{Firstname}#=%=#
+Author{8}{Email}#=%=#
+Author{8}{Affiliation}#=%=#
+Author{9}{Lastname}#=%=#
+Author{9}{Firstname}#=%=#
+Author{9}{Email}#=%=#
+Author{9}{Affiliation}#=%=#
+Author{10}{Lastname}#=%=#
+Author{10}{Firstname}#=%=#
+Author{10}{Email}#=%=#
+Author{10}{Affiliation}#=%=#
+Author{11}{Lastname}#=%=#
+Author{11}{Firstname}#=%=#
+Author{11}{Email}#=%=#
+Author{11}{Affiliation}#=%=#
+Author{12}{Lastname}#=%=#
+Author{12}{Firstname}#=%=#
+Author{12}{Email}#=%=#
+Author{12}{Affiliation}#=%=#
+Author{13}{Lastname}#=%=#
+Author{13}{Firstname}#=%=#
+Author{13}{Email}#=%=#
+Author{13}{Affiliation}#=%=#
+Author{14}{Lastname}#=%=#
+Author{14}{Firstname}#=%=#
+Author{14}{Email}#=%=#
+Author{14}{Affiliation}#=%=#
+Author{15}{Lastname}#=%=#
+Author{15}{Firstname}#=%=#
+Author{15}{Email}#=%=#
+Author{15}{Affiliation}#=%=#
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Eric Yeh
+JobTitle#==#
+Organization#==#SRI International, 333 Ravenswood Avenue, Menlo Park, CA 94025, USA.
+Abstract#==#In this year’s Semantic Textual Similarity evaluation, we explore the
+contribution of models that provide soft similarity scores across spans of
+multiple words, over the previous year’s system. To this end, we explored the
+use of neural probabilistic language models and a TF-IDF weighted variant of
+Explicit Semantic Analysis. The neural language model systems used vector
+representations of individual words, where these vectors were derived by
+training them against the context of words encountered, and thus reflect the
+distributional characteristics of their usage. To generate a similarity score
+between spans, we experimented with using tiled vectors and Restricted
+Boltzmann Machines to identify similar encodings. We find that these soft
+similarity methods generally outperformed our previous year’s systems, albeit
+they did not perform as well in the overall rankings. A simple analysis of the
+soft similarity resources over two word phrases is provided, and future areas
+of improvement are described.
+==========

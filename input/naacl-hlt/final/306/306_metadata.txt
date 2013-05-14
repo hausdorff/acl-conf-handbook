@@ -1,0 +1,84 @@
+SubmissionNumber#=%=#306
+FinalPaperTitle#=%=#Towards Coherent Multi-Document Summarization
+ShortPaperTitle#=%=#Towards Coherent Multi-Document Summarization
+Author{1}{Lastname}#=%=#Christensen
+Author{1}{Firstname}#=%=#Janara
+Author{1}{Email}#=%=#janara@cs.washington.edu
+Author{1}{Affiliation}#=%=#University of Washington
+Author{2}{Lastname}#=%=#-
+Author{2}{Firstname}#=%=#Mausam
+Author{2}{Email}#=%=#mausam@cs.washington.edu
+Author{2}{Affiliation}#=%=#University of Washington
+Author{3}{Lastname}#=%=#Soderland
+Author{3}{Firstname}#=%=#Stephen
+Author{3}{Email}#=%=#soderlan@cs.washington.edu
+Author{3}{Affiliation}#=%=#University of Washington
+Author{4}{Lastname}#=%=#Etzioni
+Author{4}{Firstname}#=%=#Oren
+Author{4}{Email}#=%=#etzioni@cs.washington.edu
+Author{4}{Affiliation}#=%=#University of Washington
+Author{5}{Lastname}#=%=#
+Author{5}{Firstname}#=%=#
+Author{5}{Email}#=%=#
+Author{5}{Affiliation}#=%=#
+Author{6}{Lastname}#=%=#
+Author{6}{Firstname}#=%=#
+Author{6}{Email}#=%=#
+Author{6}{Affiliation}#=%=#
+Author{7}{Lastname}#=%=#
+Author{7}{Firstname}#=%=#
+Author{7}{Email}#=%=#
+Author{7}{Affiliation}#=%=#
+Author{8}{Lastname}#=%=#
+Author{8}{Firstname}#=%=#
+Author{8}{Email}#=%=#
+Author{8}{Affiliation}#=%=#
+Author{9}{Lastname}#=%=#
+Author{9}{Firstname}#=%=#
+Author{9}{Email}#=%=#
+Author{9}{Affiliation}#=%=#
+Author{10}{Lastname}#=%=#
+Author{10}{Firstname}#=%=#
+Author{10}{Email}#=%=#
+Author{10}{Affiliation}#=%=#
+Author{11}{Lastname}#=%=#
+Author{11}{Firstname}#=%=#
+Author{11}{Email}#=%=#
+Author{11}{Affiliation}#=%=#
+Author{12}{Lastname}#=%=#
+Author{12}{Firstname}#=%=#
+Author{12}{Email}#=%=#
+Author{12}{Affiliation}#=%=#
+Author{13}{Lastname}#=%=#
+Author{13}{Firstname}#=%=#
+Author{13}{Email}#=%=#
+Author{13}{Affiliation}#=%=#
+Author{14}{Lastname}#=%=#
+Author{14}{Firstname}#=%=#
+Author{14}{Email}#=%=#
+Author{14}{Affiliation}#=%=#
+Author{15}{Lastname}#=%=#
+Author{15}{Firstname}#=%=#
+Author{15}{Email}#=%=#
+Author{15}{Affiliation}#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Janara Christensen
+JobTitle#==#
+Organization#==#Department of Computer Science and Engineering
+University of Washington
+AC101 Paul G. Allen Center, Box 352350
+185 Stevens Way
+Seattle WA 98195-2350
+Abstract#==#This paper presents G-FLOW, a novel system for coherent extractive
+multi-document summarization (MDS). Where previous work on MDS considered
+sentence selection and ordering separately, G-FLOW introduces a joint model for
+selection and ordering that balances coherence and salience. G-FLOW’s core
+representation is a graph that approximates the discourse relations across
+sentences based on indicators including discourse cues, deverbal nouns,
+co-reference, and more. This graph enables G-FLOW to estimate the coherence of
+a candidate summary.
+We evaluate G-FLOW on Mechanical Turk, and find that it generates dramatically
+better summaries than an extractive summarizer based on a pipeline of
+state-of-the-art sentence selection and reordering components, underscoring the
+value of our joint model.
+==========

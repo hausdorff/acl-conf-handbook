@@ -1,0 +1,31 @@
+# Edit this file: 
+# reorder the lines that correspond to papers 
+#   and modify time slot, e.g. 9:00--9:30 
+# add lines for 
+#   start of new day, format: * DAY
+#   session headline, format: = HEADLINE 
+#   additional items, format: + TIME DESCRIPTION
+* Friday, June 14, 2013
+= Session 1:
++ 8:45--9:00 Opening Remarks
++ 9:00--10:00 Tutorial: Computational Visual Recognition for NLP (Alexander C Berg, Stony Brook University)
++ 10:00--10:30 Invited talk: Modality Selection for Multimedia Summarization (Florian Metze, Carnegie Mellon University)
++ 10:30--11:00 Coffee break
+= Session 2: 
+1 11:00--11:20 # Mason: Annotation of Online Shopping ...
+2 11:20--11:40 # Krishnamoorthy: Generating Natural-Language Vi...
+3 11:40--12:00 # Mittelman: Learning Hierarchical Linguist...
++ 12:00--12:30 Invited talk: Joint Learning of Word Meanings and Image Tasks (Jason Weston, Google)
++ 12:30--2:00 Lunch Break
+= Session 3: 
++ 2:00--2:15 Invited student talk: Communicating with an Image Retrieval System via Relative Attributes (Adriana Kovashka and Kristen Grauman)
++ 2:15--2:30 Invited student talk: Identifying Visual Attributes for Object Recognition (Caglar Tirkaz, Jacob Eisenstein, Berrin Yanikoglu and Metin Sezgin)
++ 2:30--2:45 Invited student talk: TBA (Mark Yatskar and Luke Zettlemoyer)
++ 2:45--3:00 Invited student talk: Bayesian modeling of scenes and captions (Luca del Pero and Kobus Barnard)
++ 3:00--3:15 Invited student talk: Data-Driven Generation of Image Descriptions (Vicente Ordonez and Tamara Berg)
++ 3:15--3:30 Invited student talk: Framing image description as a retrieval problem (Micah Hodosh, Peter Young and Julia Hockenmaier)
+= Session 4:
++ 4:00--4:30 Invited talk: Multimodal Semantics at CLIC (Elia Bruni)
++ 4:30--5:00 Invited talk: TBA (Yejin Choi)
++ 5:00--5:30 Invited talk: TBA (Margaret Mitchell)
++ 5:30--6:00 Panel discussion (Julia Hockenmaier, University of Illinois, and Tamara Berg, Stony Brook University)

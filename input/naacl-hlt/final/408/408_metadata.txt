@@ -1,0 +1,79 @@
+SubmissionNumber#=%=#408
+FinalPaperTitle#=%=#Generating Expressions that Refer to Visible Objects
+ShortPaperTitle#=%=#Generating Expressions that Refer to Visible Objects
+Author{1}{Lastname}#=%=#Mitchell
+Author{1}{Firstname}#=%=#Margaret
+Author{1}{Email}#=%=#m.mitchell@abdn.ac.uk
+Author{1}{Affiliation}#=%=#Johns Hopkins University
+Author{2}{Lastname}#=%=#van Deemter
+Author{2}{Firstname}#=%=#Kees
+Author{2}{Email}#=%=#k.vdeemter@abdn.ac.uk
+Author{2}{Affiliation}#=%=#University of Aberdeen
+Author{3}{Lastname}#=%=#Reiter
+Author{3}{Firstname}#=%=#Ehud
+Author{3}{Email}#=%=#e.reiter@abdn.ac.uk
+Author{3}{Affiliation}#=%=#University of Aberdeen
+Author{4}{Lastname}#=%=#
+Author{4}{Firstname}#=%=#
+Author{4}{Email}#=%=#
+Author{4}{Affiliation}#=%=#
+Author{5}{Lastname}#=%=#
+Author{5}{Firstname}#=%=#
+Author{5}{Email}#=%=#
+Author{5}{Affiliation}#=%=#
+Author{6}{Lastname}#=%=#
+Author{6}{Firstname}#=%=#
+Author{6}{Email}#=%=#
+Author{6}{Affiliation}#=%=#
+Author{7}{Lastname}#=%=#
+Author{7}{Firstname}#=%=#
+Author{7}{Email}#=%=#
+Author{7}{Affiliation}#=%=#
+Author{8}{Lastname}#=%=#
+Author{8}{Firstname}#=%=#
+Author{8}{Email}#=%=#
+Author{8}{Affiliation}#=%=#
+Author{9}{Lastname}#=%=#
+Author{9}{Firstname}#=%=#
+Author{9}{Email}#=%=#
+Author{9}{Affiliation}#=%=#
+Author{10}{Lastname}#=%=#
+Author{10}{Firstname}#=%=#
+Author{10}{Email}#=%=#
+Author{10}{Affiliation}#=%=#
+Author{11}{Lastname}#=%=#
+Author{11}{Firstname}#=%=#
+Author{11}{Email}#=%=#
+Author{11}{Affiliation}#=%=#
+Author{12}{Lastname}#=%=#
+Author{12}{Firstname}#=%=#
+Author{12}{Email}#=%=#
+Author{12}{Affiliation}#=%=#
+Author{13}{Lastname}#=%=#
+Author{13}{Firstname}#=%=#
+Author{13}{Email}#=%=#
+Author{13}{Affiliation}#=%=#
+Author{14}{Lastname}#=%=#
+Author{14}{Firstname}#=%=#
+Author{14}{Email}#=%=#
+Author{14}{Affiliation}#=%=#
+Author{15}{Lastname}#=%=#
+Author{15}{Firstname}#=%=#
+Author{15}{Email}#=%=#
+Author{15}{Affiliation}#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#MM
+JobTitle#==#
+Organization#==#Johns Hopkins University
+Abstract#==#We introduce a novel algorithm for generating referring expressions, informed
+by human and computer vision and designed to refer to visible objects. Our
+method separates absolute properties like color from relative properties like
+size to stochastically generate a diverse set of outputs. Expressions generated
+using this method are often overspecified and may be underspecified, akin to
+expressions produced by people. We call such expressions identifying
+descriptions. The algorithm out-performs the well-known Incremental Algorithm
+(Dale and Reiter, 1995) and the Graph-Based Algorithm (Krahmer et al., 2003;
+Viethen et al., 2008) across a variety of images in two domains. We
+additionally motivate an evaluation method for referring expression generation
+that takes the proposed algorithm’s non-determinism into account.
+==========

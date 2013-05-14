@@ -1,0 +1,78 @@
+SubmissionNumber#=%=#11
+FinalPaperTitle#=%=#Topical Positioning: A New Method for Predicting Opinion Changes in Conversation
+ShortPaperTitle#=%=#Topical Positioning: A New Method for Predicting Opinion Changes in Conversation
+Author{1}{Lastname}#=%=#Lin
+Author{1}{Firstname}#=%=#Ching-Sheng
+Author{1}{Email}#=%=#cslin612@gmail.com
+Author{1}{Affiliation}#=%=#ILS Institute, University at Albany, SUNY
+Author{2}{Lastname}#=%=#Shaikh
+Author{2}{Firstname}#=%=#Samira
+Author{2}{Email}#=%=#samirashaikh@gmail.com
+Author{2}{Affiliation}#=%=#ILS Institute, University at Albany, SUNY
+Author{3}{Lastname}#=%=#Stromer-Galley
+Author{3}{Firstname}#=%=#Jennifer
+Author{3}{Email}#=%=#jstromer@albany.edu
+Author{3}{Affiliation}#=%=#ILS Institute, University at Albany, SUNY
+Author{4}{Lastname}#=%=#Crowley
+Author{4}{Firstname}#=%=#Jennifer
+Author{4}{Email}#=%=#jenniferacrowley@gmail.com
+Author{4}{Affiliation}#=%=#ILS Institute, University at Albany, SUNY
+Author{5}{Lastname}#=%=#Strzalkowski
+Author{5}{Firstname}#=%=#Tomek
+Author{5}{Email}#=%=#tomek@albany.edu
+Author{5}{Affiliation}#=%=#ILS Institute, University at Albany, SUNY
+Author{6}{Lastname}#=%=#Ravishankar
+Author{6}{Firstname}#=%=#Veena
+Author{6}{Email}#=%=#veena.ravishankar89@gmail.com
+Author{6}{Affiliation}#=%=#ILS Institute, University at Albany, SUNY
+Author{7}{Lastname}#=%=#
+Author{7}{Firstname}#=%=#
+Author{7}{Email}#=%=#
+Author{7}{Affiliation}#=%=#
+Author{8}{Lastname}#=%=#
+Author{8}{Firstname}#=%=#
+Author{8}{Email}#=%=#
+Author{8}{Affiliation}#=%=#
+Author{9}{Lastname}#=%=#
+Author{9}{Firstname}#=%=#
+Author{9}{Email}#=%=#
+Author{9}{Affiliation}#=%=#
+Author{10}{Lastname}#=%=#
+Author{10}{Firstname}#=%=#
+Author{10}{Email}#=%=#
+Author{10}{Affiliation}#=%=#
+Author{11}{Lastname}#=%=#
+Author{11}{Firstname}#=%=#
+Author{11}{Email}#=%=#
+Author{11}{Affiliation}#=%=#
+Author{12}{Lastname}#=%=#
+Author{12}{Firstname}#=%=#
+Author{12}{Email}#=%=#
+Author{12}{Affiliation}#=%=#
+Author{13}{Lastname}#=%=#
+Author{13}{Firstname}#=%=#
+Author{13}{Email}#=%=#
+Author{13}{Affiliation}#=%=#
+Author{14}{Lastname}#=%=#
+Author{14}{Firstname}#=%=#
+Author{14}{Email}#=%=#
+Author{14}{Affiliation}#=%=#
+Author{15}{Lastname}#=%=#
+Author{15}{Firstname}#=%=#
+Author{15}{Email}#=%=#
+Author{15}{Affiliation}#=%=#
+NumberOfPages#=%=#8
+CopyrightSigned#=%=#Ching-Sheng Lin
+JobTitle#==#Student
+Organization#==#State University of New York - University at Albany, NY 12222 USA
+Abstract#==#In this paper, we describe a novel approach to automatically detecting and
+tracking discussion dynamics in Internet social media by focusing on attitude
+modeling of topics. We characterize each participant’s attitude to-wards
+topics as Topical Positioning, employ Topical Positioning Map to represent the
+positions of participants with respect to each other and track attitude shifts
+over time. We also discuss how we used participants’ attitudes towards
+system-detected meso-topics to reflect their attitudes towards the overall
+topic of conversation. Our approach can work across different types of social
+media, such as Twitter discussion and online chat room. In this article, we
+show results on Twitter data.
+==========

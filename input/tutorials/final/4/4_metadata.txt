@@ -1,0 +1,84 @@
+SubmissionNumber#=%=#4
+FinalPaperTitle#=%=#Spectral Learning Algorithms for Natural Language Processing
+ShortPaperTitle#=%=#Spectral Learning Algorithms for Natural Language Processing
+Author{1}{Lastname}#=%=#Cohen
+Author{1}{Firstname}#=%=#Shay
+Author{1}{Email}#=%=#scohen@cs.columbia.edu
+Author{1}{Affiliation}#=%=#Columbia
+Author{2}{Lastname}#=%=#Collins
+Author{2}{Firstname}#=%=#Michael
+Author{2}{Email}#=%=#mcollins@cs.columbia.edu
+Author{2}{Affiliation}#=%=#Columbia
+Author{3}{Lastname}#=%=#Foster
+Author{3}{Firstname}#=%=#Dean
+Author{3}{Email}#=%=#dean@foster.net
+Author{3}{Affiliation}#=%=#University of Pennsylvania
+Author{4}{Lastname}#=%=#Stratos
+Author{4}{Firstname}#=%=#Karl
+Author{4}{Email}#=%=#stratos@cs.columbia.edu
+Author{4}{Affiliation}#=%=#Columbia
+Author{5}{Lastname}#=%=#Ungar
+Author{5}{Firstname}#=%=#Lyle
+Author{5}{Email}#=%=#ungar@cis.upenn.edu
+Author{5}{Affiliation}#=%=#University of Pennsylvania
+Author{6}{Lastname}#=%=#
+Author{6}{Firstname}#=%=#
+Author{6}{Email}#=%=#
+Author{6}{Affiliation}#=%=#
+Author{7}{Lastname}#=%=#
+Author{7}{Firstname}#=%=#
+Author{7}{Email}#=%=#
+Author{7}{Affiliation}#=%=#
+Author{8}{Lastname}#=%=#
+Author{8}{Firstname}#=%=#
+Author{8}{Email}#=%=#
+Author{8}{Affiliation}#=%=#
+Author{9}{Lastname}#=%=#
+Author{9}{Firstname}#=%=#
+Author{9}{Email}#=%=#
+Author{9}{Affiliation}#=%=#
+Author{10}{Lastname}#=%=#
+Author{10}{Firstname}#=%=#
+Author{10}{Email}#=%=#
+Author{10}{Affiliation}#=%=#
+Author{11}{Lastname}#=%=#
+Author{11}{Firstname}#=%=#
+Author{11}{Email}#=%=#
+Author{11}{Affiliation}#=%=#
+Author{12}{Lastname}#=%=#
+Author{12}{Firstname}#=%=#
+Author{12}{Email}#=%=#
+Author{12}{Affiliation}#=%=#
+Author{13}{Lastname}#=%=#
+Author{13}{Firstname}#=%=#
+Author{13}{Email}#=%=#
+Author{13}{Affiliation}#=%=#
+Author{14}{Lastname}#=%=#
+Author{14}{Firstname}#=%=#
+Author{14}{Email}#=%=#
+Author{14}{Affiliation}#=%=#
+Author{15}{Lastname}#=%=#
+Author{15}{Firstname}#=%=#
+Author{15}{Email}#=%=#
+Author{15}{Affiliation}#=%=#
+NumberOfPages#=%=#3
+CopyrightSigned#=%=#Katrin Erk
+JobTitle#==#tutorials chair
+Organization#==#
+Abstract#==#Recent work in machine learning and NLP has developed spectral algorithms for
+many learning tasks involving latent variables. Spectral algorithms rely on
+singular value decomposition as
+a basic operation, usually followed by some simple estimation method based on
+the method of moments. From a theoretical point of view, these methods are
+appealing in that they offer consistent estimators (and PAC-style guarantees of
+sample complexity) for several important latent-variable models. This is in
+contrast to the EM algorithm, which is an extremely successful approach, but
+which only has guarantees of reaching a local maximum of the likelihood
+function.
+
+From a practical point of view, the methods (unlike EM) have no need for
+careful initialization, and have recently been shown to be highly efficient (as
+one example, in work under submission by the authors on learning of
+latent-variable PCFGs, a spectral algorithm performs at identical accuracy to
+EM, but is around 20 times faster).
+==========

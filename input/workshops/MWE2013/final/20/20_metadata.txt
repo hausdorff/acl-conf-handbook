@@ -1,0 +1,89 @@
+SubmissionNumber#=%=#20
+FinalPaperTitle#=%=#Determining Compositionality of Word Expressions Using Word Space Models
+ShortPaperTitle#=%=#Determining Compositionality of Word Expressions Using Word Space Models
+Author{1}{Lastname}#=%=#Krčmář
+Author{1}{Firstname}#=%=#Lubomír
+Author{1}{Email}#=%=#lkrcmar@kiv.zcu.cz
+Author{1}{Affiliation}#=%=#Department of Computer Science, Faculty of Applied Sciences, University of West Bohemia
+Author{2}{Lastname}#=%=#Ježek
+Author{2}{Firstname}#=%=#Karel
+Author{2}{Email}#=%=#jezek_ka@kiv.zcu.cz
+Author{2}{Affiliation}#=%=#Department of Computer Science, Faculty of Applied Sciences, University of West Bohemia
+Author{3}{Lastname}#=%=#Pecina
+Author{3}{Firstname}#=%=#Pavel
+Author{3}{Email}#=%=#pecina@ufal.mff.cuni.cz
+Author{3}{Affiliation}#=%=#Charles University, Prague
+Author{4}{Lastname}#=%=#
+Author{4}{Firstname}#=%=#
+Author{4}{Email}#=%=#
+Author{4}{Affiliation}#=%=#
+Author{5}{Lastname}#=%=#
+Author{5}{Firstname}#=%=#
+Author{5}{Email}#=%=#
+Author{5}{Affiliation}#=%=#
+Author{6}{Lastname}#=%=#
+Author{6}{Firstname}#=%=#
+Author{6}{Email}#=%=#
+Author{6}{Affiliation}#=%=#
+Author{7}{Lastname}#=%=#
+Author{7}{Firstname}#=%=#
+Author{7}{Email}#=%=#
+Author{7}{Affiliation}#=%=#
+Author{8}{Lastname}#=%=#
+Author{8}{Firstname}#=%=#
+Author{8}{Email}#=%=#
+Author{8}{Affiliation}#=%=#
+Author{9}{Lastname}#=%=#
+Author{9}{Firstname}#=%=#
+Author{9}{Email}#=%=#
+Author{9}{Affiliation}#=%=#
+Author{10}{Lastname}#=%=#
+Author{10}{Firstname}#=%=#
+Author{10}{Email}#=%=#
+Author{10}{Affiliation}#=%=#
+Author{11}{Lastname}#=%=#
+Author{11}{Firstname}#=%=#
+Author{11}{Email}#=%=#
+Author{11}{Affiliation}#=%=#
+Author{12}{Lastname}#=%=#
+Author{12}{Firstname}#=%=#
+Author{12}{Email}#=%=#
+Author{12}{Affiliation}#=%=#
+Author{13}{Lastname}#=%=#
+Author{13}{Firstname}#=%=#
+Author{13}{Email}#=%=#
+Author{13}{Affiliation}#=%=#
+Author{14}{Lastname}#=%=#
+Author{14}{Firstname}#=%=#
+Author{14}{Email}#=%=#
+Author{14}{Affiliation}#=%=#
+Author{15}{Lastname}#=%=#
+Author{15}{Firstname}#=%=#
+Author{15}{Email}#=%=#
+Author{15}{Affiliation}#=%=#
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#Lubomír Krčmář
+JobTitle#==#
+Organization#==#University of West Bohemia
+Faculty of Applied Sciences,
+Department of Computer Science and Engineering,
+Pilsen, Czech Republic
+Abstract#==#This research focuses on determining semantic
+compositionality of word expressions using
+word space models (WSMs). We discuss
+previous works employing WSMs and present
+differences in the proposed approaches which
+include types of WSMs, corpora, preprocessing
+techniques, methods for determining compositionality,
+and evaluation testbeds.
+
+We also present results of our own approach
+for determining the semantic compositionality
+based on comparing distributional vectors of
+expressions and their components. The vectors
+were obtained by Latent Semantic Analysis
+(LSA) applied to the ukWaC corpus. Our
+results outperform those of all the participants
+in the Distributional Semantics and Compositionality
+(DISCO) 2011 shared task.
+==========

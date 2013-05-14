@@ -1,0 +1,79 @@
+SubmissionNumber#=%=#421
+FinalPaperTitle#=%=#Supervised Learning of Complete Morphological Paradigms
+ShortPaperTitle#=%=#Supervised Learning of Complete Morphological Paradigms
+Author{1}{Lastname}#=%=#Durrett
+Author{1}{Firstname}#=%=#Greg
+Author{1}{Email}#=%=#gdurrett@eecs.berkeley.edu
+Author{1}{Affiliation}#=%=#UC Berkeley
+Author{2}{Lastname}#=%=#DeNero
+Author{2}{Firstname}#=%=#John
+Author{2}{Email}#=%=#denero@google.com
+Author{2}{Affiliation}#=%=#Google, Inc.
+Author{3}{Lastname}#=%=#
+Author{3}{Firstname}#=%=#
+Author{3}{Email}#=%=#
+Author{3}{Affiliation}#=%=#
+Author{4}{Lastname}#=%=#
+Author{4}{Firstname}#=%=#
+Author{4}{Email}#=%=#
+Author{4}{Affiliation}#=%=#
+Author{5}{Lastname}#=%=#
+Author{5}{Firstname}#=%=#
+Author{5}{Email}#=%=#
+Author{5}{Affiliation}#=%=#
+Author{6}{Lastname}#=%=#
+Author{6}{Firstname}#=%=#
+Author{6}{Email}#=%=#
+Author{6}{Affiliation}#=%=#
+Author{7}{Lastname}#=%=#
+Author{7}{Firstname}#=%=#
+Author{7}{Email}#=%=#
+Author{7}{Affiliation}#=%=#
+Author{8}{Lastname}#=%=#
+Author{8}{Firstname}#=%=#
+Author{8}{Email}#=%=#
+Author{8}{Affiliation}#=%=#
+Author{9}{Lastname}#=%=#
+Author{9}{Firstname}#=%=#
+Author{9}{Email}#=%=#
+Author{9}{Affiliation}#=%=#
+Author{10}{Lastname}#=%=#
+Author{10}{Firstname}#=%=#
+Author{10}{Email}#=%=#
+Author{10}{Affiliation}#=%=#
+Author{11}{Lastname}#=%=#
+Author{11}{Firstname}#=%=#
+Author{11}{Email}#=%=#
+Author{11}{Affiliation}#=%=#
+Author{12}{Lastname}#=%=#
+Author{12}{Firstname}#=%=#
+Author{12}{Email}#=%=#
+Author{12}{Affiliation}#=%=#
+Author{13}{Lastname}#=%=#
+Author{13}{Firstname}#=%=#
+Author{13}{Email}#=%=#
+Author{13}{Affiliation}#=%=#
+Author{14}{Lastname}#=%=#
+Author{14}{Firstname}#=%=#
+Author{14}{Email}#=%=#
+Author{14}{Affiliation}#=%=#
+Author{15}{Lastname}#=%=#
+Author{15}{Firstname}#=%=#
+Author{15}{Email}#=%=#
+Author{15}{Affiliation}#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Greg Durrett
+JobTitle#==#
+Organization#==#UC Berkeley
+7th floor Sutardja Dai Hall
+Berkeley, CA 94720-1776
+Abstract#==#We describe a supervised approach to predicting the set of all inflected forms
+of a lexical item. Our system automatically acquires the orthographic
+transformation rules of morphological paradigms from labeled examples, and then
+learns the contexts in which those transformations apply using a discriminative
+sequence model. Because our approach is completely data-driven and the model is
+trained on examples extracted from Wiktionary, our method can extend to new
+languages without change. Our end-to-end system is able to predict complete
+paradigms with 86.1% accuracy and individual inflected forms with 94.9%
+accuracy, averaged across three languages and two parts of speech.
+==========

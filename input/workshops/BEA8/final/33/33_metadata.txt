@@ -1,0 +1,79 @@
+SubmissionNumber#=%=#33
+FinalPaperTitle#=%=#Native Language Identification: A Key N-gram Category Approach
+ShortPaperTitle#=%=#NLI: A Key N-gram Category Approach
+Author{1}{Lastname}#=%=#Kyle
+Author{1}{Firstname}#=%=#Kristopher
+Author{1}{Email}#=%=#kkyle3@student.gsu.edu
+Author{1}{Affiliation}#=%=#Georgia State University
+Author{2}{Lastname}#=%=#Crossley
+Author{2}{Firstname}#=%=#Scott
+Author{2}{Email}#=%=#scrossley@gsu.edu
+Author{2}{Affiliation}#=%=#Georgia State University
+Author{3}{Lastname}#=%=#Dai
+Author{3}{Firstname}#=%=#Jianmin
+Author{3}{Email}#=%=#Jianmin.Dai@asu.edu
+Author{3}{Affiliation}#=%=#Arizona State University
+Author{4}{Lastname}#=%=#McNamara
+Author{4}{Firstname}#=%=#Danielle
+Author{4}{Email}#=%=#dsmcnamara1@gmail.com
+Author{4}{Affiliation}#=%=#Arizona State University
+Author{5}{Lastname}#=%=#
+Author{5}{Firstname}#=%=#
+Author{5}{Email}#=%=#
+Author{5}{Affiliation}#=%=#
+Author{6}{Lastname}#=%=#
+Author{6}{Firstname}#=%=#
+Author{6}{Email}#=%=#
+Author{6}{Affiliation}#=%=#
+Author{7}{Lastname}#=%=#
+Author{7}{Firstname}#=%=#
+Author{7}{Email}#=%=#
+Author{7}{Affiliation}#=%=#
+Author{8}{Lastname}#=%=#
+Author{8}{Firstname}#=%=#
+Author{8}{Email}#=%=#
+Author{8}{Affiliation}#=%=#
+Author{9}{Lastname}#=%=#
+Author{9}{Firstname}#=%=#
+Author{9}{Email}#=%=#
+Author{9}{Affiliation}#=%=#
+Author{10}{Lastname}#=%=#
+Author{10}{Firstname}#=%=#
+Author{10}{Email}#=%=#
+Author{10}{Affiliation}#=%=#
+Author{11}{Lastname}#=%=#
+Author{11}{Firstname}#=%=#
+Author{11}{Email}#=%=#
+Author{11}{Affiliation}#=%=#
+Author{12}{Lastname}#=%=#
+Author{12}{Firstname}#=%=#
+Author{12}{Email}#=%=#
+Author{12}{Affiliation}#=%=#
+Author{13}{Lastname}#=%=#
+Author{13}{Firstname}#=%=#
+Author{13}{Email}#=%=#
+Author{13}{Affiliation}#=%=#
+Author{14}{Lastname}#=%=#
+Author{14}{Firstname}#=%=#
+Author{14}{Email}#=%=#
+Author{14}{Affiliation}#=%=#
+Author{15}{Lastname}#=%=#
+Author{15}{Firstname}#=%=#
+Author{15}{Email}#=%=#
+Author{15}{Affiliation}#=%=#
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#Kris Kyle
+JobTitle#==#
+Organization#==#Georgia State University
+Applied Linguistics
+34 Peachtree Street NW Suite 1200
+Atlanta, GA 30303
+Abstract#==#This study explores the efficacy of an approach to native language
+identification that utilizes grammatical, rhetorical, semantic, syntactic, and
+cohesive function categories comprised of key ngrams. The study found that a
+model based on these categories of key ngrams was able to successfully predict
+the L1 of essays written in English by L2 learners from 11 different L1
+backgrounds with an accuracy of 59%. Preliminary findings concerning instances
+of crosslinguistic influence are discussed, along with evidence of language
+similarities based on patterns of language misclassification.
+==========

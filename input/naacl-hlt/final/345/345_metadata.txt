@@ -1,0 +1,79 @@
+SubmissionNumber#=%=#345
+FinalPaperTitle#=%=#Measuring Term Informativeness in Context
+ShortPaperTitle#=%=#Measuring Term Informativeness in Context
+Author{1}{Lastname}#=%=#Wu
+Author{1}{Firstname}#=%=#Zhaohui
+Author{1}{Email}#=%=#laowuz@gmail.com
+Author{1}{Affiliation}#=%=#Penn State University
+Author{2}{Lastname}#=%=#Giles
+Author{2}{Firstname}#=%=#C. Lee
+Author{2}{Email}#=%=#giles@ist.psu.edu
+Author{2}{Affiliation}#=%=#penn state university
+Author{3}{Lastname}#=%=#
+Author{3}{Firstname}#=%=#
+Author{3}{Email}#=%=#
+Author{3}{Affiliation}#=%=#
+Author{4}{Lastname}#=%=#
+Author{4}{Firstname}#=%=#
+Author{4}{Email}#=%=#
+Author{4}{Affiliation}#=%=#
+Author{5}{Lastname}#=%=#
+Author{5}{Firstname}#=%=#
+Author{5}{Email}#=%=#
+Author{5}{Affiliation}#=%=#
+Author{6}{Lastname}#=%=#
+Author{6}{Firstname}#=%=#
+Author{6}{Email}#=%=#
+Author{6}{Affiliation}#=%=#
+Author{7}{Lastname}#=%=#
+Author{7}{Firstname}#=%=#
+Author{7}{Email}#=%=#
+Author{7}{Affiliation}#=%=#
+Author{8}{Lastname}#=%=#
+Author{8}{Firstname}#=%=#
+Author{8}{Email}#=%=#
+Author{8}{Affiliation}#=%=#
+Author{9}{Lastname}#=%=#
+Author{9}{Firstname}#=%=#
+Author{9}{Email}#=%=#
+Author{9}{Affiliation}#=%=#
+Author{10}{Lastname}#=%=#
+Author{10}{Firstname}#=%=#
+Author{10}{Email}#=%=#
+Author{10}{Affiliation}#=%=#
+Author{11}{Lastname}#=%=#
+Author{11}{Firstname}#=%=#
+Author{11}{Email}#=%=#
+Author{11}{Affiliation}#=%=#
+Author{12}{Lastname}#=%=#
+Author{12}{Firstname}#=%=#
+Author{12}{Email}#=%=#
+Author{12}{Affiliation}#=%=#
+Author{13}{Lastname}#=%=#
+Author{13}{Firstname}#=%=#
+Author{13}{Email}#=%=#
+Author{13}{Affiliation}#=%=#
+Author{14}{Lastname}#=%=#
+Author{14}{Firstname}#=%=#
+Author{14}{Email}#=%=#
+Author{14}{Affiliation}#=%=#
+Author{15}{Lastname}#=%=#
+Author{15}{Firstname}#=%=#
+Author{15}{Email}#=%=#
+Author{15}{Affiliation}#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Zhaohui Wu
+JobTitle#==#
+Organization#==#Computer Science and Engineering, The Pennsylvania State University, University Park, PA 16802, USA
+Abstract#==#Measuring term informativeness is a fundamental NLP task. Existing methods,
+mostly based on statistical information in corpora, do not actually measure
+informativeness of a term with regard to its semantic context. This paper
+proposes a new lightweight feature-free approach to encode term informativeness
+in context by leveraging web knowledge. Given a term and its context, we model
+context-aware term informativeness based on semantic similarity between the
+context and the term's most featured context in a knowledge base, Wikipedia. We
+apply our method to three applications: core term extraction from snippets
+(text segment), scientific keywords extraction (paper), and back-of-the-book
+index generation (book). The performance is state-of-the-art or close to it for
+each application, demonstrating its effectiveness and generality.
+==========

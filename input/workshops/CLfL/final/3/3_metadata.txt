@@ -1,0 +1,80 @@
+SubmissionNumber#=%=#3
+FinalPaperTitle#=%=#Exploring Cities in Crime: Significant Concordance and Co-occurrence in Quantitative Literary Analysis
+ShortPaperTitle#=%=#Exploring Cities in Crime: Significant Concordance and Co-occurrence in Quantitative Literary Analysis
+Author{1}{Lastname}#=%=#Rauscher
+Author{1}{Firstname}#=%=#Janneke
+Author{1}{Email}#=%=#rauscher@linglit.tu-darmstadt.de
+Author{1}{Affiliation}#=%=#TU Darmstadt
+Author{2}{Lastname}#=%=#Swiezinski
+Author{2}{Firstname}#=%=#Leonard
+Author{2}{Email}#=%=#floppy35@web.de
+Author{2}{Affiliation}#=%=#TU Darmstadt
+Author{3}{Lastname}#=%=#Riedl
+Author{3}{Firstname}#=%=#Martin
+Author{3}{Email}#=%=#riedl@cs.tu-darmstadt.de
+Author{3}{Affiliation}#=%=#TU Darmstadt
+Author{4}{Lastname}#=%=#Biemann
+Author{4}{Firstname}#=%=#Chris
+Author{4}{Email}#=%=#biem@cs.tu-darmstadt.de
+Author{4}{Affiliation}#=%=#TU Darmstadt
+Author{5}{Lastname}#=%=#
+Author{5}{Firstname}#=%=#
+Author{5}{Email}#=%=#
+Author{5}{Affiliation}#=%=#
+Author{6}{Lastname}#=%=#
+Author{6}{Firstname}#=%=#
+Author{6}{Email}#=%=#
+Author{6}{Affiliation}#=%=#
+Author{7}{Lastname}#=%=#
+Author{7}{Firstname}#=%=#
+Author{7}{Email}#=%=#
+Author{7}{Affiliation}#=%=#
+Author{8}{Lastname}#=%=#
+Author{8}{Firstname}#=%=#
+Author{8}{Email}#=%=#
+Author{8}{Affiliation}#=%=#
+Author{9}{Lastname}#=%=#
+Author{9}{Firstname}#=%=#
+Author{9}{Email}#=%=#
+Author{9}{Affiliation}#=%=#
+Author{10}{Lastname}#=%=#
+Author{10}{Firstname}#=%=#
+Author{10}{Email}#=%=#
+Author{10}{Affiliation}#=%=#
+Author{11}{Lastname}#=%=#
+Author{11}{Firstname}#=%=#
+Author{11}{Email}#=%=#
+Author{11}{Affiliation}#=%=#
+Author{12}{Lastname}#=%=#
+Author{12}{Firstname}#=%=#
+Author{12}{Email}#=%=#
+Author{12}{Affiliation}#=%=#
+Author{13}{Lastname}#=%=#
+Author{13}{Firstname}#=%=#
+Author{13}{Email}#=%=#
+Author{13}{Affiliation}#=%=#
+Author{14}{Lastname}#=%=#
+Author{14}{Firstname}#=%=#
+Author{14}{Email}#=%=#
+Author{14}{Affiliation}#=%=#
+Author{15}{Lastname}#=%=#
+Author{15}{Firstname}#=%=#
+Author{15}{Email}#=%=#
+Author{15}{Affiliation}#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Chris Biemann
+JobTitle#==#
+Organization#==#FG Language Technology, Dept. of Computer Science
+Technische Universit\"at Darmstadt 
+64289 Darmstadt, Germany
+Abstract#==#We present CoocViewer, a graphical analysis tool for the purpose of
+quantitative literary analysis, and demonstrate its use on a corpus of crime
+novels. The tool displays words, their significant co-occurrences, and contains
+a new visualization for significant concordances. Contexts of words and
+co-occurrences
+can be displayed. After reviewing previous research and current challenges in
+the newly emerging field of quantitative literary research, we demonstrate how
+CoocViewer allows comparative research on literary corpora in a
+project-specific study, and how we can confirm or enhance our hypotheses
+through quantitative literary analysis.
+==========

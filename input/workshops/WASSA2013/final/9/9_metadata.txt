@@ -1,0 +1,77 @@
+SubmissionNumber#=%=#9
+FinalPaperTitle#=%=#RA-SR: Using a ranking algorithm to automatically building resources for subjectivity analysis over annotated corpora
+ShortPaperTitle#=%=#RA-SR: Using a ranking algorithm to automatically building resources for subjectivity analysis over annotated corpora
+Author{1}{Lastname}#=%=#Gutiérrez
+Author{1}{Firstname}#=%=#Yoan
+Author{1}{Email}#=%=#yoan.gutierrez.v@gmail.com
+Author{1}{Affiliation}#=%=#University of Matanzas
+Author{2}{Lastname}#=%=#González
+Author{2}{Firstname}#=%=#Andy
+Author{2}{Email}#=%=#andy.gonzalez@infonet.umcc.cu
+Author{2}{Affiliation}#=%=#University of Matanzas
+Author{3}{Lastname}#=%=#Fernández
+Author{3}{Firstname}#=%=#Antonio
+Author{3}{Email}#=%=#antonybr@yahoo.com
+Author{3}{Affiliation}#=%=#University of Alicante
+Author{4}{Lastname}#=%=#Montoyo
+Author{4}{Firstname}#=%=#Andrés
+Author{4}{Email}#=%=#montoyo@dlsi.ua.es
+Author{4}{Affiliation}#=%=#University of Alicante
+Author{5}{Lastname}#=%=#Muñoz
+Author{5}{Firstname}#=%=#Rafael
+Author{5}{Email}#=%=#rafael@dlsi.ua.es
+Author{5}{Affiliation}#=%=#University of Alicante
+Author{6}{Lastname}#=%=#
+Author{6}{Firstname}#=%=#
+Author{6}{Email}#=%=#
+Author{6}{Affiliation}#=%=#
+Author{7}{Lastname}#=%=#
+Author{7}{Firstname}#=%=#
+Author{7}{Email}#=%=#
+Author{7}{Affiliation}#=%=#
+Author{8}{Lastname}#=%=#
+Author{8}{Firstname}#=%=#
+Author{8}{Email}#=%=#
+Author{8}{Affiliation}#=%=#
+Author{9}{Lastname}#=%=#
+Author{9}{Firstname}#=%=#
+Author{9}{Email}#=%=#
+Author{9}{Affiliation}#=%=#
+Author{10}{Lastname}#=%=#
+Author{10}{Firstname}#=%=#
+Author{10}{Email}#=%=#
+Author{10}{Affiliation}#=%=#
+Author{11}{Lastname}#=%=#
+Author{11}{Firstname}#=%=#
+Author{11}{Email}#=%=#
+Author{11}{Affiliation}#=%=#
+Author{12}{Lastname}#=%=#
+Author{12}{Firstname}#=%=#
+Author{12}{Email}#=%=#
+Author{12}{Affiliation}#=%=#
+Author{13}{Lastname}#=%=#
+Author{13}{Firstname}#=%=#
+Author{13}{Email}#=%=#
+Author{13}{Affiliation}#=%=#
+Author{14}{Lastname}#=%=#
+Author{14}{Firstname}#=%=#
+Author{14}{Email}#=%=#
+Author{14}{Affiliation}#=%=#
+Author{15}{Lastname}#=%=#
+Author{15}{Firstname}#=%=#
+Author{15}{Email}#=%=#
+Author{15}{Affiliation}#=%=#
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Yoan Gutierrez
+JobTitle#==#
+Organization#==#University of Matanzas
+Abstract#==#In this paper we propose a method that uses corpora where phrases are annotated
+as Positive, Negative, Objective and Neutral, to achieve new sentiment
+resources involving words dictionaries with their associated polarity. Our
+method was created to build sentiment words inventories based on senti-semantic
+evidences obtained after exploring text with annotated sentiment polarity
+information. Through this process a graph-based algorithm is used to obtain
+auto-balanced values that characterize sentiment polarities well used on
+Sentiment Analysis tasks. To assessment effectiveness of the obtained resource,
+sentiment classification was made, achieving objective instances over 80%.
+==========

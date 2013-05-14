@@ -1,0 +1,88 @@
+SubmissionNumber#=%=#14
+FinalPaperTitle#=%=#Annotating a Russian corpus of conceptual metaphor: a bottom-up approach
+ShortPaperTitle#=%=#Annotating a Russian corpus of conceptual metaphor: a bottom-up approach
+Author{1}{Lastname}#=%=#Badryzlova
+Author{1}{Firstname}#=%=#Yulia
+Author{1}{Email}#=%=#yuliya.badryzlova@gmail.com
+Author{1}{Affiliation}#=%=#Urals State Pedagogical University
+Author{2}{Lastname}#=%=#Shekhtman
+Author{2}{Firstname}#=%=#Natalia
+Author{2}{Email}#=%=#natalia.sh2@gmail.com
+Author{2}{Affiliation}#=%=#Urals State Pedagogical University
+Author{3}{Lastname}#=%=#Isaeva
+Author{3}{Firstname}#=%=#Yekaterina
+Author{3}{Email}#=%=#ekaterinaisae@gmail.com
+Author{3}{Affiliation}#=%=#Perm State National Research University
+Author{4}{Lastname}#=%=#Kerimov
+Author{4}{Firstname}#=%=#Ruslan
+Author{4}{Email}#=%=#kerimovrus@mail.ru
+Author{4}{Affiliation}#=%=#Kemerovo State University
+Author{5}{Lastname}#=%=#
+Author{5}{Firstname}#=%=#
+Author{5}{Email}#=%=#
+Author{5}{Affiliation}#=%=#
+Author{6}{Lastname}#=%=#
+Author{6}{Firstname}#=%=#
+Author{6}{Email}#=%=#
+Author{6}{Affiliation}#=%=#
+Author{7}{Lastname}#=%=#
+Author{7}{Firstname}#=%=#
+Author{7}{Email}#=%=#
+Author{7}{Affiliation}#=%=#
+Author{8}{Lastname}#=%=#
+Author{8}{Firstname}#=%=#
+Author{8}{Email}#=%=#
+Author{8}{Affiliation}#=%=#
+Author{9}{Lastname}#=%=#
+Author{9}{Firstname}#=%=#
+Author{9}{Email}#=%=#
+Author{9}{Affiliation}#=%=#
+Author{10}{Lastname}#=%=#
+Author{10}{Firstname}#=%=#
+Author{10}{Email}#=%=#
+Author{10}{Affiliation}#=%=#
+Author{11}{Lastname}#=%=#
+Author{11}{Firstname}#=%=#
+Author{11}{Email}#=%=#
+Author{11}{Affiliation}#=%=#
+Author{12}{Lastname}#=%=#
+Author{12}{Firstname}#=%=#
+Author{12}{Email}#=%=#
+Author{12}{Affiliation}#=%=#
+Author{13}{Lastname}#=%=#
+Author{13}{Firstname}#=%=#
+Author{13}{Email}#=%=#
+Author{13}{Affiliation}#=%=#
+Author{14}{Lastname}#=%=#
+Author{14}{Firstname}#=%=#
+Author{14}{Email}#=%=#
+Author{14}{Affiliation}#=%=#
+Author{15}{Lastname}#=%=#
+Author{15}{Firstname}#=%=#
+Author{15}{Email}#=%=#
+Author{15}{Affiliation}#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Yulia Badryzlova
+JobTitle#==#
+Organization#==#Urals State Pedagogical University
+Prospekt Kosmonavtov 26
+620034 Yekaterinburg, Russia
+Abstract#==#This work presents the tentative version of the protocol designed for
+annotation of a Russian metaphor corpus using the rapid annotation tool BRAT.
+The first part of the article is devoted to the procedure of "shallow"
+annotation in which metaphor-related words are identified according to a
+slightly modified version of the MIPVU procedure. The paper presents the
+results of two reliability tests and the measures of inter-annotator agreement
+obtained in them. Further on, the article gives a brief account of the
+linguistic problems that were encountered in adapting MIPVU to Russian. The
+rest of the first part describes the classes of metaphor-related words and the
+rules of their annotation with BRAT. The examples of annotation show how the
+visualization functionalities of BRAT allow the researcher to describe the
+multifaceted nature of metaphor related words and the complexity of their
+relations.
+The second part of the paper speaks about the annotation of conceptual
+metaphors (the "deep" annotation), where formulations of conceptual metaphors
+are inferred from the basic and contextual meanings of metaphor-related words
+from the "shallow" annotation, which is expected to make the metaphor
+formulation process more controllable.
+==========

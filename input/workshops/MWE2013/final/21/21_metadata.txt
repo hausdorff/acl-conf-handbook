@@ -1,0 +1,79 @@
+SubmissionNumber#=%=#21
+FinalPaperTitle#=%=#Improving Word Translation Disambiguation by Capturing Multiword Expressions with Dictionaries
+ShortPaperTitle#=%=#Improving Word Translation Disambiguation by Capturing Multiword Expressions with Dictionaries
+Author{1}{Lastname}#=%=#Bungum
+Author{1}{Firstname}#=%=#Lars
+Author{1}{Email}#=%=#larsbun@idi.ntnu.no
+Author{1}{Affiliation}#=%=#Norwegian University of Science and Technology
+Author{2}{Lastname}#=%=#Gambäck
+Author{2}{Firstname}#=%=#Björn
+Author{2}{Email}#=%=#gamback@idi.ntnu.no
+Author{2}{Affiliation}#=%=#Norwegian University of Science and Technology
+Author{3}{Lastname}#=%=#Lynum
+Author{3}{Firstname}#=%=#André
+Author{3}{Email}#=%=#andrely@idi.ntnu.no
+Author{3}{Affiliation}#=%=#Norwegian University of Science and Technology
+Author{4}{Lastname}#=%=#Marsi
+Author{4}{Firstname}#=%=#Erwin
+Author{4}{Email}#=%=#emarsi@idi.ntnu.no
+Author{4}{Affiliation}#=%=#Norwegian University of Science and Technology
+Author{5}{Lastname}#=%=#
+Author{5}{Firstname}#=%=#
+Author{5}{Email}#=%=#
+Author{5}{Affiliation}#=%=#
+Author{6}{Lastname}#=%=#
+Author{6}{Firstname}#=%=#
+Author{6}{Email}#=%=#
+Author{6}{Affiliation}#=%=#
+Author{7}{Lastname}#=%=#
+Author{7}{Firstname}#=%=#
+Author{7}{Email}#=%=#
+Author{7}{Affiliation}#=%=#
+Author{8}{Lastname}#=%=#
+Author{8}{Firstname}#=%=#
+Author{8}{Email}#=%=#
+Author{8}{Affiliation}#=%=#
+Author{9}{Lastname}#=%=#
+Author{9}{Firstname}#=%=#
+Author{9}{Email}#=%=#
+Author{9}{Affiliation}#=%=#
+Author{10}{Lastname}#=%=#
+Author{10}{Firstname}#=%=#
+Author{10}{Email}#=%=#
+Author{10}{Affiliation}#=%=#
+Author{11}{Lastname}#=%=#
+Author{11}{Firstname}#=%=#
+Author{11}{Email}#=%=#
+Author{11}{Affiliation}#=%=#
+Author{12}{Lastname}#=%=#
+Author{12}{Firstname}#=%=#
+Author{12}{Email}#=%=#
+Author{12}{Affiliation}#=%=#
+Author{13}{Lastname}#=%=#
+Author{13}{Firstname}#=%=#
+Author{13}{Email}#=%=#
+Author{13}{Affiliation}#=%=#
+Author{14}{Lastname}#=%=#
+Author{14}{Firstname}#=%=#
+Author{14}{Email}#=%=#
+Author{14}{Affiliation}#=%=#
+Author{15}{Lastname}#=%=#
+Author{15}{Firstname}#=%=#
+Author{15}{Email}#=%=#
+Author{15}{Affiliation}#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Björn Gambäck
+JobTitle#==#Professor
+Organization#==#Norwegian University of Science and Technology, Trondheim, Norway
+Abstract#==#The paper describes a method for identifying and translating multiword
+expressions using a bi-directional dictionary. While a dictionary-based
+approach suffers from limited recall, precision is high; hence it is best
+employed alongside an approach with complementing properties, such as an n-gram
+language model.
+
+We evaluate the method on data from the English-German translation part of the
+cross-lingual word sense disambiguation task in the 2010 semantic evaluation
+exercise (SemEval). The output of a baseline disambiguation system based on
+n-grams was substantially improved by matching the target words and their
+immediate contexts against compound and collocational words in a dictionary.
+==========

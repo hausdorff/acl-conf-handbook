@@ -1,0 +1,81 @@
+SubmissionNumber#=%=#268
+FinalPaperTitle#=%=#Model With Minimal Translation Units, But Decode With Phrases
+ShortPaperTitle#=%=#Model With Minimal Translation Units, But Decode With Phrases
+Author{1}{Lastname}#=%=#Durrani
+Author{1}{Firstname}#=%=#Nadir
+Author{1}{Email}#=%=#durrani@ims.uni-stuttgart.de
+Author{1}{Affiliation}#=%=#University of Edinburgh
+Author{2}{Lastname}#=%=#Fraser
+Author{2}{Firstname}#=%=#Alexander
+Author{2}{Email}#=%=#fraser@ims.uni-stuttgart.de
+Author{2}{Affiliation}#=%=#University of Stuttgart
+Author{3}{Lastname}#=%=#Schmid
+Author{3}{Firstname}#=%=#Helmut
+Author{3}{Email}#=%=#schmid@ims.uni-stuttgart.de
+Author{3}{Affiliation}#=%=#University of Stuttgart
+Author{4}{Lastname}#=%=#
+Author{4}{Firstname}#=%=#
+Author{4}{Email}#=%=#
+Author{4}{Affiliation}#=%=#
+Author{5}{Lastname}#=%=#
+Author{5}{Firstname}#=%=#
+Author{5}{Email}#=%=#
+Author{5}{Affiliation}#=%=#
+Author{6}{Lastname}#=%=#
+Author{6}{Firstname}#=%=#
+Author{6}{Email}#=%=#
+Author{6}{Affiliation}#=%=#
+Author{7}{Lastname}#=%=#
+Author{7}{Firstname}#=%=#
+Author{7}{Email}#=%=#
+Author{7}{Affiliation}#=%=#
+Author{8}{Lastname}#=%=#
+Author{8}{Firstname}#=%=#
+Author{8}{Email}#=%=#
+Author{8}{Affiliation}#=%=#
+Author{9}{Lastname}#=%=#
+Author{9}{Firstname}#=%=#
+Author{9}{Email}#=%=#
+Author{9}{Affiliation}#=%=#
+Author{10}{Lastname}#=%=#
+Author{10}{Firstname}#=%=#
+Author{10}{Email}#=%=#
+Author{10}{Affiliation}#=%=#
+Author{11}{Lastname}#=%=#
+Author{11}{Firstname}#=%=#
+Author{11}{Email}#=%=#
+Author{11}{Affiliation}#=%=#
+Author{12}{Lastname}#=%=#
+Author{12}{Firstname}#=%=#
+Author{12}{Email}#=%=#
+Author{12}{Affiliation}#=%=#
+Author{13}{Lastname}#=%=#
+Author{13}{Firstname}#=%=#
+Author{13}{Email}#=%=#
+Author{13}{Affiliation}#=%=#
+Author{14}{Lastname}#=%=#
+Author{14}{Firstname}#=%=#
+Author{14}{Email}#=%=#
+Author{14}{Affiliation}#=%=#
+Author{15}{Lastname}#=%=#
+Author{15}{Firstname}#=%=#
+Author{15}{Email}#=%=#
+Author{15}{Affiliation}#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Nadir
+JobTitle#==#
+Organization#==#
+Abstract#==#N-gram-based models co-exist with their phrase-based counterparts as an
+alternative SMT framework. Both techniques have pros and cons. While the
+N-gram-based framework provides a better model that captures both source and
+target contexts and avoids spurious phrasal segmentation, the ability to
+memorize and produce larger translation units gives an edge to the phrase-based
+systems during decoding, in terms of better search performance and superior
+selection of translation units. In this paper we combine N-gram-based modeling
+with phrase-based decoding, and obtain the benefits of both approaches. Our
+experiments show that using this combination not only improves the search
+accuracy of the N-gram model but that it also improves the BLEU scores. Our
+system outperforms state-of-the-art phrase-based systems (Moses and Phrasal)
+and N-gram-based systems by a significant margin on German, French and Spanish
+to English translation tasks.
+==========

@@ -1,0 +1,94 @@
+SubmissionNumber#=%=#429
+FinalPaperTitle#=%=#Discriminative Joint Modeling of Lexical Variation and Acoustic Confusion for Automated Narrative Retelling Assessment
+ShortPaperTitle#=%=#Discriminative Joint Modeling of Lexical Variation and Acoustic Confusion for Automated Narrative Retelling Assessment
+Author{1}{Lastname}#=%=#Lehr
+Author{1}{Firstname}#=%=#Maider
+Author{1}{Email}#=%=#maiderlehr@gmail.com
+Author{1}{Affiliation}#=%=#Oregon Health & Science University
+Author{2}{Lastname}#=%=#Shafran
+Author{2}{Firstname}#=%=#Izhak
+Author{2}{Email}#=%=#zakshafran@gmail.com
+Author{2}{Affiliation}#=%=#Oregon Health
+Author{3}{Lastname}#=%=#Prud'hommeaux
+Author{3}{Firstname}#=%=#Emily
+Author{3}{Email}#=%=#emilypx@gmail.com
+Author{3}{Affiliation}#=%=#Oregon Health
+Author{4}{Lastname}#=%=#Roark
+Author{4}{Firstname}#=%=#Brian
+Author{4}{Email}#=%=#roarkbr@gmail.com
+Author{4}{Affiliation}#=%=#Oregon Health
+Author{5}{Lastname}#=%=#
+Author{5}{Firstname}#=%=#
+Author{5}{Email}#=%=#
+Author{5}{Affiliation}#=%=#
+Author{6}{Lastname}#=%=#
+Author{6}{Firstname}#=%=#
+Author{6}{Email}#=%=#
+Author{6}{Affiliation}#=%=#
+Author{7}{Lastname}#=%=#
+Author{7}{Firstname}#=%=#
+Author{7}{Email}#=%=#
+Author{7}{Affiliation}#=%=#
+Author{8}{Lastname}#=%=#
+Author{8}{Firstname}#=%=#
+Author{8}{Email}#=%=#
+Author{8}{Affiliation}#=%=#
+Author{9}{Lastname}#=%=#
+Author{9}{Firstname}#=%=#
+Author{9}{Email}#=%=#
+Author{9}{Affiliation}#=%=#
+Author{10}{Lastname}#=%=#
+Author{10}{Firstname}#=%=#
+Author{10}{Email}#=%=#
+Author{10}{Affiliation}#=%=#
+Author{11}{Lastname}#=%=#
+Author{11}{Firstname}#=%=#
+Author{11}{Email}#=%=#
+Author{11}{Affiliation}#=%=#
+Author{12}{Lastname}#=%=#
+Author{12}{Firstname}#=%=#
+Author{12}{Email}#=%=#
+Author{12}{Affiliation}#=%=#
+Author{13}{Lastname}#=%=#
+Author{13}{Firstname}#=%=#
+Author{13}{Email}#=%=#
+Author{13}{Affiliation}#=%=#
+Author{14}{Lastname}#=%=#
+Author{14}{Firstname}#=%=#
+Author{14}{Email}#=%=#
+Author{14}{Affiliation}#=%=#
+Author{15}{Lastname}#=%=#
+Author{15}{Firstname}#=%=#
+Author{15}{Email}#=%=#
+Author{15}{Affiliation}#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#MAIDER LEHR
+JobTitle#==#
+Organization#==#Center for Spoken Language Understanding/ Oregon Health and Science University
+2000 NW Walker Road, Beaverton, OR, 97006
+Abstract#==#Automatically assessing the fidelity of a retelling to the original
+  narrative -- a task of growing clinical importance -- is
+  challenging, given extensive paraphrasing during retelling along with
+cascading
+  automatic speech recognition (ASR) errors.  We present a word tagging
+  approach using conditional random fields (CRFs) that allows a
+  diversity of features to be considered during inference, including some
+capturing
+  acoustic confusions encoded in word confusion networks.  We evaluate the
+  approach under several scenarios, including both supervised and
+  unsupervised training, the latter achieved by training on the output
+  of a baseline automatic word-alignment model.  We also adapt the ASR
+  models to the domain, and evaluate the impact of error rate on
+  performance.                                                                       
+  We
+find
+strong
+robustness
+to ASR
+errors, even
+using
+  just the 1-best system output.  A hybrid approach making use of both
+  automatic alignment and CRFs trained tagging models achieves the best
+  performance, yielding strong improvements over using either approach
+  alone.
+==========

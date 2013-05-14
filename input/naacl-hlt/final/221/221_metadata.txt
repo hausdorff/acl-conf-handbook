@@ -1,0 +1,77 @@
+SubmissionNumber#=%=#221
+FinalPaperTitle#=%=#Systematic Comparison of Professional and Crowdsourced Reference Translations for Machine Translation
+ShortPaperTitle#=%=#Systematic Comparison of Professional and Crowdsourced Reference Translations for Machine Translation
+Author{1}{Lastname}#=%=#Zbib
+Author{1}{Firstname}#=%=#Rabih
+Author{1}{Email}#=%=#rzbib@bbn.com
+Author{1}{Affiliation}#=%=#Raytheon BBN Technologies
+Author{2}{Lastname}#=%=#Markiewicz
+Author{2}{Firstname}#=%=#Gretchen
+Author{2}{Email}#=%=#gmarkiew@bbn.com
+Author{2}{Affiliation}#=%=#BBN Technologies
+Author{3}{Lastname}#=%=#Matsoukas
+Author{3}{Firstname}#=%=#Spyros
+Author{3}{Email}#=%=#smatsouk@bbn.com
+Author{3}{Affiliation}#=%=#BBN Technologies
+Author{4}{Lastname}#=%=#
+Author{4}{Firstname}#=%=#
+Author{4}{Email}#=%=#
+Author{4}{Affiliation}#=%=#
+Author{5}{Lastname}#=%=#Schwartz
+Author{5}{Firstname}#=%=#Richard
+Author{5}{Email}#=%=#schwartz@bbn.com
+Author{5}{Affiliation}#=%=#BBN Technologies
+Author{6}{Lastname}#=%=#Makhoul
+Author{6}{Firstname}#=%=#John
+Author{6}{Email}#=%=#makhoul@bbn.com
+Author{6}{Affiliation}#=%=#BBN Technologies
+Author{7}{Lastname}#=%=#
+Author{7}{Firstname}#=%=#
+Author{7}{Email}#=%=#
+Author{7}{Affiliation}#=%=#
+Author{8}{Lastname}#=%=#
+Author{8}{Firstname}#=%=#
+Author{8}{Email}#=%=#
+Author{8}{Affiliation}#=%=#
+Author{9}{Lastname}#=%=#
+Author{9}{Firstname}#=%=#
+Author{9}{Email}#=%=#
+Author{9}{Affiliation}#=%=#
+Author{10}{Lastname}#=%=#
+Author{10}{Firstname}#=%=#
+Author{10}{Email}#=%=#
+Author{10}{Affiliation}#=%=#
+Author{11}{Lastname}#=%=#
+Author{11}{Firstname}#=%=#
+Author{11}{Email}#=%=#
+Author{11}{Affiliation}#=%=#
+Author{12}{Lastname}#=%=#
+Author{12}{Firstname}#=%=#
+Author{12}{Email}#=%=#
+Author{12}{Affiliation}#=%=#
+Author{13}{Lastname}#=%=#
+Author{13}{Firstname}#=%=#
+Author{13}{Email}#=%=#
+Author{13}{Affiliation}#=%=#
+Author{14}{Lastname}#=%=#
+Author{14}{Firstname}#=%=#
+Author{14}{Email}#=%=#
+Author{14}{Affiliation}#=%=#
+Author{15}{Lastname}#=%=#
+Author{15}{Firstname}#=%=#
+Author{15}{Email}#=%=#
+Author{15}{Affiliation}#=%=#
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Rabih Zbib
+JobTitle#==#Scientist
+Organization#==#Raytheon BBN Technologies
+10 Moulton St
+Cambridge, MA 02138
+Abstract#==#We present a systematic study of the effect of crowdsourced translations on
+Machine Translation performance. We compare Machine Translation systems trained
+on the same data but with translations obtained using Amazon’s Mechanical
+Turk vs. professional translations, and show that the same performance is
+obtained from Mechanical Turk translations at 1/5th the cost. We also show that
+adding a Mechanical Turk reference translation of the de- velopment set
+improves parameter tuning and output evaluation.
+==========

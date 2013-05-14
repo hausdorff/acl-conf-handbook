@@ -1,0 +1,76 @@
+SubmissionNumber#=%=#5
+FinalPaperTitle#=%=#Robust Extraction of Metaphor from Novel Data
+ShortPaperTitle#=%=#Robust Extraction of Metaphor from Novel Data
+Author{1}{Lastname}#=%=#Strzalkowski
+Author{1}{Firstname}#=%=#Tomek
+Author{1}{Email}#=%=#tomek@albany.edu
+Author{1}{Affiliation}#=%=#State University of New York - University at Albany
+Author{2}{Lastname}#=%=#Broadwell
+Author{2}{Firstname}#=%=#George Aaron
+Author{2}{Email}#=%=#gbroadwell@albany.edu
+Author{2}{Affiliation}#=%=#State University of New York - University at Albany
+Author{3}{Lastname}#=%=#Taylor
+Author{3}{Firstname}#=%=#Sarah
+Author{3}{Email}#=%=#talymail59@gmail.com
+Author{3}{Affiliation}#=%=#State University of New York - University at Albany
+Author{4}{Lastname}#=%=#Feldman
+Author{4}{Firstname}#=%=#Laurie
+Author{4}{Email}#=%=#laurie.b.feldman@gmail.com
+Author{4}{Affiliation}#=%=#State University of New York - University at Albany
+Author{5}{Lastname}#=%=#Shaikh
+Author{5}{Firstname}#=%=#Samira
+Author{5}{Email}#=%=#samirashaikh@gmail.com
+Author{5}{Affiliation}#=%=#SUNY - University at Albany
+Author{6}{Lastname}#=%=#Liu
+Author{6}{Firstname}#=%=#Ting
+Author{6}{Email}#=%=#ting.tim.liu@gmail.com
+Author{6}{Affiliation}#=%=#State University of New York - University at Albany
+Author{7}{Lastname}#=%=#Yamrom
+Author{7}{Firstname}#=%=#Boris
+Author{7}{Email}#=%=#yamrom@optonline.net
+Author{7}{Affiliation}#=%=#State University of New York - University at Albany
+Author{8}{Lastname}#=%=#Cho
+Author{8}{Firstname}#=%=#Kit
+Author{8}{Email}#=%=#kitwcho@gmail.com
+Author{8}{Affiliation}#=%=#State University of New York - University at Albany
+Author{9}{Lastname}#=%=#Boz
+Author{9}{Firstname}#=%=#Umit
+Author{9}{Email}#=%=#umitboz@yahoo.com
+Author{9}{Affiliation}#=%=#State University of New York - University at Albany
+Author{10}{Lastname}#=%=#Cases
+Author{10}{Firstname}#=%=#Ignacio
+Author{10}{Email}#=%=#ignacio.cases@gmail.com
+Author{10}{Affiliation}#=%=#State University of New York - University at Albany
+Author{11}{Lastname}#=%=#Elliot
+Author{11}{Firstname}#=%=#Kyle
+Author{11}{Email}#=%=#kelliott@plessas.net
+Author{11}{Affiliation}#=%=#Plessas Experts Network, Inc.
+Author{12}{Lastname}#=%=#
+Author{12}{Firstname}#=%=#
+Author{12}{Email}#=%=#
+Author{12}{Affiliation}#=%=#
+Author{13}{Lastname}#=%=#
+Author{13}{Firstname}#=%=#
+Author{13}{Email}#=%=#
+Author{13}{Affiliation}#=%=#
+Author{14}{Lastname}#=%=#
+Author{14}{Firstname}#=%=#
+Author{14}{Email}#=%=#
+Author{14}{Affiliation}#=%=#
+Author{15}{Lastname}#=%=#
+Author{15}{Firstname}#=%=#
+Author{15}{Email}#=%=#
+Author{15}{Affiliation}#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Samira Shaikh
+JobTitle#==#
+Organization#==#State University of New York - University at Albany
+Abstract#==#This article describes our novel approach to the automated detection and
+analysis of meta-phors in text. We employ robust, quantitative language
+processing to implement a system prototype combined with sound social science
+methods for validation. We show results in 4 different languages and discuss
+how our methods are a significant step forward from previously established
+techniques of metaphor identification. We use Topical Structure and Tracking,
+an Imageability score, and innova-tive methods to build an effective metaphor
+identification system that is fully automated and performs well over baseline.
+==========

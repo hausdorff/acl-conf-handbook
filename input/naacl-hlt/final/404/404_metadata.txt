@@ -1,0 +1,79 @@
+SubmissionNumber#=%=#404
+FinalPaperTitle#=%=#Distributional semantic models for the evaluation of disordered language
+ShortPaperTitle#=%=#Distributional semantic models for the evaluation of disordered language
+Author{1}{Lastname}#=%=#Rouhizadeh
+Author{1}{Firstname}#=%=#Masoud
+Author{1}{Email}#=%=#rouhizad@ohsu.edu
+Author{1}{Affiliation}#=%=#Oregon Health and Science University
+Author{2}{Lastname}#=%=#Prud'hommeaux
+Author{2}{Firstname}#=%=#Emily
+Author{2}{Email}#=%=#emilypx@gmail.com
+Author{2}{Affiliation}#=%=#Oregon Health and Science University
+Author{3}{Lastname}#=%=#Roark
+Author{3}{Firstname}#=%=#Brian
+Author{3}{Email}#=%=#roarkbr@gmail.com
+Author{3}{Affiliation}#=%=#Oregon Health and Science University
+Author{4}{Lastname}#=%=#van Santen
+Author{4}{Firstname}#=%=#Jan
+Author{4}{Email}#=%=#vansantj@ohsu.edu
+Author{4}{Affiliation}#=%=#Oregon Health and Science University
+Author{5}{Lastname}#=%=#
+Author{5}{Firstname}#=%=#
+Author{5}{Email}#=%=#
+Author{5}{Affiliation}#=%=#
+Author{6}{Lastname}#=%=#
+Author{6}{Firstname}#=%=#
+Author{6}{Email}#=%=#
+Author{6}{Affiliation}#=%=#
+Author{7}{Lastname}#=%=#
+Author{7}{Firstname}#=%=#
+Author{7}{Email}#=%=#
+Author{7}{Affiliation}#=%=#
+Author{8}{Lastname}#=%=#
+Author{8}{Firstname}#=%=#
+Author{8}{Email}#=%=#
+Author{8}{Affiliation}#=%=#
+Author{9}{Lastname}#=%=#
+Author{9}{Firstname}#=%=#
+Author{9}{Email}#=%=#
+Author{9}{Affiliation}#=%=#
+Author{10}{Lastname}#=%=#
+Author{10}{Firstname}#=%=#
+Author{10}{Email}#=%=#
+Author{10}{Affiliation}#=%=#
+Author{11}{Lastname}#=%=#
+Author{11}{Firstname}#=%=#
+Author{11}{Email}#=%=#
+Author{11}{Affiliation}#=%=#
+Author{12}{Lastname}#=%=#
+Author{12}{Firstname}#=%=#
+Author{12}{Email}#=%=#
+Author{12}{Affiliation}#=%=#
+Author{13}{Lastname}#=%=#
+Author{13}{Firstname}#=%=#
+Author{13}{Email}#=%=#
+Author{13}{Affiliation}#=%=#
+Author{14}{Lastname}#=%=#
+Author{14}{Firstname}#=%=#
+Author{14}{Email}#=%=#
+Author{14}{Affiliation}#=%=#
+Author{15}{Lastname}#=%=#
+Author{15}{Firstname}#=%=#
+Author{15}{Email}#=%=#
+Author{15}{Affiliation}#=%=#
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Emily Prud'hommeaux
+JobTitle#==#
+Organization#==#Oregon Health and Science University
+20000 NW Walker Rd., Beaverton OR 97006
+Abstract#==#Atypical semantic and pragmatic expression is frequently reported in the
+language of children with autism. Although this atypicality often manifests
+itself in the use of unusual or unexpected words and phrases, the rate of use
+of such unexpected words is rarely directly measured or quantified. In this
+paper, we use distributional semantic models to  automatically identify
+unexpected words in narrative retellings by children with autism.  The
+classification of unexpected words is sufficiently accurate to distinguish the
+retellings of children with autism from those with typical development. These
+techniques  demonstrate the potential of applying automated language analysis
+techniques to clinically elicited language data for diagnostic purposes.
+==========
