@@ -14,7 +14,7 @@
 | Section                                                                                   | Description                                         |
 | :---------------------------------------------------------------------------------------- | :-------------------------------------------------- |
 | [Directory Structure](https://github.com/hausdorff/acl-conf-handbook#directory-structure) | *What does each of these files in this project do?* |
-| [How to build](https://github.com/hausdorff/acl-conf-handbook#directory-structure)        | *How do I build an ACL-like handbook?*              |
+| [How to build](https://github.com/hausdorff/acl-conf-handbook#how-to-build)               | *How do I build an ACL-like handbook?*              |
 
 # Directory structure
 *What does each of these files in this project do?*
@@ -116,6 +116,8 @@ Used to control various build processes
 You are here. Your friendly neighborhood readme file.
 
 
+
+# How to build
 
 
 
