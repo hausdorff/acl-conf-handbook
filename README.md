@@ -17,7 +17,7 @@
 | [How to build](https://github.com/hausdorff/acl-conf-handbook#directory-structure)        | *How do I build an ACL-like handbook?*              |
 
 # Directory structure
-*What do each of the files in this project do?*
+*What does each of these files in this project do?*
 
 The critical moving parts you will need to generate an ACL-style conference handbook are structured in a directory tree that is designed to approximately make sense. Here we'll show the tree structure, and explain each file inside it.
 
