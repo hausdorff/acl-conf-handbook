@@ -11,10 +11,10 @@
 
 # Table of contents
 
-| Section                                                                                   |
-| :---------------------------------------------------------------------------------------- |
-| [Directory Structure](https://github.com/hausdorff/acl-conf-handbook#directory-structure) |
-| [How to build](https://github.com/hausdorff/acl-conf-handbook#directory-structure)        |
+| Section                                                                                   | Description                                         |
+| :---------------------------------------------------------------------------------------- | :-------------------------------------------------- |
+| [Directory Structure](https://github.com/hausdorff/acl-conf-handbook#directory-structure) | *What does each of these files in this project do?* |
+| [How to build](https://github.com/hausdorff/acl-conf-handbook#directory-structure)        | *How do I build an ACL-like handbook?*              |
 
 # Directory structure
 *What do each of the files in this project do?*
