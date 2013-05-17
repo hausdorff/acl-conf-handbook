@@ -3,35 +3,35 @@
 + 9:00--10:10  Invited talk by Gina Kuperberg -- Predicting Meaning: What the Brain tells us about the Architecture of Language Comprehension
 + 10:10--10:40 Break
 = M1a: Machine Translation
-276 10:40-11:05 # Improved Reordering for PBSMT using Sparse Features
-268 11:05-11:30 # Model With Minimal Translation Units, But Decode With Phrases
-319 11:30-11:55 # Beyond Left-to-Right: Multiple Decomposition Structures for SMT
+268 10:40-11:05 # Model With Minimal Translation Units, But Decode With Phrases
+319 11:05-11:30 # Beyond Left-to-Right: Multiple Decomposition Structures for SMT
+276 11:30-11:55 # Improved Reordering for PBSMT using Sparse Features
 419 11:55-12:20 # Simultaneous Word-Morpheme Alignment for Statistical Machine Translation
 = M1b: Information Extraction
-174 10:40-11:05 # Minimally Supervised Method for Multilingual Paraphrase Extraction
-125 11:05-11:30 # Relation Extraction with Matrix Factorization and Universal Schemas
-441 11:30-11:55 # Multi-faceted Event Recognition with Bootstrapped Dictionaries
-282 11:55-12:20 # Named Entity Recognition with Bilingual Constraints
+441 10:40-11:05 # Multi-faceted Event Recognition with Bootstrapped Dictionaries
+282 11:05-11:30 # Named Entity Recognition with Bilingual Constraints
+174 11:30-11:55 # Minimally Supervised Method for Multilingual Paraphrase Extraction
+125 11:55-12:20 # Relation Extraction with Matrix Factorization and Universal Schemas
 = M1c: Cognitive and Psycholinguistics
 377 10:40-11:05 # Extracting the Native Language Signal for Second Language Acquisition
-370 11:05-11:30 # Combining multiple information types in Bayesian word segmentation
-474 11:30-11:55 # An Analysis of Frequency- and Memory-Based Processing Costs
-82 11:55-12:20 # Cross-Lingual Semantic Similarity of Words as the Similarity of Their Semantic Word Responses
+474 11:05-11:30 # An Analysis of Frequency- and Memory-Based Processing Costs
+82 11:30-11:55 # Cross-Lingual Semantic Similarity of Words as the Similarity of Their Semantic Word Responses
+370 11:55-12:20 # Combining multiple information types in Bayesian word segmentation
 + 12:20--2:00 Lunch
 = M2a: Parsing and Syntax
-#TACL-1 2:00-2:25 # Finding Optimal 1-Endpoint-Crossing Trees
-233 2:25-2:50 # Training Parsers on Incompatible Treebanks
-2 2:50-3:15 # Learning a Part-of-Speech Tagger from Two Hours of Annotation
-239 3:15-3:40 # Experiments with Spectral Learning of Latent-Variable PCFGs
+233 2:00-2:25 # Training Parsers on Incompatible Treebanks
+2 2:25-2:50 # Learning a Part-of-Speech Tagger from Two Hours of Annotation
+239 2:50-3:15 # Experiments with Spectral Learning of Latent-Variable PCFGs
+#TACL-1 3:15-3:40 # [TACL] Finding Optimal 1-Endpoint-Crossing Trees
 = M2b: Topic Modeling and Text Mining
 266 2:00-2:25 # Representing Topics Using Images
-155 2:25-2:50 # Topic Segmentation with a Structured Topic Model
+317 2:25-2:50 # Summarizing Drug Experiences with Multi-Dimensional Topic Models
 308 2:50-3:15 # Towards Topic Labeling with Phrase Entailment and Aggregation
-317 3:15-3:40 # Summarizing Drug Experiences with Multi-Dimensional Topic Models
+155 3:15-3:40 # Topic Segmentation with a Structured Topic Model
 = M2c: Spoken Language Processing
-429 2:00-2:25 # Discriminative Joint Modeling of Lexical Variation and Acoustic Confusion for Automated Narrative Retelling Assessment
-438 2:25-2:50 # Using Out-of-Domain Data for Lexical Addressee Detection in Human-Human-Computer Dialog
-363 2:50-3:15 # Text Alignment for Real-Time Crowd Captioning
+363 2:00-2:25 # Text Alignment for Real-Time Crowd Captioning
+429 2:25-2:50 # Discriminative Joint Modeling of Lexical Variation and Acoustic Confusion for Automated Narrative Retelling Assessment
+438 2:50-3:15 # Using Out-of-Domain Data for Lexical Addressee Detection in Human-Human-Computer Dialog
 361 3:15-3:40 # Segmentation Strategies for Streaming Speech Translation
 + 3:40--4:10 Break
 + 4:10--6:00 Poster madness!
@@ -45,6 +45,7 @@
 206 # Development of a Persian Syntactic Dependency Treebank
 89 # Improving reordering performance using higher order and structural features
 420 # Massively Parallel Suffix Array Queries and On-Demand Phrase Extraction for Statistical Machine Translation Using GPUs
+#TACL-2 # [TACL] Branch and Bound Algorithm for Dependency Parsing with Non-local Features
 289 # Discriminative Training of 150 Million Translation Parameters and Its Application to Pruning
 184 # Applying Pairwise Ranked Optimisation to Improve the Interpolation of Translation Models
 293 # Dialectal Arabic to English Machine Translation: Pivoting through Modern Standard Arabic
@@ -83,11 +84,12 @@
 221 # Systematic Comparison of Professional and Crowdsourced Reference Translations for Machine Translation
 72 # Down-stream effects of tree-to-dependency conversions
 + 6:00--6:30 Break
-+ 6:30--8:30 Poster session
-
++ 6:30--8:30 Poster and Demonstrations Session
 * Tuesday, June 11, 2013
 + 9:15--9:25 Best paper awards
+= Best Short Paper
 27 9:25--9:45 # Best Short Paper: The Life and Death of Discourse Entities: Identifying Singleton Mentions
+= IBM Best Student Paper
 332 9:45--10:15 # Best Student Paper: Automatic Generation of English Respellings
 + 10:15--10:45 Break
 = T1a: Machine Translation and Multilinguality
@@ -96,7 +98,7 @@
 444 11:15-11:30 # Translation Acquisition Using Synonym Sets
 392 11:30-11:45 # Supersense Tagging for Arabic: the MT-in-the-Middle Attack
 71 11:45-12:00 # Zipfian corruptions for robust POS tagging
-= T1b: Sentiment Analyais and Topic Modeling
+= T1b: Sentiment Analysis and Topic Modeling
 16 10:45-11:00 # A Multi-Dimensional Bayesian Approach to Lexical Style
 106 11:00-11:15 # Unsupervised Domain Tuning to Improve Word Sense Disambiguation
 400 11:15-11:30 # Multi-Domain Learning for Multi-Attribute Data
@@ -108,7 +110,7 @@
 455 11:15-11:30 # Atypical Prosodic Structure as an Indicator of Reading Level and Text Difficulty
 442 11:30-11:45 # Using Document Summarization Techniques for Speech Data Subset Selection
 353 11:45-12:00 # Semi-Supervised Discriminative Language Modeling with Out-of-Domain Text Data
-+ 12:00--2:00 Lunch and Business Meeting (1--2)
++ 12:00--2:00 Lunch (and Business Meeting 1-2)
 = T2a: Semantics
 1 2:00-2:15 # Study of Human Cognition in Sense Annotation
 119 2:15-2:30 # Improving Lexical Semantics for Sentential Semantics
@@ -129,62 +131,62 @@
 160 3:00-3:15 # Disfluency Detection Using Multi-step Stacked Learning
 + 3:15--3:45 Break
 = T3a: Semantics
-468 3:45-4:10 # Probabilistic Frame Induction
+#TACL-3 3:45-4:10 # [TACL] Weakly Supervised Learning of Semantic Parsers for Mapping Instructions to Actions
 307 4:10-4:35 # Using Semantic Unification to Generate Regular Expressions from Natural Language
-#TACL-3 4:35-5:00 # Weakly Supervised Learning of Semantic Parsers for Mapping Instructions to Actions
+468 4:35-5:00 # Probabilistic Frame Induction
+337 5:00--5:25 # A Quantum-Theoretic Approach to Distributional Semantics
 = T3b: Information Extraction
-107 3:45-4:10 # A Just-In-Time Keyword Extraction from Meeting Transcripts
+367 3:45-4:10 # Answer Extraction as Sequence Tagging with Tree Edit Distance
 118 4:10-4:35 # Open Information Extraction with Tree Kernels
-367 4:35-5:00 # Answer Extraction as Sequence Tagging with Tree Edit Distance
-369 5:00-5:25 # Finding What Matters in Questions
+369 4:35-5:00 # Finding What Matters in Questions
+107 5:00-5:25 # A Just-In-Time Keyword Extraction from Meeting Transcripts
 = T3c: Discourse
-460 3:45-4:10 # Classifying Temporal Relations with Rich Linguistic Knowledge
+17 3:45-4:10 # Same Referent, Different Words: Unsupervised Mining of Opaque Coreferent Mentions
 331 4:10-4:35 # Global Inference for Bridging Anaphora Resolution
-17 4:35-5:00 # Same Referent, Different Words: Unsupervised Mining of Opaque Coreferent Mentions
+460 4:35-5:00 # Classifying Temporal Relations with Rich Linguistic Knowledge
 65 5:00-5:25 # Improved Information Structure Analysis of Scientific Documents Through Discourse and Lexical Constraints
 + 7:00--9:30 Banquet
-
 * Wednesday, June 12, 2013
 + 9:00--10:10  Invited talk by Kathleen McKeown -- Natural Language Applications from Fact to Fiction
 + 10:10--10:40 Break
 = W1a: Machine Translation
-272 10:40-11:05 # Grouping Language Model Boundary Words to Speed K–Best Extraction from Hypergraphs
-396 11:05-11:30 # Adaptation of Reordering Models for SMT
-463 11:30-11:55 # Multi-Metric Optimization Using Ensemble Tuning
+396 10:40-11:05 # Adaptation of Reordering Models for SMT
+463 11:05-11:30 # Multi-Metric Optimization Using Ensemble Tuning
+272 11:30-11:55 # Grouping Language Model Boundary Words to Speed K–Best Extraction from Hypergraphs
 62 11:55-12:20 # A Systematic Bayesian Treatment of the IBM Alignment Models
 = W1b: Semantics
-305 10:40-11:05 # Combining Heterogeneous Models for Measuring Relational Similarity
-168 11:05-11:30 # Unsupervised Metaphor Identification Using Hierarchical Graph Factorization Clustering
-49 11:30-11:55 # Three Knowledge-Free Methods for Automatic Lexical Chain Extraction
-#TACL-6 11:55-12:20 # Modeling Semantic Relations Expressed by Prepositions
+168 10:40-11:05 # Unsupervised Metaphor Identification Using Hierarchical Graph Factorization Clustering
+49 11:05-11:30 # Three Knowledge-Free Methods for Automatic Lexical Chain Extraction
+305 11:30-11:55 # Combining Heterogeneous Models for Measuring Relational Similarity
+#TACL-6 11:55-12:20 # [TACL] Modeling Semantic Relations Expressed by Prepositions
 = W1c: Social Media Processing
-409 10:40-11:05 # To Link or Not to Link? A Study on End-to-End Tweet Entity Linking
-378 11:05-11:30 # Broadly Improving User Classification via Clustering on Twitter
-76 11:30-11:55 # Identifying Intention Posts in Discussion Forums
-312 11:55-12:20 # A Viewpoint Discovery Model
+378 10:40-11:05 # Broadly Improving User Classification via Clustering on Twitter
+409 11:05-11:30 # To Link or Not to Link? A Study on End-to-End Tweet Entity Linking
+312 11:30-11:55 # A Viewpoint Discovery Model
+76 11:55-12:20 # Identifying Intention Posts in Discussion Forums
 + 12:20--2:00 Lunch
 = W2a: Parsing and Syntax
-117 2:00-2:25 # Dependency-based empty category detection via phrase structure trees
-7 2:25-2:50 # Target Language Adaptation of Discriminative Transfer Parsers
-#TACL-4 2:50-3:15 # Unsupervised Dependency Parsing with Acoustic Cues
+#TACL-4 2:00-2:25 # [TACL] Unsupervised Dependency Parsing with Acoustic Cues
+117 2:25-2:50 # Dependency-based empty category detection via phrase structure trees
+7 2:50-3:15 # Target Language Adaptation of Discriminative Transfer Parsers
 = W2b: Dialog
-401 2:00-2:25 # A method for the approximation of incremental understanding of explicit utterance meaning using predictive models in finite domains
-328 2:25-2:50 # Emergence of Gricean Maxims from Multi-Agent Decision Theory
-360 2:50-3:15 # Open Dialogue Management for Relational Databases
+328 2:00-2:25 # Emergence of Gricean Maxims from Multi-Agent Decision Theory
+360 2:25-2:50 # Open Dialogue Management for Relational Databases
+401 2:50-3:15 # A method for the approximation of incremental understanding of explicit utterance meaning using predictive models in finite domains
 = W2c: Annotation and Language Resources
-223 2:00-2:25 # Learning Whom to Trust with MACE
+243 2:00-2:25 # Paving the Way to a Large-scale Pseudosense-annotated Dataset
 366 2:25-2:50 # Labeling the Languages of Words in Mixed-Language Documents using Weakly Supervised Methods
-243 2:50-3:15 # Paving the Way to a Large-scale Pseudosense-annotated Dataset
+223 2:50-3:15 # Learning Whom to Trust with MACE
 + 3:15--3:45 Break
-= W3a: Semantics
-74 3:45-4:10 # A Tensor-based Factorization Model of Semantic Compositionality
-337 4:10-4:35 # A Quantum-Theoretic Approach to Distributional Semantics
-325 4:35-5:00 # Supervised All-Words Lexical Substitution using Delexicalized Features
+= W3a: Semantics and Syntax
+325 3:45-4:10 # Supervised All-Words Lexical Substitution using Delexicalized Features
+74 4:10-4:35 # A Tensor-based Factorization Model of Semantic Compositionality
+#TACL-5 4:35-5:00 # [TACL] An HDP Model for Inducing Combinatory Categorial Grammars
 = W3b: Summarization and Generation
-408 3:45-4:10 # Generating Expressions that Refer to Visible Objects
-330 4:10-4:35 # A Participant-based Approach for Event Summarization Using Twitter Streams
-306 4:35-5:00 # Towards Coherent Multi-Document Summarization
+330 3:45-4:10 # A Participant-based Approach for Event Summarization Using Twitter Streams
+306 4:10-4:35 # Towards Coherent Multi-Document Summarization
+408 4:35-5:00 # Generating Expressions that Refer to Visible Objects
 = W3c: Morphology and Phonology
-432 3:45-4:10 # Knowledge-Rich Morphological Priors for Bayesian Language Models
+421 3:45-4:10 # Supervised Learning of Complete Morphological Paradigms
 475 4:10-4:35 # Optimal Data Set Selection: An Application to Grapheme-to-Phoneme Conversion
-421 4:35-5:00 # Supervised Learning of Complete Morphological Paradigms
+432 4:35-5:00 # Knowledge-Rich Morphological Priors for Bayesian Language Models

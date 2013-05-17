@@ -1,41 +1,42 @@
-* Thursday, June 13
-= (09:00-09:15) Opening Remarks
-= (09:15-10:30) Oral Session 1: Resources and Applications
+* Thursday, June 13, 2013
++ 09:00--09:15 Opening Remarks
+= Oral Session 1: Resources and Applications
 3 09:15--09:40 # Managing Multiword Expressions in a Lexicon-Based Sentiment Analysis System for Spanish
 17 09:40--10:05 # Introducing {P}ers{P}red, a Syntactic and Semantic Database for {P}ersian Complex Predicates
 21 10:05--10:30 # Improving Word Translation Disambiguation by Capturing Multiword Expressions with Dictionaries
-= (10:30-11:00) COFFEE BREAK
-= (11:00-12:00) Invited Talk 1
++ 10:30--11:00 COFFEE BREAK
+= Invited Talk 1
 30 11:00--12:00 # Complex Predicates are Multi-Word Expressions
-= (12:00-12:25) Oral Session 2: Compositionality
+= Oral Session 2: Compositionality
 23 12:00--12:25 # The (Un)expected Effects of Applying Standard Cleansing Models to Human Ratings on Compositionality
-= (12:30-14:00) LUNCH BREAK
-= (14:05-14:30) Oral Session 2: Compositionality (contd.)
++ 12:30-14:00 LUNCH BREAK
+= Oral Session 2: Compositionality (continued)
 20 14:05--14:30 # Determining Compositionality of Word Expressions Using Word Space Models
-= (14:30-15:30) Invited Talk 2
+= Invited Talk 2
 29 14:30--15:30 # Modelling the Internal Variability of {MWE}s
-= (15:30-16:00) COFFEE BREAK
-= (16:00-16:30) Oral Session 3: Short Papers
++ 15:30--16:00 COFFEE BREAK
+= Oral Session 3: Short Papers
 9 16:00--16:15 # Automatically Assessing Whether a Text Is Cliched, with Applications to Literary Analysis
 12 16:15--16:30 # An Analysis of Annotation of Verb-Noun Idiomatic Combinations in a Parallel Dependency Corpus
-= (16:30-17:40) Poster Session
-= (16:30-16:40) Poster Boosters
++ 16:30--16:40 Poster Boosters
 7  # Automatic Identification of {B}engali Noun-Noun Compounds Using Random Forest
 11  # Automatic Detection of Stable Grammatical Features in N-Grams
 13  # Exploring {MWE}s for Knowledge Acquisition from Corporate Technical Documents
 19  # MWE in Portuguese: Proposal for a Typology for Annotation in Running Text
 22  # Identifying Pronominal Verbs: Towards Automatic Disambiguation of the Clitic 'se' in {P}ortuguese
 26  # A Repository of Variation Patterns for Multiword Expressions
-* Friday, June 14
-= (09:10-10:00) Oral Session 4: Identification and Classification
++ 16:30--17:40 Poster Session
+
+* Friday, June 14, 2013
+= Oral Session 4: Identification and Classification
 14 09:10--09:35 # Syntactic Identification of Occurrences of Multiword Expressions in Text using a Lexicon with Dependency Structures
 2 09:35--10:00 # Combining Different Features of Idiomaticity for the Automatic Classification of Noun+Verb Expressions in {B}asque
-= (10:00-10:30) Oral Session 5: Short Papers
+= Oral Session 5: Short Papers
 4 10:00--10:15 # Semantic Roles for Nominal Predicates: Building a Lexical Resource
 28 10:15--10:30 # Constructional Intensifying Adjectives in {I}talian
-= (10:30-11:00) COFFEE BREAK
-= (11:00-12:00) Invited Talk 3
++ 10:30--11:00 COFFEE BREAK
+= Invited Talk 3
 31 11:00--12:00 # The Far Reach of Multiword Expressions in Educational Technology
-= (12:00-12:15) Oral Session 5: Short Papers (contd.)
+= Oral Session 5: Short Papers (continued)
 16 12:00--12:15 # Construction of {E}nglish {MWE} Dictionary and its Application to {POS} Tagging
-= (12:15-12:30) Closing Remarks
++ 12:15--12:30 Closing Remarks

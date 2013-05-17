@@ -64,7 +64,9 @@ Author{15}{Affiliation}#=%=#
 NumberOfPages#=%=#10
 CopyrightSigned#=%=#Miriam Kaeshammer
 JobTitle#==#
-Organization#==#
+Organization#==#Heinrich-Heine-Universität Düsseldorf
+Institut für Sprache und Information
+Universitätsstraße 1, 40225 Düsseldorf, Germany
 Abstract#==#We propose synchronous linear context-free rewriting systems as an extension to
 synchronous context-free grammars in which synchronized non-terminals span k >=
 1 continuous blocks on each side of the bitext.

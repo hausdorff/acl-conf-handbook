@@ -1,6 +1,6 @@
 SubmissionNumber#=%=#55
-FinalPaperTitle#=%=#UMBC\_EBIQUITY-CORE: Semantic Textual Similarity Systems
-ShortPaperTitle#=%=#UMBC\_EBIQUITY-CORE: Semantic Textual Similarity Systems
+FinalPaperTitle#=%=#UMBC_EBIQUITY-CORE: Semantic Textual Similarity Systems
+ShortPaperTitle#=%=#UMBC_EBIQUITY-CORE: Semantic Textual Similarity Systems
 Author{1}{Lastname}#=%=#Han
 Author{1}{Firstname}#=%=#Lushan
 Author{1}{Email}#=%=#lushan1@umbc.edu

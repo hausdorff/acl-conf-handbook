@@ -62,7 +62,7 @@ Author{15}{Firstname}#=%=#
 Author{15}{Email}#=%=#
 Author{15}{Affiliation}#=%=#
 NumberOfPages#=%=#10
-CopyrightSigned#=%=#NA
+CopyrightSigned#=%=#Markus Saers
 JobTitle#==#
 Organization#==#Hong Kong University of Science and Technology
 Clear Water Bay

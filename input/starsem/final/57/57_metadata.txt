@@ -7,8 +7,8 @@ Author{1}{Email}#=%=#tiantianzhu7@gmail.com
 Author{1}{Affiliation}#=%=#East China Normal University
 Author{2}{Lastname}#=%=#Lan
 Author{2}{Firstname}#=%=#Man
-Author{2}{Email}#=%=#lanman.sg@gmail.com
-Author{2}{Affiliation}#=%=#ECNU
+Author{2}{Email}#=%=#mlan@cs.ecnu.edu.cn
+Author{2}{Affiliation}#=%=#East China Normal University
 Author{3}{Lastname}#=%=#
 Author{3}{Firstname}#=%=#
 Author{3}{Email}#=%=#
@@ -62,9 +62,10 @@ Author{15}{Firstname}#=%=#
 Author{15}{Email}#=%=#
 Author{15}{Affiliation}#=%=#
 NumberOfPages#=%=#8
-CopyrightSigned#=%=#Lan Man
+CopyrightSigned#=%=#Man Lan
 JobTitle#==#
-Organization#==#
+Organization#==#East China Normal University
+No 500 Dongchuan Road, Shanghai, P.R.China
 Abstract#==#This paper reports our submissions to the Semantic Textual Similarity (STS)
 task in SemEval 2013 (Task 6). We submitted three Support Vector Regression
 (SVR) systems in core task, using 6 types of similarity measures, i.e., string

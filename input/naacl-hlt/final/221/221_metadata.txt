@@ -13,18 +13,18 @@ Author{3}{Lastname}#=%=#Matsoukas
 Author{3}{Firstname}#=%=#Spyros
 Author{3}{Email}#=%=#smatsouk@bbn.com
 Author{3}{Affiliation}#=%=#BBN Technologies
-Author{4}{Lastname}#=%=#
-Author{4}{Firstname}#=%=#
-Author{4}{Email}#=%=#
-Author{4}{Affiliation}#=%=#
-Author{5}{Lastname}#=%=#Schwartz
-Author{5}{Firstname}#=%=#Richard
-Author{5}{Email}#=%=#schwartz@bbn.com
+Author{4}{Lastname}#=%=#Schwartz
+Author{4}{Firstname}#=%=#Richard
+Author{4}{Email}#=%=#schwartz@bbn.com
+Author{4}{Affiliation}#=%=#BBN Technologies
+Author{5}{Lastname}#=%=#Makhoul
+Author{5}{Firstname}#=%=#John
+Author{5}{Email}#=%=#makhoul@bbn.com
 Author{5}{Affiliation}#=%=#BBN Technologies
-Author{6}{Lastname}#=%=#Makhoul
-Author{6}{Firstname}#=%=#John
-Author{6}{Email}#=%=#makhoul@bbn.com
-Author{6}{Affiliation}#=%=#BBN Technologies
+Author{6}{Lastname}#=%=#
+Author{6}{Firstname}#=%=#
+Author{6}{Email}#=%=#
+Author{6}{Affiliation}#=%=#
 Author{7}{Lastname}#=%=#
 Author{7}{Firstname}#=%=#
 Author{7}{Email}#=%=#

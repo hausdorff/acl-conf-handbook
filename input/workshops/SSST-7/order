@@ -10,8 +10,9 @@
 4  12:00--12:30 # Combining Word Reordering Methods on different Linguistic Abstraction Levels for Statistical Machine Translation
 + 12:30--2:00 Lunch
 = Session 3
-2 2:00--2:30 # A Formal Characterization of Parsing Word Alignments by Synchronous Grammars with Empirical Evidence to the ITG Hypothesis.
-5  2:30--3:00 # Synchronous Linear Context-Free Rewriting Systems for Machine Translation
-9  3:00--3:30 # Combining Top-down and Bottom-up Search for Unsupervised Induction of Transduction Grammars
++ 2:00--3:00 Panel discussion: Meaning Representations for Machine Translation, with Jan Hajic, Kevin Knight, Martha Palmer and Dekai Wu
+9 3:30--4:00 # Combining Top-down and Bottom-up Search for Unsupervised Induction of Transduction Grammars
 + 3:30--4:00 Break
-+ 4:00--5:00 Panel discussion
+= Session 4
+2 4:00--4:30 # A Formal Characterization of Parsing Word Alignments by Synchronous Grammars with Empirical Evidence to the ITG Hypothesis.
+5  4:30--5:00 # Synchronous Linear Context-Free Rewriting Systems for Machine Translation

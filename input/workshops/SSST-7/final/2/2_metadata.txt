@@ -62,7 +62,7 @@ Author{15}{Firstname}#=%=#
 Author{15}{Email}#=%=#
 Author{15}{Affiliation}#=%=#
 NumberOfPages#=%=#10
-CopyrightSigned#=%=#Khalil Sima\
+CopyrightSigned#=%=#Khalil Simaan
 JobTitle#==#Associate Professor
 Organization#==#Institute for Logic, Language and Computation
 University of Amsterdam

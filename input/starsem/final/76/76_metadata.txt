@@ -73,7 +73,6 @@ translation acts between any two data sets with respect to a reference corpus
 selected in the same domain, 
 which can be used for judging the semantic similarity between text.
 RTMs make quality and semantic similarity judgments possible by using retrieved
-
 relevant training data as interpretants for reaching shared semantics.
 An MTPP (machine translation performance predictor) model derives
 features measuring the closeness of the test sentences to the

@@ -62,9 +62,12 @@ Author{15}{Firstname}#=%=#
 Author{15}{Email}#=%=#
 Author{15}{Affiliation}#=%=#
 NumberOfPages#=%=#5
-CopyrightSigned#=%=#Ziak
+CopyrightSigned#=%=#Hermann Ziak
 JobTitle#==#
-Organization#==#
+Organization#==#Know-Center GmbH
+Graz University of Technology
+Inffeldgasse 13 6. Stock
+8010 Graz, Austria
 Abstract#==#In this paper we describe KnCe2013-CORE, a system to compute the semantic
 similarity of two short text snippets.
 The system computes a number of features which are gathered from different

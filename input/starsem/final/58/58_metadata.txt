@@ -1,6 +1,6 @@
 SubmissionNumber#=%=#58
-FinalPaperTitle#=%=#UBC\_UOS-TYPED: Regression for typed-similarity
-ShortPaperTitle#=%=#UBC\_UOS-TYPED: Regression for typed-similarity
+FinalPaperTitle#=%=#UBC_UOS-TYPED: Regression for typed-similarity
+ShortPaperTitle#=%=#UBC_UOS-TYPED: Regression for typed-similarity
 Author{1}{Lastname}#=%=#Agirre
 Author{1}{Firstname}#=%=#Eneko
 Author{1}{Email}#=%=#eneko.agirre@ehu.es

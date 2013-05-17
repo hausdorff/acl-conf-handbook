@@ -1,6 +1,6 @@
 SubmissionNumber#=%=#2
-FinalPaperTitle#=%=#A User Study: Technology to Increase Teachers’ Linguistic Awareness to Improve Instructional Language Support for English Language Learners
-ShortPaperTitle#=%=#A User Study: Technology to Increase Teachers’ Linguistic Awareness to Improve Instructional Language Support for English Language Learners
+FinalPaperTitle#=%=#A User Study: Technology to Increase Teachers' Linguistic Awareness to Improve Instructional Language Support for English Language Learners
+ShortPaperTitle#=%=#A User Study: Technology to Increase Teachers' Linguistic Awareness to Improve Instructional Language Support for English Language Learners
 Author{1}{Lastname}#=%=#Burstein
 Author{1}{Firstname}#=%=#Jill
 Author{1}{Email}#=%=#jburstein@ets.org
@@ -69,7 +69,7 @@ Organization#==#Educational Testing Service
 Princeton, NJ 08541
 Abstract#==#This paper discusses user study outcomes with teachers who used SYSTEM , a
 web-based teacher professional development (TPD) appli-cation designed to
-enhance teachers’ linguistic awareness, and support teachers in the
+enhance teachers' linguistic awareness, and support teachers in the
 development of language-based instructional scaffolding (support) for their
 English language learners (ELL). System development was grounded in literature
 that supports the notion that instruction incorporating language support for

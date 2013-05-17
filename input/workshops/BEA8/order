@@ -1,21 +1,16 @@
 * Thursday, June 13, 2013
 + 8:45--9:00 Load Presentations
 + 9:00--9:15 Opening Remarks
-# 9:15--9:40 
+= Session 1
 10 9:15--9:40 # The Utility of Manual and Automatic Linguistic Error Codes for Identifying Neurodevelopmental Disorders
-# 9:40--10:05 
 23 9:40--10:05 # Shallow Semantic Analysis of Interactive Learner Sentences
-# + 10:05--10:30 
 21 10:05--10:30 # Building a Large Annotated Corpus of Learner English: The NUS Corpus of Learner English
 + 10:30--11:00 Break
-# + 11:00--11:25 
+= Session 2
 17 11:00--11:25 # Developing and testing a self-assessment and tutoring system
-# + 11:25--11:45 
 3 11:25--11:45 # Automated Essay Scoring for Swedish
-# + 11:45--12:10 
 51 11:45--12:10 # A Report on the First Native Language Identification Shared Task
 + 12:10--1:50 Lunch
-# + 1:50--2:40 Poster Session A
 + 1:50--2:40 BEA8 Poster Session A
 20  # Applying Unsupervised Learning To Support Vector Space Model Based Speaking Assessment
 2  # Role of Morpho-Syntactic Features in Estonian Proficiency Classification
@@ -32,7 +27,6 @@
 42  # Cognate and Misspelling Features for Natural Language Identification
 46  # Exploring Syntactic Representations for Native Language Identification
 44  # Simple Yet Powerful Native Language Identification on TOEFL11
-# + 2:40--3:30 Poster Session B
 + 2:40--3:30 BEA8 Poster Session B
 5  # Prompt-based Content Scoring for Automated Spoken Language Assessment
 9  # Automated Scoring of a Summary-Writing Task Designed to Measure Reading Comprehension
@@ -52,12 +46,9 @@
 30  # The Story of the Characters, the DNA and the Native Language
 43  # Identifying the L1 of non-native writers: the CMU-Haifa system
 + 3:30--4:00 Break
-# + 4:00--4:20 
+= Session 3
 19 4:00--4:20 # Evaluating Unsupervised Language Model Adaptation Methods for Speaking Assessment
-# + 4:20--4:40 
 14 4:20--4:40 # Improving interpretation robustness in a tutorial dialogue system
-# + 4:40--5:00 
 11 4:40--5:00 # Detecting Missing Hyphens in Learner Text
-# + 5:00--5:20 
 12 5:00--5:20 # Applying Machine Translation Metrics to Student-Written Translations
 + 5:20--5:30 Closing Remarks

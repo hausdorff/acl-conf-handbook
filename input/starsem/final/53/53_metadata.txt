@@ -1,6 +1,6 @@
 SubmissionNumber#=%=#53
-FinalPaperTitle#=%=#UMCC\_DLSI: Textual Similarity based on Lexical-Semantic features
-ShortPaperTitle#=%=#UMCC\_DLSI: Textual Similarity based on Lexical-Semantic features
+FinalPaperTitle#=%=#UMCC_DLSI: Textual Similarity based on Lexical-Semantic features
+ShortPaperTitle#=%=#UMCC_DLSI: Textual Similarity based on Lexical-Semantic features
 Author{1}{Lastname}#=%=#Chávez
 Author{1}{Firstname}#=%=#Alexander
 Author{1}{Email}#=%=#alexander.chavez@umcc.cu
@@ -67,7 +67,7 @@ JobTitle#==#
 Organization#==#University of Matanzas
 Autopista a Varadero km 3 ½ 
 Matanzas, Cuba.
-Abstract#==#This paper describes the specifications and results of UMCC\_DLSI system, which
+Abstract#==#This paper describes the specifications and results of UMCC_DLSI system, which
 participated in the Semantic Textual Similarity task (STS) of SemEval-2013. Our
 supervised system uses different types of lexical and semantic features to
 train a Bagging classifier used to decide the correct option. Related to the

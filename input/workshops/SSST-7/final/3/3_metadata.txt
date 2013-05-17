@@ -62,7 +62,7 @@ Author{15}{Firstname}#=%=#
 Author{15}{Email}#=%=#
 Author{15}{Affiliation}#=%=#
 NumberOfPages#=%=#10
-CopyrightSigned#=%=#Contrary to the above text, I do neither grant permission to record my presentation, nor to disseminate it under a Creative Commons attribution license. -- Matthias Huck
+CopyrightSigned#=%=#Matthias Huck
 JobTitle#==#
 Organization#==#Human Language Technology and Pattern Recognition Group
 RWTH Aachen University

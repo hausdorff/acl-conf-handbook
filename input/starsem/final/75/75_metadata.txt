@@ -1,6 +1,6 @@
 SubmissionNumber#=%=#75
-FinalPaperTitle#=%=#INAOE\_UPV-CORE: Extracting Word Associations from Document Corpora to estimate Semantic Textual Similarity
-ShortPaperTitle#=%=#INAOE\_UPV-CORE: Extracting Word Associations from Document Corpora to estimate Semantic Textual Similarity
+FinalPaperTitle#=%=#INAOE_UPV-CORE: Extracting Word Associations from Document Corpora to estimate Semantic Textual Similarity
+ShortPaperTitle#=%=#INAOE_UPV-CORE: Extracting Word Associations from Document Corpora to estimate Semantic Textual Similarity
 Author{1}{Lastname}#=%=#Sánchez-Vega
 Author{1}{Firstname}#=%=#Fernando
 Author{1}{Email}#=%=#fer.callotl@inaoep.mx

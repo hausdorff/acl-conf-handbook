@@ -1,6 +1,6 @@
 SubmissionNumber#=%=#66
-FinalPaperTitle#=%=#DLS\@CU-CORE: A Simple Machine Learning Model of Semantic Textual Similarity
-ShortPaperTitle#=%=#DLS\@CU-CORE: A Simple Machine Learning Model of Semantic Textual Similarity
+FinalPaperTitle#=%=#DLS@CU-CORE: A Simple Machine Learning Model of Semantic Textual Similarity
+ShortPaperTitle#=%=#DLS@CU-CORE: A Simple Machine Learning Model of Semantic Textual Similarity
 Author{1}{Lastname}#=%=#Sultan
 Author{1}{Firstname}#=%=#Md.
 Author{1}{Email}#=%=#arafat.sultan@colorado.edu

@@ -1,6 +1,6 @@
 SubmissionNumber#=%=#49
-FinalPaperTitle#=%=#PolyUCOMP-CORE\_TYPED: Computing Semantic Textual Similarity using Overlapped Senses
-ShortPaperTitle#=%=#PolyUCOMP-CORE\_TYPED: Computing Semantic Textual Similarity using Overlapped Senses
+FinalPaperTitle#=%=#PolyUCOMP-CORE_TYPED: Computing Semantic Textual Similarity using Overlapped Senses
+ShortPaperTitle#=%=#PolyUCOMP-CORE_TYPED: Computing Semantic Textual Similarity using Overlapped Senses
 Author{1}{Lastname}#=%=#Xu
 Author{1}{Firstname}#=%=#Jian
 Author{1}{Email}#=%=#csjxu@comp.polyu.edu.hk

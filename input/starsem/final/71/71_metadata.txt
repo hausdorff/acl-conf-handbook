@@ -1,6 +1,6 @@
 SubmissionNumber#=%=#71
-FinalPaperTitle#=%=#UniMelb\_NLP-CORE: Integrating predictions from multiple domains and feature sets for estimating semantic textual similarity
-ShortPaperTitle#=%=#UniMelb\_NLP-core: Integrating predictions from multiple domains and feature sets for estimating semantic textual similarity
+FinalPaperTitle#=%=#UniMelb_NLP-CORE: Integrating predictions from multiple domains and feature sets for estimating semantic textual similarity
+ShortPaperTitle#=%=#UniMelb_NLP-core: Integrating predictions from multiple domains and feature sets for estimating semantic textual similarity
 Author{1}{Lastname}#=%=#Gella
 Author{1}{Firstname}#=%=#Spandana
 Author{1}{Email}#=%=#sgella@student.unimelb.edu.au

@@ -1,6 +1,6 @@
 SubmissionNumber#=%=#54
-FinalPaperTitle#=%=#UNITOR-CORE\_TYPED: Combining Text Similarity and Semantic Filters through SV Regression
-ShortPaperTitle#=%=#UNITOR-CORE\_TYPED: Combining Text Similarity and Semantic Filters through SV Regression
+FinalPaperTitle#=%=#UNITOR-CORE_TYPED: Combining Text Similarity and Semantic Filters through SV Regression
+ShortPaperTitle#=%=#UNITOR-CORE_TYPED: Combining Text Similarity and Semantic Filters through SV Regression
 Author{1}{Lastname}#=%=#Croce
 Author{1}{Firstname}#=%=#Danilo
 Author{1}{Email}#=%=#croce@info.uniroma2.it

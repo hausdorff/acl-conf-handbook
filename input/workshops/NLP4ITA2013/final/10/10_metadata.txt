@@ -1,6 +1,6 @@
 SubmissionNumber#=%=#10
-FinalPaperTitle#=%=#Open Book: a tool for helping ASD users’ semantic comprehension
-ShortPaperTitle#=%=#Open Book: a tool for helping ASD users’ semantic comprehension
+FinalPaperTitle#=%=#Open Book: a tool for helping ASD users' semantic comprehension
+ShortPaperTitle#=%=#Open Book: a tool for helping ASD users' semantic comprehension
 Author{1}{Lastname}#=%=#Barbu
 Author{1}{Firstname}#=%=#Eduard
 Author{1}{Email}#=%=#eduard_barbu@yahoo.com
