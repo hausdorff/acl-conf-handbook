@@ -1,0 +1,77 @@
+SubmissionNumber#=%=#109
+FinalPaperTitle#=%=#SCAI: Extracting drug-drug interactions using a rich feature vector
+ShortPaperTitle#=%=#SCAI: Extracting drug-drug interactions using a rich feature vector
+Author{1}{Lastname}#=%=#Bobic
+Author{1}{Firstname}#=%=#Tamara
+Author{1}{Email}#=%=#tamara.bobic@scai.fraunhofer.de
+Author{1}{Affiliation}#=%=#Fraunhofer SCAI
+Author{2}{Lastname}#=%=#Fluck
+Author{2}{Firstname}#=%=#Juliane
+Author{2}{Email}#=%=#juliane.fluck@scai.fraunhofer.de
+Author{2}{Affiliation}#=%=#Fraunhofer SCAI
+Author{3}{Lastname}#=%=#Hofmann-Apitius
+Author{3}{Firstname}#=%=#Martin
+Author{3}{Email}#=%=#martin.hofmann-apitius@scai.fraunhofer.de
+Author{3}{Affiliation}#=%=#Fraunhofer SCAI
+Author{4}{Lastname}#=%=#
+Author{4}{Firstname}#=%=#
+Author{4}{Email}#=%=#
+Author{4}{Affiliation}#=%=#
+Author{5}{Lastname}#=%=#
+Author{5}{Firstname}#=%=#
+Author{5}{Email}#=%=#
+Author{5}{Affiliation}#=%=#
+Author{6}{Lastname}#=%=#
+Author{6}{Firstname}#=%=#
+Author{6}{Email}#=%=#
+Author{6}{Affiliation}#=%=#
+Author{7}{Lastname}#=%=#
+Author{7}{Firstname}#=%=#
+Author{7}{Email}#=%=#
+Author{7}{Affiliation}#=%=#
+Author{8}{Lastname}#=%=#
+Author{8}{Firstname}#=%=#
+Author{8}{Email}#=%=#
+Author{8}{Affiliation}#=%=#
+Author{9}{Lastname}#=%=#
+Author{9}{Firstname}#=%=#
+Author{9}{Email}#=%=#
+Author{9}{Affiliation}#=%=#
+Author{10}{Lastname}#=%=#
+Author{10}{Firstname}#=%=#
+Author{10}{Email}#=%=#
+Author{10}{Affiliation}#=%=#
+Author{11}{Lastname}#=%=#
+Author{11}{Firstname}#=%=#
+Author{11}{Email}#=%=#
+Author{11}{Affiliation}#=%=#
+Author{12}{Lastname}#=%=#
+Author{12}{Firstname}#=%=#
+Author{12}{Email}#=%=#
+Author{12}{Affiliation}#=%=#
+Author{13}{Lastname}#=%=#
+Author{13}{Firstname}#=%=#
+Author{13}{Email}#=%=#
+Author{13}{Affiliation}#=%=#
+Author{14}{Lastname}#=%=#
+Author{14}{Firstname}#=%=#
+Author{14}{Email}#=%=#
+Author{14}{Affiliation}#=%=#
+Author{15}{Lastname}#=%=#
+Author{15}{Firstname}#=%=#
+Author{15}{Email}#=%=#
+Author{15}{Affiliation}#=%=#
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#Tamara Bobic
+JobTitle#==#
+Organization#==#Fraunhofer SCAI, Schloss Birlinghoven, St. Augustin, Germany
+Abstract#==#Automatic relation extraction provides great support for scientists and
+database curators in dealing with the extensive amount of biomedical textual
+data. The DDIExtraction 2013 challenge poses the task of detecting drug-drug
+interactions and further categorizing them into one of the four relation
+classes. We
+present our machine learning system which utilizes lexical, syntactical and
+semantic based feature sets. Resampling, balancing and ensemble learning
+experiments are performed to infer the best configuration. For general
+drug-drug relation extraction, the system achieves 70.4\% in F1 score.
+==========

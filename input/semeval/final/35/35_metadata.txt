@@ -1,0 +1,82 @@
+SubmissionNumber#=%=#35
+FinalPaperTitle#=%=#SAIL: A hybrid approach to sentiment analysis
+ShortPaperTitle#=%=#SAIL: A hybrid approach to sentiment analysis
+Author{1}{Lastname}#=%=#Malandrakis
+Author{1}{Firstname}#=%=#Nikolaos
+Author{1}{Email}#=%=#malandra@usc.edu
+Author{1}{Affiliation}#=%=#Signal Analysis and Interpretation Laboratory (SAIL), USC, Los Angeles, CA 90089, USA
+Author{2}{Lastname}#=%=#Kazemzadeh
+Author{2}{Firstname}#=%=#Abe
+Author{2}{Email}#=%=#kazemzad@usc.edu
+Author{2}{Affiliation}#=%=#Annenberg Innovation Laboratory (AIL), USC, Los Angeles, CA 90089, USA
+Author{3}{Lastname}#=%=#Potamianos
+Author{3}{Firstname}#=%=#Alexandros
+Author{3}{Email}#=%=#potam@telecom.tuc.gr
+Author{3}{Affiliation}#=%=#Technical University of Crete
+Author{4}{Lastname}#=%=#Narayanan
+Author{4}{Firstname}#=%=#Shrikanth
+Author{4}{Email}#=%=#shri@sipi.usc.edu
+Author{4}{Affiliation}#=%=#
+Author{5}{Lastname}#=%=#
+Author{5}{Firstname}#=%=#
+Author{5}{Email}#=%=#
+Author{5}{Affiliation}#=%=#
+Author{6}{Lastname}#=%=#
+Author{6}{Firstname}#=%=#
+Author{6}{Email}#=%=#
+Author{6}{Affiliation}#=%=#
+Author{7}{Lastname}#=%=#
+Author{7}{Firstname}#=%=#
+Author{7}{Email}#=%=#
+Author{7}{Affiliation}#=%=#
+Author{8}{Lastname}#=%=#
+Author{8}{Firstname}#=%=#
+Author{8}{Email}#=%=#
+Author{8}{Affiliation}#=%=#
+Author{9}{Lastname}#=%=#
+Author{9}{Firstname}#=%=#
+Author{9}{Email}#=%=#
+Author{9}{Affiliation}#=%=#
+Author{10}{Lastname}#=%=#
+Author{10}{Firstname}#=%=#
+Author{10}{Email}#=%=#
+Author{10}{Affiliation}#=%=#
+Author{11}{Lastname}#=%=#
+Author{11}{Firstname}#=%=#
+Author{11}{Email}#=%=#
+Author{11}{Affiliation}#=%=#
+Author{12}{Lastname}#=%=#
+Author{12}{Firstname}#=%=#
+Author{12}{Email}#=%=#
+Author{12}{Affiliation}#=%=#
+Author{13}{Lastname}#=%=#
+Author{13}{Firstname}#=%=#
+Author{13}{Email}#=%=#
+Author{13}{Affiliation}#=%=#
+Author{14}{Lastname}#=%=#
+Author{14}{Firstname}#=%=#
+Author{14}{Email}#=%=#
+Author{14}{Affiliation}#=%=#
+Author{15}{Lastname}#=%=#
+Author{15}{Firstname}#=%=#
+Author{15}{Email}#=%=#
+Author{15}{Affiliation}#=%=#
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Nikolaos Malandrakis
+JobTitle#==#
+Organization#==#Signal Analysis and Interpretation Laboratory (SAIL), USC, Los Angeles, CA 90089, USA
+Abstract#==#This paper describes our submission for SemEval2013 Task 2: Sentiment Analysis
+in Twitter.
+For the limited data condition we use a lexicon-based model.
+The model uses an affective lexicon automatically generated from a very large
+corpus of raw web data.
+Statistics are calculated over the word and bigram affective ratings and used
+as features of a Naive Bayes tree model.
+For the unconstrained data scenario we combine the lexicon-based model with a
+classifier built on maximum entropy language models and trained on a large
+external dataset.
+The two models are fused at the posterior level to produce a final output.
+The approach proved successful, reaching rankings of 9th and 4th in the twitter
+sentiment analysis constrained and unconstrained scenario respectively, despite
+using only lexical features.
+==========

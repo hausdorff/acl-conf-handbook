@@ -1,0 +1,77 @@
+SubmissionNumber#=%=#8
+FinalPaperTitle#=%=#GU-MLT-LT: Sentiment Analysis of Short Messages using Linguistic Features and Stochastic Gradient Descent
+ShortPaperTitle#=%=#GU-MLT-LT: Sentiment Analysis of Short Messages using Linguistic Features and Stochastic Gradient Descent
+Author{1}{Lastname}#=%=#Günther
+Author{1}{Firstname}#=%=#Tobias
+Author{1}{Email}#=%=#email@tobias.io
+Author{1}{Affiliation}#=%=#University of Gothenburg
+Author{2}{Lastname}#=%=#Furrer
+Author{2}{Firstname}#=%=#Lenz
+Author{2}{Email}#=%=#lenz.furrer@gmail.com
+Author{2}{Affiliation}#=%=#University of Zurich
+Author{3}{Lastname}#=%=#
+Author{3}{Firstname}#=%=#
+Author{3}{Email}#=%=#
+Author{3}{Affiliation}#=%=#
+Author{4}{Lastname}#=%=#
+Author{4}{Firstname}#=%=#
+Author{4}{Email}#=%=#
+Author{4}{Affiliation}#=%=#
+Author{5}{Lastname}#=%=#
+Author{5}{Firstname}#=%=#
+Author{5}{Email}#=%=#
+Author{5}{Affiliation}#=%=#
+Author{6}{Lastname}#=%=#
+Author{6}{Firstname}#=%=#
+Author{6}{Email}#=%=#
+Author{6}{Affiliation}#=%=#
+Author{7}{Lastname}#=%=#
+Author{7}{Firstname}#=%=#
+Author{7}{Email}#=%=#
+Author{7}{Affiliation}#=%=#
+Author{8}{Lastname}#=%=#
+Author{8}{Firstname}#=%=#
+Author{8}{Email}#=%=#
+Author{8}{Affiliation}#=%=#
+Author{9}{Lastname}#=%=#
+Author{9}{Firstname}#=%=#
+Author{9}{Email}#=%=#
+Author{9}{Affiliation}#=%=#
+Author{10}{Lastname}#=%=#
+Author{10}{Firstname}#=%=#
+Author{10}{Email}#=%=#
+Author{10}{Affiliation}#=%=#
+Author{11}{Lastname}#=%=#
+Author{11}{Firstname}#=%=#
+Author{11}{Email}#=%=#
+Author{11}{Affiliation}#=%=#
+Author{12}{Lastname}#=%=#
+Author{12}{Firstname}#=%=#
+Author{12}{Email}#=%=#
+Author{12}{Affiliation}#=%=#
+Author{13}{Lastname}#=%=#
+Author{13}{Firstname}#=%=#
+Author{13}{Email}#=%=#
+Author{13}{Affiliation}#=%=#
+Author{14}{Lastname}#=%=#
+Author{14}{Firstname}#=%=#
+Author{14}{Email}#=%=#
+Author{14}{Affiliation}#=%=#
+Author{15}{Lastname}#=%=#
+Author{15}{Firstname}#=%=#
+Author{15}{Email}#=%=#
+Author{15}{Affiliation}#=%=#
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Tobias Günther
+JobTitle#==#
+Organization#==#
+Abstract#==#This paper describes the details of our system submitted to the SemEval-2013
+shared task on sentiment analysis in Twitter. Our approach to predicting the
+sentiment of Tweets and SMS is based on supervised machine learning techniques
+and task-specific feature engineering. We used a linear classifier trained by
+stochastic gradient descent with hinge loss and elastic net regularization to
+make our predictions, which were ranked first or second in three of the four
+experimental conditions of the shared task. Furthermore, our system makes use
+of social media specific text preprocessing and linguistically motivated
+features, such as word stems, word clusters and negation handling.
+==========

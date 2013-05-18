@@ -1,0 +1,88 @@
+SubmissionNumber#=%=#101
+FinalPaperTitle#=%=#SemEval-2013 Task 2: Sentiment Analysis in Twitter
+ShortPaperTitle#=%=#SemEval-2013 Task 2: Sentiment Analysis in Twitter
+Author{1}{Lastname}#=%=#Nakov
+Author{1}{Firstname}#=%=#Preslav
+Author{1}{Email}#=%=#preslav.nakov@gmail.com
+Author{1}{Affiliation}#=%=#Qatar Computing Research Institute, Qatar Foundation
+Author{2}{Lastname}#=%=#Rosenthal
+Author{2}{Firstname}#=%=#Sara
+Author{2}{Email}#=%=#sara@cs.columbia.edu
+Author{2}{Affiliation}#=%=#Columbia University
+Author{3}{Lastname}#=%=#Kozareva
+Author{3}{Firstname}#=%=#Zornitsa
+Author{3}{Email}#=%=#kozareva@isi.edu
+Author{3}{Affiliation}#=%=#USC Information Sciences Institute
+Author{4}{Lastname}#=%=#Stoyanov
+Author{4}{Firstname}#=%=#Veselin
+Author{4}{Email}#=%=#ves@cs.jhu.edu
+Author{4}{Affiliation}#=%=#JHU HLTCOE
+Author{5}{Lastname}#=%=#Ritter
+Author{5}{Firstname}#=%=#Alan
+Author{5}{Email}#=%=#aritter@cs.washington.edu
+Author{5}{Affiliation}#=%=#University of Washington
+Author{6}{Lastname}#=%=#Wilson
+Author{6}{Firstname}#=%=#Theresa
+Author{6}{Email}#=%=#taw@jhu.edu
+Author{6}{Affiliation}#=%=#JHU HLTCOE
+Author{7}{Lastname}#=%=#
+Author{7}{Firstname}#=%=#
+Author{7}{Email}#=%=#
+Author{7}{Affiliation}#=%=#
+Author{8}{Lastname}#=%=#
+Author{8}{Firstname}#=%=#
+Author{8}{Email}#=%=#
+Author{8}{Affiliation}#=%=#
+Author{9}{Lastname}#=%=#
+Author{9}{Firstname}#=%=#
+Author{9}{Email}#=%=#
+Author{9}{Affiliation}#=%=#
+Author{10}{Lastname}#=%=#
+Author{10}{Firstname}#=%=#
+Author{10}{Email}#=%=#
+Author{10}{Affiliation}#=%=#
+Author{11}{Lastname}#=%=#
+Author{11}{Firstname}#=%=#
+Author{11}{Email}#=%=#
+Author{11}{Affiliation}#=%=#
+Author{12}{Lastname}#=%=#
+Author{12}{Firstname}#=%=#
+Author{12}{Email}#=%=#
+Author{12}{Affiliation}#=%=#
+Author{13}{Lastname}#=%=#
+Author{13}{Firstname}#=%=#
+Author{13}{Email}#=%=#
+Author{13}{Affiliation}#=%=#
+Author{14}{Lastname}#=%=#
+Author{14}{Firstname}#=%=#
+Author{14}{Email}#=%=#
+Author{14}{Affiliation}#=%=#
+Author{15}{Lastname}#=%=#
+Author{15}{Firstname}#=%=#
+Author{15}{Email}#=%=#
+Author{15}{Affiliation}#=%=#
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#Preslav Nakov
+JobTitle#==#scientist
+Organization#==#QCRI, Qatar Foundation
+Abstract#==#In recent years, sentiment analysis in social
+media has attracted a lot of research interest
+and has been used for a number of applications.
+Unfortunately, research has been hindered
+by the lack of suitable datasets, complicating
+the comparison between approaches.
+To address this issue, we have proposed
+SemEval-2013 Task 2: Sentiment Analysis in
+Twitter, which included two subtasks: A, an
+expression-level subtask, and B, a message-level
+subtask. We used crowdsourcing on
+Amazon Mechanical Turk to label a large
+Twitter training dataset along with additional
+test sets of Twitter and SMS messages for both
+subtasks. All datasets used in the evaluation
+are released to the research community. The
+task attracted significant interest and a total
+of 149 submissions from 44 teams. The best-performing
+team achieved an F1 of 88.9\% and
+69\% for subtasks A and B, respectively.
+==========

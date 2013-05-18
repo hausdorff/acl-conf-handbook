@@ -1,0 +1,80 @@
+SubmissionNumber#=%=#71
+FinalPaperTitle#=%=#LASIGE: using Conditional Random Fields and ChEBI ontology
+ShortPaperTitle#=%=#LASIGE: using Conditional Random Fields and ChEBI ontology
+Author{1}{Lastname}#=%=#Grego
+Author{1}{Firstname}#=%=#Tiago
+Author{1}{Email}#=%=#tgrego@fc.ul.pt
+Author{1}{Affiliation}#=%=#University of Lisbon
+Author{2}{Lastname}#=%=#Pinto
+Author{2}{Firstname}#=%=#Francisco
+Author{2}{Email}#=%=#frpinto@fc.ul.pt
+Author{2}{Affiliation}#=%=#University of Lisbon
+Author{3}{Lastname}#=%=#Couto
+Author{3}{Firstname}#=%=#Francisco M
+Author{3}{Email}#=%=#fcouto@di.fc.ul.pt
+Author{3}{Affiliation}#=%=#University of Lisbon
+Author{4}{Lastname}#=%=#
+Author{4}{Firstname}#=%=#
+Author{4}{Email}#=%=#
+Author{4}{Affiliation}#=%=#
+Author{5}{Lastname}#=%=#
+Author{5}{Firstname}#=%=#
+Author{5}{Email}#=%=#
+Author{5}{Affiliation}#=%=#
+Author{6}{Lastname}#=%=#
+Author{6}{Firstname}#=%=#
+Author{6}{Email}#=%=#
+Author{6}{Affiliation}#=%=#
+Author{7}{Lastname}#=%=#
+Author{7}{Firstname}#=%=#
+Author{7}{Email}#=%=#
+Author{7}{Affiliation}#=%=#
+Author{8}{Lastname}#=%=#
+Author{8}{Firstname}#=%=#
+Author{8}{Email}#=%=#
+Author{8}{Affiliation}#=%=#
+Author{9}{Lastname}#=%=#
+Author{9}{Firstname}#=%=#
+Author{9}{Email}#=%=#
+Author{9}{Affiliation}#=%=#
+Author{10}{Lastname}#=%=#
+Author{10}{Firstname}#=%=#
+Author{10}{Email}#=%=#
+Author{10}{Affiliation}#=%=#
+Author{11}{Lastname}#=%=#
+Author{11}{Firstname}#=%=#
+Author{11}{Email}#=%=#
+Author{11}{Affiliation}#=%=#
+Author{12}{Lastname}#=%=#
+Author{12}{Firstname}#=%=#
+Author{12}{Email}#=%=#
+Author{12}{Affiliation}#=%=#
+Author{13}{Lastname}#=%=#
+Author{13}{Firstname}#=%=#
+Author{13}{Email}#=%=#
+Author{13}{Affiliation}#=%=#
+Author{14}{Lastname}#=%=#
+Author{14}{Firstname}#=%=#
+Author{14}{Email}#=%=#
+Author{14}{Affiliation}#=%=#
+Author{15}{Lastname}#=%=#
+Author{15}{Firstname}#=%=#
+Author{15}{Email}#=%=#
+Author{15}{Affiliation}#=%=#
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Francisco Moreira Couto
+JobTitle#==#
+Organization#==#University of Lisbon, Campo Grande, Portugal
+Abstract#==#For participating in the SemEval 2013 challenge of recognition and
+classification of drug names, we adapted our chemical entity recognition
+approach consisting in Conditional Random Fields for recognizing chemical terms
+and lexical similarity for entity resolution to the ChEBI ontology. We obtained
+promising results, with a best F-measure of 0.81 for the partial matching task
+when using post-processing.
+    Using only Conditional Random Fields the results are slightly lower,
+achieving still a good result in terms of F-measure.
+    Using the ChEBI ontology allowed a significant improvement in precision
+(best precision of 0.93 in partial matching task), which indicates that taking
+advantage of an ontology can be extremely useful for enhancing chemical entity
+recognition.
+==========

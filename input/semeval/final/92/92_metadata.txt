@@ -1,0 +1,86 @@
+SubmissionNumber#=%=#92
+FinalPaperTitle#=%=#SemEval-2013 Task 4: Free Paraphrases of Noun Compounds
+ShortPaperTitle#=%=#SemEval-2013 Task 4: Free Paraphrases of Noun Compounds
+Author{1}{Lastname}#=%=#Hendrickx
+Author{1}{Firstname}#=%=#Iris
+Author{1}{Email}#=%=#iris@clul.ul.pt
+Author{1}{Affiliation}#=%=#Universidade de Lisboa
+Author{2}{Lastname}#=%=#Kozareva
+Author{2}{Firstname}#=%=#Zornitsa
+Author{2}{Email}#=%=#kozareva@isi.edu
+Author{2}{Affiliation}#=%=#University of Southern California
+Author{3}{Lastname}#=%=#Nakov
+Author{3}{Firstname}#=%=#Preslav
+Author{3}{Email}#=%=#preslav.nakov@gmail.com
+Author{3}{Affiliation}#=%=#Qatar Computing Research Institute, Qatar Foundation
+Author{4}{Lastname}#=%=#Ó Séaghdha
+Author{4}{Firstname}#=%=#Diarmuid
+Author{4}{Email}#=%=#do242@cam.ac.uk
+Author{4}{Affiliation}#=%=#University of Cambridge
+Author{5}{Lastname}#=%=#Szpakowicz
+Author{5}{Firstname}#=%=#Stan
+Author{5}{Email}#=%=#szpak@eecs.uottawa.ca
+Author{5}{Affiliation}#=%=#University of Ottawa; Polish Academy of Sciences
+Author{6}{Lastname}#=%=#Veale
+Author{6}{Firstname}#=%=#Tony
+Author{6}{Email}#=%=#tony.veale@ucd.ie
+Author{6}{Affiliation}#=%=#University College Dublin
+Author{7}{Lastname}#=%=#
+Author{7}{Firstname}#=%=#
+Author{7}{Email}#=%=#
+Author{7}{Affiliation}#=%=#
+Author{8}{Lastname}#=%=#
+Author{8}{Firstname}#=%=#
+Author{8}{Email}#=%=#
+Author{8}{Affiliation}#=%=#
+Author{9}{Lastname}#=%=#
+Author{9}{Firstname}#=%=#
+Author{9}{Email}#=%=#
+Author{9}{Affiliation}#=%=#
+Author{10}{Lastname}#=%=#
+Author{10}{Firstname}#=%=#
+Author{10}{Email}#=%=#
+Author{10}{Affiliation}#=%=#
+Author{11}{Lastname}#=%=#
+Author{11}{Firstname}#=%=#
+Author{11}{Email}#=%=#
+Author{11}{Affiliation}#=%=#
+Author{12}{Lastname}#=%=#
+Author{12}{Firstname}#=%=#
+Author{12}{Email}#=%=#
+Author{12}{Affiliation}#=%=#
+Author{13}{Lastname}#=%=#
+Author{13}{Firstname}#=%=#
+Author{13}{Email}#=%=#
+Author{13}{Affiliation}#=%=#
+Author{14}{Lastname}#=%=#
+Author{14}{Firstname}#=%=#
+Author{14}{Email}#=%=#
+Author{14}{Affiliation}#=%=#
+Author{15}{Lastname}#=%=#
+Author{15}{Firstname}#=%=#
+Author{15}{Email}#=%=#
+Author{15}{Affiliation}#=%=#
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Stan Szpakowicz
+JobTitle#==#
+Organization#==#School of Electrical Engineering and Computer Science
+University of Ottawa
+800 King Edward Avenue
+Ottawa, Ontario
+K1N 6N5
+Canada
+Abstract#==#In this paper, we describe SemEval-2013 Task 4: the definition, the data, the
+evaluation and the results. The task is to capture some of the meaning of
+English noun compounds via paraphrasing. Given a two-word noun compound, the
+participating system is asked to produce an explicitly ranked list of its
+free-form paraphrases. The list is automatically compared and evaluated against
+a similarly ranked list of paraphrases proposed by human annotators, recruited
+and managed through Amazon's Mechanical Turk. The comparison of raw paraphrases
+is sensitive to syntactic and morphological variation. The ``gold'' ranking is
+based on the relative popularity of paraphrases among annotators. To make the
+ranking more reliable, highly similar paraphrases are grouped so as to downplay
+superficial differences in syntax and morphology. Three systems participated in
+the task. They all beat a simple baseline on one of the two evaluation
+measures, but not on both measures. This shows that the task is difficult.
+==========

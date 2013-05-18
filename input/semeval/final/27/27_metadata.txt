@@ -1,0 +1,77 @@
+SubmissionNumber#=%=#27
+FinalPaperTitle#=%=#Umigon: sentiment analysis for tweets based on terms lists and heuristics
+ShortPaperTitle#=%=#Umigon: sentiment analysis for tweets based on terms lists and heuristics
+Author{1}{Lastname}#=%=#Levallois
+Author{1}{Firstname}#=%=#Clement
+Author{1}{Email}#=%=#clementlevallois@gmail.com
+Author{1}{Affiliation}#=%=#Erasmus University Rotterdam
+Author{2}{Lastname}#=%=#
+Author{2}{Firstname}#=%=#
+Author{2}{Email}#=%=#
+Author{2}{Affiliation}#=%=#
+Author{3}{Lastname}#=%=#
+Author{3}{Firstname}#=%=#
+Author{3}{Email}#=%=#
+Author{3}{Affiliation}#=%=#
+Author{4}{Lastname}#=%=#
+Author{4}{Firstname}#=%=#
+Author{4}{Email}#=%=#
+Author{4}{Affiliation}#=%=#
+Author{5}{Lastname}#=%=#
+Author{5}{Firstname}#=%=#
+Author{5}{Email}#=%=#
+Author{5}{Affiliation}#=%=#
+Author{6}{Lastname}#=%=#
+Author{6}{Firstname}#=%=#
+Author{6}{Email}#=%=#
+Author{6}{Affiliation}#=%=#
+Author{7}{Lastname}#=%=#
+Author{7}{Firstname}#=%=#
+Author{7}{Email}#=%=#
+Author{7}{Affiliation}#=%=#
+Author{8}{Lastname}#=%=#
+Author{8}{Firstname}#=%=#
+Author{8}{Email}#=%=#
+Author{8}{Affiliation}#=%=#
+Author{9}{Lastname}#=%=#
+Author{9}{Firstname}#=%=#
+Author{9}{Email}#=%=#
+Author{9}{Affiliation}#=%=#
+Author{10}{Lastname}#=%=#
+Author{10}{Firstname}#=%=#
+Author{10}{Email}#=%=#
+Author{10}{Affiliation}#=%=#
+Author{11}{Lastname}#=%=#
+Author{11}{Firstname}#=%=#
+Author{11}{Email}#=%=#
+Author{11}{Affiliation}#=%=#
+Author{12}{Lastname}#=%=#
+Author{12}{Firstname}#=%=#
+Author{12}{Email}#=%=#
+Author{12}{Affiliation}#=%=#
+Author{13}{Lastname}#=%=#
+Author{13}{Firstname}#=%=#
+Author{13}{Email}#=%=#
+Author{13}{Affiliation}#=%=#
+Author{14}{Lastname}#=%=#
+Author{14}{Firstname}#=%=#
+Author{14}{Email}#=%=#
+Author{14}{Affiliation}#=%=#
+Author{15}{Lastname}#=%=#
+Author{15}{Firstname}#=%=#
+Author{15}{Email}#=%=#
+Author{15}{Affiliation}#=%=#
+NumberOfPages#=%=#4
+CopyrightSigned#=%=#Clement Levallois
+JobTitle#==#
+Organization#==#Erasmus University Rotterdam
+Burg. Oudlaan 52
+3062PA Rotterdam
+The Netherlands
+Abstract#==#Umigon is developed since December 2012 as a web application providing a
+service of sentiment detection in tweets. It has been designed to be fast and
+scalable. Umigon also provides indications for additional semantic features
+present in the tweets, such as time indications or markers of subjectivity.
+Umigon is in continuous development, it can be tried freely at www.umigon.com.
+Its code is open sourced at: https://github.com/seinecle/Umigon
+==========

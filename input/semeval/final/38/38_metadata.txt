@@ -1,0 +1,85 @@
+SubmissionNumber#=%=#38
+FinalPaperTitle#=%=#WBI-NER: The impact of domain-specific features on the performance of identifying and classifying mentions of drugs
+ShortPaperTitle#=%=#WBI-NER: The impact of domain-specific features on the performance of identifying and classifying mentions of drugs
+Author{1}{Lastname}#=%=#Rocktäschel
+Author{1}{Firstname}#=%=#Tim
+Author{1}{Email}#=%=#trocktae@informatik.hu-berlin.de
+Author{1}{Affiliation}#=%=#Humboldt-Universität zu Berlin, Knowledge Management in Bioinformatics, Unter den Linden 6, Berlin, 10099
+Author{2}{Lastname}#=%=#Huber
+Author{2}{Firstname}#=%=#Torsten
+Author{2}{Email}#=%=#thuber@informatik.hu-berlin.de
+Author{2}{Affiliation}#=%=#Humboldt-Universität zu Berlin, Knowledge Management in Bioinformatics, Unter den Linden 6, Berlin, 10099
+Author{3}{Lastname}#=%=#Weidlich
+Author{3}{Firstname}#=%=#Michael
+Author{3}{Email}#=%=#weidlich@informatik.hu-berlin.de
+Author{3}{Affiliation}#=%=#Humboldt-Universität zu Berlin, Knowledge Management in Bioinformatics, Unter den Linden 6, Berlin, 10099
+Author{4}{Lastname}#=%=#Leser
+Author{4}{Firstname}#=%=#Ulf
+Author{4}{Email}#=%=#leser@informatik.hu-berlin.de
+Author{4}{Affiliation}#=%=#Humboldt-Universität zu Berlin, Knowledge Management in Bioinformatics, Unter den Linden 6, Berlin, 10099
+Author{5}{Lastname}#=%=#
+Author{5}{Firstname}#=%=#
+Author{5}{Email}#=%=#
+Author{5}{Affiliation}#=%=#
+Author{6}{Lastname}#=%=#
+Author{6}{Firstname}#=%=#
+Author{6}{Email}#=%=#
+Author{6}{Affiliation}#=%=#
+Author{7}{Lastname}#=%=#
+Author{7}{Firstname}#=%=#
+Author{7}{Email}#=%=#
+Author{7}{Affiliation}#=%=#
+Author{8}{Lastname}#=%=#
+Author{8}{Firstname}#=%=#
+Author{8}{Email}#=%=#
+Author{8}{Affiliation}#=%=#
+Author{9}{Lastname}#=%=#
+Author{9}{Firstname}#=%=#
+Author{9}{Email}#=%=#
+Author{9}{Affiliation}#=%=#
+Author{10}{Lastname}#=%=#
+Author{10}{Firstname}#=%=#
+Author{10}{Email}#=%=#
+Author{10}{Affiliation}#=%=#
+Author{11}{Lastname}#=%=#
+Author{11}{Firstname}#=%=#
+Author{11}{Email}#=%=#
+Author{11}{Affiliation}#=%=#
+Author{12}{Lastname}#=%=#
+Author{12}{Firstname}#=%=#
+Author{12}{Email}#=%=#
+Author{12}{Affiliation}#=%=#
+Author{13}{Lastname}#=%=#
+Author{13}{Firstname}#=%=#
+Author{13}{Email}#=%=#
+Author{13}{Affiliation}#=%=#
+Author{14}{Lastname}#=%=#
+Author{14}{Firstname}#=%=#
+Author{14}{Email}#=%=#
+Author{14}{Affiliation}#=%=#
+Author{15}{Lastname}#=%=#
+Author{15}{Firstname}#=%=#
+Author{15}{Email}#=%=#
+Author{15}{Affiliation}#=%=#
+NumberOfPages#=%=#8
+CopyrightSigned#=%=#Tim Rocktäschel
+JobTitle#==#
+Organization#==#Humboldt-Universität zu Berlin
+Knowledge Management in Bioinformatics
+Unter den Linden 6
+Berlin, 10099, Germany
+Abstract#==#Named entity recognition (NER) systems are often based on machine learning
+techniques to reduce the labor-intensive development of hand-crafted
+extraction rules and domain-dependent dictionaries. Nevertheless,
+time-consuming feature engineering is often needed to achieve state-of-the-art
+performance. In this study, we investigate the impact of such domain-specific
+features on the performance of recognizing and classifying mentions of
+pharmacological substances. We compare the performance of a system based on
+general features, which have been successfully applied to a wide range of NER
+tasks, with a system that additionally uses features generated from the output
+of an existing chemical NER tool and a collection of domain-specific resources.
+We demonstrate that acceptable results can be achieved with the former system.
+Still, our experiments show that using domain-specific features outperforms
+this general approach. Our system ranked first in the SemEval-2013 Task 9.1:
+Recognition and classification of pharmacological substances.
+==========

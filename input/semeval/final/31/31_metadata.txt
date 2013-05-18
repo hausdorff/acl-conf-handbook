@@ -1,0 +1,88 @@
+SubmissionNumber#=%=#31
+FinalPaperTitle#=%=#WBI-DDI: Drug-Drug Interaction Extraction using Majority Voting
+ShortPaperTitle#=%=#WBI-DDI: Drug-Drug Interaction Extraction using Majority Voting
+Author{1}{Lastname}#=%=#Thomas
+Author{1}{Firstname}#=%=#Philippe
+Author{1}{Email}#=%=#thomas@informatik.hu-berlin.de
+Author{1}{Affiliation}#=%=#Humboldt-Universit ̈ at zu Berlin, Knowledge Management in Bioinformatics, Unter den Linden 6, 10099 Berlin
+Author{2}{Lastname}#=%=#Neves
+Author{2}{Firstname}#=%=#Mariana
+Author{2}{Email}#=%=#neves@informatik.hu-berlin.de
+Author{2}{Affiliation}#=%=#Humboldt-Universit ̈ at zu Berlin, Knowledge Management in Bioinformatics, Unter den Linden 6, 10099 Berlin
+Author{3}{Lastname}#=%=#Rocktäschel
+Author{3}{Firstname}#=%=#Tim
+Author{3}{Email}#=%=#trocktae@informatik.hu-berlin.de
+Author{3}{Affiliation}#=%=#Humboldt-Universit ̈ at zu Berlin, Knowledge Management in Bioinformatics, Unter den Linden 6, 10099 Berlin
+Author{4}{Lastname}#=%=#Leser
+Author{4}{Firstname}#=%=#Ulf
+Author{4}{Email}#=%=#leser@informatik.hu-berlin.de
+Author{4}{Affiliation}#=%=#Humboldt-Universit ̈ at zu Berlin, Knowledge Management in Bioinformatics, Unter den Linden 6, 10099 Berlin
+Author{5}{Lastname}#=%=#
+Author{5}{Firstname}#=%=#
+Author{5}{Email}#=%=#
+Author{5}{Affiliation}#=%=#
+Author{6}{Lastname}#=%=#
+Author{6}{Firstname}#=%=#
+Author{6}{Email}#=%=#
+Author{6}{Affiliation}#=%=#
+Author{7}{Lastname}#=%=#
+Author{7}{Firstname}#=%=#
+Author{7}{Email}#=%=#
+Author{7}{Affiliation}#=%=#
+Author{8}{Lastname}#=%=#
+Author{8}{Firstname}#=%=#
+Author{8}{Email}#=%=#
+Author{8}{Affiliation}#=%=#
+Author{9}{Lastname}#=%=#
+Author{9}{Firstname}#=%=#
+Author{9}{Email}#=%=#
+Author{9}{Affiliation}#=%=#
+Author{10}{Lastname}#=%=#
+Author{10}{Firstname}#=%=#
+Author{10}{Email}#=%=#
+Author{10}{Affiliation}#=%=#
+Author{11}{Lastname}#=%=#
+Author{11}{Firstname}#=%=#
+Author{11}{Email}#=%=#
+Author{11}{Affiliation}#=%=#
+Author{12}{Lastname}#=%=#
+Author{12}{Firstname}#=%=#
+Author{12}{Email}#=%=#
+Author{12}{Affiliation}#=%=#
+Author{13}{Lastname}#=%=#
+Author{13}{Firstname}#=%=#
+Author{13}{Email}#=%=#
+Author{13}{Affiliation}#=%=#
+Author{14}{Lastname}#=%=#
+Author{14}{Firstname}#=%=#
+Author{14}{Email}#=%=#
+Author{14}{Affiliation}#=%=#
+Author{15}{Lastname}#=%=#
+Author{15}{Firstname}#=%=#
+Author{15}{Email}#=%=#
+Author{15}{Affiliation}#=%=#
+NumberOfPages#=%=#8
+CopyrightSigned#=%=#Philippe Thomas
+JobTitle#==#
+Organization#==#Philippe Thomas
+Humboldt Universität zu Berlin
+Institut für Informatik
+Unter den Linden 6
+D-10099 Berlin
+Germany
+Abstract#==#This work describes the participation of the WBI-DDI team on the SemEval 2013 -
+Task 9.2 DDI extraction challenge.
+The task consisted of extracting interactions between pairs of drugs from two
+collections of documents (DrugBank and MEDLINE) and their classification 
+into four subtypes: advise, effect, mechanism, and int.
+We developed a two-step approach in which pairs are initially extracted using
+ensembles of up to five different classifiers and then relabeled to one of the
+four categories.
+Our approach achieved the second rank in the DDI competition.
+For interaction detection we achieved F1 measures ranging from 73% to almost
+76% depending on the run.
+These results are on par or even higher than the performance estimation on the
+training dataset.
+When considering the four interaction subtypes we achieved an F1 measure of
+60.9%.
+==========

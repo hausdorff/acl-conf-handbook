@@ -1,0 +1,76 @@
+SubmissionNumber#=%=#29
+FinalPaperTitle#=%=#[LVIC-LIMSI]: Using Syntactic Features and Multi-polarity Words for Sentiment Analysis in Twitter
+ShortPaperTitle#=%=#[LVIC-LIMSI]: Using Syntactic Features and Multi-polarity Words for Sentiment Analysis in Twitter
+Author{1}{Lastname}#=%=#Marchand
+Author{1}{Firstname}#=%=#Morgane
+Author{1}{Email}#=%=#morgane.marchand@limsi.fr
+Author{1}{Affiliation}#=%=#CEA-LIST / CNRS-LIMSI
+Author{2}{Lastname}#=%=#Ginsca
+Author{2}{Firstname}#=%=#Alexandru
+Author{2}{Email}#=%=#alexandru.ginsca@cea.fr
+Author{2}{Affiliation}#=%=#CEA-LIST
+Author{3}{Lastname}#=%=#Besançon
+Author{3}{Firstname}#=%=#Romaric
+Author{3}{Email}#=%=#romaric.besancon@cea.fr
+Author{3}{Affiliation}#=%=#CEA-LIST
+Author{4}{Lastname}#=%=#Mesnard
+Author{4}{Firstname}#=%=#Olivier
+Author{4}{Email}#=%=#olivier.mesnard@cea.fr
+Author{4}{Affiliation}#=%=#CEA-LIST
+Author{5}{Lastname}#=%=#
+Author{5}{Firstname}#=%=#
+Author{5}{Email}#=%=#
+Author{5}{Affiliation}#=%=#
+Author{6}{Lastname}#=%=#
+Author{6}{Firstname}#=%=#
+Author{6}{Email}#=%=#
+Author{6}{Affiliation}#=%=#
+Author{7}{Lastname}#=%=#
+Author{7}{Firstname}#=%=#
+Author{7}{Email}#=%=#
+Author{7}{Affiliation}#=%=#
+Author{8}{Lastname}#=%=#
+Author{8}{Firstname}#=%=#
+Author{8}{Email}#=%=#
+Author{8}{Affiliation}#=%=#
+Author{9}{Lastname}#=%=#
+Author{9}{Firstname}#=%=#
+Author{9}{Email}#=%=#
+Author{9}{Affiliation}#=%=#
+Author{10}{Lastname}#=%=#
+Author{10}{Firstname}#=%=#
+Author{10}{Email}#=%=#
+Author{10}{Affiliation}#=%=#
+Author{11}{Lastname}#=%=#
+Author{11}{Firstname}#=%=#
+Author{11}{Email}#=%=#
+Author{11}{Affiliation}#=%=#
+Author{12}{Lastname}#=%=#
+Author{12}{Firstname}#=%=#
+Author{12}{Email}#=%=#
+Author{12}{Affiliation}#=%=#
+Author{13}{Lastname}#=%=#
+Author{13}{Firstname}#=%=#
+Author{13}{Email}#=%=#
+Author{13}{Affiliation}#=%=#
+Author{14}{Lastname}#=%=#
+Author{14}{Firstname}#=%=#
+Author{14}{Email}#=%=#
+Author{14}{Affiliation}#=%=#
+Author{15}{Lastname}#=%=#
+Author{15}{Firstname}#=%=#
+Author{15}{Email}#=%=#
+Author{15}{Affiliation}#=%=#
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Morgane Marchand
+JobTitle#==#
+Organization#==#CEA-LIST, DIASI, LVIC
+CEA SACLAY - Nano-INNOV - Bât. 861 - Point courrier 173
+91191 Gif-sur-Yvette Cedex, France
+Abstract#==#This paper present the contribution of our team at task 2 of SemEval 2013 :
+Sentiment Analysis in Twitter. We submited a constrained run for each of the
+two  subtasks. In the Contextual Polarity Disambiguation subtask, we use a
+sentiment lexicon approach combined with polarity shift detection and tree
+kernel based classifiers. In Message Polarity Classification subtask, we focus
+on the influence of domain information on sentiment classification.
+==========

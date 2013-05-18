@@ -1,0 +1,86 @@
+SubmissionNumber#=%=#107
+FinalPaperTitle#=%=#SemEval-2013 Task 3: Spatial Role Labeling
+ShortPaperTitle#=%=#SemEval-2013 Task 3: Spatial Role Labeling
+Author{1}{Lastname}#=%=#Kolomiyets
+Author{1}{Firstname}#=%=#Oleksandr
+Author{1}{Email}#=%=#oleksandr.kolomiyets@cs.kuleuven.be
+Author{1}{Affiliation}#=%=#KU Leuven
+Author{2}{Lastname}#=%=#Kordjamshidi
+Author{2}{Firstname}#=%=#Parisa
+Author{2}{Email}#=%=#parisa.kordjamshidi@cs.kuleuven.be
+Author{2}{Affiliation}#=%=#KU Leuven
+Author{3}{Lastname}#=%=#Moens
+Author{3}{Firstname}#=%=#Marie-Francine
+Author{3}{Email}#=%=#sien.moens@cs.kuleuven.be
+Author{3}{Affiliation}#=%=#KU Leuven
+Author{4}{Lastname}#=%=#Bethard
+Author{4}{Firstname}#=%=#Steven
+Author{4}{Email}#=%=#steven.bethard@colorado.edu
+Author{4}{Affiliation}#=%=#University of Colorado Boulder
+Author{5}{Lastname}#=%=#
+Author{5}{Firstname}#=%=#
+Author{5}{Email}#=%=#
+Author{5}{Affiliation}#=%=#
+Author{6}{Lastname}#=%=#
+Author{6}{Firstname}#=%=#
+Author{6}{Email}#=%=#
+Author{6}{Affiliation}#=%=#
+Author{7}{Lastname}#=%=#
+Author{7}{Firstname}#=%=#
+Author{7}{Email}#=%=#
+Author{7}{Affiliation}#=%=#
+Author{8}{Lastname}#=%=#
+Author{8}{Firstname}#=%=#
+Author{8}{Email}#=%=#
+Author{8}{Affiliation}#=%=#
+Author{9}{Lastname}#=%=#
+Author{9}{Firstname}#=%=#
+Author{9}{Email}#=%=#
+Author{9}{Affiliation}#=%=#
+Author{10}{Lastname}#=%=#
+Author{10}{Firstname}#=%=#
+Author{10}{Email}#=%=#
+Author{10}{Affiliation}#=%=#
+Author{11}{Lastname}#=%=#
+Author{11}{Firstname}#=%=#
+Author{11}{Email}#=%=#
+Author{11}{Affiliation}#=%=#
+Author{12}{Lastname}#=%=#
+Author{12}{Firstname}#=%=#
+Author{12}{Email}#=%=#
+Author{12}{Affiliation}#=%=#
+Author{13}{Lastname}#=%=#
+Author{13}{Firstname}#=%=#
+Author{13}{Email}#=%=#
+Author{13}{Affiliation}#=%=#
+Author{14}{Lastname}#=%=#
+Author{14}{Firstname}#=%=#
+Author{14}{Email}#=%=#
+Author{14}{Affiliation}#=%=#
+Author{15}{Lastname}#=%=#
+Author{15}{Firstname}#=%=#
+Author{15}{Email}#=%=#
+Author{15}{Affiliation}#=%=#
+NumberOfPages#=%=#8
+CopyrightSigned#=%=#Kolomiyets
+JobTitle#==#Post-doctoral researcher
+Organization#==#KU Leuven
+Celestijnenlaan 200A
+Heverlee 3001
+Belgium
+Abstract#==#Many NLP applications require information
+about locations of objects referenced in text,
+or relations between them in space. For example,
+the phrase a book on the desk contains
+information about the location of the object
+book, as trajector, with respect to another object
+desk, as landmark. Spatial Role Labeling
+(SpRL) is an evaluation task in the information
+extraction domain which sets a goal
+to automatically process text and identify objects
+of spatial scenes and relations between
+them. This paper describes the task in Semantic
+Evaluations 2013, annotation schema,
+corpora, participants, methods and results obtained
+by the participants.
+==========

@@ -1,0 +1,82 @@
+SubmissionNumber#=%=#22
+FinalPaperTitle#=%=#USNA: A Dual-Classifier Approach to Contextual Sentiment Analysis
+ShortPaperTitle#=%=#USNA: A Dual-Classifier Approach to Contextual Sentiment Analysis
+Author{1}{Lastname}#=%=#Harihara
+Author{1}{Firstname}#=%=#Ganesh
+Author{1}{Email}#=%=#m142760@usna.edu
+Author{1}{Affiliation}#=%=#US Naval Academy
+Author{2}{Lastname}#=%=#Yang
+Author{2}{Firstname}#=%=#Eugene
+Author{2}{Email}#=%=#m147404@usna.edu
+Author{2}{Affiliation}#=%=#US Naval Academy
+Author{3}{Lastname}#=%=#Chambers
+Author{3}{Firstname}#=%=#Nate
+Author{3}{Email}#=%=#nchamber@usna.edu
+Author{3}{Affiliation}#=%=#US Naval Academy
+Author{4}{Lastname}#=%=#
+Author{4}{Firstname}#=%=#
+Author{4}{Email}#=%=#
+Author{4}{Affiliation}#=%=#
+Author{5}{Lastname}#=%=#
+Author{5}{Firstname}#=%=#
+Author{5}{Email}#=%=#
+Author{5}{Affiliation}#=%=#
+Author{6}{Lastname}#=%=#
+Author{6}{Firstname}#=%=#
+Author{6}{Email}#=%=#
+Author{6}{Affiliation}#=%=#
+Author{7}{Lastname}#=%=#
+Author{7}{Firstname}#=%=#
+Author{7}{Email}#=%=#
+Author{7}{Affiliation}#=%=#
+Author{8}{Lastname}#=%=#
+Author{8}{Firstname}#=%=#
+Author{8}{Email}#=%=#
+Author{8}{Affiliation}#=%=#
+Author{9}{Lastname}#=%=#
+Author{9}{Firstname}#=%=#
+Author{9}{Email}#=%=#
+Author{9}{Affiliation}#=%=#
+Author{10}{Lastname}#=%=#
+Author{10}{Firstname}#=%=#
+Author{10}{Email}#=%=#
+Author{10}{Affiliation}#=%=#
+Author{11}{Lastname}#=%=#
+Author{11}{Firstname}#=%=#
+Author{11}{Email}#=%=#
+Author{11}{Affiliation}#=%=#
+Author{12}{Lastname}#=%=#
+Author{12}{Firstname}#=%=#
+Author{12}{Email}#=%=#
+Author{12}{Affiliation}#=%=#
+Author{13}{Lastname}#=%=#
+Author{13}{Firstname}#=%=#
+Author{13}{Email}#=%=#
+Author{13}{Affiliation}#=%=#
+Author{14}{Lastname}#=%=#
+Author{14}{Firstname}#=%=#
+Author{14}{Email}#=%=#
+Author{14}{Affiliation}#=%=#
+Author{15}{Lastname}#=%=#
+Author{15}{Firstname}#=%=#
+Author{15}{Email}#=%=#
+Author{15}{Affiliation}#=%=#
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#NA
+JobTitle#==#I work for the US Federal Government, so all my publications are open and free to use. You don
+Organization#==#US Naval Academy
+Computer Science Dept
+572M Holloway Rd. Stop 9F
+Annapolis, MD 21402-5002
+Abstract#==#This paper describes a dual-classifier approach to contextual sentiment
+analysis at the SemEval-2013 Task 2. Contextual analysis of polarity focuses on
+a word or phrase, rather than the broader task of identifying the sentiment of
+an entire text. The Task 2 definition includes target word spans that range in
+size from a single word to entire sentences. However, the context of a single
+word is dependent on the word's surrounding syntax, while a phrase contains
+most of the polarity within itself. We thus describe separate treatment with
+two independent classifiers, outperforming the accuracy of a single classifier.
+Our system ranked 6th out of 19 teams on SMS message classification, and 8th of
+23 on twitter data. We also show a surprising result that a very small amount
+of word context is needed for high-performance polarity extraction.
+==========

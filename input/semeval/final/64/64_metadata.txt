@@ -1,0 +1,88 @@
+SubmissionNumber#=%=#64
+FinalPaperTitle#=%=#REACTION: A naive machine learning approach for sentiment classification
+ShortPaperTitle#=%=#REACTION: A naive machine learning approach for sentiment classification
+Author{1}{Lastname}#=%=#Moreira
+Author{1}{Firstname}#=%=#Silvio
+Author{1}{Email}#=%=#samir@inesc-id.pt
+Author{1}{Affiliation}#=%=#IST/INESC-ID
+Author{2}{Lastname}#=%=#Filgueiras
+Author{2}{Firstname}#=%=#João
+Author{2}{Email}#=%=#jfilgueiras@inesc-id.pt
+Author{2}{Affiliation}#=%=#INESC-ID
+Author{3}{Lastname}#=%=#Martins
+Author{3}{Firstname}#=%=#Bruno
+Author{3}{Email}#=%=#bruno.g.martins@ist.utl.pt
+Author{3}{Affiliation}#=%=#IST/INESC-ID
+Author{4}{Lastname}#=%=#Couto
+Author{4}{Firstname}#=%=#Francisco
+Author{4}{Email}#=%=#fcouto@di.fc.ul.pt
+Author{4}{Affiliation}#=%=#LASIGE - FCUL
+Author{5}{Lastname}#=%=#Silva
+Author{5}{Firstname}#=%=#Mário J.
+Author{5}{Email}#=%=#mjs@inesc-id.pt
+Author{5}{Affiliation}#=%=#IST/INESC-ID
+Author{6}{Lastname}#=%=#
+Author{6}{Firstname}#=%=#
+Author{6}{Email}#=%=#
+Author{6}{Affiliation}#=%=#
+Author{7}{Lastname}#=%=#
+Author{7}{Firstname}#=%=#
+Author{7}{Email}#=%=#
+Author{7}{Affiliation}#=%=#
+Author{8}{Lastname}#=%=#
+Author{8}{Firstname}#=%=#
+Author{8}{Email}#=%=#
+Author{8}{Affiliation}#=%=#
+Author{9}{Lastname}#=%=#
+Author{9}{Firstname}#=%=#
+Author{9}{Email}#=%=#
+Author{9}{Affiliation}#=%=#
+Author{10}{Lastname}#=%=#
+Author{10}{Firstname}#=%=#
+Author{10}{Email}#=%=#
+Author{10}{Affiliation}#=%=#
+Author{11}{Lastname}#=%=#
+Author{11}{Firstname}#=%=#
+Author{11}{Email}#=%=#
+Author{11}{Affiliation}#=%=#
+Author{12}{Lastname}#=%=#
+Author{12}{Firstname}#=%=#
+Author{12}{Email}#=%=#
+Author{12}{Affiliation}#=%=#
+Author{13}{Lastname}#=%=#
+Author{13}{Firstname}#=%=#
+Author{13}{Email}#=%=#
+Author{13}{Affiliation}#=%=#
+Author{14}{Lastname}#=%=#
+Author{14}{Firstname}#=%=#
+Author{14}{Email}#=%=#
+Author{14}{Affiliation}#=%=#
+Author{15}{Lastname}#=%=#
+Author{15}{Firstname}#=%=#
+Author{15}{Email}#=%=#
+Author{15}{Affiliation}#=%=#
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#João Filgueiras
+JobTitle#==#
+Organization#==#INESC-ID
+Rua Alves Redol, 9
+1000-029 Lisboa
+Portugal
+Abstract#==#We evaluate a naive machine learning ap-
+proach to sentiment classification focused on
+Twitter in the context of the sentiment anal-
+ysis task of SemEval-2013. We employ a
+classifier based on the Random Forests algo-
+rithm to determine whether a tweet expresses
+overall positive, negative or neutral sentiment.
+The classifier was trained only with the pro-
+vided dataset and uses as main features word
+vectors and lexicon word counts. Our aver-
+age F-score for all three classes on the Twitter
+evaluation dataset was 51.55%. The average
+F-score of both positive and negative classes
+was 45.01%. For the optional SMS evalua-
+tion dataset our overall average F-score was
+58.82%. The average between positive and
+negative F-scores was 50.11%.
+==========

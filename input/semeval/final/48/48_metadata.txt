@@ -1,0 +1,80 @@
+SubmissionNumber#=%=#48
+FinalPaperTitle#=%=#UMCC_DLSI-(SA): Using a ranking algorithm and informal features to solve Sentiment Analysis in Twitter
+ShortPaperTitle#=%=#UMCC_DLSI-(SA): Using a ranking algorithm and informal features to solve Sentiment Analysis in Twitter
+Author{1}{Lastname}#=%=#Gutiérrez
+Author{1}{Firstname}#=%=#Yoan
+Author{1}{Email}#=%=#yoan.gutierrez@umcc.cu
+Author{1}{Affiliation}#=%=#University of Matanzas
+Author{2}{Lastname}#=%=#González
+Author{2}{Firstname}#=%=#Andy
+Author{2}{Email}#=%=#andy.gonzalez@infonet.umcc.cu
+Author{2}{Affiliation}#=%=#University of Matanzas
+Author{3}{Lastname}#=%=#Pérez
+Author{3}{Firstname}#=%=#Roger
+Author{3}{Email}#=%=#roger.perez@umcc.cu
+Author{3}{Affiliation}#=%=#University of Matanzas
+Author{4}{Lastname}#=%=#Abreu
+Author{4}{Firstname}#=%=#José I.
+Author{4}{Email}#=%=#jose.abreu@umcc.cu
+Author{4}{Affiliation}#=%=#University of Matanzas
+Author{5}{Lastname}#=%=#Fernández Orquín
+Author{5}{Firstname}#=%=#Antonio
+Author{5}{Email}#=%=#antonybr@yahoo.com
+Author{5}{Affiliation}#=%=#University of Alicante
+Author{6}{Lastname}#=%=#Mosquera
+Author{6}{Firstname}#=%=#Alejandro
+Author{6}{Email}#=%=#amosquera@dlsi.ua.es
+Author{6}{Affiliation}#=%=#University of Alicante
+Author{7}{Lastname}#=%=#Montoyo
+Author{7}{Firstname}#=%=#Andrés
+Author{7}{Email}#=%=#montoyo@dlsi.ua.es
+Author{7}{Affiliation}#=%=#University of Alicante
+Author{8}{Lastname}#=%=#Muñoz
+Author{8}{Firstname}#=%=#Rafael
+Author{8}{Email}#=%=#rafael@dlsi.ua.es
+Author{8}{Affiliation}#=%=#University of Alicante
+Author{9}{Lastname}#=%=#Camara
+Author{9}{Firstname}#=%=#Franc
+Author{9}{Email}#=%=#info@franccamara.com
+Author{9}{Affiliation}#=%=#Independent Consultant
+Author{10}{Lastname}#=%=#
+Author{10}{Firstname}#=%=#
+Author{10}{Email}#=%=#
+Author{10}{Affiliation}#=%=#
+Author{11}{Lastname}#=%=#
+Author{11}{Firstname}#=%=#
+Author{11}{Email}#=%=#
+Author{11}{Affiliation}#=%=#
+Author{12}{Lastname}#=%=#
+Author{12}{Firstname}#=%=#
+Author{12}{Email}#=%=#
+Author{12}{Affiliation}#=%=#
+Author{13}{Lastname}#=%=#
+Author{13}{Firstname}#=%=#
+Author{13}{Email}#=%=#
+Author{13}{Affiliation}#=%=#
+Author{14}{Lastname}#=%=#
+Author{14}{Firstname}#=%=#
+Author{14}{Email}#=%=#
+Author{14}{Affiliation}#=%=#
+Author{15}{Lastname}#=%=#
+Author{15}{Firstname}#=%=#
+Author{15}{Email}#=%=#
+Author{15}{Affiliation}#=%=#
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Yoan Gutiérrez
+JobTitle#==#
+Organization#==#University of Matanzas
+Autopista a Varadero km 3 ½
+Matanzas, Cuba
+Abstract#==#In this paper, we describe the development and performance of the supervised
+system UMCC_DLSI-(SA). This system uses corpora where phrases are annotated as
+Positive, Negative, Objective, and Neutral, to achieve new sentiment resources
+involving word dictionaries with their associated polarity. As a result, new
+sentiment inventories are obtained and applied in conjunction with detected
+informal patterns, to tackle the challenges posted in Task 2b of the
+Semeval-2013 competition. Assessing the effectiveness of our application in
+sentiment classification, we obtained a 69% F-Measure for neutral and an
+average of 43% F-Measure for positive and negative using Tweets and SMS
+messages.
+==========

@@ -1,0 +1,78 @@
+SubmissionNumber#=%=#93
+FinalPaperTitle#=%=#SOFTCARDINALITY: Learning to Identify Directional Cross-Lingual Entailment from Cardinalities and SMT
+ShortPaperTitle#=%=#SOFTCARDINALITY: Learning to Identify Directional Cross-Lingual Entailment from Cardinalities and SMT
+Author{1}{Lastname}#=%=#Jimenez
+Author{1}{Firstname}#=%=#Sergio
+Author{1}{Email}#=%=#sgjimenezv@unal.edu.co
+Author{1}{Affiliation}#=%=#National University of Colombia
+Author{2}{Lastname}#=%=#Becerra
+Author{2}{Firstname}#=%=#Claudia
+Author{2}{Email}#=%=#cjbecerrac@unal.edu.co
+Author{2}{Affiliation}#=%=#National University of Colombia
+Author{3}{Lastname}#=%=#Gelbukh
+Author{3}{Firstname}#=%=#Alexander
+Author{3}{Email}#=%=#gelbukh@gelbukh.com
+Author{3}{Affiliation}#=%=#Instituto Politécnico Nacional
+Author{4}{Lastname}#=%=#
+Author{4}{Firstname}#=%=#
+Author{4}{Email}#=%=#
+Author{4}{Affiliation}#=%=#
+Author{5}{Lastname}#=%=#
+Author{5}{Firstname}#=%=#
+Author{5}{Email}#=%=#
+Author{5}{Affiliation}#=%=#
+Author{6}{Lastname}#=%=#
+Author{6}{Firstname}#=%=#
+Author{6}{Email}#=%=#
+Author{6}{Affiliation}#=%=#
+Author{7}{Lastname}#=%=#
+Author{7}{Firstname}#=%=#
+Author{7}{Email}#=%=#
+Author{7}{Affiliation}#=%=#
+Author{8}{Lastname}#=%=#
+Author{8}{Firstname}#=%=#
+Author{8}{Email}#=%=#
+Author{8}{Affiliation}#=%=#
+Author{9}{Lastname}#=%=#
+Author{9}{Firstname}#=%=#
+Author{9}{Email}#=%=#
+Author{9}{Affiliation}#=%=#
+Author{10}{Lastname}#=%=#
+Author{10}{Firstname}#=%=#
+Author{10}{Email}#=%=#
+Author{10}{Affiliation}#=%=#
+Author{11}{Lastname}#=%=#
+Author{11}{Firstname}#=%=#
+Author{11}{Email}#=%=#
+Author{11}{Affiliation}#=%=#
+Author{12}{Lastname}#=%=#
+Author{12}{Firstname}#=%=#
+Author{12}{Email}#=%=#
+Author{12}{Affiliation}#=%=#
+Author{13}{Lastname}#=%=#
+Author{13}{Firstname}#=%=#
+Author{13}{Email}#=%=#
+Author{13}{Affiliation}#=%=#
+Author{14}{Lastname}#=%=#
+Author{14}{Firstname}#=%=#
+Author{14}{Email}#=%=#
+Author{14}{Affiliation}#=%=#
+Author{15}{Lastname}#=%=#
+Author{15}{Firstname}#=%=#
+Author{15}{Email}#=%=#
+Author{15}{Affiliation}#=%=#
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Sergio Jimenez
+JobTitle#==#
+Organization#==#Universidad Nacional de Colombia
+Ciudad Universitaria, edificio 453, oficina 114, Bogotá, Colombia.
+Abstract#==#In this paper we describe our system submitted for evaluation in the
+CLTE-SemEval-2013 task, which achieved the best results in two of the four data
+sets, and finished third in average. This system consists of a SVM classifier
+with features extracted from texts (and their translations SMT) based on a
+cardinality function. Such function was the soft cardinality. Furthermore, this
+system was simplified by providing a single model for the 4 pairs of languages
+obtaining better (unofficial) results than separate models for each language
+pair. We also evaluated the use of additional circular-pivoting translations
+achieving results 6.14% above the best official results.
+==========

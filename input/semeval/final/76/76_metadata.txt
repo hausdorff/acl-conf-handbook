@@ -1,0 +1,81 @@
+SubmissionNumber#=%=#76
+FinalPaperTitle#=%=#SemEval-2013 Task 9 : Extraction of Drug-Drug Interactions from Biomedical Texts (DDIExtraction 2013)
+ShortPaperTitle#=%=#SemEval-2013 Task 9 : Extraction of Drug-Drug Interactions from Biomedical Texts (DDIExtraction 2013)
+Author{1}{Lastname}#=%=#Segura-Bedmar
+Author{1}{Firstname}#=%=#Isabel
+Author{1}{Email}#=%=#isegura@inf.uc3m.es
+Author{1}{Affiliation}#=%=#Carlos III University of Madrid
+Author{2}{Lastname}#=%=#Martínez
+Author{2}{Firstname}#=%=#Paloma
+Author{2}{Email}#=%=#pmf@inf.uc3m.es
+Author{2}{Affiliation}#=%=#Carlos III University of Madrid
+Author{3}{Lastname}#=%=#Herrero Zazo
+Author{3}{Firstname}#=%=#María
+Author{3}{Email}#=%=#mhzazo@pa.uc3m.es
+Author{3}{Affiliation}#=%=#Carlos III University of Madrid
+Author{4}{Lastname}#=%=#
+Author{4}{Firstname}#=%=#
+Author{4}{Email}#=%=#
+Author{4}{Affiliation}#=%=#
+Author{5}{Lastname}#=%=#
+Author{5}{Firstname}#=%=#
+Author{5}{Email}#=%=#
+Author{5}{Affiliation}#=%=#
+Author{6}{Lastname}#=%=#
+Author{6}{Firstname}#=%=#
+Author{6}{Email}#=%=#
+Author{6}{Affiliation}#=%=#
+Author{7}{Lastname}#=%=#
+Author{7}{Firstname}#=%=#
+Author{7}{Email}#=%=#
+Author{7}{Affiliation}#=%=#
+Author{8}{Lastname}#=%=#
+Author{8}{Firstname}#=%=#
+Author{8}{Email}#=%=#
+Author{8}{Affiliation}#=%=#
+Author{9}{Lastname}#=%=#
+Author{9}{Firstname}#=%=#
+Author{9}{Email}#=%=#
+Author{9}{Affiliation}#=%=#
+Author{10}{Lastname}#=%=#
+Author{10}{Firstname}#=%=#
+Author{10}{Email}#=%=#
+Author{10}{Affiliation}#=%=#
+Author{11}{Lastname}#=%=#
+Author{11}{Firstname}#=%=#
+Author{11}{Email}#=%=#
+Author{11}{Affiliation}#=%=#
+Author{12}{Lastname}#=%=#
+Author{12}{Firstname}#=%=#
+Author{12}{Email}#=%=#
+Author{12}{Affiliation}#=%=#
+Author{13}{Lastname}#=%=#
+Author{13}{Firstname}#=%=#
+Author{13}{Email}#=%=#
+Author{13}{Affiliation}#=%=#
+Author{14}{Lastname}#=%=#
+Author{14}{Firstname}#=%=#
+Author{14}{Email}#=%=#
+Author{14}{Affiliation}#=%=#
+Author{15}{Lastname}#=%=#
+Author{15}{Firstname}#=%=#
+Author{15}{Email}#=%=#
+Author{15}{Affiliation}#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Isabel Segura-Bedmar
+JobTitle#==#
+Organization#==#Carlos III University of Madrid
+Abstract#==#In this paper, we define the SemEval-2013 Task9: Extraction of Drug-Drug
+Interactions from Biomedical Texts (DDIExtraction 2013). We describe how the
+data sets were created. Also, we report and analyze the results and describe
+the participant systems.
+The DDIExtraction 2013 task concerns the recognition of drugs and extraction of
+drug-drug interactions that appear in biomedical literature. 
+We propose two subtasks for the DDIExtraction 2013 Shared Task challenge: 1)
+the recognition and classification of drug names and 2) the extraction and
+classification of their interactions.
+Both subtasks have been very successful in participation
+and results. There were 14 teams who submitted a total of 38 runs.
+The best result reported for the first subtask was F1 of 71.5\% and 65.1\% for
+the second one.
+==========

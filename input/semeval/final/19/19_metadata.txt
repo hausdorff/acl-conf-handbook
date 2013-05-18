@@ -1,0 +1,80 @@
+SubmissionNumber#=%=#19
+FinalPaperTitle#=%=#EHU-ALM: Similarity-Feature Based Approach for Student Response Analysis
+ShortPaperTitle#=%=#EHU-ALM: Similarity-Feature Based Approach for Student Response Analysis
+Author{1}{Lastname}#=%=#Aldabe
+Author{1}{Firstname}#=%=#Itziar
+Author{1}{Email}#=%=#itziar.aldabe@ehu.es
+Author{1}{Affiliation}#=%=#University of the Basque Country (UPV/EHU)
+Author{2}{Lastname}#=%=#Maritxalar
+Author{2}{Firstname}#=%=#Montse
+Author{2}{Email}#=%=#montse.maritxalar@ehu.es
+Author{2}{Affiliation}#=%=#University of the Basque Country (UPV/EHU)
+Author{3}{Lastname}#=%=#Lopez de Lacalle
+Author{3}{Firstname}#=%=#Oier
+Author{3}{Email}#=%=#oier.lopezdelacalle@gmail.com
+Author{3}{Affiliation}#=%=#IKERBASQUE, Basque Foundation for Science - University of Edinburgh
+Author{4}{Lastname}#=%=#
+Author{4}{Firstname}#=%=#
+Author{4}{Email}#=%=#
+Author{4}{Affiliation}#=%=#
+Author{5}{Lastname}#=%=#
+Author{5}{Firstname}#=%=#
+Author{5}{Email}#=%=#
+Author{5}{Affiliation}#=%=#
+Author{6}{Lastname}#=%=#
+Author{6}{Firstname}#=%=#
+Author{6}{Email}#=%=#
+Author{6}{Affiliation}#=%=#
+Author{7}{Lastname}#=%=#
+Author{7}{Firstname}#=%=#
+Author{7}{Email}#=%=#
+Author{7}{Affiliation}#=%=#
+Author{8}{Lastname}#=%=#
+Author{8}{Firstname}#=%=#
+Author{8}{Email}#=%=#
+Author{8}{Affiliation}#=%=#
+Author{9}{Lastname}#=%=#
+Author{9}{Firstname}#=%=#
+Author{9}{Email}#=%=#
+Author{9}{Affiliation}#=%=#
+Author{10}{Lastname}#=%=#
+Author{10}{Firstname}#=%=#
+Author{10}{Email}#=%=#
+Author{10}{Affiliation}#=%=#
+Author{11}{Lastname}#=%=#
+Author{11}{Firstname}#=%=#
+Author{11}{Email}#=%=#
+Author{11}{Affiliation}#=%=#
+Author{12}{Lastname}#=%=#
+Author{12}{Firstname}#=%=#
+Author{12}{Email}#=%=#
+Author{12}{Affiliation}#=%=#
+Author{13}{Lastname}#=%=#
+Author{13}{Firstname}#=%=#
+Author{13}{Email}#=%=#
+Author{13}{Affiliation}#=%=#
+Author{14}{Lastname}#=%=#
+Author{14}{Firstname}#=%=#
+Author{14}{Email}#=%=#
+Author{14}{Affiliation}#=%=#
+Author{15}{Lastname}#=%=#
+Author{15}{Firstname}#=%=#
+Author{15}{Email}#=%=#
+Author{15}{Affiliation}#=%=#
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Itziar Aldabe
+JobTitle#==#
+Organization#==#IXA Research Group 
+Joxe Mari Korta Centre 
+Tolosa Etorbidea, 72 
+20018 Donostia - San Sebastian
+Abstract#==#We present a 5-way supervised system based on syntactic-semantic similarity
+features. The model deploys: Text overlap measures, WordNet-based lexical
+similarities, graph-based similarities, corpus-based similarities, syntactic
+structure overlap and predicate-argument overlap measures. These measures are
+applied to question, reference answer and student answer triplets. We take into
+account the negation in the syntactic and predicate-argument overlap measures.
+Our system uses the domain-specific data as one dataset to build a robust
+system. The results show that our system is above the median and mean on all
+the evaluation scenarios of the SemEval-2013 task #7.
+==========

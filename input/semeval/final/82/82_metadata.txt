@@ -1,0 +1,93 @@
+SubmissionNumber#=%=#82
+FinalPaperTitle#=%=#AI-KU: Using Substitute Vectors and Co-Occurrence Modeling For Word Sense Induction and Disambiguation
+ShortPaperTitle#=%=#AI-KU: Using Substitute Vectors and Co-Occurrence Modeling For Word Sense Induction and Disambiguation
+Author{1}{Lastname}#=%=#Baskaya
+Author{1}{Firstname}#=%=#Osman
+Author{1}{Email}#=%=#osbaskaya@gmail.com
+Author{1}{Affiliation}#=%=#Koc University
+Author{2}{Lastname}#=%=#Sert
+Author{2}{Firstname}#=%=#Enis
+Author{2}{Email}#=%=#esert@ku.edu.tr
+Author{2}{Affiliation}#=%=#Koc University
+Author{3}{Lastname}#=%=#Cirik
+Author{3}{Firstname}#=%=#Volkan
+Author{3}{Email}#=%=#vcirik@ku.edu.tr
+Author{3}{Affiliation}#=%=#Koc University
+Author{4}{Lastname}#=%=#Yuret
+Author{4}{Firstname}#=%=#Deniz
+Author{4}{Email}#=%=#dyuret@ku.edu.tr
+Author{4}{Affiliation}#=%=#Koc University
+Author{5}{Lastname}#=%=#
+Author{5}{Firstname}#=%=#
+Author{5}{Email}#=%=#
+Author{5}{Affiliation}#=%=#
+Author{6}{Lastname}#=%=#
+Author{6}{Firstname}#=%=#
+Author{6}{Email}#=%=#
+Author{6}{Affiliation}#=%=#
+Author{7}{Lastname}#=%=#
+Author{7}{Firstname}#=%=#
+Author{7}{Email}#=%=#
+Author{7}{Affiliation}#=%=#
+Author{8}{Lastname}#=%=#
+Author{8}{Firstname}#=%=#
+Author{8}{Email}#=%=#
+Author{8}{Affiliation}#=%=#
+Author{9}{Lastname}#=%=#
+Author{9}{Firstname}#=%=#
+Author{9}{Email}#=%=#
+Author{9}{Affiliation}#=%=#
+Author{10}{Lastname}#=%=#
+Author{10}{Firstname}#=%=#
+Author{10}{Email}#=%=#
+Author{10}{Affiliation}#=%=#
+Author{11}{Lastname}#=%=#
+Author{11}{Firstname}#=%=#
+Author{11}{Email}#=%=#
+Author{11}{Affiliation}#=%=#
+Author{12}{Lastname}#=%=#
+Author{12}{Firstname}#=%=#
+Author{12}{Email}#=%=#
+Author{12}{Affiliation}#=%=#
+Author{13}{Lastname}#=%=#
+Author{13}{Firstname}#=%=#
+Author{13}{Email}#=%=#
+Author{13}{Affiliation}#=%=#
+Author{14}{Lastname}#=%=#
+Author{14}{Firstname}#=%=#
+Author{14}{Email}#=%=#
+Author{14}{Affiliation}#=%=#
+Author{15}{Lastname}#=%=#
+Author{15}{Firstname}#=%=#
+Author{15}{Email}#=%=#
+Author{15}{Affiliation}#=%=#
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Osman Baskaya
+JobTitle#==#
+Organization#==#Rumeli Feneri,  34450, Istanbul, Turkey
+Abstract#==#Word sense induction aims to discover differ-
+ent senses of a word from a corpus by us-
+ing unsupervised learning approaches. Once a
+sense inventory is obtained for an ambiguous
+word, word sense discrimination approaches
+choose the best-fitting single sense for a given
+context from the induced sense inventory.
+However, there may not be a clear distinction
+between one sense and another, although for
+a context, more than one induced sense can
+be suitable. Graded word sense method al-
+lows for labeling a word in more than one
+sense. In contrast to the most common ap-
+proach which is to apply clustering or graph
+partitioning on a representation of first or sec-
+ond order co-occurrences of a word, we pro-
+pose a system that creates a substitute vec-
+tor for each target word from the most likely
+substitutes suggested by a statistical language
+model. Word samples are then taken accord-
+ing to probabilities of these substitutes and the
+results of the co-occurrence model are clus-
+tered. This approach outperforms the other
+systems on graded word sense induction task
+in SemEval-2013.
+==========

@@ -1,0 +1,78 @@
+SubmissionNumber#=%=#45
+FinalPaperTitle#=%=#UMCC_DLSI-(EPS): Paraphrases Detection Based on Semantic Distance
+ShortPaperTitle#=%=#UMCC_DLSI-(EPS): Paraphrases Detection Based on Semantic Distance
+Author{1}{Lastname}#=%=#Dávila
+Author{1}{Firstname}#=%=#Héctor
+Author{1}{Email}#=%=#hector.davila@umcc.cu
+Author{1}{Affiliation}#=%=#University of Matanzas
+Author{2}{Lastname}#=%=#Fernández Orquín
+Author{2}{Firstname}#=%=#Antonio
+Author{2}{Email}#=%=#tony@umcc.cu
+Author{2}{Affiliation}#=%=#University of Matanzas
+Author{3}{Lastname}#=%=#Chávez
+Author{3}{Firstname}#=%=#Alexander
+Author{3}{Email}#=%=#alexander.chavez@umcc.cu
+Author{3}{Affiliation}#=%=#University of Matanzas
+Author{4}{Lastname}#=%=#Gutiérrez
+Author{4}{Firstname}#=%=#Yoan
+Author{4}{Email}#=%=#yoan.gutierrez@umcc.cu
+Author{4}{Affiliation}#=%=#University of Matanzas
+Author{5}{Lastname}#=%=#Collazo
+Author{5}{Firstname}#=%=#Armando
+Author{5}{Email}#=%=#armando.collazo@umcc.cu
+Author{5}{Affiliation}#=%=#University of Matanzas
+Author{6}{Lastname}#=%=#Abreu
+Author{6}{Firstname}#=%=#José I.
+Author{6}{Email}#=%=#jose.abreu@umcc.cu
+Author{6}{Affiliation}#=%=#University of Matanzas
+Author{7}{Lastname}#=%=#Montoyo
+Author{7}{Firstname}#=%=#Andrés
+Author{7}{Email}#=%=#montoyo@dlsi.ua.es
+Author{7}{Affiliation}#=%=#University of Alicante
+Author{8}{Lastname}#=%=#Muñoz
+Author{8}{Firstname}#=%=#Rafael
+Author{8}{Email}#=%=#rafael@dlsi.ua.es
+Author{8}{Affiliation}#=%=#University of Alicante
+Author{9}{Lastname}#=%=#
+Author{9}{Firstname}#=%=#
+Author{9}{Email}#=%=#
+Author{9}{Affiliation}#=%=#
+Author{10}{Lastname}#=%=#
+Author{10}{Firstname}#=%=#
+Author{10}{Email}#=%=#
+Author{10}{Affiliation}#=%=#
+Author{11}{Lastname}#=%=#
+Author{11}{Firstname}#=%=#
+Author{11}{Email}#=%=#
+Author{11}{Affiliation}#=%=#
+Author{12}{Lastname}#=%=#
+Author{12}{Firstname}#=%=#
+Author{12}{Email}#=%=#
+Author{12}{Affiliation}#=%=#
+Author{13}{Lastname}#=%=#
+Author{13}{Firstname}#=%=#
+Author{13}{Email}#=%=#
+Author{13}{Affiliation}#=%=#
+Author{14}{Lastname}#=%=#
+Author{14}{Firstname}#=%=#
+Author{14}{Email}#=%=#
+Author{14}{Affiliation}#=%=#
+Author{15}{Lastname}#=%=#
+Author{15}{Firstname}#=%=#
+Author{15}{Email}#=%=#
+Author{15}{Affiliation}#=%=#
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Yoan Gutierrez
+JobTitle#==#
+Organization#==#University of Matanzas.
+Autopista a Varadero km 3 ½
+Matanzas, Cuba.
+Abstract#==#This paper describes the specifications and results of UMCC_DLSI-(EPS) system,
+which participated in the first Evaluating Phrasal Semantics of SemEval-2013.
+Our supervised system uses different kinds of semantic features to train a
+bagging classifier used to select the correct similarity option. Related to the
+different features we can highlight the resource WordNet used to extract
+semantic relations among words and the use of different algorithms to establish
+semantic similarities. Our system obtains promising results with a precision
+value around 78% for the English corpus and 71.84% for the Italian corpus.
+==========

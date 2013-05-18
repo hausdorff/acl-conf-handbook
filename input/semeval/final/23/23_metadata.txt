@@ -1,0 +1,82 @@
+SubmissionNumber#=%=#23
+FinalPaperTitle#=%=#KLUE: Simple and robust methods for polarity classification
+ShortPaperTitle#=%=#KLUE: Simple and robust methods for polarity classification
+Author{1}{Lastname}#=%=#Proisl
+Author{1}{Firstname}#=%=#Thomas
+Author{1}{Email}#=%=#thomas.proisl@fau.de
+Author{1}{Affiliation}#=%=#FAU Erlangen-Nürnberg
+Author{2}{Lastname}#=%=#Greiner
+Author{2}{Firstname}#=%=#Paul
+Author{2}{Email}#=%=#paul.greiner@fau.de
+Author{2}{Affiliation}#=%=#FAU Erlangen-Nürnberg
+Author{3}{Lastname}#=%=#Evert
+Author{3}{Firstname}#=%=#Stefan
+Author{3}{Email}#=%=#stefan.evert@fau.de
+Author{3}{Affiliation}#=%=#FAU Erlangen-Nürnberg
+Author{4}{Lastname}#=%=#Kabashi
+Author{4}{Firstname}#=%=#Besim
+Author{4}{Email}#=%=#besim.kabashi@fau.de
+Author{4}{Affiliation}#=%=#FAU Erlangen-Nürnberg
+Author{5}{Lastname}#=%=#
+Author{5}{Firstname}#=%=#
+Author{5}{Email}#=%=#
+Author{5}{Affiliation}#=%=#
+Author{6}{Lastname}#=%=#
+Author{6}{Firstname}#=%=#
+Author{6}{Email}#=%=#
+Author{6}{Affiliation}#=%=#
+Author{7}{Lastname}#=%=#
+Author{7}{Firstname}#=%=#
+Author{7}{Email}#=%=#
+Author{7}{Affiliation}#=%=#
+Author{8}{Lastname}#=%=#
+Author{8}{Firstname}#=%=#
+Author{8}{Email}#=%=#
+Author{8}{Affiliation}#=%=#
+Author{9}{Lastname}#=%=#
+Author{9}{Firstname}#=%=#
+Author{9}{Email}#=%=#
+Author{9}{Affiliation}#=%=#
+Author{10}{Lastname}#=%=#
+Author{10}{Firstname}#=%=#
+Author{10}{Email}#=%=#
+Author{10}{Affiliation}#=%=#
+Author{11}{Lastname}#=%=#
+Author{11}{Firstname}#=%=#
+Author{11}{Email}#=%=#
+Author{11}{Affiliation}#=%=#
+Author{12}{Lastname}#=%=#
+Author{12}{Firstname}#=%=#
+Author{12}{Email}#=%=#
+Author{12}{Affiliation}#=%=#
+Author{13}{Lastname}#=%=#
+Author{13}{Firstname}#=%=#
+Author{13}{Email}#=%=#
+Author{13}{Affiliation}#=%=#
+Author{14}{Lastname}#=%=#
+Author{14}{Firstname}#=%=#
+Author{14}{Email}#=%=#
+Author{14}{Affiliation}#=%=#
+Author{15}{Lastname}#=%=#
+Author{15}{Firstname}#=%=#
+Author{15}{Email}#=%=#
+Author{15}{Affiliation}#=%=#
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Thomas Proisl
+JobTitle#==#Wissenschaftlicher Mitarbeiter
+Organization#==#Friedrich-Alexander-Universität Erlangen-Nürnberg
+Department Germanistik und Komparatistik
+Professur für Korpuslinguistik
+Bismarckstr. 6
+91054 Erlangen, Germany
+Abstract#==#This paper describes our approach to the SemEval-2013 task on ``Sentiment
+Analysis in Twitter''. We use simple bag-of-words models, a freely available
+sentiment dictionary automatically extended with distributionally similar
+terms, as well as lists of emoticons and internet slang abbreviations in
+conjunction with fast and robust machine learning algorithms. The resulting
+system is resource-lean, making it relatively independent of a specific
+language. Despite its simplicity, the system achieves competitive accuracies of
+0.70--0.72 in detecting the sentiment of text messages. We also apply our
+approach to the task of detecting the context-dependent sentiment of individual
+words and phrases within a message.
+==========

@@ -1,0 +1,290 @@
+* Thursday, June 13, 2013
++ 18:30--20:30 Session PLN1: *SEM Opening Reception and STS Poster Session (All SemEval attendees are invited)
+
+* Friday, June 14, 2013
++ 08:00--08:30 Registration
++ 08:30--08:40 Opening remarks
+
+= Session SE1: Session 1
+40 08:40--09:00 # SemEval-2013 Task 1: TempEval-3: Evaluating Time Expressions, Events, and Temporal Relations
+32 09:00--09:20 # ClearTK-TimeML: A minimalist approach to TempEval 2013
+39 09:20--09:30 # HeidelTime: Tuning English and Developing Spanish Resources for TempEval-3
++ 09:30--10:30 Session PLN2: Keynote address: David Forsyth
++ 10:30--11:00 Coffee Break
+
+= Session SE2: Session 2
+58 11:00--11:10 # ATT1: Temporal Annotation Using Big Windows and Rich Syntactic and Semantic Features
+43 11:10--11:30 # Semeval-2013 Task 8: Cross-lingual Textual Entailment for Content Synchronization
+93 11:30--11:50 # SOFTCARDINALITY: Learning to Identify Directional Cross-Lingual Entailment from Cardinalities and SMT
+70 11:50--12:10 # SemEval-2013 Task 5: Evaluating Phrasal Semantics
+4 12:10--12:30 # HsH: Estimating Semantic Similarity of Words and Short Phrases with Frequency Normalized Distance Measures
+
++ 12:30--13:30 Session SP1: Lunch Break + Poster Session 1 for Tasks 1, 5, 8
+#? 40 # NOTE: PAPER PRESENT IN THE SCHEDULE BUT NOT IN THE METADATA  # SemEval-2013 Task 1: TempEval-3: Evaluating Time Expressions, Events, and Temporal Relations
+#? 32 # NOTE: PAPER PRESENT IN THE SCHEDULE BUT NOT IN THE METADATA  # ClearTK-TimeML: A minimalist approach to TempEval 2013
+37  # ManTIME: Temporal expression identification and normalization in the TempEval-3 challenge
+#? 39 # NOTE: PAPER PRESENT IN THE SCHEDULE BUT NOT IN THE METADATA  # HeidelTime: Tuning English and Developing Spanish Resources for TempEval-3
+50  # FSS-TimEx for TempEval-3: Extracting Temporal Information from Text
+#? 58 # NOTE: PAPER PRESENT IN THE SCHEDULE BUT NOT IN THE METADATA  # ATT1: Temporal Annotation Using Big Windows and Rich Syntactic and Semantic Features
+69  # JU_CSE: A CRF Based Approach to Annotation of Temporal Expression, Event and Temporal Relations
+75  # NavyTime: Event and Time Ordering from Raw Text
+96  # SUTime: Evaluation in TempEval-3
+108  # KUL: Data-driven Approach to Temporal Parsing of Newswire Articles
+112  # UTTime: Temporal Relation Classification using Deep Syntactic Features
+#? 70 # NOTE: PAPER PRESENT IN THE SCHEDULE BUT NOT IN THE METADATA  # SemEval-2013 Task 5: Evaluating Phrasal Semantics
+#? 4 # NOTE: PAPER PRESENT IN THE SCHEDULE BUT NOT IN THE METADATA  # HsH: Estimating Semantic Similarity of Words and Short Phrases with Frequency Normalized Distance Measures
+45  # UMCC_DLSI-(EPS): Paraphrases Detection Based on Semantic Distance
+83  # MELODI: Semantic Similarity of Words and Compositional Phrases using Latent Vector Weighting
+87  # IIRG: A Naive Approach to Evaluating Phrasal Semantics
+88  # ClaC: Semantic Relatedness of Words and Phrases
+98  # UNAL: Discriminating between Literal and Figurative Phrasal Usage Using Distributional Statistics and POS tags
+#? 43 # NOTE: PAPER PRESENT IN THE SCHEDULE BUT NOT IN THE METADATA  # Semeval-2013 Task 8: Cross-lingual Textual Entailment for Content Synchronization
+10  # ECNUCS: Recognizing Cross-lingual Textual Entailment Using Multiple Text Similarity and Text Difference Measures
+14  # BUAP: N-gram based Feature Evaluation for the Cross-Lingual Textual Entailment Task
+20  # ALTN: Word Alignment Features for Cross-lingual Textual Entailment
+#? 93 # NOTE: PAPER PRESENT IN THE SCHEDULE BUT NOT IN THE METADATA  # SOFTCARDINALITY: Learning to Identify Directional Cross-Lingual Entailment from Cardinalities and SMT
+100  # Umelb: Cross-lingual Textual Entailment with Word Alignment and String Similarity Features
+
++ 13:30--14:30 Session PLN3: Joint Panel: Future of *SEM / STS Shared Task / SemEval
+
+= Session SE3: Session 3
+#? 98 14:30--14:50 # NOTE: PAPER PRESENT IN THE SCHEDULE BUT NOT IN THE METADATA  # UNAL: Discriminating between Literal and Figurative Phrasal Usage Using Distributional Statistics and POS tags
+92 14:50--15:10 # SemEval-2013 Task 4: Free Paraphrases of Noun Compounds
+85 15:10--15:30 # MELODI: A Supervised Distributional Approach for Free Paraphrasing of Noun Compounds
+
++ 15:30--16:30 Session SP2: Coffee Break + Poster Session 2 for Tasks 4, 10, 11, 12
+#? 92 # NOTE: PAPER PRESENT IN THE SCHEDULE BUT NOT IN THE METADATA  # SemEval-2013 Task 4: Free Paraphrases of Noun Compounds
+42  # SFS-TUE: Compound Paraphrasing with a Language Model and Discriminative Reranking
+62  # IIIT-H: A Corpus-Driven Co-occurrence Based Probabilistic Model for Noun Compound Paraphrasing
+#? 85 # NOTE: PAPER PRESENT IN THE SCHEDULE BUT NOT IN THE METADATA  # MELODI: A Supervised Distributional Approach for Free Paraphrasing of Noun Compounds
+25  # SemEval-2013 Task 10: Cross-lingual Word Sense Disambiguation
+3  # XLING: Matching Query Sentences to a Parallel Corpus using Topic Models for WSD
+6  # HLTDI: CL-WSD Using Markov Random Fields for SemEval-2013 Task 10
+13  # LIMSI : Cross-lingual Word Sense Disambiguation using Translation Sense Clustering
+44  # WSD2: Parameter optimisation for Memory-based Cross-Lingual Word-Sense Disambiguation
+90  # NRC: A Machine Translation Approach to Cross-Lingual Word Sense Disambiguation (SemEval-2013 Task 10)
+68  # SemEval-2013 Task 11: Word Sense Induction and Disambiguation within an End-User Application
+41  # Duluth : Word Sense Induction Applied to Web Page Clustering
+72  # SATTY : Word Sense Induction Application in Web Search Clustering
+78  # UKP-WSI: UKP Lab Semeval-2013 Task 11 System Description
+103  # unimelb: Topic Modelling-based Word Sense Induction for Web Snippet Clustering
+65  # SemEval-2013 Task 12: Multilingual Word Sense Disambiguation
+36  # GETALP System : Propagation of a Lesk Measure through an Ant Colony Algorithm
+47  # UMCC_DLSI: Reinforcing a Ranking Algorithm with Sense Frequencies and Multidimensional Semantic Resources to solve Multilingual Word Sense Disambiguation
+113  # DAEBAK!: Peripheral Diversity for Multilingual Word Sense Disambiguation
+
+= Session SE4: Session 4
+#? 25 16:30--16:50 # NOTE: PAPER PRESENT IN THE SCHEDULE BUT NOT IN THE METADATA  # SemEval-2013 Task 10: Cross-lingual Word Sense Disambiguation
+#? 6 16:50--17:10 # NOTE: PAPER PRESENT IN THE SCHEDULE BUT NOT IN THE METADATA  # HLTDI: CL-WSD Using Markov Random Fields for SemEval-2013 Task 10
+#? 68 17:10--17:30 # NOTE: PAPER PRESENT IN THE SCHEDULE BUT NOT IN THE METADATA  # SemEval-2013 Task 11: Word Sense Induction and Disambiguation within an End-User Application
+#? 103 17:30--17:50 # NOTE: PAPER PRESENT IN THE SCHEDULE BUT NOT IN THE METADATA  # unimelb: Topic Modelling-based Word Sense Induction for Web Snippet Clustering
+#? 65 17:50--18:10 # NOTE: PAPER PRESENT IN THE SCHEDULE BUT NOT IN THE METADATA  # SemEval-2013 Task 12: Multilingual Word Sense Disambiguation
+#? 47 18:10--18:20 # NOTE: PAPER PRESENT IN THE SCHEDULE BUT NOT IN THE METADATA  # UMCC_DLSI: Reinforcing a Ranking Algorithm with Sense Frequencies and Multidimensional Semantic Resources to solve Multilingual Word Sense Disambiguation
+#? 113 18:20--18:30 # NOTE: PAPER PRESENT IN THE SCHEDULE BUT NOT IN THE METADATA  # DAEBAK!: Peripheral Diversity for Multilingual Word Sense Disambiguation
+
+* Saturday, June 15, 2013
+= Session SE5: Session 5
+107 08:40--09:00 # SemEval-2013 Task 3: Spatial Role Labeling
+86 09:00--09:20 # SemEval-2013 Task 7: The Joint Student Response Analysis and 8th Recognizing Textual Entailment Challenge
+18 09:20--09:35 # ETS: Domain Adaptation and Stacking for Short Answer Scoring
+95 09:35--09:50 # SOFTCARDINALITY: Hierarchical Text Overlap for Student Response Analysis
+11 09:50--10:00 # UKP-BIU: Similarity and Entailment Metrics for Student Response Analysis
+77 10:00--10:20 # SemEval-2013 Task 13: Word Sense Induction for Graded and Non-Graded Senses
+82 10:20--10:30 # AI-KU: Using Substitute Vectors and Co-Occurrence Modeling For Word Sense Induction and Disambiguation
+
++ 10:30--11:00 Coffee Break
+
+= Session SE6: Session 6
+104 11:00--11:10 # unimelb: Topic Modelling-based Word Sense Induction
+101 11:10--11:30 # SemEval-2013 Task 2: Sentiment Analysis in Twitter
+89 11:30--11:50 # NRC-Canada: Building the State-of-the-Art in Sentiment Analysis of Tweets
+8 11:50--12:00 # GU-MLT-LT: Sentiment Analysis of Short Messages using Linguistic Features and Stochastic Gradient Descent
+9 12:00--12:10 # AVAYA: Sentiment Analysis on Twitter with Self-Training and Polarity Lexicon Expansion
+76 12:10--12:30 # SemEval-2013 Task 9 : Extraction of Drug-Drug Interactions from Biomedical Texts (DDIExtraction 2013)
+28 12:30--12:50 # FBK-irst : A Multi-Phase Kernel Based Approach for Drug-Drug Interaction Detection and Classification that Exploits Linguistic Information
+38 12:50--13:10 # WBI-NER: The impact of domain-specific features on the performance of identifying and classifying mentions of drugs
+= Session SP3: (13:10--15:30) Lunch Break  + Poster Session 3 for Tasks 2, 3, 7, 9, 13
+#? 101 # NOTE: PAPER PRESENT IN THE SCHEDULE BUT NOT IN THE METADATA  # SemEval-2013 Task 2: Sentiment Analysis in Twitter
+2  # AMI&ERIC: How to Learn with Naive Bayes and Prior Knowledge: an Application to Sentiment Analysis
+5  # UNITOR: Combining Syntactic and Semantic Kernels for Twitter Sentiment Analysis
+#? 8 # NOTE: PAPER PRESENT IN THE SCHEDULE BUT NOT IN THE METADATA  # GU-MLT-LT: Sentiment Analysis of Short Messages using Linguistic Features and Stochastic Gradient Descent
+#? 9 # NOTE: PAPER PRESENT IN THE SCHEDULE BUT NOT IN THE METADATA  # AVAYA: Sentiment Analysis on Twitter with Self-Training and Polarity Lexicon Expansion
+12  # TJP: Using Twitter to Analyze the Polarity of Contexts
+15  # uOttawa: System description for SemEval 2013 Task 2 Sentiment Analysis in Twitter
+21  # UT-DB: An Experimental Study on Sentiment Analysis in Twitter
+22  # USNA: A Dual-Classifier Approach to Contextual Sentiment Analysis
+23  # KLUE: Simple and robust methods for polarity classification
+24  # SINAI: Machine Learning and Emotion of the Crowd for Sentiment Analysis in Microblogs
+26  # ECNUCS: A Surface Information Based System Description of Sentiment Analysis in Twitter in the SemEval-2013 (Task 2)
+27  # Umigon: sentiment analysis for tweets based on terms lists and heuristics
+29  # [LVIC-LIMSI]: Using Syntactic Features and Multi-polarity Words for Sentiment Analysis in Twitter
+33  # SwatCS: Combining simple classifiers with estimated accuracy
+34  # NTNU: Domain Semi-Independent Short Message Sentiment Classification
+35  # SAIL: A hybrid approach to sentiment analysis
+48  # UMCC_DLSI-(SA): Using a ranking algorithm and informal features to solve Sentiment Analysis in Twitter
+51  # ASVUniOfLeipzig: Sentiment Analysis in Twitter using Data-driven Machine Learning Techniques
+53  # Experiments with DBpedia, WordNet and SentiWordNet as resources for sentiment analysis in micro-blogging
+54  # OPTWIMA: Comparing Knowledge-rich and Knowledge-poor Approaches for Sentiment Analysis in Short Informal Texts
+56  # FBK: Sentiment Analysis in Twitter with Tweetsted
+57  # SU-Sentilab : A Classification System for Sentiment Analysis in Twitter
+59  # Columbia NLP: Sentiment Detection of Subjective Phrases in Social Media
+63  # FBM: Combining lexicon-based ML and heuristics for Social Media Polarities
+64  # REACTION: A naive machine learning approach for sentiment classification
+66  # IITB-Sentiment-Analysts: Participation in Sentiment Analysis in Twitter SemEval 2013 Task
+67  # SSA-UO: Unsupervised Sentiment Analysis in Twitter
+74  # senti.ue-en: an approach for informally written short texts in SemEval-2013 Sentiment Analysis task
+79  # teragram: Rule-based detection of sentiment phrases using SAS Sentiment Analysis
+80  # CodeX: Combining an SVM Classifier and Character N-gram Language Models for Sentiment Analysis on Twitter Text
+81  # sielers : Feature Analysis and Polarity Classification of Expressions from Twitter and SMS Data
+84  # Kea: Expression-level Sentiment Analysis from Twitter Data
+#? 89 # NOTE: PAPER PRESENT IN THE SCHEDULE BUT NOT IN THE METADATA  # NRC-Canada: Building the State-of-the-Art in Sentiment Analysis of Tweets
+91  # UoM: Using Explicit Semantic Analysis for Classifying Sentiments
+94  # bwbaugh : Hierarchical sentiment analysis with partial self-training
+99  # Serendio: Simple and Practical lexicon based approach to Sentiment Analysis
+102  # SZTE-NLP: Sentiment Detection on Twitter Messages
+106  # BOUNCE: Sentiment Classification in Twitter using Rich Feature Sets
+110  # nlp.cs.aueb.gr: Two Stage Sentiment Analysis
+111  # NILC_USP: A Hybrid System for Sentiment Analysis in Twitter Messages
+#? 107 # NOTE: PAPER PRESENT IN THE SCHEDULE BUT NOT IN THE METADATA  # SemEval-2013 Task 3: Spatial Role Labeling
+52  # UNITOR-HMM-TK: Structured Kernel-based learning for Spatial Role Labeling
+#? 86 # NOTE: PAPER PRESENT IN THE SCHEDULE BUT NOT IN THE METADATA  # SemEval-2013 Task 7: The Joint Student Response Analysis and 8th Recognizing Textual Entailment Challenge
+#? 11 # NOTE: PAPER PRESENT IN THE SCHEDULE BUT NOT IN THE METADATA  # UKP-BIU: Similarity and Entailment Metrics for Student Response Analysis
+#? 18 # NOTE: PAPER PRESENT IN THE SCHEDULE BUT NOT IN THE METADATA  # ETS: Domain Adaptation and Stacking for Short Answer Scoring
+19  # EHU-ALM: Similarity-Feature Based Approach for Student Response Analysis
+30  # CNGL: Grading Student Answers by Acts of Translation
+60  # Celi: EDITS and Generic Text Pair Classification
+61  # LIMSIILES: Basic English Substitution for Student Answer Assessment at SemEval 2013
+#? 95 # NOTE: PAPER PRESENT IN THE SCHEDULE BUT NOT IN THE METADATA  # SOFTCARDINALITY: Hierarchical Text Overlap for Student Response Analysis
+97  # CU : Computational Assessment of Short Free Text Answers - A Tool for Evaluating Students' Understanding
+105  # CoMeT: Integrating different levels of linguistic modeling for meaning assessment
+#? 76 # NOTE: PAPER PRESENT IN THE SCHEDULE BUT NOT IN THE METADATA  # SemEval-2013 Task 9 : Extraction of Drug-Drug Interactions from Biomedical Texts (DDIExtraction 2013)
+16  # UC3M: A kernel-based approach to identify and classify DDIs in bio-medical texts.
+17  # UEM-UC3M: An Ontology-based named entity recognition system for biomedical texts.
+#? 28 # NOTE: PAPER PRESENT IN THE SCHEDULE BUT NOT IN THE METADATA  # FBK-irst : A Multi-Phase Kernel Based Approach for Drug-Drug Interaction Detection and Classification that Exploits Linguistic Information
+31  # WBI-DDI: Drug-Drug Interaction Extraction using Majority Voting
+#? 38 # NOTE: PAPER PRESENT IN THE SCHEDULE BUT NOT IN THE METADATA  # WBI-NER: The impact of domain-specific features on the performance of identifying and classifying mentions of drugs
+46  # UMCC_DLSI: Semantic and Lexical features for detection and classification Drugs in biomedical texts
+49  # NIL_UCM: Extracting Drug-Drug interactions from text through combination of sequence and tree kernels
+55  # UTurku: Drug Named Entity Recognition and Drug-Drug Interaction Extraction Using SVM Classification and Domain Knowledge
+71  # LASIGE: using Conditional Random Fields and ChEBI ontology
+73  # UWM-TRIADS: Classifying Drug-Drug Interactions with Two-Stage SVM and Post-Processing
+109  # SCAI: Extracting drug-drug interactions using a rich feature vector
+114  # UColorado_SOM: Extraction of Drug-Drug Interactions from Biomedical Text using Knowledge-rich and Knowledge-poor Features
+#? 77 # NOTE: PAPER PRESENT IN THE SCHEDULE BUT NOT IN THE METADATA  # SemEval-2013 Task 13: Word Sense Induction for Graded and Non-Graded Senses
+7  # UoS: A Graph-Based System for Graded Word Sense Induction
+#? 82 # NOTE: PAPER PRESENT IN THE SCHEDULE BUT NOT IN THE METADATA  # AI-KU: Using Substitute Vectors and Co-Occurrence Modeling For Word Sense Induction and Disambiguation
+#? 104 # NOTE: PAPER PRESENT IN THE SCHEDULE BUT NOT IN THE METADATA  # unimelb: Topic Modelling-based Word Sense Induction
+
+# Paper 40 not shown in the order (it is marked hidden in the schedule)
+# Paper 32 not shown in the order (it is marked hidden in the schedule)
+# Paper 37 not shown in the order (it is marked hidden in the schedule)
+# Paper 39 not shown in the order (it is marked hidden in the schedule)
+# Paper 50 not shown in the order (it is marked hidden in the schedule)
+# Paper 58 not shown in the order (it is marked hidden in the schedule)
+# Paper 69 not shown in the order (it is marked hidden in the schedule)
+# Paper 75 not shown in the order (it is marked hidden in the schedule)
+# Paper 96 not shown in the order (it is marked hidden in the schedule)
+# Paper 108 not shown in the order (it is marked hidden in the schedule)
+# Paper 112 not shown in the order (it is marked hidden in the schedule)
+# Paper 101 not shown in the order (it is marked hidden in the schedule)
+# Paper 2 not shown in the order (it is marked hidden in the schedule)
+# Paper 5 not shown in the order (it is marked hidden in the schedule)
+# Paper 8 not shown in the order (it is marked hidden in the schedule)
+# Paper 9 not shown in the order (it is marked hidden in the schedule)
+# Paper 12 not shown in the order (it is marked hidden in the schedule)
+# Paper 15 not shown in the order (it is marked hidden in the schedule)
+# Paper 21 not shown in the order (it is marked hidden in the schedule)
+# Paper 22 not shown in the order (it is marked hidden in the schedule)
+# Paper 23 not shown in the order (it is marked hidden in the schedule)
+# Paper 24 not shown in the order (it is marked hidden in the schedule)
+# Paper 26 not shown in the order (it is marked hidden in the schedule)
+# Paper 27 not shown in the order (it is marked hidden in the schedule)
+# Paper 29 not shown in the order (it is marked hidden in the schedule)
+# Paper 33 not shown in the order (it is marked hidden in the schedule)
+# Paper 34 not shown in the order (it is marked hidden in the schedule)
+# Paper 35 not shown in the order (it is marked hidden in the schedule)
+# Paper 48 not shown in the order (it is marked hidden in the schedule)
+# Paper 51 not shown in the order (it is marked hidden in the schedule)
+# Paper 53 not shown in the order (it is marked hidden in the schedule)
+# Paper 54 not shown in the order (it is marked hidden in the schedule)
+# Paper 56 not shown in the order (it is marked hidden in the schedule)
+# Paper 57 not shown in the order (it is marked hidden in the schedule)
+# Paper 59 not shown in the order (it is marked hidden in the schedule)
+# Paper 63 not shown in the order (it is marked hidden in the schedule)
+# Paper 64 not shown in the order (it is marked hidden in the schedule)
+# Paper 66 not shown in the order (it is marked hidden in the schedule)
+# Paper 67 not shown in the order (it is marked hidden in the schedule)
+# Paper 74 not shown in the order (it is marked hidden in the schedule)
+# Paper 79 not shown in the order (it is marked hidden in the schedule)
+# Paper 80 not shown in the order (it is marked hidden in the schedule)
+# Paper 81 not shown in the order (it is marked hidden in the schedule)
+# Paper 84 not shown in the order (it is marked hidden in the schedule)
+# Paper 89 not shown in the order (it is marked hidden in the schedule)
+# Paper 91 not shown in the order (it is marked hidden in the schedule)
+# Paper 94 not shown in the order (it is marked hidden in the schedule)
+# Paper 99 not shown in the order (it is marked hidden in the schedule)
+# Paper 102 not shown in the order (it is marked hidden in the schedule)
+# Paper 106 not shown in the order (it is marked hidden in the schedule)
+# Paper 110 not shown in the order (it is marked hidden in the schedule)
+# Paper 111 not shown in the order (it is marked hidden in the schedule)
+# Paper 107 not shown in the order (it is marked hidden in the schedule)
+# Paper 52 not shown in the order (it is marked hidden in the schedule)
+# Paper 92 not shown in the order (it is marked hidden in the schedule)
+# Paper 42 not shown in the order (it is marked hidden in the schedule)
+# Paper 62 not shown in the order (it is marked hidden in the schedule)
+# Paper 85 not shown in the order (it is marked hidden in the schedule)
+# Paper 70 not shown in the order (it is marked hidden in the schedule)
+# Paper 4 not shown in the order (it is marked hidden in the schedule)
+# Paper 45 not shown in the order (it is marked hidden in the schedule)
+# Paper 83 not shown in the order (it is marked hidden in the schedule)
+# Paper 87 not shown in the order (it is marked hidden in the schedule)
+# Paper 88 not shown in the order (it is marked hidden in the schedule)
+# Paper 98 not shown in the order (it is marked hidden in the schedule)
+# Paper 86 not shown in the order (it is marked hidden in the schedule)
+# Paper 11 not shown in the order (it is marked hidden in the schedule)
+# Paper 18 not shown in the order (it is marked hidden in the schedule)
+# Paper 19 not shown in the order (it is marked hidden in the schedule)
+# Paper 30 not shown in the order (it is marked hidden in the schedule)
+# Paper 60 not shown in the order (it is marked hidden in the schedule)
+# Paper 61 not shown in the order (it is marked hidden in the schedule)
+# Paper 95 not shown in the order (it is marked hidden in the schedule)
+# Paper 97 not shown in the order (it is marked hidden in the schedule)
+# Paper 105 not shown in the order (it is marked hidden in the schedule)
+# Paper 43 not shown in the order (it is marked hidden in the schedule)
+# Paper 10 not shown in the order (it is marked hidden in the schedule)
+# Paper 14 not shown in the order (it is marked hidden in the schedule)
+# Paper 20 not shown in the order (it is marked hidden in the schedule)
+# Paper 93 not shown in the order (it is marked hidden in the schedule)
+# Paper 100 not shown in the order (it is marked hidden in the schedule)
+# Paper 76 not shown in the order (it is marked hidden in the schedule)
+# Paper 16 not shown in the order (it is marked hidden in the schedule)
+# Paper 17 not shown in the order (it is marked hidden in the schedule)
+# Paper 28 not shown in the order (it is marked hidden in the schedule)
+# Paper 31 not shown in the order (it is marked hidden in the schedule)
+# Paper 38 not shown in the order (it is marked hidden in the schedule)
+# Paper 46 not shown in the order (it is marked hidden in the schedule)
+# Paper 49 not shown in the order (it is marked hidden in the schedule)
+# Paper 55 not shown in the order (it is marked hidden in the schedule)
+# Paper 71 not shown in the order (it is marked hidden in the schedule)
+# Paper 73 not shown in the order (it is marked hidden in the schedule)
+# Paper 109 not shown in the order (it is marked hidden in the schedule)
+# Paper 114 not shown in the order (it is marked hidden in the schedule)
+# Paper 25 not shown in the order (it is marked hidden in the schedule)
+# Paper 3 not shown in the order (it is marked hidden in the schedule)
+# Paper 6 not shown in the order (it is marked hidden in the schedule)
+# Paper 13 not shown in the order (it is marked hidden in the schedule)
+# Paper 44 not shown in the order (it is marked hidden in the schedule)
+# Paper 90 not shown in the order (it is marked hidden in the schedule)
+# Paper 68 not shown in the order (it is marked hidden in the schedule)
+# Paper 41 not shown in the order (it is marked hidden in the schedule)
+# Paper 72 not shown in the order (it is marked hidden in the schedule)
+# Paper 78 not shown in the order (it is marked hidden in the schedule)
+# Paper 103 not shown in the order (it is marked hidden in the schedule)
+# Paper 65 not shown in the order (it is marked hidden in the schedule)
+# Paper 36 not shown in the order (it is marked hidden in the schedule)
+# Paper 47 not shown in the order (it is marked hidden in the schedule)
+# Paper 113 not shown in the order (it is marked hidden in the schedule)
+# Paper 77 not shown in the order (it is marked hidden in the schedule)
+# Paper 7 not shown in the order (it is marked hidden in the schedule)
+# Paper 82 not shown in the order (it is marked hidden in the schedule)
+# Paper 104 not shown in the order (it is marked hidden in the schedule)

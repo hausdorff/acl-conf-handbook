@@ -1,0 +1,78 @@
+SubmissionNumber#=%=#63
+FinalPaperTitle#=%=#FBM: Combining lexicon-based ML and heuristics for Social Media Polarities
+ShortPaperTitle#=%=#FBM: Combining lexicon-based ML and heuristics for Social Media Polarities
+Author{1}{Lastname}#=%=#Rodriguez-Penagos
+Author{1}{Firstname}#=%=#Carlos
+Author{1}{Email}#=%=#carlos.rodriguez@barcelonamedia.org
+Author{1}{Affiliation}#=%=#Barcelona Media Innovació
+Author{2}{Lastname}#=%=#Atserias Batalla
+Author{2}{Firstname}#=%=#Jordi
+Author{2}{Email}#=%=#Jordi.atserias@barcelonamedia.org
+Author{2}{Affiliation}#=%=#Barcelona Media Innovació
+Author{3}{Lastname}#=%=#Codina-Filbà
+Author{3}{Firstname}#=%=#Joan
+Author{3}{Email}#=%=#joan.codina@barcelonamedia.org
+Author{3}{Affiliation}#=%=#Barcelona Media Innovació
+Author{4}{Lastname}#=%=#García-Narbona
+Author{4}{Firstname}#=%=#David
+Author{4}{Email}#=%=#david.garcian@barcelonamedia.org
+Author{4}{Affiliation}#=%=#Barcelona Media Innovació
+Author{5}{Lastname}#=%=#Grivolla
+Author{5}{Firstname}#=%=#Jens
+Author{5}{Email}#=%=#jens.grivolla@barcelonamedia.org
+Author{5}{Affiliation}#=%=#Barcelona Media Innovació
+Author{6}{Lastname}#=%=#Lambert
+Author{6}{Firstname}#=%=#Patrik
+Author{6}{Email}#=%=#patrik.lambert@barcelonamedia.org
+Author{6}{Affiliation}#=%=#Barcelona Media Innovació
+Author{7}{Lastname}#=%=#Saurí
+Author{7}{Firstname}#=%=#Roser
+Author{7}{Email}#=%=#roser.sauri@barcelonamedia.org
+Author{7}{Affiliation}#=%=#Barcelona Media Innovació
+Author{8}{Lastname}#=%=#
+Author{8}{Firstname}#=%=#
+Author{8}{Email}#=%=#
+Author{8}{Affiliation}#=%=#
+Author{9}{Lastname}#=%=#
+Author{9}{Firstname}#=%=#
+Author{9}{Email}#=%=#
+Author{9}{Affiliation}#=%=#
+Author{10}{Lastname}#=%=#
+Author{10}{Firstname}#=%=#
+Author{10}{Email}#=%=#
+Author{10}{Affiliation}#=%=#
+Author{11}{Lastname}#=%=#
+Author{11}{Firstname}#=%=#
+Author{11}{Email}#=%=#
+Author{11}{Affiliation}#=%=#
+Author{12}{Lastname}#=%=#
+Author{12}{Firstname}#=%=#
+Author{12}{Email}#=%=#
+Author{12}{Affiliation}#=%=#
+Author{13}{Lastname}#=%=#
+Author{13}{Firstname}#=%=#
+Author{13}{Email}#=%=#
+Author{13}{Affiliation}#=%=#
+Author{14}{Lastname}#=%=#
+Author{14}{Firstname}#=%=#
+Author{14}{Email}#=%=#
+Author{14}{Affiliation}#=%=#
+Author{15}{Lastname}#=%=#
+Author{15}{Firstname}#=%=#
+Author{15}{Email}#=%=#
+Author{15}{Affiliation}#=%=#
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Carlos Rodriguez Penagos
+JobTitle#==#Senior Researcher
+Organization#==#Barcelona Media Innovació
+Av. Diagonal 177, Barcelona 08018
+Abstract#==#This paper describes the system implemented by Fundació Barcelona Media (FBM)
+for classifying the polarity of opinion expressions in tweets and SMSs, and
+which is supported by a UIMA pipeline for rich linguistic and sentiment
+annotations.  
+  FBM participated in the SEMEVAL 2013 Task 2 on polarity classification. It
+ranked 5th in Task A (constrained track) using an ensemble system combining ML
+algorithms with dictionary-based heuristics, and 7th (Task B, constrained)
+using an SVM classifier with features derived from the linguistic annotations
+and some heuristics.
+==========

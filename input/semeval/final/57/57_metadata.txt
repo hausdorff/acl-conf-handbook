@@ -1,0 +1,78 @@
+SubmissionNumber#=%=#57
+FinalPaperTitle#=%=#SU-Sentilab : A Classification System for Sentiment Analysis in Twitter
+ShortPaperTitle#=%=#SU-Sentilab : A Classification System for Sentiment Analysis in Twitter
+Author{1}{Lastname}#=%=#Gezici
+Author{1}{Firstname}#=%=#Gizem
+Author{1}{Email}#=%=#gizemgezici@sabanciuniv.edu
+Author{1}{Affiliation}#=%=#Sabanci University
+Author{2}{Lastname}#=%=#Dehkharghani
+Author{2}{Firstname}#=%=#Rahim
+Author{2}{Email}#=%=#rdehkharghani@sabanciuniv.edu
+Author{2}{Affiliation}#=%=#Sabanci University
+Author{3}{Lastname}#=%=#Yanikoglu
+Author{3}{Firstname}#=%=#Berrin
+Author{3}{Email}#=%=#berrin@sabanciuniv.edu
+Author{3}{Affiliation}#=%=#Sabanci University
+Author{4}{Lastname}#=%=#Tapucu
+Author{4}{Firstname}#=%=#Dilek
+Author{4}{Email}#=%=#dilektapucu@sabanciuniv.edu
+Author{4}{Affiliation}#=%=#Sabanci University
+Author{5}{Lastname}#=%=#Saygin
+Author{5}{Firstname}#=%=#Yucel
+Author{5}{Email}#=%=#ysaygin@sabanciuniv.edu
+Author{5}{Affiliation}#=%=#Sabanci University
+Author{6}{Lastname}#=%=#
+Author{6}{Firstname}#=%=#
+Author{6}{Email}#=%=#
+Author{6}{Affiliation}#=%=#
+Author{7}{Lastname}#=%=#
+Author{7}{Firstname}#=%=#
+Author{7}{Email}#=%=#
+Author{7}{Affiliation}#=%=#
+Author{8}{Lastname}#=%=#
+Author{8}{Firstname}#=%=#
+Author{8}{Email}#=%=#
+Author{8}{Affiliation}#=%=#
+Author{9}{Lastname}#=%=#
+Author{9}{Firstname}#=%=#
+Author{9}{Email}#=%=#
+Author{9}{Affiliation}#=%=#
+Author{10}{Lastname}#=%=#
+Author{10}{Firstname}#=%=#
+Author{10}{Email}#=%=#
+Author{10}{Affiliation}#=%=#
+Author{11}{Lastname}#=%=#
+Author{11}{Firstname}#=%=#
+Author{11}{Email}#=%=#
+Author{11}{Affiliation}#=%=#
+Author{12}{Lastname}#=%=#
+Author{12}{Firstname}#=%=#
+Author{12}{Email}#=%=#
+Author{12}{Affiliation}#=%=#
+Author{13}{Lastname}#=%=#
+Author{13}{Firstname}#=%=#
+Author{13}{Email}#=%=#
+Author{13}{Affiliation}#=%=#
+Author{14}{Lastname}#=%=#
+Author{14}{Firstname}#=%=#
+Author{14}{Email}#=%=#
+Author{14}{Affiliation}#=%=#
+Author{15}{Lastname}#=%=#
+Author{15}{Firstname}#=%=#
+Author{15}{Email}#=%=#
+Author{15}{Affiliation}#=%=#
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Rahim Dehkharghani
+JobTitle#==#
+Organization#==#Sabanci University Campus, Orhanli,Tuzla ISTANBUL
+Abstract#==#Sentiment analysis refers to automatically extracting
+the sentiment present in a given natural
+language text. We present our participation
+to the SemEval2013 competition, in the sentiment
+analysis of Twitter and SMS messages.
+Our approach for this task is the combination
+of two sentiment analysis subsystems which
+are combined together to build the final system.
+Both subsystems use supervised learning
+using features based on various polarity lexicons.
+==========

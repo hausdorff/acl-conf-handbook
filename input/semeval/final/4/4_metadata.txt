@@ -1,0 +1,77 @@
+SubmissionNumber#=%=#4
+FinalPaperTitle#=%=#HsH: Estimating Semantic Similarity of Words and Short Phrases with Frequency Normalized Distance Measures
+ShortPaperTitle#=%=#HsH: Frequency Normalized Distance Measures
+Author{1}{Lastname}#=%=#Wartena
+Author{1}{Firstname}#=%=#Christian
+Author{1}{Email}#=%=#christian.wartena@hs-hannover.de
+Author{1}{Affiliation}#=%=#Hochschule Hannover - University of Applied Sciences and Arts
+Author{2}{Lastname}#=%=#
+Author{2}{Firstname}#=%=#
+Author{2}{Email}#=%=#
+Author{2}{Affiliation}#=%=#
+Author{3}{Lastname}#=%=#
+Author{3}{Firstname}#=%=#
+Author{3}{Email}#=%=#
+Author{3}{Affiliation}#=%=#
+Author{4}{Lastname}#=%=#
+Author{4}{Firstname}#=%=#
+Author{4}{Email}#=%=#
+Author{4}{Affiliation}#=%=#
+Author{5}{Lastname}#=%=#
+Author{5}{Firstname}#=%=#
+Author{5}{Email}#=%=#
+Author{5}{Affiliation}#=%=#
+Author{6}{Lastname}#=%=#
+Author{6}{Firstname}#=%=#
+Author{6}{Email}#=%=#
+Author{6}{Affiliation}#=%=#
+Author{7}{Lastname}#=%=#
+Author{7}{Firstname}#=%=#
+Author{7}{Email}#=%=#
+Author{7}{Affiliation}#=%=#
+Author{8}{Lastname}#=%=#
+Author{8}{Firstname}#=%=#
+Author{8}{Email}#=%=#
+Author{8}{Affiliation}#=%=#
+Author{9}{Lastname}#=%=#
+Author{9}{Firstname}#=%=#
+Author{9}{Email}#=%=#
+Author{9}{Affiliation}#=%=#
+Author{10}{Lastname}#=%=#
+Author{10}{Firstname}#=%=#
+Author{10}{Email}#=%=#
+Author{10}{Affiliation}#=%=#
+Author{11}{Lastname}#=%=#
+Author{11}{Firstname}#=%=#
+Author{11}{Email}#=%=#
+Author{11}{Affiliation}#=%=#
+Author{12}{Lastname}#=%=#
+Author{12}{Firstname}#=%=#
+Author{12}{Email}#=%=#
+Author{12}{Affiliation}#=%=#
+Author{13}{Lastname}#=%=#
+Author{13}{Firstname}#=%=#
+Author{13}{Email}#=%=#
+Author{13}{Affiliation}#=%=#
+Author{14}{Lastname}#=%=#
+Author{14}{Firstname}#=%=#
+Author{14}{Email}#=%=#
+Author{14}{Affiliation}#=%=#
+Author{15}{Lastname}#=%=#
+Author{15}{Firstname}#=%=#
+Author{15}{Email}#=%=#
+Author{15}{Affiliation}#=%=#
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Christian Wartena
+JobTitle#==#
+Organization#==#Hochschule Hannover – University of Applied Sciences and Arts
+Department of Information and Communication
+Expo Plaza 12, 30539 Hannover, Germany
+Abstract#==#This paper describes the approach of the Hochschule Hannover to the Semeval
+2013 Task Evaluating Phrasal Semantics. In order to compare a single word with
+a two word phrase we compute various distributional similarities, among which a
+new similarity measure, based on Jensen-Shannon Divergence with a correction
+for frequency effects. The classification is done by a support vector machine
+that uses all similarities as features. The approach turned out to be the most
+successful one in the task.
+==========

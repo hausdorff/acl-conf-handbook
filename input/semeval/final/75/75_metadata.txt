@@ -1,0 +1,81 @@
+SubmissionNumber#=%=#75
+FinalPaperTitle#=%=#NavyTime: Event and Time Ordering from Raw Text
+ShortPaperTitle#=%=#NavyTime: Event and Time Ordering from Raw Text
+Author{1}{Lastname}#=%=#Chambers
+Author{1}{Firstname}#=%=#Nate
+Author{1}{Email}#=%=#nchamber@usna.edu
+Author{1}{Affiliation}#=%=#US Naval Academy
+Author{2}{Lastname}#=%=#
+Author{2}{Firstname}#=%=#
+Author{2}{Email}#=%=#
+Author{2}{Affiliation}#=%=#
+Author{3}{Lastname}#=%=#
+Author{3}{Firstname}#=%=#
+Author{3}{Email}#=%=#
+Author{3}{Affiliation}#=%=#
+Author{4}{Lastname}#=%=#
+Author{4}{Firstname}#=%=#
+Author{4}{Email}#=%=#
+Author{4}{Affiliation}#=%=#
+Author{5}{Lastname}#=%=#
+Author{5}{Firstname}#=%=#
+Author{5}{Email}#=%=#
+Author{5}{Affiliation}#=%=#
+Author{6}{Lastname}#=%=#
+Author{6}{Firstname}#=%=#
+Author{6}{Email}#=%=#
+Author{6}{Affiliation}#=%=#
+Author{7}{Lastname}#=%=#
+Author{7}{Firstname}#=%=#
+Author{7}{Email}#=%=#
+Author{7}{Affiliation}#=%=#
+Author{8}{Lastname}#=%=#
+Author{8}{Firstname}#=%=#
+Author{8}{Email}#=%=#
+Author{8}{Affiliation}#=%=#
+Author{9}{Lastname}#=%=#
+Author{9}{Firstname}#=%=#
+Author{9}{Email}#=%=#
+Author{9}{Affiliation}#=%=#
+Author{10}{Lastname}#=%=#
+Author{10}{Firstname}#=%=#
+Author{10}{Email}#=%=#
+Author{10}{Affiliation}#=%=#
+Author{11}{Lastname}#=%=#
+Author{11}{Firstname}#=%=#
+Author{11}{Email}#=%=#
+Author{11}{Affiliation}#=%=#
+Author{12}{Lastname}#=%=#
+Author{12}{Firstname}#=%=#
+Author{12}{Email}#=%=#
+Author{12}{Affiliation}#=%=#
+Author{13}{Lastname}#=%=#
+Author{13}{Firstname}#=%=#
+Author{13}{Email}#=%=#
+Author{13}{Affiliation}#=%=#
+Author{14}{Lastname}#=%=#
+Author{14}{Firstname}#=%=#
+Author{14}{Email}#=%=#
+Author{14}{Affiliation}#=%=#
+Author{15}{Lastname}#=%=#
+Author{15}{Firstname}#=%=#
+Author{15}{Email}#=%=#
+Author{15}{Affiliation}#=%=#
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#NA
+JobTitle#==#License to Publish is not needed. I work for the federal government, so my papers are open access with no license already. There is no license to give.
+Organization#==#Computer Science Department
+United States Naval Academy
+572M Holloway Rd. Stop 9F
+Annapolis, MD 21402-5002
+Abstract#==#This paper describes a complete event/time ordering system that annotates raw
+text with events, times, and the ordering relations between them at the
+SemEval-2013 Task 1. Task 1 is a unique challenge because it starts from raw
+text, rather than pre-annotated text with known events and times. A working
+system first identifies events and times, then identifies which events and
+times should be ordered, and finally labels the ordering relation between them.
+We present a split classifier approach that breaks the ordering tasks into
+smaller decision points. Experiments show that more specialized classifiers
+perform better than few joint classifiers. The NavyTime system ranked second
+both overall and in most subtasks like event extraction and relation labeling.
+==========

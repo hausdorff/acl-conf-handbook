@@ -1,0 +1,84 @@
+SubmissionNumber#=%=#37
+FinalPaperTitle#=%=#ManTIME: Temporal expression identification and normalization in the TempEval-3 challenge
+ShortPaperTitle#=%=#ManTIME: Temporal expression identification and normalization in the TempEval-3 challenge
+Author{1}{Lastname}#=%=#Filannino
+Author{1}{Firstname}#=%=#Michele
+Author{1}{Email}#=%=#filannim@cs.man.ac.uk
+Author{1}{Affiliation}#=%=#University of Manchester
+Author{2}{Lastname}#=%=#Brown
+Author{2}{Firstname}#=%=#Gavin
+Author{2}{Email}#=%=#g.brown@cs.man.ac.uk
+Author{2}{Affiliation}#=%=#University of Manchester
+Author{3}{Lastname}#=%=#Nenadic
+Author{3}{Firstname}#=%=#Goran
+Author{3}{Email}#=%=#g.nenadic@cs.man.ac.uk
+Author{3}{Affiliation}#=%=#University of Manchester
+Author{4}{Lastname}#=%=#
+Author{4}{Firstname}#=%=#
+Author{4}{Email}#=%=#
+Author{4}{Affiliation}#=%=#
+Author{5}{Lastname}#=%=#
+Author{5}{Firstname}#=%=#
+Author{5}{Email}#=%=#
+Author{5}{Affiliation}#=%=#
+Author{6}{Lastname}#=%=#
+Author{6}{Firstname}#=%=#
+Author{6}{Email}#=%=#
+Author{6}{Affiliation}#=%=#
+Author{7}{Lastname}#=%=#
+Author{7}{Firstname}#=%=#
+Author{7}{Email}#=%=#
+Author{7}{Affiliation}#=%=#
+Author{8}{Lastname}#=%=#
+Author{8}{Firstname}#=%=#
+Author{8}{Email}#=%=#
+Author{8}{Affiliation}#=%=#
+Author{9}{Lastname}#=%=#
+Author{9}{Firstname}#=%=#
+Author{9}{Email}#=%=#
+Author{9}{Affiliation}#=%=#
+Author{10}{Lastname}#=%=#
+Author{10}{Firstname}#=%=#
+Author{10}{Email}#=%=#
+Author{10}{Affiliation}#=%=#
+Author{11}{Lastname}#=%=#
+Author{11}{Firstname}#=%=#
+Author{11}{Email}#=%=#
+Author{11}{Affiliation}#=%=#
+Author{12}{Lastname}#=%=#
+Author{12}{Firstname}#=%=#
+Author{12}{Email}#=%=#
+Author{12}{Affiliation}#=%=#
+Author{13}{Lastname}#=%=#
+Author{13}{Firstname}#=%=#
+Author{13}{Email}#=%=#
+Author{13}{Affiliation}#=%=#
+Author{14}{Lastname}#=%=#
+Author{14}{Firstname}#=%=#
+Author{14}{Email}#=%=#
+Author{14}{Affiliation}#=%=#
+Author{15}{Lastname}#=%=#
+Author{15}{Firstname}#=%=#
+Author{15}{Email}#=%=#
+Author{15}{Affiliation}#=%=#
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Michele Filannino
+JobTitle#==#
+Organization#==#The University of Manchester,
+School of Computer Science,
+Manchester, M13 9PL, United Kingdom
+Abstract#==#This paper describes a temporal expression identification and normalization
+system, ManTIME, developed for the TempEval-3 challenge. The identification
+phase combines the use of conditional random fields along with a
+post-processing identification pipeline, whereas the normalization phase is
+carried out using NorMA, an open-source rule-based temporal normalizer. We
+investigate the performance variation with respect to different feature types.
+Specifically, we show that the use of WordNet-based features in the
+identification task negatively affects the overall performance, and that there
+is no statistically significant difference in using gazetteers, shallow parsing
+and propositional noun phrases labels on top of the morphological features. On
+the test data, the best run achieved 0.95 (P), 0.85 (R) and 0.90 (F1) in the
+identification phase. Normalization accuracies are 0.84 (type attribute) and
+0.77 (value attribute). Surprisingly, the use of the silver data (alone or in
+addition to the gold annotated ones) does not improve the performance.
+==========

@@ -1,0 +1,80 @@
+SubmissionNumber#=%=#28
+FinalPaperTitle#=%=#FBK-irst : A Multi-Phase Kernel Based Approach for Drug-Drug Interaction Detection and Classification that Exploits Linguistic Information
+ShortPaperTitle#=%=#FBK-irst : A Multi-Phase Kernel Based Approach for Drug-Drug Interaction Detection and Classification that Exploits Linguistic Information
+Author{1}{Lastname}#=%=#Chowdhury
+Author{1}{Firstname}#=%=#Md. Faisal Mahbub
+Author{1}{Email}#=%=#fmchowdhury@gmail.com
+Author{1}{Affiliation}#=%=#University of Trento, Italy and FBK-irst, Italy
+Author{2}{Lastname}#=%=#Lavelli
+Author{2}{Firstname}#=%=#Alberto
+Author{2}{Email}#=%=#lavelli@fbk.eu
+Author{2}{Affiliation}#=%=#FBK-irst, Italy
+Author{3}{Lastname}#=%=#
+Author{3}{Firstname}#=%=#
+Author{3}{Email}#=%=#
+Author{3}{Affiliation}#=%=#
+Author{4}{Lastname}#=%=#
+Author{4}{Firstname}#=%=#
+Author{4}{Email}#=%=#
+Author{4}{Affiliation}#=%=#
+Author{5}{Lastname}#=%=#
+Author{5}{Firstname}#=%=#
+Author{5}{Email}#=%=#
+Author{5}{Affiliation}#=%=#
+Author{6}{Lastname}#=%=#
+Author{6}{Firstname}#=%=#
+Author{6}{Email}#=%=#
+Author{6}{Affiliation}#=%=#
+Author{7}{Lastname}#=%=#
+Author{7}{Firstname}#=%=#
+Author{7}{Email}#=%=#
+Author{7}{Affiliation}#=%=#
+Author{8}{Lastname}#=%=#
+Author{8}{Firstname}#=%=#
+Author{8}{Email}#=%=#
+Author{8}{Affiliation}#=%=#
+Author{9}{Lastname}#=%=#
+Author{9}{Firstname}#=%=#
+Author{9}{Email}#=%=#
+Author{9}{Affiliation}#=%=#
+Author{10}{Lastname}#=%=#
+Author{10}{Firstname}#=%=#
+Author{10}{Email}#=%=#
+Author{10}{Affiliation}#=%=#
+Author{11}{Lastname}#=%=#
+Author{11}{Firstname}#=%=#
+Author{11}{Email}#=%=#
+Author{11}{Affiliation}#=%=#
+Author{12}{Lastname}#=%=#
+Author{12}{Firstname}#=%=#
+Author{12}{Email}#=%=#
+Author{12}{Affiliation}#=%=#
+Author{13}{Lastname}#=%=#
+Author{13}{Firstname}#=%=#
+Author{13}{Email}#=%=#
+Author{13}{Affiliation}#=%=#
+Author{14}{Lastname}#=%=#
+Author{14}{Firstname}#=%=#
+Author{14}{Email}#=%=#
+Author{14}{Affiliation}#=%=#
+Author{15}{Lastname}#=%=#
+Author{15}{Firstname}#=%=#
+Author{15}{Email}#=%=#
+Author{15}{Affiliation}#=%=#
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Md. Faisal Mahbub Chowdhury
+JobTitle#==#
+Organization#==#FBK-irst, Italy
+Abstract#==#This paper presents the multi-phase relation extraction (RE) approach which was
+used for the DDI Extraction task of SemEval 2013. As a preliminary step, the
+proposed approach indirectly (and automatically) exploits the scope of negation
+cues and the semantic roles of involved entities for reducing the skewness in
+the training data as well as discarding possible negative instances from the
+test data. Then, a state-of-the-art hybrid kernel is used to train a classifier
+which is later applied on the instances of the test data not filtered out by
+the previous step. The official results of the task show that our approach
+yields an F-score of 0.80 for DDI detection and an F-score of 0.65 for DDI
+detection and classification. Our system obtained significantly higher results
+than all the other participating teams in this shared task and has been ranked
+1st.
+==========

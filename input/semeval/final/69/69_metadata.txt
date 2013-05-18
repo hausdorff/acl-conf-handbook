@@ -1,0 +1,78 @@
+SubmissionNumber#=%=#69
+FinalPaperTitle#=%=#JU_CSE: A CRF Based Approach to Annotation of Temporal Expression, Event and Temporal Relations
+ShortPaperTitle#=%=#JU_CSE: A CRF Based Approach to Annotation of Temporal Expression, Event and Temporal Relations
+Author{1}{Lastname}#=%=#Kolya
+Author{1}{Firstname}#=%=#Anup Kumar
+Author{1}{Email}#=%=#anup.kolya@gmail.com
+Author{1}{Affiliation}#=%=#Jadavpur Univeristy
+Author{2}{Lastname}#=%=#Kundu
+Author{2}{Firstname}#=%=#Amitava
+Author{2}{Email}#=%=#amitava.jucse@gmail.com
+Author{2}{Affiliation}#=%=#Jadavpur Univeristy
+Author{3}{Lastname}#=%=#Gupta
+Author{3}{Firstname}#=%=#Rajdeep
+Author{3}{Email}#=%=#rajdeepgupta20@gmail.com
+Author{3}{Affiliation}#=%=#Jadavpur Univeristy
+Author{4}{Lastname}#=%=#Ekbal
+Author{4}{Firstname}#=%=#Asif
+Author{4}{Email}#=%=#asif@iitp.ac.in
+Author{4}{Affiliation}#=%=#IIT Patna
+Author{5}{Lastname}#=%=#Bandyopadhyay
+Author{5}{Firstname}#=%=#Sivaji
+Author{5}{Email}#=%=#sivaji_ju_cse@yahoo.com
+Author{5}{Affiliation}#=%=#IIT Patna
+Author{6}{Lastname}#=%=#
+Author{6}{Firstname}#=%=#
+Author{6}{Email}#=%=#
+Author{6}{Affiliation}#=%=#
+Author{7}{Lastname}#=%=#
+Author{7}{Firstname}#=%=#
+Author{7}{Email}#=%=#
+Author{7}{Affiliation}#=%=#
+Author{8}{Lastname}#=%=#
+Author{8}{Firstname}#=%=#
+Author{8}{Email}#=%=#
+Author{8}{Affiliation}#=%=#
+Author{9}{Lastname}#=%=#
+Author{9}{Firstname}#=%=#
+Author{9}{Email}#=%=#
+Author{9}{Affiliation}#=%=#
+Author{10}{Lastname}#=%=#
+Author{10}{Firstname}#=%=#
+Author{10}{Email}#=%=#
+Author{10}{Affiliation}#=%=#
+Author{11}{Lastname}#=%=#
+Author{11}{Firstname}#=%=#
+Author{11}{Email}#=%=#
+Author{11}{Affiliation}#=%=#
+Author{12}{Lastname}#=%=#
+Author{12}{Firstname}#=%=#
+Author{12}{Email}#=%=#
+Author{12}{Affiliation}#=%=#
+Author{13}{Lastname}#=%=#
+Author{13}{Firstname}#=%=#
+Author{13}{Email}#=%=#
+Author{13}{Affiliation}#=%=#
+Author{14}{Lastname}#=%=#
+Author{14}{Firstname}#=%=#
+Author{14}{Email}#=%=#
+Author{14}{Affiliation}#=%=#
+Author{15}{Lastname}#=%=#
+Author{15}{Firstname}#=%=#
+Author{15}{Email}#=%=#
+Author{15}{Affiliation}#=%=#
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#Anup Kumar Kolya
+JobTitle#==#
+Organization#==#Jadavpur University, 188 Raja SC Mullick Road, Kolkata-700032, India
+Abstract#==#In this paper, we present the JUCSE system, designed for the TempEval-3 shared
+task. The system extracts events and temporal information from natural text in
+English. We have participated in all the tasks of TempEval-3, namely Task A,
+Task B & Task C. We have primarily utilized the Conditional Random Field (CRF)
+based machine learning technique, for all the above tasks. Our system seems to
+perform quite competitively in Task A and Task B. In Task C, the system’s
+performance is comparatively modest at the initial stages of system
+development. We have incorporated various features based on different lexical,
+syntactic and semantic information, using Stanford CoreNLP and Wordnet based
+tools.
+==========

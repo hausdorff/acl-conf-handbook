@@ -1,0 +1,71 @@
+SubmissionNumber#=%=#60
+FinalPaperTitle#=%=#Celi: EDITS and Generic Text Pair Classification
+ShortPaperTitle#=%=#Celi: EDITS and Generic Text Pair Classification
+Author{1}{Lastname}#=%=#Kouylekov
+Author{1}{Firstname}#=%=#Milen
+Author{1}{Email}#=%=#kouylekov@celi.it
+Author{1}{Affiliation}#=%=#CELI S.R.L.
+Author{2}{Lastname}#=%=#Dini
+Author{2}{Firstname}#=%=#Luca
+Author{2}{Email}#=%=#dini@celi.it
+Author{2}{Affiliation}#=%=#CELI S.R.L.
+Author{3}{Lastname}#=%=#Bosca
+Author{3}{Firstname}#=%=#Alessio
+Author{3}{Email}#=%=#alessio.bosca@celi.it
+Author{3}{Affiliation}#=%=#CELI S.R.L.
+Author{4}{Lastname}#=%=#Trevisan
+Author{4}{Firstname}#=%=#Marco
+Author{4}{Email}#=%=#trevisan@celi.it
+Author{4}{Affiliation}#=%=#CELI S.R.L.
+Author{5}{Lastname}#=%=#
+Author{5}{Firstname}#=%=#
+Author{5}{Email}#=%=#
+Author{5}{Affiliation}#=%=#
+Author{6}{Lastname}#=%=#
+Author{6}{Firstname}#=%=#
+Author{6}{Email}#=%=#
+Author{6}{Affiliation}#=%=#
+Author{7}{Lastname}#=%=#
+Author{7}{Firstname}#=%=#
+Author{7}{Email}#=%=#
+Author{7}{Affiliation}#=%=#
+Author{8}{Lastname}#=%=#
+Author{8}{Firstname}#=%=#
+Author{8}{Email}#=%=#
+Author{8}{Affiliation}#=%=#
+Author{9}{Lastname}#=%=#
+Author{9}{Firstname}#=%=#
+Author{9}{Email}#=%=#
+Author{9}{Affiliation}#=%=#
+Author{10}{Lastname}#=%=#
+Author{10}{Firstname}#=%=#
+Author{10}{Email}#=%=#
+Author{10}{Affiliation}#=%=#
+Author{11}{Lastname}#=%=#
+Author{11}{Firstname}#=%=#
+Author{11}{Email}#=%=#
+Author{11}{Affiliation}#=%=#
+Author{12}{Lastname}#=%=#
+Author{12}{Firstname}#=%=#
+Author{12}{Email}#=%=#
+Author{12}{Affiliation}#=%=#
+Author{13}{Lastname}#=%=#
+Author{13}{Firstname}#=%=#
+Author{13}{Email}#=%=#
+Author{13}{Affiliation}#=%=#
+Author{14}{Lastname}#=%=#
+Author{14}{Firstname}#=%=#
+Author{14}{Email}#=%=#
+Author{14}{Affiliation}#=%=#
+Author{15}{Lastname}#=%=#
+Author{15}{Firstname}#=%=#
+Author{15}{Email}#=%=#
+Author{15}{Affiliation}#=%=#
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Milen Kouylekov
+JobTitle#==#
+Organization#==#CELI S.R.L. via San Quintino 31, 10121, Torino, Italy
+Abstract#==#This paper presents CELI's participation in the SemEval The Joint Student
+Response Analysis and 8th Recognizing Textual Entailment Challenge (Task7) and
+Cross-lingual Textual Entailment for Content Synchronization task (Task 8).
+==========

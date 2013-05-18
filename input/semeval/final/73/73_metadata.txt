@@ -1,0 +1,80 @@
+SubmissionNumber#=%=#73
+FinalPaperTitle#=%=#UWM-TRIADS: Classifying Drug-Drug Interactions with Two-Stage SVM and Post-Processing
+ShortPaperTitle#=%=#UWM-TRIADS: Classifying Drug-Drug Interactions with Two-Stage SVM and Post-Processing
+Author{1}{Lastname}#=%=#Rastegar-Mojarad
+Author{1}{Firstname}#=%=#Majid
+Author{1}{Email}#=%=#rastega3@uwm.edu
+Author{1}{Affiliation}#=%=#University of Wisconsin-Milwaukee
+Author{2}{Lastname}#=%=#Boyce
+Author{2}{Firstname}#=%=#Richard D.
+Author{2}{Email}#=%=#rdb20@pitt.edu
+Author{2}{Affiliation}#=%=#University of Pittsburgh
+Author{3}{Lastname}#=%=#Prasad
+Author{3}{Firstname}#=%=#Rashmi
+Author{3}{Email}#=%=#prasadr@uwm.edu
+Author{3}{Affiliation}#=%=#University of Wisconsin-Milwaukee
+Author{4}{Lastname}#=%=#
+Author{4}{Firstname}#=%=#
+Author{4}{Email}#=%=#
+Author{4}{Affiliation}#=%=#
+Author{5}{Lastname}#=%=#
+Author{5}{Firstname}#=%=#
+Author{5}{Email}#=%=#
+Author{5}{Affiliation}#=%=#
+Author{6}{Lastname}#=%=#
+Author{6}{Firstname}#=%=#
+Author{6}{Email}#=%=#
+Author{6}{Affiliation}#=%=#
+Author{7}{Lastname}#=%=#
+Author{7}{Firstname}#=%=#
+Author{7}{Email}#=%=#
+Author{7}{Affiliation}#=%=#
+Author{8}{Lastname}#=%=#
+Author{8}{Firstname}#=%=#
+Author{8}{Email}#=%=#
+Author{8}{Affiliation}#=%=#
+Author{9}{Lastname}#=%=#
+Author{9}{Firstname}#=%=#
+Author{9}{Email}#=%=#
+Author{9}{Affiliation}#=%=#
+Author{10}{Lastname}#=%=#
+Author{10}{Firstname}#=%=#
+Author{10}{Email}#=%=#
+Author{10}{Affiliation}#=%=#
+Author{11}{Lastname}#=%=#
+Author{11}{Firstname}#=%=#
+Author{11}{Email}#=%=#
+Author{11}{Affiliation}#=%=#
+Author{12}{Lastname}#=%=#
+Author{12}{Firstname}#=%=#
+Author{12}{Email}#=%=#
+Author{12}{Affiliation}#=%=#
+Author{13}{Lastname}#=%=#
+Author{13}{Firstname}#=%=#
+Author{13}{Email}#=%=#
+Author{13}{Affiliation}#=%=#
+Author{14}{Lastname}#=%=#
+Author{14}{Firstname}#=%=#
+Author{14}{Email}#=%=#
+Author{14}{Affiliation}#=%=#
+Author{15}{Lastname}#=%=#
+Author{15}{Firstname}#=%=#
+Author{15}{Email}#=%=#
+Author{15}{Affiliation}#=%=#
+NumberOfPages#=%=#8
+CopyrightSigned#=%=#Majid Rastegar-Mojarad
+JobTitle#==#
+Organization#==#None
+Abstract#==#We describe our system for the DDIExtraction-2013 shared task of classifying
+Drug-Drug interactions (DDIs) given labeled drug mentions. The challenge called
+for a five-way classification of all drug pairs in each sentence: a drug pair
+is either non-interacting, or interacting as one of four types. Our approach
+begins with the use of a two-stage weighted SVM classifier to handle the highly
+unbalanced class distribution: the first stage for a binary classification of
+drug pairs as interacting or non-interacting, and the second stage for further
+classification of interacting pairs from the first stage into one of the four
+interacting types. Our SVM features exploit stemmed words, lemmas, bigrams,
+part of speech tags, verb lists, and similarity measures, among others. For
+each stage, we also developed a set of post-processing rules based on
+observations in the training data. Our best system achieved 0.472 F-measure.
+==========

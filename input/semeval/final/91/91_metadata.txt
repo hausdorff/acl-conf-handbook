@@ -1,0 +1,75 @@
+SubmissionNumber#=%=#91
+FinalPaperTitle#=%=#UoM: Using Explicit Semantic Analysis for Classifying Sentiments
+ShortPaperTitle#=%=#UoM: ESA for Classifying Sentiments
+Author{1}{Lastname}#=%=#Negi
+Author{1}{Firstname}#=%=#Sapna
+Author{1}{Email}#=%=#sapna.negi13@gmail.com
+Author{1}{Affiliation}#=%=#University of Malta
+Author{2}{Lastname}#=%=#Rosner
+Author{2}{Firstname}#=%=#Michael
+Author{2}{Email}#=%=#mike.rosner@um.edu.mt
+Author{2}{Affiliation}#=%=#University of Malta
+Author{3}{Lastname}#=%=#
+Author{3}{Firstname}#=%=#
+Author{3}{Email}#=%=#
+Author{3}{Affiliation}#=%=#
+Author{4}{Lastname}#=%=#
+Author{4}{Firstname}#=%=#
+Author{4}{Email}#=%=#
+Author{4}{Affiliation}#=%=#
+Author{5}{Lastname}#=%=#
+Author{5}{Firstname}#=%=#
+Author{5}{Email}#=%=#
+Author{5}{Affiliation}#=%=#
+Author{6}{Lastname}#=%=#
+Author{6}{Firstname}#=%=#
+Author{6}{Email}#=%=#
+Author{6}{Affiliation}#=%=#
+Author{7}{Lastname}#=%=#
+Author{7}{Firstname}#=%=#
+Author{7}{Email}#=%=#
+Author{7}{Affiliation}#=%=#
+Author{8}{Lastname}#=%=#
+Author{8}{Firstname}#=%=#
+Author{8}{Email}#=%=#
+Author{8}{Affiliation}#=%=#
+Author{9}{Lastname}#=%=#
+Author{9}{Firstname}#=%=#
+Author{9}{Email}#=%=#
+Author{9}{Affiliation}#=%=#
+Author{10}{Lastname}#=%=#
+Author{10}{Firstname}#=%=#
+Author{10}{Email}#=%=#
+Author{10}{Affiliation}#=%=#
+Author{11}{Lastname}#=%=#
+Author{11}{Firstname}#=%=#
+Author{11}{Email}#=%=#
+Author{11}{Affiliation}#=%=#
+Author{12}{Lastname}#=%=#
+Author{12}{Firstname}#=%=#
+Author{12}{Email}#=%=#
+Author{12}{Affiliation}#=%=#
+Author{13}{Lastname}#=%=#
+Author{13}{Firstname}#=%=#
+Author{13}{Email}#=%=#
+Author{13}{Affiliation}#=%=#
+Author{14}{Lastname}#=%=#
+Author{14}{Firstname}#=%=#
+Author{14}{Email}#=%=#
+Author{14}{Affiliation}#=%=#
+Author{15}{Lastname}#=%=#
+Author{15}{Firstname}#=%=#
+Author{15}{Email}#=%=#
+Author{15}{Affiliation}#=%=#
+NumberOfPages#=%=#4
+CopyrightSigned#=%=#Sapna Negi
+JobTitle#==#
+Organization#==#University Of Malta, Msida, Malta.
+Abstract#==#In this paper, we describe our system submitted for the Sentiment Analysis task
+at SemEval 2013 (Task 2). A combination of Explicit Semantic
+Analysis (ESA)with Naive Bayes classifier was implemented. ESA represents text
+as a high dimensional vector of explicitly defined topics, following the
+distributional semantic model. This approach is novel in the sense that ESA has
+not been used for Sentiment Analysis in the literature, to the best of our
+knowledge.
+==========

@@ -1,0 +1,81 @@
+SubmissionNumber#=%=#52
+FinalPaperTitle#=%=#UNITOR-HMM-TK: Structured Kernel-based learning for Spatial Role Labeling
+ShortPaperTitle#=%=#UNITOR-HMM-TK: Structured Kernel-based learning for Spatial Role Labeling
+Author{1}{Lastname}#=%=#Bastianelli
+Author{1}{Firstname}#=%=#Emanuele
+Author{1}{Email}#=%=#emanuele.bastianelli@gmail.com
+Author{1}{Affiliation}#=%=#University of Roma, Tor Vergata
+Author{2}{Lastname}#=%=#Croce
+Author{2}{Firstname}#=%=#Danilo
+Author{2}{Email}#=%=#croce@info.uniroma2.it
+Author{2}{Affiliation}#=%=#University of Roma, Tor Vergata
+Author{3}{Lastname}#=%=#Basili
+Author{3}{Firstname}#=%=#Roberto
+Author{3}{Email}#=%=#basili@info.uniroma2.it
+Author{3}{Affiliation}#=%=#University of Roma, Tor Vergata
+Author{4}{Lastname}#=%=#Nardi
+Author{4}{Firstname}#=%=#Daniele
+Author{4}{Email}#=%=#nardi@dis.uniroma1.it
+Author{4}{Affiliation}#=%=#University of Roma, La Sapienza
+Author{5}{Lastname}#=%=#
+Author{5}{Firstname}#=%=#
+Author{5}{Email}#=%=#
+Author{5}{Affiliation}#=%=#
+Author{6}{Lastname}#=%=#
+Author{6}{Firstname}#=%=#
+Author{6}{Email}#=%=#
+Author{6}{Affiliation}#=%=#
+Author{7}{Lastname}#=%=#
+Author{7}{Firstname}#=%=#
+Author{7}{Email}#=%=#
+Author{7}{Affiliation}#=%=#
+Author{8}{Lastname}#=%=#
+Author{8}{Firstname}#=%=#
+Author{8}{Email}#=%=#
+Author{8}{Affiliation}#=%=#
+Author{9}{Lastname}#=%=#
+Author{9}{Firstname}#=%=#
+Author{9}{Email}#=%=#
+Author{9}{Affiliation}#=%=#
+Author{10}{Lastname}#=%=#
+Author{10}{Firstname}#=%=#
+Author{10}{Email}#=%=#
+Author{10}{Affiliation}#=%=#
+Author{11}{Lastname}#=%=#
+Author{11}{Firstname}#=%=#
+Author{11}{Email}#=%=#
+Author{11}{Affiliation}#=%=#
+Author{12}{Lastname}#=%=#
+Author{12}{Firstname}#=%=#
+Author{12}{Email}#=%=#
+Author{12}{Affiliation}#=%=#
+Author{13}{Lastname}#=%=#
+Author{13}{Firstname}#=%=#
+Author{13}{Email}#=%=#
+Author{13}{Affiliation}#=%=#
+Author{14}{Lastname}#=%=#
+Author{14}{Firstname}#=%=#
+Author{14}{Email}#=%=#
+Author{14}{Affiliation}#=%=#
+Author{15}{Lastname}#=%=#
+Author{15}{Firstname}#=%=#
+Author{15}{Email}#=%=#
+Author{15}{Affiliation}#=%=#
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Emanuele Bastianelli
+JobTitle#==#
+Organization#==#University of Roma Tor Vergata
+Via del Politecnico 1, 00133 Roma
+Italy
+Abstract#==#In this paper the UNITOR-HMM-TK system participating to the Spatial Role
+Labeling task at SemEval 2013 is presented. The spatial roles classification is
+addressed as a sequence-based word classification problem: the SVMhmm learning
+algorithm is applied, based on a simple feature modeling and a robust lexical
+generalization achieved through a Distributional Model of Lexical Semantics. In
+the identification of spatial relations, roles are combined to generate
+candidate relations, later verified by a SVM classifier. The Smoothed Partial
+Tree Kernel is here applied, i.e. a convolution kernel that enhances both
+syntactic and lexical properties of the examples, avoiding the need of a manual
+feature engineering phase. Finally, results on three of the five tasks of the
+challenge are reported.
+==========

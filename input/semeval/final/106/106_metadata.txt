@@ -1,0 +1,79 @@
+SubmissionNumber#=%=#106
+FinalPaperTitle#=%=#BOUNCE: Sentiment Classification in Twitter using Rich Feature Sets
+ShortPaperTitle#=%=#BOUNCE: Sentiment Classification in Twitter using Rich Feature Sets
+Author{1}{Lastname}#=%=#Kökciyan
+Author{1}{Firstname}#=%=#Nadin
+Author{1}{Email}#=%=#nadin.kokciyan@boun.edu.tr
+Author{1}{Affiliation}#=%=#Bogazici University
+Author{2}{Lastname}#=%=#Çelebi
+Author{2}{Firstname}#=%=#Arda
+Author{2}{Email}#=%=#arda.celebi@boun.edu.tr
+Author{2}{Affiliation}#=%=#Bogazici University
+Author{3}{Lastname}#=%=#Özgür
+Author{3}{Firstname}#=%=#Arzucan
+Author{3}{Email}#=%=#arzucan.ozgur@boun.edu.tr
+Author{3}{Affiliation}#=%=#Bogazici University
+Author{4}{Lastname}#=%=#Üsküdarlı
+Author{4}{Firstname}#=%=#Suzan
+Author{4}{Email}#=%=#suzan.uskudarli@boun.edu.tr
+Author{4}{Affiliation}#=%=#Bogazici University
+Author{5}{Lastname}#=%=#
+Author{5}{Firstname}#=%=#
+Author{5}{Email}#=%=#
+Author{5}{Affiliation}#=%=#
+Author{6}{Lastname}#=%=#
+Author{6}{Firstname}#=%=#
+Author{6}{Email}#=%=#
+Author{6}{Affiliation}#=%=#
+Author{7}{Lastname}#=%=#
+Author{7}{Firstname}#=%=#
+Author{7}{Email}#=%=#
+Author{7}{Affiliation}#=%=#
+Author{8}{Lastname}#=%=#
+Author{8}{Firstname}#=%=#
+Author{8}{Email}#=%=#
+Author{8}{Affiliation}#=%=#
+Author{9}{Lastname}#=%=#
+Author{9}{Firstname}#=%=#
+Author{9}{Email}#=%=#
+Author{9}{Affiliation}#=%=#
+Author{10}{Lastname}#=%=#
+Author{10}{Firstname}#=%=#
+Author{10}{Email}#=%=#
+Author{10}{Affiliation}#=%=#
+Author{11}{Lastname}#=%=#
+Author{11}{Firstname}#=%=#
+Author{11}{Email}#=%=#
+Author{11}{Affiliation}#=%=#
+Author{12}{Lastname}#=%=#
+Author{12}{Firstname}#=%=#
+Author{12}{Email}#=%=#
+Author{12}{Affiliation}#=%=#
+Author{13}{Lastname}#=%=#
+Author{13}{Firstname}#=%=#
+Author{13}{Email}#=%=#
+Author{13}{Affiliation}#=%=#
+Author{14}{Lastname}#=%=#
+Author{14}{Firstname}#=%=#
+Author{14}{Email}#=%=#
+Author{14}{Affiliation}#=%=#
+Author{15}{Lastname}#=%=#
+Author{15}{Firstname}#=%=#
+Author{15}{Email}#=%=#
+Author{15}{Affiliation}#=%=#
+NumberOfPages#=%=#8
+CopyrightSigned#=%=#Nadin Kökciyan
+JobTitle#==#
+Organization#==#Bogazici University
+Department of Computer Engineering
+Address: 34342 Bebek, Istanbul, TURKEY
+Abstract#==#The widespread use of Twitter makes it very interesting to determine the
+opinions and the sentiments expressed by its users. The shortness of the length
+and the highly informal nature of tweets render it very difficult to
+automatically detect such information. This paper reports the results to a
+challenge, set forth by SemEval-2013 Task 2,  to determine the positive,
+neutral, or negative sentiments of tweets. Two systems are explained:  System A
+for determining the sentiment of an interval within a tweet and System B for
+determining the sentiment of a tweet. Both approaches rely on rich feature
+sets, which are explained in detail.
+==========

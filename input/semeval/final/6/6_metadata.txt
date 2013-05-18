@@ -1,0 +1,80 @@
+SubmissionNumber#=%=#6
+FinalPaperTitle#=%=#HLTDI: CL-WSD Using Markov Random Fields for SemEval-2013 Task 10
+ShortPaperTitle#=%=#HLTDI: CL-WSD Using Markov Random Fields for SemEval-2013 Task 10
+Author{1}{Lastname}#=%=#Rudnick
+Author{1}{Firstname}#=%=#Alex
+Author{1}{Email}#=%=#alex.rudnick@gmail.com
+Author{1}{Affiliation}#=%=#Indiana University
+Author{2}{Lastname}#=%=#Liu
+Author{2}{Firstname}#=%=#Can
+Author{2}{Email}#=%=#liucan@indiana.edu
+Author{2}{Affiliation}#=%=#Indiana University
+Author{3}{Lastname}#=%=#Gasser
+Author{3}{Firstname}#=%=#Michael
+Author{3}{Email}#=%=#gasser@indiana.edu
+Author{3}{Affiliation}#=%=#Indiana University
+Author{4}{Lastname}#=%=#
+Author{4}{Firstname}#=%=#
+Author{4}{Email}#=%=#
+Author{4}{Affiliation}#=%=#
+Author{5}{Lastname}#=%=#
+Author{5}{Firstname}#=%=#
+Author{5}{Email}#=%=#
+Author{5}{Affiliation}#=%=#
+Author{6}{Lastname}#=%=#
+Author{6}{Firstname}#=%=#
+Author{6}{Email}#=%=#
+Author{6}{Affiliation}#=%=#
+Author{7}{Lastname}#=%=#
+Author{7}{Firstname}#=%=#
+Author{7}{Email}#=%=#
+Author{7}{Affiliation}#=%=#
+Author{8}{Lastname}#=%=#
+Author{8}{Firstname}#=%=#
+Author{8}{Email}#=%=#
+Author{8}{Affiliation}#=%=#
+Author{9}{Lastname}#=%=#
+Author{9}{Firstname}#=%=#
+Author{9}{Email}#=%=#
+Author{9}{Affiliation}#=%=#
+Author{10}{Lastname}#=%=#
+Author{10}{Firstname}#=%=#
+Author{10}{Email}#=%=#
+Author{10}{Affiliation}#=%=#
+Author{11}{Lastname}#=%=#
+Author{11}{Firstname}#=%=#
+Author{11}{Email}#=%=#
+Author{11}{Affiliation}#=%=#
+Author{12}{Lastname}#=%=#
+Author{12}{Firstname}#=%=#
+Author{12}{Email}#=%=#
+Author{12}{Affiliation}#=%=#
+Author{13}{Lastname}#=%=#
+Author{13}{Firstname}#=%=#
+Author{13}{Email}#=%=#
+Author{13}{Affiliation}#=%=#
+Author{14}{Lastname}#=%=#
+Author{14}{Firstname}#=%=#
+Author{14}{Email}#=%=#
+Author{14}{Affiliation}#=%=#
+Author{15}{Lastname}#=%=#
+Author{15}{Firstname}#=%=#
+Author{15}{Email}#=%=#
+Author{15}{Affiliation}#=%=#
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Alex Rudnick
+JobTitle#==#
+Organization#==#Indiana University, School of Informatics and Computing
+150 S. Woodlawn Ave.
+Bloomington, IN 47405
+Abstract#==#We present our entries for the SemEval-2013 cross-language word-sense
+disambiguation task. We submitted three systems based on
+classifiers trained on local context features, with some elaborations. Our
+three systems, in increasing order of complexity, were: maximum entropy
+classifiers trained to predict the desired target-language phrase using only
+monolingual features (we called this system L1); similar classifiers,
+but with the desired target-language phrase for the other four languages as
+features (L2); and lastly, networks of five classifiers, over which we
+do loopy belief propagation to solve the classification tasks jointly
+(MRF).
+==========

@@ -1,0 +1,79 @@
+SubmissionNumber#=%=#40
+FinalPaperTitle#=%=#SemEval-2013 Task 1: TempEval-3: Evaluating Time Expressions, Events, and Temporal Relations
+ShortPaperTitle#=%=#TempEval-3: Evaluating Time Expressions, Events, and Temporal Relations
+Author{1}{Lastname}#=%=#UzZaman
+Author{1}{Firstname}#=%=#Naushad
+Author{1}{Email}#=%=#naushad@cs.rochester.edu
+Author{1}{Affiliation}#=%=#Department of Computer Science, University of Rochester, USA
+Author{2}{Lastname}#=%=#Llorens
+Author{2}{Firstname}#=%=#Hector
+Author{2}{Email}#=%=#hllorens@dlsi.ua.es
+Author{2}{Affiliation}#=%=#Universidad de Alicante
+Author{3}{Lastname}#=%=#Derczynski
+Author{3}{Firstname}#=%=#Leon
+Author{3}{Email}#=%=#leon@dcs.shef.ac.uk
+Author{3}{Affiliation}#=%=#University of Sheffield
+Author{4}{Lastname}#=%=#Allen
+Author{4}{Firstname}#=%=#James
+Author{4}{Email}#=%=#james@cs.rochester.edu
+Author{4}{Affiliation}#=%=#University of Rochester
+Author{5}{Lastname}#=%=#Verhagen
+Author{5}{Firstname}#=%=#Marc
+Author{5}{Email}#=%=#marc@cs.brandeis.edu
+Author{5}{Affiliation}#=%=#Brandeis University
+Author{6}{Lastname}#=%=#Pustejovsky
+Author{6}{Firstname}#=%=#James
+Author{6}{Email}#=%=#jamesp@cs.brandeis.edu
+Author{6}{Affiliation}#=%=#Brandeis University
+Author{7}{Lastname}#=%=#
+Author{7}{Firstname}#=%=#
+Author{7}{Email}#=%=#
+Author{7}{Affiliation}#=%=#
+Author{8}{Lastname}#=%=#
+Author{8}{Firstname}#=%=#
+Author{8}{Email}#=%=#
+Author{8}{Affiliation}#=%=#
+Author{9}{Lastname}#=%=#
+Author{9}{Firstname}#=%=#
+Author{9}{Email}#=%=#
+Author{9}{Affiliation}#=%=#
+Author{10}{Lastname}#=%=#
+Author{10}{Firstname}#=%=#
+Author{10}{Email}#=%=#
+Author{10}{Affiliation}#=%=#
+Author{11}{Lastname}#=%=#
+Author{11}{Firstname}#=%=#
+Author{11}{Email}#=%=#
+Author{11}{Affiliation}#=%=#
+Author{12}{Lastname}#=%=#
+Author{12}{Firstname}#=%=#
+Author{12}{Email}#=%=#
+Author{12}{Affiliation}#=%=#
+Author{13}{Lastname}#=%=#
+Author{13}{Firstname}#=%=#
+Author{13}{Email}#=%=#
+Author{13}{Affiliation}#=%=#
+Author{14}{Lastname}#=%=#
+Author{14}{Firstname}#=%=#
+Author{14}{Email}#=%=#
+Author{14}{Affiliation}#=%=#
+Author{15}{Lastname}#=%=#
+Author{15}{Firstname}#=%=#
+Author{15}{Email}#=%=#
+Author{15}{Affiliation}#=%=#
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#Leon Derczynski
+JobTitle#==#
+Organization#==#Department of Computer Science
+University of Sheffield
+211 Portobello
+Sheffield S1 4DP
+UK
+Abstract#==#Within the SemEval-2013 evaluation exercise, the TempEval-3 shared task aims to
+advance research on temporal information processing. It follows on from
+TempEval-1 and -2, with: a three-part structure covering  temporal expression,
+event, and temporal relation extraction; a larger dataset; and new single
+measures to rank systems -- in each task and in general. In this paper, we
+describe the participants' approaches, results, and the observations from the
+results, which may guide future research in this area.
+==========
