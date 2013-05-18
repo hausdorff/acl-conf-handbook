@@ -1,0 +1,102 @@
+\documentclass[twoside,makeidx]{book}
+% set paper size and margins; needs to be adapted for A5 ideally, we
+% should have a document class for conference handbooks where A5
+% vs. letter-halved is a class option
+\usepackage[
+  paperheight=8.5in, 
+  paperwidth=5.5in, 
+  inner=.75in,
+  outer=.5in,
+  bottom=.75in,
+  top=.75in,
+  twoside]{geometry}
+\input{content/special/preamble} 
+\input{content/special/macros}    
+\input{content/setup/venues}    % macros for event locations
+\input{content/setup/sessions}  % session titles and venues
+
+\renewcommand{\normalsize}{\fontsize{8}{9}\selectfont}
+\renewcommand{\small}{\fontsize{7}{8}\selectfont}
+\renewcommand{\footnotesize}{\fontsize{6}{6}\selectfont}
+\renewcommand{\large}{\fontsize{10}{11}\selectfont}
+\renewcommand{\Large}{\fontsize{12}{14}\selectfont}
+\renewcommand{\huge}{\fontsize{14}{17}\selectfont}
+
+% for each part of the conference, add the .bib file produced with
+% meta2bibtex.py here:
+\addbibresource{auto/main/papers.bib}
+\addbibresource{auto/starsem/papers.bib}
+\addbibresource{auto/starsem-st/papers.bib}
+\addbibresource{auto/semeval/papers.bib}
+\addbibresource{auto/demo/papers.bib}
+\addbibresource{auto/srw/papers.bib}
+\addbibresource{auto/akbc-wekex/papers.bib}
+\addbibresource{auto/bea/papers.bib}
+\addbibresource{auto/bionlp/papers.bib}
+\addbibresource{auto/clfl/papers.bib}
+\addbibresource{auto/cmcl/papers.bib}
+\addbibresource{auto/lsm/papers.bib}
+\addbibresource{auto/pitr/papers.bib}
+\addbibresource{auto/sdctd/papers.bib}
+\addbibresource{auto/siac/papers.bib}
+\addbibresource{auto/sigmorphon/papers.bib}
+\addbibresource{auto/slpat/papers.bib}
+\addbibresource{auto/weas/papers.bib}
+\addbibresource{auto/wils/papers.bib}
+\addbibresource{auto/wlm/papers.bib}
+\addbibresource{auto/wmt/papers.bib}
+\addbibresource{content/workshops/ws16-papers.bib}
+
+\begin{document}
+
+\fancyfoot[C]{}
+\input{content/fmatter/cover} 
+\fancyfoot[C]{\thepage}
+
+\thispagestyle{empty}
+\mbox{}
+
+\vfill
+\begin{center}
+{\bfseries Handbook Production:}\\ 
+Baskaran Sankaran, Simon Fraser University\\  
+Ulrich Germann, University of Toronto
+\end{center}
+\newpage
+
+\frontmatter
+\input{content/fmatter/preface-chair}
+\clearpage
+\input{content/fmatter/preface-pc}
+\clearpage%{\thispagestyle{emptyheader}\cleardoublepage}
+\setheaders{}{}
+\input{content/fmatter/committee} 
+\clearpage
+%\input{content/sponsors/sponsor-ads} 
+SPONSOR ADS HERE
+\clearpage%{\thispagestyle{emptyheader}\cleardoublepage}
+\setheaders{}{}
+
+\setcounter{tocdepth}{2}
+\tableofcontents
+
+\mainmatter
+\pagestyle{fancy}
+LOCAL INFO HERE
+%\input{content/fmatter/local-info}
+\clearpage
+\input{content/day1/sunday}
+\input{content/day2/monday} 
+\input{content/day3/tuesday} 
+\input{content/day4/wednesday} 
+\input{content/star-sem/star-sem}
+\input{content/workshops/workshops}
+\cleardoublepage
+\setheaders{Author Index}{Author Index}
+\printindex
+\pagestyle{emptyheader}
+\clearpage{\thispagestyle{emptyheader}\cleardoublepage}
+BACKCOVER HERE
+%\input{content/fmatter/backcover}
+\end{document}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
