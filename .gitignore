@@ -1,13 +1,18 @@
+<<<<<<< HEAD
 # ignore pdf files in workshops that appear next to metadata
 auto/
 input/*/*/*/*/*.pdf
-*.log
-*.idx
-*.dep
-*.aux
-*.toc
-*.ind
-*.out
-*.idx.fixed
-*.idx.ilg
-*.fls
+handbook-blx.bib
+handbook.aux
+handbook.dep
+handbook.fls
+handbook.idx
+handbook.idx.fixed
+handbook.idx.ilg
+handbook.ind
+handbook.log
+handbook.out
+handbook.ps
+handbook.pdf
+handbook.run.xml
+handbook.toc
