@@ -1,0 +1,79 @@
+SubmissionNumber#=%=#5
+FinalPaperTitle#=%=#[TACL] Branch and Bound Algorithm for Dependency Parsing with Non-local Features
+ShortPaperTitle#=%=#[TACL] Branch and Bound Algorithm for Dependency Parsing with Non-local Features
+Author{1}{Lastname}#=%=#Qian
+Author{1}{Firstname}#=%=#Xian
+Author{1}{Email}#=%=#qx@hlt.utdallas.edu
+Author{1}{Affiliation}#=%=#The University of Texas at Dallas
+Author{2}{Lastname}#=%=#Liu
+Author{2}{Firstname}#=%=#Yang
+Author{2}{Email}#=%=#yangl@hlt.utdallas.edu
+Author{2}{Affiliation}#=%=#The University of Texas at Dallas
+Author{3}{Lastname}#=%=#
+Author{3}{Firstname}#=%=#
+Author{3}{Email}#=%=#
+Author{3}{Affiliation}#=%=#
+Author{4}{Lastname}#=%=#
+Author{4}{Firstname}#=%=#
+Author{4}{Email}#=%=#
+Author{4}{Affiliation}#=%=#
+Author{5}{Lastname}#=%=#
+Author{5}{Firstname}#=%=#
+Author{5}{Email}#=%=#
+Author{5}{Affiliation}#=%=#
+Author{6}{Lastname}#=%=#
+Author{6}{Firstname}#=%=#
+Author{6}{Email}#=%=#
+Author{6}{Affiliation}#=%=#
+Author{7}{Lastname}#=%=#
+Author{7}{Firstname}#=%=#
+Author{7}{Email}#=%=#
+Author{7}{Affiliation}#=%=#
+Author{8}{Lastname}#=%=#
+Author{8}{Firstname}#=%=#
+Author{8}{Email}#=%=#
+Author{8}{Affiliation}#=%=#
+Author{9}{Lastname}#=%=#
+Author{9}{Firstname}#=%=#
+Author{9}{Email}#=%=#
+Author{9}{Affiliation}#=%=#
+Author{10}{Lastname}#=%=#
+Author{10}{Firstname}#=%=#
+Author{10}{Email}#=%=#
+Author{10}{Affiliation}#=%=#
+Author{11}{Lastname}#=%=#
+Author{11}{Firstname}#=%=#
+Author{11}{Email}#=%=#
+Author{11}{Affiliation}#=%=#
+Author{12}{Lastname}#=%=#
+Author{12}{Firstname}#=%=#
+Author{12}{Email}#=%=#
+Author{12}{Affiliation}#=%=#
+Author{13}{Lastname}#=%=#
+Author{13}{Firstname}#=%=#
+Author{13}{Email}#=%=#
+Author{13}{Affiliation}#=%=#
+Author{14}{Lastname}#=%=#
+Author{14}{Firstname}#=%=#
+Author{14}{Email}#=%=#
+Author{14}{Affiliation}#=%=#
+Author{15}{Lastname}#=%=#
+Author{15}{Firstname}#=%=#
+Author{15}{Email}#=%=#
+Author{15}{Affiliation}#=%=#
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#
+JobTitle#==#
+Organization#==#
+Abstract#==#Graph based dependency parsing is inefficient when handling non-local features
+due to high computational complexity of inference. In this paper, we proposed
+an exact and efficient decoding algorithm based on the Branch and Bound (B&B)
+framework where non-local features are bounded by a linear combination of local
+features. Dynamic programming is used to search the upper bound. Experiments
+are conducted on English PTB and Chinese CTB datasets. We achieved competitive
+Unlabeled Attachment Score (UAS) when no additional resources are available:
+93.17% for English and 87.25% for Chinese. Parsing speed is 177 words per
+second for English and 97 words per second for Chinese. Our algorithm is
+general and can be adapted to non-projective dependency parsing or other
+graphical models.
+==========

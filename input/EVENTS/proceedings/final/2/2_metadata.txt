@@ -1,0 +1,79 @@
+SubmissionNumber#=%=#2
+FinalPaperTitle#=%=#GAF: A Grounded Annotation Framework for Events
+ShortPaperTitle#=%=#GAF: A Grounded Annotation Framework for Events
+Author{1}{Lastname}#=%=#Fokkens
+Author{1}{Firstname}#=%=#Antske
+Author{1}{Email}#=%=#antske.fokkens@vu.nl
+Author{1}{Affiliation}#=%=#VU Amsterdam
+Author{2}{Lastname}#=%=#van Erp
+Author{2}{Firstname}#=%=#Marieke
+Author{2}{Email}#=%=#marieke.van.erp@vu.nl
+Author{2}{Affiliation}#=%=#VU University Amsterdam
+Author{3}{Lastname}#=%=#Vossen
+Author{3}{Firstname}#=%=#Piek
+Author{3}{Email}#=%=#piek.vossen@vu.nl
+Author{3}{Affiliation}#=%=#VU University Amsterdam
+Author{4}{Lastname}#=%=#Tonelli
+Author{4}{Firstname}#=%=#Sara
+Author{4}{Email}#=%=#satonelli@fbk.eu
+Author{4}{Affiliation}#=%=#FBK
+Author{5}{Lastname}#=%=#van Hage
+Author{5}{Firstname}#=%=#Willem Robert
+Author{5}{Email}#=%=#willem.van.hage@synerscope.com
+Author{5}{Affiliation}#=%=#SynerScope B.V.
+Author{6}{Lastname}#=%=#Serafini
+Author{6}{Firstname}#=%=#Luciano
+Author{6}{Email}#=%=#serafini@fbk.eu
+Author{6}{Affiliation}#=%=#FBK
+Author{7}{Lastname}#=%=#Sprugnoli
+Author{7}{Firstname}#=%=#Rachele
+Author{7}{Email}#=%=#sprugnoli@fbk.eu
+Author{7}{Affiliation}#=%=#FBK
+Author{8}{Lastname}#=%=#Hoeksema
+Author{8}{Firstname}#=%=#Jesper
+Author{8}{Email}#=%=#j.e.hoeksema@vu.nl
+Author{8}{Affiliation}#=%=#VU University Amsterdam
+Author{9}{Lastname}#=%=#
+Author{9}{Firstname}#=%=#
+Author{9}{Email}#=%=#
+Author{9}{Affiliation}#=%=#
+Author{10}{Lastname}#=%=#
+Author{10}{Firstname}#=%=#
+Author{10}{Email}#=%=#
+Author{10}{Affiliation}#=%=#
+Author{11}{Lastname}#=%=#
+Author{11}{Firstname}#=%=#
+Author{11}{Email}#=%=#
+Author{11}{Affiliation}#=%=#
+Author{12}{Lastname}#=%=#
+Author{12}{Firstname}#=%=#
+Author{12}{Email}#=%=#
+Author{12}{Affiliation}#=%=#
+Author{13}{Lastname}#=%=#
+Author{13}{Firstname}#=%=#
+Author{13}{Email}#=%=#
+Author{13}{Affiliation}#=%=#
+Author{14}{Lastname}#=%=#
+Author{14}{Firstname}#=%=#
+Author{14}{Email}#=%=#
+Author{14}{Affiliation}#=%=#
+Author{15}{Lastname}#=%=#
+Author{15}{Firstname}#=%=#
+Author{15}{Email}#=%=#
+Author{15}{Affiliation}#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#
+JobTitle#==#
+Organization#==#
+Abstract#==#This paper introduces GAF, a grounded annotation framework to represent events
+in a formal context that can represent information from both textual and
+extratextual sources. GAF makes a clear distinction between mentions of events
+in text and their formal representation as instances in a semantic layer.
+Instances are represented by RDF compliant URIs that are shared across
+different research disciplines. This allows us to complete textual information
+with external sources and facili- tates reasoning. The semantic layer can
+integrate any linguistic information and is compatible with previous event
+representations in NLP. Through a use case on earthquakes in Southeast Asia, we
+demonstrate GAF flexibility and ability to reason over events with the aid of
+extra-linguistic resources.
+==========

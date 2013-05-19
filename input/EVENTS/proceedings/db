@@ -1,0 +1,79 @@
+X: * Friday, June 14, 2013
+
+X: + 9:00--9:15 Welcome
+
+X: + 9:15--9:30 Working Session Instructions
+
+X: + 9:30--10:30 Invited Talk: The Role of Event-based Representations and Reasoning in Language, James Pustejovsky
+
+X: + 10:30--11:00 Break
+
+X: + 11:00--12:00 Working Session I: What are events?
+
+X: + 12:00--1:00 Poster Session
+
+P: 1
+M: -1 5
+T: Coping With Implicit Arguments And Events Coreference
+A: Delmonte, Rodolfo
+F: final/1/1_Paper.pdf
+L: 10
+
+P: 2
+M: 0 5
+T: GAF: A Grounded Annotation Framework for Events
+A: Fokkens, Antske
+A: van Erp, Marieke
+A: Vossen, Piek
+A: Tonelli, Sara
+A: van Hage, Willem Robert
+A: Serafini, Luciano
+A: Sprugnoli, Rachele
+A: Hoeksema, Jesper
+F: final/2/2_Paper.pdf
+L: 10
+
+P: 3
+M: 0 5
+T: Events are Not Simple: Identity, Non-Identity, and Quasi-Identity
+A: Hovy, Eduard
+A: Mitamura, Teruko
+A: Verdejo, Felisa
+A: Araki, Jun
+A: Philpot, Andrew
+F: final/3/3_Paper.pdf
+L: 8
+
+P: 4
+M: 0 5
+T: Event representation across genre
+A: Pivovarova, Lidia
+A: Huttunen, Silja
+A: Yangarber, Roman
+F: final/4/4_Paper.pdf
+L: 9
+
+P: 5
+M: 0 5
+T: A Semantic Tool for Historical Events
+A: Shaw, Ryan
+F: final/5/5_Paper.pdf
+L: 9
+
+P: 6
+M: 0 5
+T: Annotating Change of State for Clinical Events
+A: Vanderwende, Lucy
+A: Xia, Fei
+A: Yetisgen-Yildiz, Meliha
+F: final/6/6_Paper.pdf
+L: 5
+
+X: + 2:00--3:30 Working Session II: When are two events the same? What relations are between events?
+
+X: + 3:30--4:00 Break
+
+X: + 4:00--5:30 Working Session III: How best to represent events? What aspects to annotate?
+
+X: + 5:30--6:00 General Discussion
+

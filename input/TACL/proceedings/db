@@ -1,0 +1,66 @@
+X: * Monday, June 10, 2013
+
+X: = M2a: Parsing and Syntax
+
+P: 1
+T: [TACL] Finding Optimal 1-Endpoint-Crossing Trees
+A: Pitler, Emily
+A: Kannan, Sampath
+A: Marcus, Mitchell
+F: final/1/1_Paper.pdf
+L: 12
+H: 15:15--15:40
+
+X: + 16:10--18:00 Poster madness!
+
+P: 5
+T: [TACL] Branch and Bound Algorithm for Dependency Parsing with Non-local Features
+A: Qian, Xian
+A: Liu, Yang
+F: final/5/5_Paper.pdf
+L: 12
+
+X: * Tuesday, June 11, 2013
+
+X: = T3a: Semantics
+
+P: 2
+T: [TACL] Weakly Supervised Learning of Semantic Parsers for Mapping Instructions to Actions
+A: Artzi, Yoav
+A: Zettlemoyer, Luke
+F: final/2/2_Paper.pdf
+L: 14
+H: 15:45--16:10
+
+X: * Wednesday, June 12, 2013
+
+X: = W1b: Semantics
+
+P: 6
+T: [TACL] Modeling Semantic Relations Expressed by Prepositions
+A: Srikumar, Vivek
+A: Roth, Dan
+F: final/6/6_Paper.pdf
+L: 2
+H: 11:55-12:20
+
+X: = W2a: Parsing and Syntax
+
+P: 3
+T: [TACL] Unsupervised Dependency Parsing with Acoustic Cues
+A: Pate, John K
+A: Goldwater, Sharon
+F: final/3/3_Paper.pdf
+L: 12
+H: 14:00--14:25
+
+X: = W3a: Semantics
+
+P: 4
+T: [TACL] An HDP Model for Inducing Combinatory Categorial Grammars
+A: Bisk, Yonatan
+A: Hockenmaier, Julia
+F: final/4/4_Paper.pdf
+L: 14
+H: 16:35--17:00
+
