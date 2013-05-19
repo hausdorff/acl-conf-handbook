@@ -1,5 +1,5 @@
 VPATH = doc
-latex = latex -recorder
+latex = pdflatex -recorder
 all: docu handbook
 docu: aclpub-setup.pdf chbk-howto.pdf
 handbook: handbook.pdf
