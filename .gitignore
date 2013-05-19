@@ -1,2 +1,13 @@
 # ignore pdf files in workshops that appear next to metadata
+auto/
 input/*/*/*/*/*.pdf
+*.log
+*.idx
+*.dep
+*.aux
+*.toc
+*.ind
+*.out
+*.idx.fixed
+*.idx.ilg
+*.fls
