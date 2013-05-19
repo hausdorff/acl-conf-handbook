@@ -13,7 +13,12 @@ fdir = sys.argv[1] # i.e., $ACLPUB_ROOT/final
 tag  = sys.argv[2] # e.g., main, demos, ws1, ...
 
 try:
-    os.mkdir("auto/%s"%tag)
+    os.makedirs("auto/%s" % (tag))
+except:
+    pass
+
+try:
+    os.makedirs("auto/abstracts")
 except:
     pass
 
