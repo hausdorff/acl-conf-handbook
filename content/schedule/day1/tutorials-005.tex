@@ -1,0 +1,36 @@
+\begin{bio}
+\noindent
+
+\end{bio}
+
+\section%
+    [\textbf{T5:}  Spectral Learning Algorithms for Natural Language Processing (S. Cohen, M. Collins, D.~P. Foster, K. Stratos and L. Ungar)]
+    {Tutorial 5}
+\index{Cohen, Shay}\label{TutE}
+\index{Collins, Michael}
+\index{Foster, Dean P.}
+\index{Stratos, Karl}
+\index{Collins, Michael}
+\index{Ungar, Lyle				}
+\begin{center}
+\begin{Large}
+\bfseries Towards Reliability-Aware Entity Analytics and Integration for Noisy Text at Scale\\ \vspace{2em}\par
+\end{Large}
+
+{\itshape Shay Cohen (Columbia University), Michael Collins (Columbia University), Dean P. Foster (University of Pennsylvania), Karl Stratos (Columbia University), and Lyle Ungar (University of Pennsylvania)}\vspace{1em}\par
+Sunday, June 9, 2013, 2:00am -- 5:30pm \vspace{1em}\\
+\TutLocE
+\end{center}
+
+\noindent
+{\bfseries Abstract:} Recent work in machine learning and NLP has developed spectral algorithms for many learning tasks involving latent variables. Spectral algorithms rely on singular value decomposition as a basic operation, usually followed by some simple estimation method based on the method of moments. From a theoretical point of view, these methods are appealing in that they offer consistent estimators (and PAC-style guarantees of sample complexity) for several important latent-variable models. This is in contrast to the EM algorithm, which is an extremely successful approach, but which only has guarantees of reaching a local maximum of the likelihood function.
+
+From a practical point of view, the methods (unlike EM) have no need for careful initialization, and have recently been shown to be highly efficient (as one example, in work under submission by the authors on learning of latent-variable PCFGs, a spectral algorithm performs at identical accuracy to EM, but is around 20 times faster).
+
+In this tutorial we will aim to give a broad overview of spectral methods, describing theoretical guarantees, as well as practical issues. We will start by covering the basics of singular value decomposition and describe efficient methods for doing singular value decomposition. The SVD operation is at the core of most spectral algorithms that have been developed.
+
+We will then continue to cover canonical correlation analysis (CCA). CCA is an early method from statistics for dimensionality reduction. With CCA, two or more views of the data are created, and they are all projected into a lower dimensional space which maximizes the correlation between the views. We will review the basic algorithms underlying CCA, give some formal results giving guarantees for latent-variable models and also describe how they have been applied recently to learning lexical representations from large quantities of unlabeled data. This idea of learning lexical representations can be extended further, where unlabeled data is used to learn underlying representations which are subsequently used as additional information for supervised training.
+
+We will also cover how spectral algorithms can be used for structured prediction problems with sequences and parse trees. A striking recent result by Hsu, Kakade and Zhang (2009) shows that HMMs can be learned efficiently using a spectral algorithm. HMMs are widely used in NLP and speech, and previous algorithms (typically based on EM) were guaranteed to only reach a local maximum of the likelihood function, so this is a crucial result. We will review the basic mechanics of the HMM learning algorithm, describe its formal guarantees, and also cover practical issues.
+
+Last, we will cover work about spectral algorithms in the context of natural language parsing. We will show how spectral algorithms can be used to estimate the parameter models of latent-variable PCFGs, a model which serves as the base for state-of-the-art parsing models such as the one of Petrov et al. (2007). We will show what are the practical steps that are needed to be taken in order to make spectral algorithms for L-PCFGs (or other models in general) practical and comparable to state of the art.
