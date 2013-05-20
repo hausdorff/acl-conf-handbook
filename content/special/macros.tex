@@ -237,9 +237,10 @@
   \begin{minipage}{\linewidth}%
     \begin{center}\label{#5}%
       %\rule{\linewidth}{1pt}\linebreak
-      {\bfseries\papertitle{#5}}\\
-      \paperauthor{\citefullauthornames{#5}}\\
-      {\small #1 #2 --- #4}\vspace{.5ex}\\
+      {\bfseries\normalsize\papertitle{#5}}\\
+      \normalsize\paperauthor{\citefullauthornames{#5}}\\
+%      {\small #1 #2 --- #4}\vspace{.5ex}\\
+      {\small #2}\vspace{.5ex}\\
 %    \parbox[t]{.8\linewidth}{\centering
 %      {\bfseries\papertitle{\citetitle{#5}}}\linebreak
 %      \paperauthor{\citefullauthornames{#5}}}%
@@ -253,7 +254,7 @@
   %%   %#1 #2 --- #4\linebreak 						% Redundant info? - B
     \end{center}
   \end{minipage}\par\nopagebreak%
-  \noindent\input{auto/abstracts/#5}\vspace{2em}\par}			% Space reduced to 2em from 3em - B
+  \noindent{\small\input{auto/abstracts/#5}}\vspace{2em}\par}			% Space reduced to 2em from 3em - B
 
 \newcommand{\TutorialCoverPage}[4]{%
 \vspace*{.25in}
