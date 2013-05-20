@@ -2,6 +2,7 @@
 + 8:45--9:00   Welcome to NAACL 2013!
 + 9:00--10:10  Invited talk by Gina Kuperberg -- Predicting Meaning: What the Brain tells us about the Architecture of Language Comprehension
 + 10:10--10:40 Break
+= Session 1:
 = M1a: Machine Translation
 268 10:40-11:05 # Model With Minimal Translation Units, But Decode With Phrases
 319 11:05-11:30 # Beyond Left-to-Right: Multiple Decomposition Structures for SMT
@@ -18,6 +19,7 @@
 82 11:30-11:55 # Cross-Lingual Semantic Similarity of Words as the Similarity of Their Semantic Word Responses
 370 11:55-12:20 # Combining multiple information types in Bayesian word segmentation
 + 12:20--2:00 Lunch
+= Session 1:
 = M2a: Parsing and Syntax
 233 2:00-2:25 # Training Parsers on Incompatible Treebanks
 2 2:25-2:50 # Learning a Part-of-Speech Tagger from Two Hours of Annotation
@@ -28,6 +30,7 @@
 317 2:25-2:50 # Summarizing Drug Experiences with Multi-Dimensional Topic Models
 308 2:50-3:15 # Towards Topic Labeling with Phrase Entailment and Aggregation
 155 3:15-3:40 # Topic Segmentation with a Structured Topic Model
+= Session 1:
 = M2c: Spoken Language Processing
 363 2:00-2:25 # Text Alignment for Real-Time Crowd Captioning
 429 2:25-2:50 # Discriminative Joint Modeling of Lexical Variation and Acoustic Confusion for Automated Narrative Retelling Assessment
@@ -35,6 +38,7 @@
 361 3:15-3:40 # Segmentation Strategies for Streaming Speech Translation
 + 3:40--4:10 Break
 + 4:10--6:00 Poster madness!
+= Session 1:
 180 # Enforcing Subcategorization Constraints in a Parser Using Sub-parses Recombining
 393 # Large-Scale Discriminative Training for SMT
 345 # Measuring Term Informativeness in Context
@@ -88,11 +92,13 @@
 * Tuesday, June 11, 2013
 + 9:15--9:25 Best paper awards
 = Best Short Paper
+= Session 1:
 27 9:25--9:45 # Best Short Paper: The Life and Death of Discourse Entities: Identifying Singleton Mentions
 = IBM Best Student Paper
 332 9:45--10:15 # Best Student Paper: Automatic Generation of English Respellings
 + 10:15--10:45 Break
 = T1a: Machine Translation and Multilinguality
+= Session 1:
 47 10:45-11:00 # A Simple, Fast, and Effective Reparameterization of IBM Model 2
 22 11:00-11:15 # Phrase Training Based Adaptation for SMT
 444 11:15-11:30 # Translation Acquisition Using Synonym Sets
@@ -112,6 +118,7 @@
 353 11:45-12:00 # Semi-Supervised Discriminative Language Modeling with Out-of-Domain Text Data
 + 12:00--2:00 Lunch (and Business Meeting 1-2)
 = T2a: Semantics
+= Session 1:
 1 2:00-2:15 # Study of Human Cognition in Sense Annotation
 119 2:15-2:30 # Improving Lexical Semantics for Sentential Semantics
 37 2:30-2:45 # Linguistic Regularities in Continuous Space Word Representations
@@ -131,6 +138,7 @@
 160 3:00-3:15 # Disfluency Detection Using Multi-step Stacked Learning
 + 3:15--3:45 Break
 = T3a: Semantics
+= Session 1:
 #TACL-3 3:45-4:10 # [TACL] Weakly Supervised Learning of Semantic Parsers for Mapping Instructions to Actions
 307 4:10-4:35 # Using Semantic Unification to Generate Regular Expressions from Natural Language
 468 4:35-5:00 # Probabilistic Frame Induction
@@ -150,6 +158,7 @@
 + 9:00--10:10  Invited talk by Kathleen McKeown -- Natural Language Applications from Fact to Fiction
 + 10:10--10:40 Break
 = W1a: Machine Translation
+= Session 1:
 396 10:40-11:05 # Adaptation of Reordering Models for SMT
 463 11:05-11:30 # Multi-Metric Optimization Using Ensemble Tuning
 272 11:30-11:55 # Grouping Language Model Boundary Words to Speed K–Best Extraction from Hypergraphs
@@ -166,6 +175,7 @@
 76 11:55-12:20 # Identifying Intention Posts in Discussion Forums
 + 12:20--2:00 Lunch
 = W2a: Parsing and Syntax
+= Session 1:
 #TACL-4 2:00-2:25 # [TACL] Unsupervised Dependency Parsing with Acoustic Cues
 117 2:25-2:50 # Dependency-based empty category detection via phrase structure trees
 7 2:50-3:15 # Target Language Adaptation of Discriminative Transfer Parsers
@@ -179,6 +189,7 @@
 223 2:50-3:15 # Learning Whom to Trust with MACE
 + 3:15--3:45 Break
 = W3a: Semantics and Syntax
+= Session 1:
 325 3:45-4:10 # Supervised All-Words Lexical Substitution using Delexicalized Features
 74 4:10-4:35 # A Tensor-based Factorization Model of Semantic Compositionality
 #TACL-5 4:35-5:00 # [TACL] An HDP Model for Inducing Combinatory Categorial Grammars
