@@ -1,4 +1,13 @@
+* Sunday, June 9, 2013
++ 07:30--18:00 Registration
++ 10:30--11:00 Break
++ 12:30--14:00 Lunch
++ 13:00--17:00 NAACL Board Meeting (with lunch)
++ 15:30--16:00 Break
+
 * Monday, June 10, 2013
++ 07:00--18:00 Registration
++ 07:30--08:45 Continental Breakfast
 + 8:45--9:00   Welcome to NAACL 2013!
 + 9:00--10:10  Invited talk by Gina Kuperberg -- Predicting Meaning: What the Brain tells us about the Architecture of Language Comprehension
 + 10:10--10:40 Break
@@ -19,7 +28,7 @@
 82 11:30-11:55 # Cross-Lingual Semantic Similarity of Words as the Similarity of Their Semantic Word Responses
 370 11:55-12:20 # Combining multiple information types in Bayesian word segmentation
 + 12:20--2:00 Lunch
-= Session 1:
++ 12:20--2:00 IBM Student Lunch
 = M2a: Parsing and Syntax
 233 2:00-2:25 # Training Parsers on Incompatible Treebanks
 2 2:25-2:50 # Learning a Part-of-Speech Tagger from Two Hours of Annotation
@@ -89,7 +98,10 @@
 72 # Down-stream effects of tree-to-dependency conversions
 + 6:00--6:30 Break
 + 6:30--8:30 Poster and Demonstrations Session
+
 * Tuesday, June 11, 2013
++ 7:30--18:00 Registration
++ 7:30--09:00 Continental Breakfast
 + 9:15--9:25 Best paper awards
 = Best Short Paper
 = Session 1:
@@ -154,7 +166,10 @@
 460 4:35-5:00 # Classifying Temporal Relations with Rich Linguistic Knowledge
 65 5:00-5:25 # Improved Information Structure Analysis of Scientific Documents Through Discourse and Lexical Constraints
 + 7:00--9:30 Banquet
+
 * Wednesday, June 12, 2013
++ 07:30--18:00 Registration
++ 07:30--09:00 Continental Breakfast
 + 9:00--10:10  Invited talk by Kathleen McKeown -- Natural Language Applications from Fact to Fiction
 + 10:10--10:40 Break
 = W1a: Machine Translation
@@ -174,6 +189,7 @@
 312 11:30-11:55 # A Viewpoint Discovery Model
 76 11:55-12:20 # Identifying Intention Posts in Discussion Forums
 + 12:20--2:00 Lunch
++ 13:00--14:00 NAACL Business Meeting
 = W2a: Parsing and Syntax
 = Session 1:
 #TACL-4 2:00-2:25 # [TACL] Unsupervised Dependency Parsing with Acoustic Cues

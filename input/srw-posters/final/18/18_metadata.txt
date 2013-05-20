@@ -1,0 +1,81 @@
+SubmissionNumber#=%=#18
+FinalPaperTitle#=%=#Reversing Morphological Tokenization in English-to-Arabic SMT
+ShortPaperTitle#=%=#Reversing Morphological Tokenization
+Author{1}{Lastname}#=%=#Salameh
+Author{1}{Firstname}#=%=#Mohammad
+Author{1}{Email}#=%=#msalameh@ualberta.ca
+Author{1}{Affiliation}#=%=#University of Alberta
+Author{2}{Lastname}#=%=#Cherry
+Author{2}{Firstname}#=%=#Colin
+Author{2}{Email}#=%=#colin.cherry@nrc-cnrc.gc.ca
+Author{2}{Affiliation}#=%=#NRC
+Author{3}{Lastname}#=%=#Kondrak
+Author{3}{Firstname}#=%=#Grzegorz
+Author{3}{Email}#=%=#gkondrak@ualberta.ca
+Author{3}{Affiliation}#=%=#University of Alberta
+Author{4}{Lastname}#=%=#
+Author{4}{Firstname}#=%=#
+Author{4}{Email}#=%=#
+Author{4}{Affiliation}#=%=#
+Author{5}{Lastname}#=%=#
+Author{5}{Firstname}#=%=#
+Author{5}{Email}#=%=#
+Author{5}{Affiliation}#=%=#
+Author{6}{Lastname}#=%=#
+Author{6}{Firstname}#=%=#
+Author{6}{Email}#=%=#
+Author{6}{Affiliation}#=%=#
+Author{7}{Lastname}#=%=#
+Author{7}{Firstname}#=%=#
+Author{7}{Email}#=%=#
+Author{7}{Affiliation}#=%=#
+Author{8}{Lastname}#=%=#
+Author{8}{Firstname}#=%=#
+Author{8}{Email}#=%=#
+Author{8}{Affiliation}#=%=#
+Author{9}{Lastname}#=%=#
+Author{9}{Firstname}#=%=#
+Author{9}{Email}#=%=#
+Author{9}{Affiliation}#=%=#
+Author{10}{Lastname}#=%=#
+Author{10}{Firstname}#=%=#
+Author{10}{Email}#=%=#
+Author{10}{Affiliation}#=%=#
+Author{11}{Lastname}#=%=#
+Author{11}{Firstname}#=%=#
+Author{11}{Email}#=%=#
+Author{11}{Affiliation}#=%=#
+Author{12}{Lastname}#=%=#
+Author{12}{Firstname}#=%=#
+Author{12}{Email}#=%=#
+Author{12}{Affiliation}#=%=#
+Author{13}{Lastname}#=%=#
+Author{13}{Firstname}#=%=#
+Author{13}{Email}#=%=#
+Author{13}{Affiliation}#=%=#
+Author{14}{Lastname}#=%=#
+Author{14}{Firstname}#=%=#
+Author{14}{Email}#=%=#
+Author{14}{Affiliation}#=%=#
+Author{15}{Lastname}#=%=#
+Author{15}{Firstname}#=%=#
+Author{15}{Email}#=%=#
+Author{15}{Affiliation}#=%=#
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Mohammad Salameh
+JobTitle#==#
+Organization#==#University of Alberta
+Abstract#==#Morphological tokenization has been used in machine translation for
+morphologically complex languages to reduce lexical sparsity. Unfortunately,
+when translating into a morphologically
+complex language, recombining segmented tokens to generate original word forms
+is not a trivial task, due to morphological, phonological and orthographic
+adjustments that occur during tokenization. We review a number of
+detokenization schemes for Arabic, such as rule-based and table-based
+approaches and show their limitations. We then propose a novel detokenization
+scheme that uses a character-level discriminative string transducer to predict
+the original form of a segmented word. In a comparison to a state-of-the-art
+approach, we demonstrate slightly better detokenization error rates, without
+the need for any hand-crafted rules. We also demonstrate the effectiveness of
+our approach in an English-to-Arabic translation task.
+==========
