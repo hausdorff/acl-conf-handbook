@@ -16,10 +16,10 @@ chbk-howto.dvi: doc/chbk-howto.tex
 	(grep -i 'rerun' $*.log && ${latex} doc/$*) || echo -n ''
 
 %.pdf: %.ps
-	echo "No need to run 'ps2pdf $<'"
+	@echo "No need to run 'ps2pdf $<'"
 
 %.ps: %.dvi
-	echo "No need to run 'dvips $< -o $@ -t'"
+	@echo "No need to run 'dvips $< -o $@ -t'"
 
 %.dvi:
 	if [ -e $*.idx ]; then scripts/fix-index.perl < $*.idx > $*.idx.fixed && makeindex $*.idx.fixed -o $*.ind && ${latex} $*; fi
