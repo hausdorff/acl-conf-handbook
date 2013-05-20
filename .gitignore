@@ -1,5 +1,4 @@
 # ignore pdf files in workshops that appear next to metadata
-auto/
 input/*/*/*/*/*.pdf
 handbook-blx.bib
 handbook.aux
