@@ -8,6 +8,7 @@
 
 from paper_info import *
 import sys, os, unicodedata, codecs
+import re
 
 fdir = sys.argv[1] # i.e., $ACLPUB_ROOT/final
 tag  = sys.argv[2] # e.g., main, demos, ws1, ...
@@ -23,7 +24,8 @@ except:
     pass
 
 def escape(str):
-    return str.replace('%','\%')
+    str = str.replace('%','\%').replace('~','\\textasciitilde')
+    str = re.sub(r'([^$])\^(.*?) ', r'\1$^\2$ ', str)
 
 paper_ids = [int(n) for n in os.listdir(fdir)]
 BIBFILE   = open("auto/"+tag+"/papers.bib",'w')
