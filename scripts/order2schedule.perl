@@ -14,6 +14,13 @@ $conf_part = "main" unless $conf_part;
 my $auto = "auto/$conf_part";
 mkdir $auto;
 
+my $poster_file = "$auto/poster-abstracts.tex";
+open (POSTERS, ">$poster_file") 
+    or die "Could not open file '$poster_file': $!\n";
+
+my $day;
+my $session_no = 0;
+my $session_name;
 while (my $line = <STDIN>)
 {
   next if $line =~ /^\s*$/;
@@ -25,6 +32,7 @@ while (my $line = <STDIN>)
   }
   if ($c eq "*")    # DAY LINE
   {
+    $session_no = 1;
     if ($#S >= 0)
     {
       die "Sessions without days!\n" unless $#D >= 0;
@@ -34,26 +42,63 @@ while (my $line = <STDIN>)
     $line =~ /\*\s*([a-zA-Z]+)/;
     my @d = ($1, ());
     push @D, [@d];
+    $day = lc(shift @d);
+
+    my $filename = "$auto/$day-$conf_part-abstracts.tex";
+    print "writing to $filename\n";
+    close SCHED;
+    open (SCHED, ">$filename") 
+        or die "Could not open file '$filename': $!\n";
   }
-  elsif ($line =~ /[+=]\s+Session\s+(.*?):/) # SESSION
+#  elsif ($line =~ /[+=]\s+Session\s+(.*?):/) # SESSION
+  elsif ($line =~ /^= (.*?)$/) # SESSION
   {
-    push @{$P[scalar(@P)]}, $1;
+    chomp($session_name = $1);
+    $session_name =~ s/\r//g;
+    print SCHED "\\clearpage\n";
+    print SCHED "\\par\\centerline{\\bfseries\\large Session $session_name}\\vspace{1em}\\par\n";
   }
   elsif ($line =~ /([0-9]+)\s*([0-9: -]+)?\s*\#/)
   {
-    die "Papers without session!" unless $#P >= 0;
+#    die "Papers without session ($line)!" unless $session_name;
     my $pid = $1;
     my $tim = $2 ? $2 : "";
+    
+    my $this_conf_part = $conf_part;
+    if ($line !~ /^\d/) {
+      my @tokens = split(' ', $line);
+      ($this_conf_part,$pid) = split('-', $tokens[0]);
+    }
+
     #print $#P, "@P\n:";
-    push @{$P[$#P]}, [ ($pid, $tim) ];
-  }
-  else
-  {
+    my $d = $day;
+    $d =~ s/(.)([a-z]+).*/uc($1).$2/e;
+    my @tim = split(/\s*-+\s*/, $tim);
+    if (scalar(@tim))
+    {
+      for (@tim)
+      {  # add am / pm 
+        s/\s+//g; 
+        /([0-9]+):/; 
+        $_ .= ($1 < 9 or $1 > 11) ? "pm" : "am"; 
+      }
+      my $d = $day;
+      $d =~ s/(.)([a-z]+).*/uc($1).$2/e;
+      my $t = "$tim[0]--$tim[1]";
+      print SCHED sprintf("\\paperabstract{$d}{$t}{garbage}{garbage}{$this_conf_part-%03d}\n", $pid);
+    }
+    else
+    {
+      print POSTERS sprintf("\\posterabstract{$this_conf_part-%03d}\n", $pid);
+    }
     #print "OOPS: $line";
   }
 }
-push @S, [@P]         if ($#P >= 0);
-push @{$D[$#D]}, [@S] if ($#S >= 0);
+
+close(SCHED);
+close(POSTERS);
+
+exit;
 
 # PART II: Write tex files to be \input{} in the latex document for the
 # conference handbook.
@@ -153,7 +198,7 @@ for (@D)
           else
           {
             #print ABS sprintf("\\posterabstract{$conf_part-%03d}\n", $x[0]);
-            my $t = "6:00pm--9:00pm";
+            my $t = "6:30pm--8:30pm";
             my $d = "Monday";
             print ABS sprintf("\\paperabstract{$d}{$t}{%s}{\\%s}{%s-%03d}\\par\n",
                               "Poster Session", "PosterSessionLoc", 

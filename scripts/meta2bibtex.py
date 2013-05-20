@@ -26,6 +26,7 @@ except:
 def escape(str):
     str = str.replace('%','\%').replace('~','\\textasciitilde')
     str = re.sub(r'([^$])\^(.*?) ', r'\1$^\2$ ', str)
+    return str
 
 paper_ids = [int(n) for n in os.listdir(fdir)]
 BIBFILE   = open("auto/"+tag+"/papers.bib",'w')
