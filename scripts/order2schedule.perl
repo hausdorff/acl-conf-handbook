@@ -14,7 +14,7 @@ $conf_part = "main" unless $conf_part;
 my $auto = "auto/$conf_part";
 mkdir $auto;
 
-my $poster_file = "$auto/poster-abstracts.tex";
+my $poster_file = "$auto/${conf_part}-poster-abstracts.tex";
 open (POSTERS, ">$poster_file") 
     or die "Could not open file '$poster_file': $!\n";
 
