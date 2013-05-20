@@ -14,4 +14,7 @@ handbook.ps
 handbook.pdf
 handbook.run.xml
 handbook.toc
+handbook.bbl
+handbook.blg
+*.pyc
 *~
