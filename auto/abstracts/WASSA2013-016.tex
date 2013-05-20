@@ -1,0 +1,18 @@
+We present a bootstrapping algorithm to automatically learn hashtags that convey emotion.
+ Using the bootstrapping framework, we
+ learn lists of emotion hashtags from unlabeled
+ tweets. Our approach starts with a small number
+ of seed hashtags for each emotion, which
+ we use to automatically label tweets as initial
+ training data. We then train emotion classifiers
+ and use them to identify and score candidate
+ emotion hashtags. We select the hashtags
+ with the highest scores, use them to automatically
+ harvest new tweets from Twitter, and
+ repeat the bootstrapping process. We show
+ that the learned hashtag lists help to improve
+ emotion classification performance compared
+ to an N-gram classifier, obtaining 8\% micro-average
+ and 9\% macro-average improvements
+ in F-measure.
+
