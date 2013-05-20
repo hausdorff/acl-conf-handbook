@@ -1,0 +1,13 @@
+Selecting a set of nonterminals for the synchronous CFGs underlying the hierarchical phrase-based models is usually done on the basis of a monolingual
+ resource (like a syntactic parser). However, a standard bilingual resource like
+ word alignments is itself rich with reordering patterns that, if clustered
+ somehow, might provide labels of different (possibly complementary) nature to
+ monolingual labels. In this paper we explore a first version of this idea based
+ on a hierarchical decomposition of word alignments into recursive tree
+ representations. We identify five clusters of alignment patterns in which the
+ children of a node in a decomposition tree are found and employ these five as
+ nonterminal labels for the Hiero productions. Although this is our first
+ non-optimized instantiation of the idea, our experiments show competitive
+ performance with the Hiero baseline, exemplifying certain merits of this novel
+ approach.
+
