@@ -34,14 +34,14 @@ chbk-howto.dvi: doc/chbk-howto.tex
 
 %.fls: %.tex
 	${latex} -recorder $<
-	rm $*.dvi
+	rm -f $*.dvi
 
 EXTENSIONS  = .ilg .ps .dvi .dep .idx .idx.fixed .ind .aux .idx.ilg
 EXTENSIONS += .bbl .blg .toc .fls .log -blx.bib .run.xml .out
 clean: $(filter $(addprefix handbook, ${EXTENSIONS}), $(wildcard handbook.*) $(wildcard handbook-blx.bib)) \
 	$(filter $(addprefix aclpub-setup, ${EXTENSIONS}), $(wildcard aclpub-setup.*) ) \
 	$(filter $(addprefix chbk-howto, ${EXTENSIONS}), $(wildcard chbk-howto.*) )
-	rm $^
+	rm -f $^
 
 %.bbl:
 	bibtex $*
