@@ -1,5 +1,6 @@
 * Thursday, June 13, 2013
-+ 08:00--08:45 Registration
++ 8:00--08:45 Registration
+
 = Session *SEM1: (08:45--10:30) Opening Remarks and *SEM Long Papers (1)
 8 09:00--09:30 # Towards a Formal Distributional Semantics: Simulating Logical Calculi with Tensors
 20 09:30--10:00 # Montague Meets Markov: Deep Semantics with Probabilistic Logical Form
@@ -14,12 +15,12 @@
 = Session ST2a: (2:00--2:40) STS Shared Task (2)
 65 2:00--2:20 # NTNU-CORE: Combining strong features for semantic similarity
 47 2:20--2:40 # SXUCFN-Core: STS Models Integrating FrameNet Parsing Information
-= Session ST2b: (2:40--3:30) STS Poster boosters
++ 2:40--3:30 Session ST2b: STS Poster boosters
 + 3:30--4:00 Coffee Break
 = Session *SEM2a: (4:00--4:25) *SEM Short Papers (1)
 10 4:00--4:25 # Distinguishing Common and Proper Nouns
 + 4:30--6:00 Session *SEM2b: *SEM Panel: Toward Deep Natural Language Understanding: Kevin Knight (USC/ISI), Christopher Manning (Stanford University), Martha Palmer (University of Colorado, Boulder), Owen Rambow (Columbia University), Dan Roth (University of Illinois Urbana Champagne)
-= Session PLN1: (6:30--8:30) *SEM Opening Reception and STS Poster Session
++ 6:30--8:30 Session PLN1: *SEM Opening Reception and STS Poster Session
 48  # UCAM-CORE: Incorporating structured distributional similarity into STS
 49  # PolyUCOMP-CORE_TYPED: Computing Semantic Textual Similarity using Overlapped Senses
 51  # HENRY-CORE: Domain Adaptation and Stacking for Text Similarity
@@ -51,9 +52,10 @@
 11 08:30--08:55 # A Dataset of Syntactic-Ngrams over Time from a Very Large Corpus of English Books
 9 08:55--09:20 # Unsupervised Word Usage Similarity in Social Media Texts
 + 9:20--9:30 Short break for re-organization
-+ 09:30--10:30 Session PLN2: Keynote address: David Forsyth (University of Illinois Urbana Champagne)
++ 9:30--10:30 Session PLN2: Keynote address: David Forsyth (University of Illinois Urbana Champagne)
 77 09:30--10:30 # More Words and Bigger Pictures
 + 10:30--11:00 Coffee Break
+
 = Session *SEM4: (11:00--12:30) *SEM Long Papers (2)
 25 11:00--11:30 # Exploring Vector Space Models to Predict the Compositionality of German Noun-Noun Compounds
 39 11:30--12:00 # Predicting the Compositionality of Multiword Expressions Using Translations in Multiple Languages

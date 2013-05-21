@@ -1,6 +1,6 @@
 SubmissionNumber#=%=#69
-FinalPaperTitle#=%=#SOFTCARDINALIRY-CORE: Improving Text Overlap with Distributional Measures for Semantic Textual Similarity
-ShortPaperTitle#=%=#SOFTCARDINALIRY-CORE: Improving Text Overlap with Distributional Measures for Semantic Textual Similarity
+FinalPaperTitle#=%=#SOFTCARDINALITY-CORE: Improving Text Overlap with Distributional Measures for Semantic Textual Similarity
+ShortPaperTitle#=%=#SOFTCARDINALITY-CORE: Improving Text Overlap with Distributional Measures for Semantic Textual Similarity
 Author{1}{Lastname}#=%=#Jimenez
 Author{1}{Firstname}#=%=#Sergio
 Author{1}{Email}#=%=#sgjimenezv@unal.edu.co
