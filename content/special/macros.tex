@@ -377,7 +377,10 @@ Human Language Technologies}\par
   %\addcontentsline{toc}{section}{{{\bfseries W~#2:} 
   %    \ifthenelse{\equal{#1}{none}}{#4}{#1}}}
 
-  \addcontentsline{toc}{section}{{{\bfseries W#2:} #1}}
+  % For workshops numbered 0, don't prepend W0 on the contents page
+  \ifthenelse{\equal{#2}{0}}
+             {{\addcontentsline{toc}{section}{{#1}}}}
+             {{\addcontentsline{toc}{section}{{{\bfseries W#2:} #1}}}}
 
   \markboth{}{}
   \label{#3}

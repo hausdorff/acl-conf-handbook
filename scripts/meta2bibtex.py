@@ -24,7 +24,7 @@ except:
     pass
 
 def escape(str):
-    str = str.replace('%','\%').replace('~','\\textasciitilde')
+    str = str.replace('%','\%').replace('~','{\\textasciitilde}')
     str = re.sub(r'([^$])\^(.*?) ', r'\1$^\2$ ', str)
     return str
 
