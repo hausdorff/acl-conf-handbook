@@ -1,8 +1,8 @@
 VPATH = doc
 latex = pdflatex -recorder
-all: docu handbook
-docu: aclpub-setup.pdf chbk-howto.pdf
+all: handbook
 handbook: handbook.pdf
+docu: aclpub-setup.pdf chbk-howto.pdf
 
 #doc/aclpub-setup.dvi:
 #	${MAKE} -C doc -f ../Makefile aclpub-setup.pdf
