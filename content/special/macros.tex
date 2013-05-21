@@ -382,7 +382,9 @@ Human Language Technologies}\par
   \markboth{}{}
   \label{#3}
   \begin{center}
-    {\huge{\Large Workshop #2:}\vspace{.5ex}\\
+%    {\huge{\Large Workshop #2:}\vspace{.5ex}\\
+    {\Large
+    \ifthenelse{\equal{#2}{0}}{{}}{{\huge{Workshop #2:\\\vspace{.5ex}}}}
       %\ifthenelse{\equal{#1}{none}}{{#4}}{{#1}}
       #4
       \vspace{1ex}}\\
