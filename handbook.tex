@@ -1,4 +1,7 @@
 \documentclass[twoside,makeidx]{book}
+
+\usepackage{pdfpages}
+
 % set paper size and margins; needs to be adapted for A5 ideally, we
 % should have a document class for conference handbooks where A5
 % vs. letter-halved is a class option
@@ -45,7 +48,9 @@
 \begin{document}
 
 \fancyfoot[C]{}
-\input{content/fmatter/cover} 
+%% \input{content/fmatter/cover} 
+\includepdf[pages={1}]{content/fmatter/cover.pdf}
+
 \fancyfoot[C]{\thepage}
 
 \thispagestyle{empty}
