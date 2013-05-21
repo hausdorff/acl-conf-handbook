@@ -15,6 +15,7 @@ my $auto = "auto/$conf_part";
 mkdir $auto;
 
 my $poster_file = "$auto/${conf_part}-poster-abstracts.tex";
+print "writing to file $poster_file\n";
 open (POSTERS, ">$poster_file") 
     or die "Could not open file '$poster_file': $!\n";
 
