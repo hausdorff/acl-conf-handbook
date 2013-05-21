@@ -18,3 +18,5 @@ handbook.bbl
 handbook.blg
 *.pyc
 *~
+.DS_Store
+.philog.LOGFILE
