@@ -55,7 +55,7 @@ TACL-1 3:15-3:40 # [TACL] Finding Optimal 1-Endpoint-Crossing Trees
 206 # Development of a Persian Syntactic Dependency Treebank
 89 # Improving reordering performance using higher order and structural features
 420 # Massively Parallel Suffix Array Queries and On-Demand Phrase Extraction for Statistical Machine Translation Using GPUs
-TACL-2 # [TACL] Branch and Bound Algorithm for Dependency Parsing with Non-local Features
+TACL-5 # [TACL] Branch and Bound Algorithm for Dependency Parsing with Non-local Features
 289 # Discriminative Training of 150 Million Translation Parameters and Its Application to Pruning
 184 # Applying Pairwise Ranked Optimisation to Improve the Interpolation of Translation Models
 293 # Dialectal Arabic to English Machine Translation: Pivoting through Modern Standard Arabic
@@ -144,7 +144,7 @@ TACL-2 # [TACL] Branch and Bound Algorithm for Dependency Parsing with Non-local
 160 3:00-3:15 # Disfluency Detection Using Multi-step Stacked Learning
 + 3:15--3:45 Break
 = T3a: Semantics
-TACL-3 3:45-4:10 # [TACL] Weakly Supervised Learning of Semantic Parsers for Mapping Instructions to Actions
+TACL-2 3:45-4:10 # [TACL] Weakly Supervised Learning of Semantic Parsers for Mapping Instructions to Actions
 307 4:10-4:35 # Using Semantic Unification to Generate Regular Expressions from Natural Language
 468 4:35-5:00 # Probabilistic Frame Induction
 337 5:00--5:25 # A Quantum-Theoretic Approach to Distributional Semantics
@@ -183,7 +183,7 @@ TACL-6 11:55-12:20 # [TACL] Modeling Semantic Relations Expressed by Preposition
 + 12:20--2:00 Lunch
 + 13:00--14:00 NAACL Business Meeting
 = W2a: Parsing and Syntax
-TACL-4 2:00-2:25 # [TACL] Unsupervised Dependency Parsing with Acoustic Cues
+TACL-3 2:00-2:25 # [TACL] Unsupervised Dependency Parsing with Acoustic Cues
 117 2:25-2:50 # Dependency-based empty category detection via phrase structure trees
 7 2:50-3:15 # Target Language Adaptation of Discriminative Transfer Parsers
 = W2b: Dialog
@@ -198,7 +198,7 @@ TACL-4 2:00-2:25 # [TACL] Unsupervised Dependency Parsing with Acoustic Cues
 = W3a: Semantics and Syntax
 325 3:45-4:10 # Supervised All-Words Lexical Substitution using Delexicalized Features
 74 4:10-4:35 # A Tensor-based Factorization Model of Semantic Compositionality
-TACL-5 4:35-5:00 # [TACL] An HDP Model for Inducing Combinatory Categorial Grammars
+TACL-4 4:35-5:00 # [TACL] An HDP Model for Inducing Combinatory Categorial Grammars
 = W3b: Summarization and Generation
 330 3:45-4:10 # A Participant-based Approach for Event Summarization Using Twitter Streams
 306 4:10-4:35 # Towards Coherent Multi-Document Summarization
